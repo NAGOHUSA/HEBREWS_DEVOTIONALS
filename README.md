@@ -1,0 +1,2 @@
+# HEBREWS_DEVOTIONALS
+Daily Devotional for HEWBREWS App
