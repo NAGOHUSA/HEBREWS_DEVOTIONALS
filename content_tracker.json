@@ -1,0 +1,26 @@
+{
+  "devotionals": [
+    {
+      "date": "2025-09-10",
+      "title": "Brewing Faith Daily",
+      "scripture": "Psalm 46:10",
+      "generatedAt": "2025-09-10T00:08:12.856Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 298,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Hawaii",
+      "brewingMethod": "Pour Over"
+    }
+  ],
+  "statistics": {
+    "totalGenerated": 1,
+    "aiGenerated": 0,
+    "fallbackGenerated": 1,
+    "successRate": 0,
+    "lastGenerated": "2025-09-10T00:08:12.856Z",
+    "averageWordCount": 298,
+    "uniqueOrigins": 1,
+    "uniqueBrewingMethods": 1
+  },
+  "lastUpdated": "2025-09-10T00:08:12.856Z"
+}
