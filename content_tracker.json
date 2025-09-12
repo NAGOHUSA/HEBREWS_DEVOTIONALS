@@ -21,17 +21,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Yemen",
       "brewingMethod": "French Press"
+    },
+    {
+      "date": "2025-09-12",
+      "title": "Coffee and Communion",
+      "scripture": "1 Corinthians 10:31",
+      "generatedAt": "2025-09-12T06:49:00.521Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 298,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Colombia",
+      "brewingMethod": "Espresso"
     }
   ],
   "statistics": {
-    "totalGenerated": 2,
+    "totalGenerated": 3,
     "aiGenerated": 0,
-    "fallbackGenerated": 2,
+    "fallbackGenerated": 3,
     "successRate": 0,
-    "lastGenerated": "2025-09-11T06:50:23.417Z",
-    "averageWordCount": 321,
-    "uniqueOrigins": 2,
-    "uniqueBrewingMethods": 2
+    "lastGenerated": "2025-09-12T06:49:00.521Z",
+    "averageWordCount": 313,
+    "uniqueOrigins": 3,
+    "uniqueBrewingMethods": 3
   },
-  "lastUpdated": "2025-09-11T06:50:23.417Z"
+  "lastUpdated": "2025-09-12T06:49:00.522Z"
 }
