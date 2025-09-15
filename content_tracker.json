@@ -54,17 +54,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Brazil",
       "brewingMethod": "AeroPress"
+    },
+    {
+      "date": "2025-09-15",
+      "title": "Sacred Sips",
+      "scripture": "Isaiah 55:10-11",
+      "generatedAt": "2025-09-15T06:53:31.500Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 340,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Costa Rica",
+      "brewingMethod": "Chemex"
     }
   ],
   "statistics": {
-    "totalGenerated": 5,
+    "totalGenerated": 6,
     "aiGenerated": 0,
-    "fallbackGenerated": 5,
+    "fallbackGenerated": 6,
     "successRate": 0,
-    "lastGenerated": "2025-09-14T06:44:28.801Z",
-    "averageWordCount": 317,
-    "uniqueOrigins": 5,
-    "uniqueBrewingMethods": 5
+    "lastGenerated": "2025-09-15T06:53:31.500Z",
+    "averageWordCount": 321,
+    "uniqueOrigins": 6,
+    "uniqueBrewingMethods": 6
   },
-  "lastUpdated": "2025-09-14T06:44:28.802Z"
+  "lastUpdated": "2025-09-15T06:53:31.501Z"
 }
