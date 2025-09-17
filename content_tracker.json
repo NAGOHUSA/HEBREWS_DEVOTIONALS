@@ -76,17 +76,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Kenya",
       "brewingMethod": "V60"
+    },
+    {
+      "date": "2025-09-17",
+      "title": "Faith-Filled French Press",
+      "scripture": "Matthew 6:26",
+      "generatedAt": "2025-09-17T06:50:47.117Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 343,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Panama",
+      "brewingMethod": "Drip Coffee"
     }
   ],
   "statistics": {
-    "totalGenerated": 7,
+    "totalGenerated": 8,
     "aiGenerated": 0,
-    "fallbackGenerated": 7,
+    "fallbackGenerated": 8,
     "successRate": 0,
-    "lastGenerated": "2025-09-16T06:50:56.640Z",
-    "averageWordCount": 317,
-    "uniqueOrigins": 7,
-    "uniqueBrewingMethods": 7
+    "lastGenerated": "2025-09-17T06:50:47.117Z",
+    "averageWordCount": 321,
+    "uniqueOrigins": 8,
+    "uniqueBrewingMethods": 8
   },
-  "lastUpdated": "2025-09-16T06:50:56.641Z"
+  "lastUpdated": "2025-09-17T06:50:47.118Z"
 }
