@@ -87,17 +87,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Panama",
       "brewingMethod": "Drip Coffee"
+    },
+    {
+      "date": "2025-09-18",
+      "title": "God's Daily Brew",
+      "scripture": "Psalm 46:10",
+      "generatedAt": "2025-09-18T06:49:59.257Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 300,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Ethiopia",
+      "brewingMethod": "Turkish Coffee"
     }
   ],
   "statistics": {
-    "totalGenerated": 8,
+    "totalGenerated": 9,
     "aiGenerated": 0,
-    "fallbackGenerated": 8,
+    "fallbackGenerated": 9,
     "successRate": 0,
-    "lastGenerated": "2025-09-17T06:50:47.117Z",
-    "averageWordCount": 321,
-    "uniqueOrigins": 8,
-    "uniqueBrewingMethods": 8
+    "lastGenerated": "2025-09-18T06:49:59.257Z",
+    "averageWordCount": 318,
+    "uniqueOrigins": 9,
+    "uniqueBrewingMethods": 9
   },
-  "lastUpdated": "2025-09-17T06:50:47.118Z"
+  "lastUpdated": "2025-09-18T06:49:59.258Z"
 }
