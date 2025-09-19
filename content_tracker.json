@@ -98,17 +98,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Ethiopia",
       "brewingMethod": "Turkish Coffee"
+    },
+    {
+      "date": "2025-09-19",
+      "title": "Morning Grace in Every Cup",
+      "scripture": "Philippians 4:19",
+      "generatedAt": "2025-09-19T06:50:00.660Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 345,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Jamaica",
+      "brewingMethod": "Moka Pot"
     }
   ],
   "statistics": {
-    "totalGenerated": 9,
+    "totalGenerated": 10,
     "aiGenerated": 0,
-    "fallbackGenerated": 9,
+    "fallbackGenerated": 10,
     "successRate": 0,
-    "lastGenerated": "2025-09-18T06:49:59.257Z",
-    "averageWordCount": 318,
-    "uniqueOrigins": 9,
-    "uniqueBrewingMethods": 9
+    "lastGenerated": "2025-09-19T06:50:00.660Z",
+    "averageWordCount": 321,
+    "uniqueOrigins": 10,
+    "uniqueBrewingMethods": 10
   },
-  "lastUpdated": "2025-09-18T06:49:59.258Z"
+  "lastUpdated": "2025-09-19T06:50:00.661Z"
 }
