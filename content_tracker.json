@@ -109,17 +109,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Jamaica",
       "brewingMethod": "Moka Pot"
+    },
+    {
+      "date": "2025-09-20",
+      "title": "Brewing Faith Daily",
+      "scripture": "1 Corinthians 10:31",
+      "generatedAt": "2025-09-20T06:45:31.554Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 298,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Hawaii",
+      "brewingMethod": "Siphon"
     }
   ],
   "statistics": {
-    "totalGenerated": 10,
+    "totalGenerated": 11,
     "aiGenerated": 0,
-    "fallbackGenerated": 10,
+    "fallbackGenerated": 11,
     "successRate": 0,
-    "lastGenerated": "2025-09-19T06:50:00.660Z",
-    "averageWordCount": 321,
+    "lastGenerated": "2025-09-20T06:45:31.554Z",
+    "averageWordCount": 319,
     "uniqueOrigins": 10,
-    "uniqueBrewingMethods": 10
+    "uniqueBrewingMethods": 11
   },
-  "lastUpdated": "2025-09-19T06:50:00.661Z"
+  "lastUpdated": "2025-09-20T06:45:31.555Z"
 }
