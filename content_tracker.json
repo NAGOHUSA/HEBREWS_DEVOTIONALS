@@ -120,17 +120,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Hawaii",
       "brewingMethod": "Siphon"
+    },
+    {
+      "date": "2025-09-21",
+      "title": "The Perfect Blend of Faith",
+      "scripture": "Lamentations 3:22-23",
+      "generatedAt": "2025-09-21T06:45:34.816Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 344,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Yemen",
+      "brewingMethod": "Percolator"
     }
   ],
   "statistics": {
-    "totalGenerated": 11,
+    "totalGenerated": 12,
     "aiGenerated": 0,
-    "fallbackGenerated": 11,
+    "fallbackGenerated": 12,
     "successRate": 0,
-    "lastGenerated": "2025-09-20T06:45:31.554Z",
-    "averageWordCount": 319,
+    "lastGenerated": "2025-09-21T06:45:34.816Z",
+    "averageWordCount": 321,
     "uniqueOrigins": 10,
-    "uniqueBrewingMethods": 11
+    "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-09-20T06:45:31.555Z"
+  "lastUpdated": "2025-09-21T06:45:34.817Z"
 }
