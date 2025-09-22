@@ -131,17 +131,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Yemen",
       "brewingMethod": "Percolator"
+    },
+    {
+      "date": "2025-09-22",
+      "title": "Coffee and Communion",
+      "scripture": "Psalm 23:5",
+      "generatedAt": "2025-09-22T06:52:38.930Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 300,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Colombia",
+      "brewingMethod": "Pour Over"
     }
   ],
   "statistics": {
-    "totalGenerated": 12,
+    "totalGenerated": 13,
     "aiGenerated": 0,
-    "fallbackGenerated": 12,
+    "fallbackGenerated": 13,
     "successRate": 0,
-    "lastGenerated": "2025-09-21T06:45:34.816Z",
-    "averageWordCount": 321,
+    "lastGenerated": "2025-09-22T06:52:38.930Z",
+    "averageWordCount": 319,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-09-21T06:45:34.817Z"
+  "lastUpdated": "2025-09-22T06:52:38.931Z"
 }
