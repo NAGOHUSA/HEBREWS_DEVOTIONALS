@@ -142,17 +142,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Colombia",
       "brewingMethod": "Pour Over"
+    },
+    {
+      "date": "2025-09-23",
+      "title": "Steeping in God's Love",
+      "scripture": "Isaiah 55:10-11",
+      "generatedAt": "2025-09-23T06:30:16.995Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 341,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Guatemala",
+      "brewingMethod": "French Press"
     }
   ],
   "statistics": {
-    "totalGenerated": 13,
+    "totalGenerated": 14,
     "aiGenerated": 0,
-    "fallbackGenerated": 13,
+    "fallbackGenerated": 14,
     "successRate": 0,
-    "lastGenerated": "2025-09-22T06:52:38.930Z",
-    "averageWordCount": 319,
+    "lastGenerated": "2025-09-23T06:30:16.995Z",
+    "averageWordCount": 321,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-09-22T06:52:38.931Z"
+  "lastUpdated": "2025-09-23T06:30:16.996Z"
 }
