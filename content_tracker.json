@@ -153,17 +153,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Guatemala",
       "brewingMethod": "French Press"
+    },
+    {
+      "date": "2025-09-24",
+      "title": "Divine Roast",
+      "scripture": "Jeremiah 29:11",
+      "generatedAt": "2025-09-24T06:29:41.666Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 298,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Brazil",
+      "brewingMethod": "Espresso"
     }
   ],
   "statistics": {
-    "totalGenerated": 14,
+    "totalGenerated": 15,
     "aiGenerated": 0,
-    "fallbackGenerated": 14,
+    "fallbackGenerated": 15,
     "successRate": 0,
-    "lastGenerated": "2025-09-23T06:30:16.995Z",
-    "averageWordCount": 321,
+    "lastGenerated": "2025-09-24T06:29:41.666Z",
+    "averageWordCount": 319,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-09-23T06:30:16.996Z"
+  "lastUpdated": "2025-09-24T06:29:41.667Z"
 }
