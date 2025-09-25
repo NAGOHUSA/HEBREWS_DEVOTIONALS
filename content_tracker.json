@@ -164,17 +164,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Brazil",
       "brewingMethod": "Espresso"
+    },
+    {
+      "date": "2025-09-25",
+      "title": "Sacred Sips",
+      "scripture": "Matthew 6:26",
+      "generatedAt": "2025-09-25T06:30:28.808Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 345,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Costa Rica",
+      "brewingMethod": "Cold Brew"
     }
   ],
   "statistics": {
-    "totalGenerated": 15,
+    "totalGenerated": 16,
     "aiGenerated": 0,
-    "fallbackGenerated": 15,
+    "fallbackGenerated": 16,
     "successRate": 0,
-    "lastGenerated": "2025-09-24T06:29:41.666Z",
-    "averageWordCount": 319,
+    "lastGenerated": "2025-09-25T06:30:28.808Z",
+    "averageWordCount": 321,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-09-24T06:29:41.667Z"
+  "lastUpdated": "2025-09-25T06:30:28.808Z"
 }
