@@ -197,17 +197,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Panama",
       "brewingMethod": "Chemex"
+    },
+    {
+      "date": "2025-09-28",
+      "title": "God's Daily Brew",
+      "scripture": "1 Corinthians 10:31",
+      "generatedAt": "2025-09-28T06:27:17.222Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 298,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Ethiopia",
+      "brewingMethod": "V60"
     }
   ],
   "statistics": {
-    "totalGenerated": 18,
+    "totalGenerated": 19,
     "aiGenerated": 0,
-    "fallbackGenerated": 18,
+    "fallbackGenerated": 19,
     "successRate": 0,
-    "lastGenerated": "2025-09-27T06:26:08.303Z",
-    "averageWordCount": 321,
+    "lastGenerated": "2025-09-28T06:27:17.222Z",
+    "averageWordCount": 320,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-09-27T06:26:08.304Z"
+  "lastUpdated": "2025-09-28T06:27:17.223Z"
 }
