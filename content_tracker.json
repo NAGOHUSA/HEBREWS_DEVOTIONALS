@@ -208,17 +208,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Ethiopia",
       "brewingMethod": "V60"
+    },
+    {
+      "date": "2025-09-29",
+      "title": "Morning Grace in Every Cup",
+      "scripture": "Lamentations 3:22-23",
+      "generatedAt": "2025-09-29T06:31:26.773Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 348,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Jamaica",
+      "brewingMethod": "Drip Coffee"
     }
   ],
   "statistics": {
-    "totalGenerated": 19,
+    "totalGenerated": 20,
     "aiGenerated": 0,
-    "fallbackGenerated": 19,
+    "fallbackGenerated": 20,
     "successRate": 0,
-    "lastGenerated": "2025-09-28T06:27:17.222Z",
-    "averageWordCount": 320,
+    "lastGenerated": "2025-09-29T06:31:26.773Z",
+    "averageWordCount": 321,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-09-28T06:27:17.223Z"
+  "lastUpdated": "2025-09-29T06:31:26.774Z"
 }
