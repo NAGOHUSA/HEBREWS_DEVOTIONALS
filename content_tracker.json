@@ -219,17 +219,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Jamaica",
       "brewingMethod": "Drip Coffee"
+    },
+    {
+      "date": "2025-09-30",
+      "title": "Brewing Faith Daily",
+      "scripture": "Psalm 23:5",
+      "generatedAt": "2025-09-30T06:30:26.614Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 300,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Hawaii",
+      "brewingMethod": "Turkish Coffee"
     }
   ],
   "statistics": {
-    "totalGenerated": 20,
+    "totalGenerated": 21,
     "aiGenerated": 0,
-    "fallbackGenerated": 20,
+    "fallbackGenerated": 21,
     "successRate": 0,
-    "lastGenerated": "2025-09-29T06:31:26.773Z",
-    "averageWordCount": 321,
+    "lastGenerated": "2025-09-30T06:30:26.614Z",
+    "averageWordCount": 320,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-09-29T06:31:26.774Z"
+  "lastUpdated": "2025-09-30T06:30:26.615Z"
 }
