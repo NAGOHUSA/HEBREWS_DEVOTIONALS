@@ -230,17 +230,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Hawaii",
       "brewingMethod": "Turkish Coffee"
+    },
+    {
+      "date": "2025-10-01",
+      "title": "The Perfect Blend of Faith",
+      "scripture": "Isaiah 55:10-11",
+      "generatedAt": "2025-10-01T06:30:18.011Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 342,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Yemen",
+      "brewingMethod": "Moka Pot"
     }
   ],
   "statistics": {
-    "totalGenerated": 21,
+    "totalGenerated": 22,
     "aiGenerated": 0,
-    "fallbackGenerated": 21,
+    "fallbackGenerated": 22,
     "successRate": 0,
-    "lastGenerated": "2025-09-30T06:30:26.614Z",
-    "averageWordCount": 320,
+    "lastGenerated": "2025-10-01T06:30:18.011Z",
+    "averageWordCount": 321,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-09-30T06:30:26.615Z"
+  "lastUpdated": "2025-10-01T06:30:18.011Z"
 }
