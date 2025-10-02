@@ -241,17 +241,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Yemen",
       "brewingMethod": "Moka Pot"
+    },
+    {
+      "date": "2025-10-02",
+      "title": "Coffee and Communion",
+      "scripture": "Jeremiah 29:11",
+      "generatedAt": "2025-10-02T06:29:21.695Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 298,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Colombia",
+      "brewingMethod": "Siphon"
     }
   ],
   "statistics": {
-    "totalGenerated": 22,
+    "totalGenerated": 23,
     "aiGenerated": 0,
-    "fallbackGenerated": 22,
+    "fallbackGenerated": 23,
     "successRate": 0,
-    "lastGenerated": "2025-10-01T06:30:18.011Z",
-    "averageWordCount": 321,
+    "lastGenerated": "2025-10-02T06:29:21.695Z",
+    "averageWordCount": 320,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-10-01T06:30:18.011Z"
+  "lastUpdated": "2025-10-02T06:29:21.696Z"
 }
