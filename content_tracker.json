@@ -252,17 +252,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Colombia",
       "brewingMethod": "Siphon"
+    },
+    {
+      "date": "2025-10-03",
+      "title": "Steeping in God's Love",
+      "scripture": "Matthew 6:26",
+      "generatedAt": "2025-10-03T06:28:44.586Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 342,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Guatemala",
+      "brewingMethod": "Percolator"
     }
   ],
   "statistics": {
-    "totalGenerated": 23,
+    "totalGenerated": 24,
     "aiGenerated": 0,
-    "fallbackGenerated": 23,
+    "fallbackGenerated": 24,
     "successRate": 0,
-    "lastGenerated": "2025-10-02T06:29:21.695Z",
-    "averageWordCount": 320,
+    "lastGenerated": "2025-10-03T06:28:44.586Z",
+    "averageWordCount": 321,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-10-02T06:29:21.696Z"
+  "lastUpdated": "2025-10-03T06:28:44.587Z"
 }
