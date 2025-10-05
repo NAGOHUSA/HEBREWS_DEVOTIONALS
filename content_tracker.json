@@ -274,17 +274,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Brazil",
       "brewingMethod": "Pour Over"
+    },
+    {
+      "date": "2025-10-05",
+      "title": "Sacred Sips",
+      "scripture": "Philippians 4:19",
+      "generatedAt": "2025-10-05T06:26:35.611Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 341,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Costa Rica",
+      "brewingMethod": "French Press"
     }
   ],
   "statistics": {
-    "totalGenerated": 25,
+    "totalGenerated": 26,
     "aiGenerated": 0,
-    "fallbackGenerated": 25,
+    "fallbackGenerated": 26,
     "successRate": 0,
-    "lastGenerated": "2025-10-04T06:26:31.376Z",
-    "averageWordCount": 320,
+    "lastGenerated": "2025-10-05T06:26:35.611Z",
+    "averageWordCount": 321,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-10-04T06:26:31.377Z"
+  "lastUpdated": "2025-10-05T06:26:35.611Z"
 }
