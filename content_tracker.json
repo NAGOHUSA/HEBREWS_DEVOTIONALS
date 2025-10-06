@@ -285,17 +285,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Costa Rica",
       "brewingMethod": "French Press"
+    },
+    {
+      "date": "2025-10-06",
+      "title": "Heaven's Harvest Cup",
+      "scripture": "1 Corinthians 10:31",
+      "generatedAt": "2025-10-06T06:31:08.138Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 298,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Kenya",
+      "brewingMethod": "Espresso"
     }
   ],
   "statistics": {
-    "totalGenerated": 26,
+    "totalGenerated": 27,
     "aiGenerated": 0,
-    "fallbackGenerated": 26,
+    "fallbackGenerated": 27,
     "successRate": 0,
-    "lastGenerated": "2025-10-05T06:26:35.611Z",
-    "averageWordCount": 321,
+    "lastGenerated": "2025-10-06T06:31:08.138Z",
+    "averageWordCount": 320,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-10-05T06:26:35.611Z"
+  "lastUpdated": "2025-10-06T06:31:08.139Z"
 }
