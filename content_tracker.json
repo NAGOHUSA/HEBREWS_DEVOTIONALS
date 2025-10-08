@@ -307,17 +307,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Panama",
       "brewingMethod": "Cold Brew"
+    },
+    {
+      "date": "2025-10-08",
+      "title": "God's Daily Brew",
+      "scripture": "Psalm 23:5",
+      "generatedAt": "2025-10-08T06:30:26.343Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 299,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Ethiopia",
+      "brewingMethod": "AeroPress"
     }
   ],
   "statistics": {
-    "totalGenerated": 28,
+    "totalGenerated": 29,
     "aiGenerated": 0,
-    "fallbackGenerated": 28,
+    "fallbackGenerated": 29,
     "successRate": 0,
-    "lastGenerated": "2025-10-07T06:29:40.308Z",
-    "averageWordCount": 321,
+    "lastGenerated": "2025-10-08T06:30:26.343Z",
+    "averageWordCount": 320,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-10-07T06:29:40.309Z"
+  "lastUpdated": "2025-10-08T06:30:26.344Z"
 }
