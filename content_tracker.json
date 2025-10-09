@@ -318,17 +318,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Ethiopia",
       "brewingMethod": "AeroPress"
+    },
+    {
+      "date": "2025-10-09",
+      "title": "Morning Grace in Every Cup",
+      "scripture": "Isaiah 55:10-11",
+      "generatedAt": "2025-10-09T06:30:34.021Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 345,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Jamaica",
+      "brewingMethod": "Chemex"
     }
   ],
   "statistics": {
-    "totalGenerated": 29,
+    "totalGenerated": 30,
     "aiGenerated": 0,
-    "fallbackGenerated": 29,
+    "fallbackGenerated": 30,
     "successRate": 0,
-    "lastGenerated": "2025-10-08T06:30:26.343Z",
-    "averageWordCount": 320,
+    "lastGenerated": "2025-10-09T06:30:34.021Z",
+    "averageWordCount": 321,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-10-08T06:30:26.344Z"
+  "lastUpdated": "2025-10-09T06:30:34.022Z"
 }
