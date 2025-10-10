@@ -329,17 +329,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Jamaica",
       "brewingMethod": "Chemex"
+    },
+    {
+      "date": "2025-10-10",
+      "title": "Brewing Faith Daily",
+      "scripture": "Jeremiah 29:11",
+      "generatedAt": "2025-10-10T06:30:13.624Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 298,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Hawaii",
+      "brewingMethod": "V60"
     }
   ],
   "statistics": {
-    "totalGenerated": 30,
+    "totalGenerated": 31,
     "aiGenerated": 0,
-    "fallbackGenerated": 30,
+    "fallbackGenerated": 31,
     "successRate": 0,
-    "lastGenerated": "2025-10-09T06:30:34.021Z",
-    "averageWordCount": 321,
+    "lastGenerated": "2025-10-10T06:30:13.624Z",
+    "averageWordCount": 320,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-10-09T06:30:34.022Z"
+  "lastUpdated": "2025-10-10T06:30:13.625Z"
 }
