@@ -340,17 +340,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Hawaii",
       "brewingMethod": "V60"
+    },
+    {
+      "date": "2025-10-11",
+      "title": "The Perfect Blend of Faith",
+      "scripture": "Matthew 6:26",
+      "generatedAt": "2025-10-11T06:26:42.055Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 345,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Yemen",
+      "brewingMethod": "Drip Coffee"
     }
   ],
   "statistics": {
-    "totalGenerated": 31,
+    "totalGenerated": 32,
     "aiGenerated": 0,
-    "fallbackGenerated": 31,
+    "fallbackGenerated": 32,
     "successRate": 0,
-    "lastGenerated": "2025-10-10T06:30:13.624Z",
-    "averageWordCount": 320,
+    "lastGenerated": "2025-10-11T06:26:42.055Z",
+    "averageWordCount": 321,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-10-10T06:30:13.625Z"
+  "lastUpdated": "2025-10-11T06:26:42.056Z"
 }
