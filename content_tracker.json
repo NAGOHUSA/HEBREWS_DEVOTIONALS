@@ -351,17 +351,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Yemen",
       "brewingMethod": "Drip Coffee"
+    },
+    {
+      "date": "2025-10-12",
+      "title": "Coffee and Communion",
+      "scripture": "Psalm 46:10",
+      "generatedAt": "2025-10-12T06:26:56.923Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 300,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Colombia",
+      "brewingMethod": "Turkish Coffee"
     }
   ],
   "statistics": {
-    "totalGenerated": 32,
+    "totalGenerated": 33,
     "aiGenerated": 0,
-    "fallbackGenerated": 32,
+    "fallbackGenerated": 33,
     "successRate": 0,
-    "lastGenerated": "2025-10-11T06:26:42.055Z",
-    "averageWordCount": 321,
+    "lastGenerated": "2025-10-12T06:26:56.923Z",
+    "averageWordCount": 320,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-10-11T06:26:42.056Z"
+  "lastUpdated": "2025-10-12T06:26:56.924Z"
 }
