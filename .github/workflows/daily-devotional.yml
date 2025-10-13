@@ -1,255 +1,54 @@
-name: Generate Enhanced Coffee Devotional
+name: Generate HeBrews Devotional
 
 on:
   schedule:
-    # Runs at 6 AM UTC every day (perfect coffee time!)
-    - cron: '0 6 * * *'
-  workflow_dispatch: # Allows manual running for testing
-    inputs:
-      force_regenerate:
-        description: 'Force regenerate even if devotional exists'
-        required: false
-        default: 'false'
-        type: boolean
+    - cron: '0 0 * * *'   # 00:00 UTC daily
+  workflow_dispatch: {}
 
 jobs:
   generate-devotional:
     runs-on: ubuntu-latest
-    
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      
-    - name: Set up Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
-        
-    - name: Install dependencies
-      run: |
-        npm init -y
-        npm install axios
-        
-    - name: Create necessary directories
-      run: |
-        mkdir -p devotionals
-        
-    - name: Debug API Key (for troubleshooting)
-      env:
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      run: |
-        echo "🔑 API Key Debug Information:"
-        echo "API Key present: $([[ -n "$OPENAI_API_KEY" ]] && echo "Yes" || echo "No")"
-        echo "API Key length: ${#OPENAI_API_KEY}"
-        echo "API Key starts with sk-: $([[ "$OPENAI_API_KEY" == sk-* ]] && echo "Yes" || echo "No")"
-        echo "First 10 chars: ${OPENAI_API_KEY:0:10}..."
-        
-    - name: Generate enhanced coffee devotional
-      env:
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        FORCE_REGENERATE: ${{ github.event.inputs.force_regenerate || 'false' }}
-      run: |
-        echo "☕ Starting Enhanced Coffee Devotional Generation"
-        echo "Force regenerate: $FORCE_REGENERATE"
-        echo "Node.js version: $(node --version)"
-        echo "NPM version: $(npm --version)"
-        
-        # Verify the generator file exists
-        if [ ! -f "generate-devotional.js" ]; then
-          echo "❌ generate-devotional.js file not found!"
-          exit 1
-        fi
-        
-        echo "✅ Generator file found, starting generation..."
-        
-        # Run the enhanced generator with comprehensive error handling
-        if node generate-devotional.js; then
-          echo "✅ Coffee devotional generation completed successfully"
-          
-          # Verify the file was actually created
-          TODAY=$(date +%Y-%m-%d)
-          if [ -f "devotionals/${TODAY}.json" ]; then
-            echo "✅ Devotional file created: devotionals/${TODAY}.json"
-            
-            # Show file contents for debugging
-            echo "📄 File contents preview:"
-            head -20 "devotionals/${TODAY}.json"
-            echo "..."
-            
-            # Check if it's AI generated or fallback
-            if grep -q '"isFallback": false' "devotionals/${TODAY}.json"; then
-              echo "🤖 AI-generated devotional detected"
-            elif grep -q '"isFallback": true' "devotionals/${TODAY}.json"; then
-              echo "📝 Fallback devotional detected"
-            else
-              echo "❓ Could not determine generation type"
-            fi
-          else
-            echo "❌ No devotional file was created"
-            exit 1
-          fi
-        else
-          echo "❌ Primary generation failed with exit code $?"
-          echo "Creating emergency fallback..."
-          
-          node -e "
-          const fs = require('fs');
-          const today = new Date().toISOString().split('T')[0];
-          
-          const fallback = {
-            id: 'devotional-' + today,
-            date: today,
-            title: 'God\\'s Emergency Brew',
-            coffee_fact: 'Coffee beans are actually seeds from coffee cherries, reminding us that God plants seeds of faith in our hearts even during technical difficulties.',
-            scripture: {
-              verse: 'Psalm 23:5',
-              text: 'You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows.'
-            },
-            devotional_text: 'Just as our morning coffee awakens our senses, God\\'s love awakens our souls each day. When technical difficulties arise in our digital world, we remember that God\\'s faithfulness never fails, just like the reliable rhythm of brewing our daily cup. Even when our automated systems encounter challenges, God\\'s personal care for us remains constant and true. Let this moment remind you that divine love transcends all temporary setbacks, and His presence is more reliable than any technology.',
-            reflection_question: 'How does your morning coffee routine remind you of God\\'s daily faithfulness, even when other things fail?',
-            prayer: 'Lord, as I enjoy this daily brew, help me remember Your constant presence and love, especially when technology fails us. You are our true constant. Amen.',
-            coffee_pairing: 'Medium Roast - balanced and reliable, like God\\'s faithfulness',
-            brewing_method: 'Pour Over',
-            origin_story: 'Ethiopian heritage - where coffee began',
-            createdAt: new Date().toISOString(),
-            isFallback: true,
-            isEmergencyFallback: true,
-            generatedBy: 'Emergency Fallback System'
-          };
-          
-          fs.writeFileSync('devotionals/' + today + '.json', JSON.stringify(fallback, null, 2));
-          console.log('🆘 Emergency fallback coffee devotional created');
-          "
-        fi
-        
-    - name: Validate generated content
-      run: |
-        echo "🔍 Validating generated coffee devotional..."
-        node -e "
-        const fs = require('fs');
-        const today = new Date().toISOString().split('T')[0];
-        const filePath = 'devotionals/' + today + '.json';
-        
-        if (!fs.existsSync(filePath)) {
-          console.error('❌ No devotional file generated!');
-          process.exit(1);
-        }
-        
-        try {
-          const devotional = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-          
-          const required = ['id', 'date', 'title', 'coffee_fact', 'scripture', 'devotional_text'];
-          for (const field of required) {
-            if (!devotional[field]) {
-              throw new Error('Missing required field: ' + field);
-            }
-          }
-          
-          if (devotional.devotional_text.length < 150) {
-            throw new Error('Devotional text too short: ' + devotional.devotional_text.length + ' characters');
-          }
-          
-          if (devotional.devotional_text.length > 5000) {
-            throw new Error('Devotional text too long: ' + devotional.devotional_text.length + ' characters');
-          }
-          
-          console.log('✅ Coffee devotional validation passed');
-          console.log('📖 Title:', devotional.title);
-          console.log('📜 Scripture:', devotional.scripture.verse);
-          console.log('☕ Coffee Fact:', devotional.coffee_fact.substring(0, 60) + '...');
-          console.log('📏 Content Length:', devotional.devotional_text.length, 'characters');
-          console.log('🤖 Generated By:', devotional.generatedBy || 'Unknown');
-          console.log('📝 Is Fallback:', devotional.isFallback ? 'Yes' : 'No');
-          
-          if (devotional.isEmergencyFallback) {
-            console.log('🆘 Emergency fallback was used');
-          }
-          
-        } catch (error) {
-          console.error('❌ Validation failed:', error.message);
-          process.exit(1);
-        }
-        "
-        
-    - name: Commit and push devotional
-      run: |
-        git config --local user.email "github-actions@github.com"
-        git config --local user.name "HeBrews DevotionalBot"
-        
-        git add devotionals/
-        git add content_tracker.json || true
-        
-        if git diff --staged --quiet; then
-          echo "📝 No changes to commit"
-        else
-          TODAY=$(date +%Y-%m-%d)
-          if [ -f "devotionals/${TODAY}.json" ]; then
-            TITLE=$(node -e "
-              const fs = require('fs');
-              try {
-                const dev = JSON.parse(fs.readFileSync('devotionals/${TODAY}.json', 'utf8'));
-                console.log(dev.title);
-              } catch(e) {
-                console.log('Enhanced Coffee Devotional');
-              }
-            ")
-            
-            GENERATION_TYPE=$(node -e "
-              const fs = require('fs');
-              try {
-                const dev = JSON.parse(fs.readFileSync('devotionals/${TODAY}.json', 'utf8'));
-                if (dev.isEmergencyFallback) {
-                  console.log('🆘 Emergency');
-                } else if (dev.isFallback) {
-                  console.log('📝 Curated');
-                } else {
-                  console.log('🤖 AI');
-                }
-              } catch(e) {
-                console.log('❓ Unknown');
-              }
-            ")
-            
-            git commit -m "☕ ${GENERATION_TYPE} Coffee Devotional: ${TITLE} - 📅 ${TODAY} - 🌱 HeBrews Enhanced System"
-          else
-            git commit -m "📝 Daily coffee devotional update for ${TODAY}"
-          fi
-          
-          git push
-          echo "✅ Changes committed and pushed successfully"
-        fi
-        
-    - name: Generation summary
-      if: always()
-      run: |
-        echo "📋 Coffee Devotional Generation Summary:"
-        echo "========================================"
-        TODAY=$(date +%Y-%m-%d)
-        
-        if [ -f "devotionals/${TODAY}.json" ]; then
-          echo "✅ Coffee devotional file created successfully"
-          
-          SIZE=$(wc -c < "devotionals/${TODAY}.json")
-          echo "📏 File size: ${SIZE} bytes"
-          
-          TOTAL=$(find devotionals/ -name "*.json" 2>/dev/null | wc -l)
-          echo "☕ Total coffee devotionals: ${TOTAL}"
-          
-          # Generation type analysis
-          AI_COUNT=$(find devotionals/ -name "*.json" -exec grep -l '"isFallback": false' {} \; 2>/dev/null | wc -l)
-          FALLBACK_COUNT=$(find devotionals/ -name "*.json" -exec grep -l '"isFallback": true' {} \; 2>/dev/null | wc -l)
-          
-          echo "🤖 AI-generated devotionals: ${AI_COUNT}"
-          echo "📝 Fallback devotionals: ${FALLBACK_COUNT}"
-          
-          if [ $TOTAL -gt 0 ]; then
-            AI_PERCENTAGE=$(echo "scale=1; $AI_COUNT * 100 / $TOTAL" | bc -l 2>/dev/null || echo "0")
-            echo "📊 AI success rate: ${AI_PERCENTAGE}%"
-          fi
-          
-        else
-          echo "❌ No coffee devotional file found"
-        fi
-        
-        echo ""
-        echo "🎉 Enhanced coffee devotional generation process complete!"
+      - name: 🧰 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # No npm install needed — script uses native fetch only.
+
+      - name: ☕ Generate HeBrews Devotional (OpenAI → Groq → DeepSeek)
+        env:
+          # Provider order
+          DEVOTIONAL_PROVIDERS: openai,groq,deepseek
+
+          # OpenAI
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4o-mini
+
+          # Groq
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: llama-3.1-8b-instant
+
+          # DeepSeek
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_MODEL: deepseek-chat
+
+          # Cost / behavior knobs
+          DEVOTIONAL_MAX_TOKENS: "500"
+          DEVOTIONAL_TEMPERATURE: "0.7"
+          DEVOTIONAL_WORDS_MIN: "250"
+          DEVOTIONAL_WORDS_MAX: "350"
+          DEVOTIONAL_TIMEOUT_MS: "25000"
+          DEVOTIONAL_MAX_ATTEMPTS: "2"
+          # Optional seasonal theme overlay (coffee remains the core motif)
+          # DEVO_THEME: "gratitude"
+        run: node generate-hebrews.js
+
+      - name: ✅ Commit results
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(hebrews): add HeBrews devotional for $(date -u +'%Y-%m-%d')"
+          file_pattern: devotionals/hebrews/*.json
