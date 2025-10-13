@@ -362,17 +362,28 @@
       "isAIGenerated": false,
       "coffeeOrigin": "Colombia",
       "brewingMethod": "Turkish Coffee"
+    },
+    {
+      "date": "2025-10-13",
+      "title": "Steeping in God's Love",
+      "scripture": "Philippians 4:19",
+      "generatedAt": "2025-10-13T06:32:02.072Z",
+      "generatedBy": "Fallback System",
+      "wordCount": 340,
+      "isAIGenerated": false,
+      "coffeeOrigin": "Guatemala",
+      "brewingMethod": "Moka Pot"
     }
   ],
   "statistics": {
-    "totalGenerated": 33,
+    "totalGenerated": 34,
     "aiGenerated": 0,
-    "fallbackGenerated": 33,
+    "fallbackGenerated": 34,
     "successRate": 0,
-    "lastGenerated": "2025-10-12T06:26:56.923Z",
-    "averageWordCount": 320,
+    "lastGenerated": "2025-10-13T06:32:02.072Z",
+    "averageWordCount": 321,
     "uniqueOrigins": 10,
     "uniqueBrewingMethods": 12
   },
-  "lastUpdated": "2025-10-12T06:26:56.924Z"
+  "lastUpdated": "2025-10-13T06:32:02.073Z"
 }
