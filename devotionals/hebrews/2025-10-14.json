@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 221,
+  "theme": "coffee",
+  "content_markdown": "# Refined by the Roast\n\n## Scripture\n\n\"You, God, are the God who saves me; day and night I put my hope in you.\" - Psalm 42:5 (NIV)\n\n## Reflection\n\nAs I breathe in the aroma of freshly roasted coffee, I'm reminded of the refining process it undergoes. From green bean to perfectly roasted blend, it requires heat, time, and patience. In the same way, our lives are refined through trials and experiences, shaping us into the image of Christ. We're not just poured into a cup, but rather, we're carefully extracted through the pressures and challenges of life, revealing the depth of our character. Just as the roast develops flavor and complexity, our faith deepens and matures as we trust in God's goodness and sovereignty. In the morning ritual of coffee-making, we can find a reflection of our own journey with God – a slow, deliberate process of refinement, where every moment is an opportunity to deepen our relationship with Him.\n\n## Prayer\n\nWe thank you, God, for the refining processes in our lives, and for the patience to trust in your goodness and sovereignty. Help us to slow down and savor the journey, just as we would a perfectly brewed cup of coffee.\n\n## One-Line Application\n\nRely on God's patience and goodness in the midst of life's refining processes.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
