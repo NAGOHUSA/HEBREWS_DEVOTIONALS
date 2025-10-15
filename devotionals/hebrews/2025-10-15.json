@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-15",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 230,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Life's Rich Flavor\n\n## Scripture\n\n\"For God is our refuge and strength, a very present help in trouble. Therefore we will not fear though the earth gives way, though the mountains are cast into the sea.\" — Psalm 46:1-2 (ESV)\n\n## Reflection\n\nJust as a skilled barista carefully roasts and grinds the beans to bring out the optimal flavor, God carefully crafts and refines us to reveal His presence in our lives. As we walk through life's troubles, we can trust that He is always with us, extracting the depths of His strength and comfort to sustain us. In the morning ritual of our daily coffee, we find a small but significant reflection of this process. Just as the brew requires patience, time, and care, our spiritual growth demands a similar dedication to seeking and savoring the richness of God's presence. It's a slow and intentional process, one that requires us to pause, reflect, and invite God to be the master brewer of our lives.\n\n## Prayer\n\nWe thank you, Lord, for being our present help in times of trouble. As we face life's challenges, help us to trust that you are always with us, refining and strengthening us for your glory.\n\n## One-Line Application\n\nPause, reflect, and invite God to be the master brewer of your life, extracting the depths of His strength and comfort.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
