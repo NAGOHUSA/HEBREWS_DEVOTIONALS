@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-16",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 246,
+  "theme": "coffee",
+  "content_markdown": "# Rich Ground for Roots to Grow\n\n## Scripture\n\n\"For a soil that drinks in the rain often falls short to produce lush crops, but the one who receives seed on good ground is the one who bears fruit, one who bears fruit and increases, and one who bears fruit and increases with fruitfulness.\" - Luke 8:15 (HCSB)\n\n## Reflection\n\nJust as coffee cherries need rich, fertile soil to grow into flavorful coffee beans, our hearts need the nourishing rain of God's Word to bear fruit. A good ground for spiritual growth is one that's receptive to the seed of God's truth, allowing it to take root and flourish. As we pour over Scripture, we allow the rich aroma of God's love to fill our lives, enabling us to produce a harvest of character, kindness, and compassion. Just as a skilled roaster carefully extracts the unique flavors from each bean, God gently extracts the best from us as we yield to His Spirit. And when we're poured over with His presence, we're filled with the creamy texture of His love, overflowing to bless others.\n\n## Prayer\n\nWe ask for rich soil of receptive hearts, fertile ground for Your Word to take root, and the gentle rain of Your Spirit to water our souls. Help us bear fruit that honors You and multiplies Your love in our lives.\n\n## One-Line Application\n\nLet God's Word be the rich soil where your roots grow deep and your faith flourishes.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
