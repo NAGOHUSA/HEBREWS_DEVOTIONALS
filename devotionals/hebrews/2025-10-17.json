@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-17",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 202,
+  "theme": "coffee",
+  "content_markdown": "# Rich Ground, Fruitful Harvest\n\n## Scripture\n\n\"He who sows sparingly will also reap sparingly, and he who sows bountifully will also reap bountifully.\" \n- 2 Corinthians 9:6 (ESV)\n\n## Reflection\n\nJust as a skilled barista carefully selects high-quality coffee beans and nurtures them through the roasting process, preparing them for the perfect brew, so too must we cultivate our spiritual lives. As we pour ourselves into the soil of obedience, prayer, and service, we allow God to nourish our hearts, producing a rich harvest of faith and fruitfulness. Like the delicate art of pour-over, where each deliberate step yields a perfectly extracted cup, our commitment to spiritual discipline extracts the deepest joys and rewards from our relationship with God. As we tend to our spiritual soil, we trust that He will bring forth a bountiful harvest, not just in our lives, but in the lives of those around us.\n\n## Prayer\n\nWe thank You for the gift of spiritual growth, and we ask that You help us to sow bountifully in our lives, trusting that You will bring forth a rich harvest of faith and fruitfulness.\n\n## One-Line Application\n\nMay our daily discipline yield a life of spiritual richness and fruitfulness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
