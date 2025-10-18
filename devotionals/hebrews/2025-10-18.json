@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-18",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 229,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Redemption\n\n## Scripture\n\n\"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.\" - John 3:16 (NIV)\n\n## Reflection\n\nJust as a skilled roaster carefully selects and roasts coffee beans to bring out their unique flavors, God carefully selects and redeems those who believe in Jesus. The aroma of redemption fills the air, but it's not until we come to know Jesus that we can truly experience its sweetness. The brew of our lives can be bitter and unpalatable, but as we surrender to God, He pours His love into us, creating a rich and satisfying flavor. Just as a pour-over slowly extracts the flavors from the grounds, God's Spirit slowly extracts the fruit of faith from our hearts. We must be patient and allow the process to unfold, trusting that the final product will be one that brings joy and delight to both ourselves and those around us.\n\n## Prayer\n\nWe thank you, God, for the gift of redemption and the hope of eternal life. Help us to be patient and trusting as we navigate the process of surrendering to Your love.\n\n## One-Line Application\n\nWe must be willing to be slowly transformed by God's Spirit, allowing His love to extract the fruit of faith from our hearts.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
