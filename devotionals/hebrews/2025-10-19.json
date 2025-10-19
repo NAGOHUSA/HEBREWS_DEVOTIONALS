@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-19",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 216,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Faithfulness\n\n## Scripture\n\"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\" - Galatians 6:9\n\n## Reflection\nJust as a perfectly roasted coffee bean requires patience, time, and the right conditions to reach its full flavor, our faithfulness is cultivated through consistent and persistent effort. The process of roasting, brewing, and enjoying a cup of coffee can remind us of the importance of diligence in our spiritual lives. As we go through the daily grind, we must resist the temptation to burn out or become discouraged. Instead, we must trust that our efforts will eventually yield a rich harvest of spiritual fruit. Just as the crema on a well-crafted latte is a testament to the careful extraction of flavors, our faithful obedience yields a beautiful manifestation of God's presence and work in our lives.\n\n## Prayer\nWe pray for the patience and perseverance to cultivate our faithfulness, trusting that our efforts will yield a rich harvest of spiritual fruit. Help us to endure the daily grind, that we may enjoy the full flavor of your presence and work in our lives.\n\n## One-Line Application\nMay consistent effort and faithfulness yield a rich harvest of spiritual fruit in our lives.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
