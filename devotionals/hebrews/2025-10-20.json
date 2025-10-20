@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-20",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 223,
+  "theme": "coffee",
+  "content_markdown": "# A Cup Filled to Overflow\n\n## Scripture\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" — Ephesians 2:10 (NIV)\n\n## Reflection\nJust as roasting coffee beans brings out their full flavor and aroma, our trials and experiences have the power to refine and bring out the full potential of our faith. As we navigate life's challenges, we are like the beans in the roasting process – being transformed by the fire of God's presence. We are not just surviving, but being transformed into vessels that can hold more of God's goodness and display His glory. The crema on a perfectly brewed cup of coffee is a beautiful result of the process – a rich, velvety topping that adds depth and beauty to the drink. In the same way, our lives can be a beautiful reflection of God's work in us, filled with joy, peace, and love, as we pour out our hearts to Him.\n\n## Prayer\nWe pray that You would continue to refine and transform us, bringing out the full flavor and aroma of our faith. Help us to be vessels that can hold more of Your goodness and display Your glory.\n\n## One-Line Application\nMay our trials refine us, transforming us into vessels of God's goodness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
