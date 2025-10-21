@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-21",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 266,
+  "theme": "coffee",
+  "content_markdown": "# The Daily Grind of Faithfulness\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.\" - James 1:2-4 (NIV)\n\n## Reflection\n\nLife is full of trials and tribulations, just like coffee beans undergo a roasting process that reveals their full flavor. As we face our own tests of faith, we must trust that God is using these experiences to refine and mature us. Just as a skilled barista carefully extracts the perfect balance of oils and acids from each coffee bean, God is working to extract the best in us, producing a rich and vibrant faith that can sustain us through life's challenges. As we navigate the daily grind, we must be patient and allow God to finish His work in us, that we may emerge as mature and complete followers of Christ. This process is not always easy, but it's an essential part of our growth as disciples. By embracing the trials and trusting in God's sovereignty, we can experience the joy and satisfaction that comes from being refined and perfected by Him.\n\n## Prayer\n\nWe thank you for the trials that refine us, Father. Help us trust in Your sovereignty and allow Your work to finish in us. May our faith be mature and complete, lacking nothing.\n\n## One-Line Application\n\nAs we face trials, trust that God is extracting the best in us, producing a rich and vibrant faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
