@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-22",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 201,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Faithfulness\n\n## Scripture\n\n\"In all things God works for the good of those who love him, who have been called according to his purpose.\" Romans 8:28\n\n## Reflection\n\nJust as a skilled barista carefully selects and roasts the finest beans to bring out the perfect flavor, God sovereignly crafts our lives to reveal His glory. As we sip our morning coffee, we're reminded that our daily routines can be a sacred offering to Him. The extraction process of coffee – where hot water pulls out the flavors and oils from the grounds – mirrors our own spiritual journey. Just as the coffee grounds are transformed by the water, we're transformed by the Lord's loving touch, becoming more like Him with each passing day. As we pour our hearts out to Him, may we yield to His refining work, trusting that even in the darkest moments, He works for our good.\n\n## Prayer\n\nWe surrender our lives to Your refining work, Lord. Help us trust that You're always working for our good, even in the midst of uncertainty.\n\n## One-Line Application\n\nMay our daily routines be a deliberate offering of worship to God, reflecting His transforming love in our lives.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
