@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 212,
+  "theme": "coffee",
+  "content_markdown": "# A Richer Brew\n\n## Scripture\n\"You were born again, not by correlation of decayable seed, but by the living and enduring word of God.\" - 1 Peter 1:23\n\n## Reflection\nJust as a pour-over's rich flavor requires time and patience, our faith grows through consistent nourishment from God's Word. Like the gentle extraction of flavors from each coffee bean, the Bible extracts the best of God's nature and character, transforming us with each reading. As we roast in the heat of trials, our roots deepen, and our aroma of hope wafts through the world. A morning ritual of prayer and Scripture sets us on the path to a day of extraction – pulling out the sweetest parts of God's plan for us. In this daily brew, let's savor the richness of God's presence and let it overflow into our relationships, our work, and our communities.\n\n## Prayer\nWe ask that you would help us to be like richly flavored coffee – drawing out the depth of your love and character in our lives. Help us to extract the sweetness of your presence and pour it out into the world.\n\n## One-Line Application\nAs we drink in God's Word, may our daily lives be a rich and aromatic reflection of His goodness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
