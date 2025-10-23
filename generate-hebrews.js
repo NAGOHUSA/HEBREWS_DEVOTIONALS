@@ -184,7 +184,7 @@ async function writeResult({provider,model,content}, dateISO){
   const wc = wordCount(content);
   if(wc < 120) throw new Error(`Too short (${wc} words) from ${provider}`);
 
-  const outDir = path.resolve("devotionals/hebrews"); // keep RSM separate
+  const outDir = path.resolve("devotionals/"); // keep RSM separate
   await fs.mkdir(outDir, { recursive: true });
   const outPath = path.join(outDir, `${dateISO}.json`);
   const payload = {
