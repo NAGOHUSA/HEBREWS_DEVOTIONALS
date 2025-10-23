@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 238,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"May the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful.\" - Colossians 3:15 (NIV)\n\n## Reflection\n\nJust as a well-roasted coffee bean requires a precise balance of heat and time to release its rich flavor, our faith requires a harmonious balance of God's peace and our gratitude. We can easily get caught up in the hustle and bustle of daily life, like a pour-over without the right ratio of coffee to water, resulting in a weak and flavorless brew. But when we prioritize being grounded in God's presence, we allow His peace to permeate every aspect of our lives, much like the aroma of freshly brewed coffee fills the air. As we go about our day, we can be thankful for the simple joys, just as we appreciate the delicate crema on a perfectly brewed cup. In this state of gratitude and peace, we become vessels that overflow with love and kindness, touching the lives of those around us.\n\n## Prayer\n\nWe thank you, Lord, for your peace that rules in our hearts. Help us cultivate gratitude in every moment, that we may be vessels of love and kindness to those around us.\n\n## One-Line Application\nAs we begin our day, let's prioritize being grounded in God's presence, allowing His peace to permeate every aspect of our lives.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
