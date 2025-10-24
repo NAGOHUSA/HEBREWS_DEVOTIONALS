@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 242,
+  "theme": "coffee",
+  "content_markdown": "# \"In Every Cup, a Taste of God\"\n\n## Scripture\n\n\"For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands, for God gave us a spirit not of fear but of power and love and self-control.\" - 2 Timothy 1:6-7 (NRSV)\n\n## Reflection\n\nAs I carefully pour over the coffee grounds, I'm reminded of the importance of fanning into flame the gift of God within me. Just as the water must flow through the grounds to release the flavors, I must allow the Spirit of God to move through me, bringing out the full richness of my gifts and talents. It's easy to get stuck in the routine of life, but just as a perfectly balanced brew requires the right amount of time and attention, I must make time for spiritual growth and development. The aroma of freshly brewed coffee fills the air, a sweet reminder of the life and joy that God desires for me. I must not settle for a bland, lukewarm faith, but rather seek to be a vessel through which God's love and power are poured out into the world.\n\n## Prayer\n\nWe ask that you fan into flame the gift of God within us, that we might be vessels of your love and power in the world.\n\n## One-Line Application\n\nNurture your spiritual gifts by seeking time for spiritual growth and development.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
