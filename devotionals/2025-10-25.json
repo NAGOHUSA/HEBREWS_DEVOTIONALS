@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 216,
+  "theme": "coffee",
+  "content_markdown": "# Riches in the Daily Grind\n\n## Scripture\n\"He must become greater; I must become less.\" – John 3:30 (NIV)\n\n## Reflection\nThe process of making coffee is a beautiful reflection of our walk with God. Just as the finest coffee beans must be roasted to reveal their full flavor, our lives are refined through trials and struggles. The extraction process is painstaking, but the result is a rich, full-bodied brew that's worth the effort. Similarly, as we surrender our lives to Christ, He extracts our pride, our fears, and our weaknesses, revealing the true riches of our hearts. Just as the crema on a well-crafted pour-over is a testament to the quality of the coffee, our lives become a testament to God's presence and power when we submit to His refining work. As we begin each day, we can trust that God is at work, transforming us into the people He created us to be.\n\n## Prayer\nWe thank you, Lord, for the daily grind that refines us and reveals Your glory in us. Help us to surrender our lives to Your refining work, that we might be a testament to Your presence and power.\n\n## One-Line Application\nTrust the refining process of trials and struggles to reveal the rich fullness of Christ in you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
