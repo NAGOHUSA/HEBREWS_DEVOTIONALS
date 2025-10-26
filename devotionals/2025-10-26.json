@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-26",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 265,
+  "theme": "coffee",
+  "content_markdown": "# A Cup for the Journey\n\n## John 15:5 (NIV)\n\n\"I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.\" \n\n## Reflection\n\nIn the world of coffee, a pour-over requires patience and precision. The grounds must be evenly saturated, the water must flow slowly, and the extraction must be just right. If any of these steps are rushed or neglected, the brew may be bitter or incomplete. As followers of Jesus, we are like the coffee grounds in this process. We must remain connected to the vine – Christ – in order to bear fruit that is pleasing to God. If we try to go it alone, we may produce something that is lacking or even bitter. But when we stay rooted in Him, we will experience the richness and fullness of a life that is fully alive. Just as the crema on a well-crafted cup of coffee is a sign of the perfect balance of flavors, so too does our connection to Christ give us the richness and depth that we need to navigate the ups and downs of life.\n\n## Prayer\n\nWe ask that you would help us to stay connected to the vine, to remain in you and experience the fullness of your life. Help us to be patient and precise in our pursuit of you, that we might bear fruit that honors you.\n\n## One-Line Application\nWe must remain connected to Christ in order to bear fruit that is pleasing to God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
