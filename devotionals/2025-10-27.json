@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-27",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 241,
+  "theme": "coffee",
+  "content_markdown": "# \"Grounded in Gratitude\"\n\n## Scripture\n\n\"Let the morning dew and the early rain cover you with the dew of the light, that the land may be fertile and lush, like the garden of the Lord.\" - 2 Kings 19:25 (CSB)\n\n## Reflection\n\nAs I savor the rich aroma of freshly brewed coffee, I'm reminded of the importance of gratitude in my daily life. Just as the coffee beans need to be roasted to bring out their full flavor, I need to cultivate a heart of gratitude to truly experience the sweetness of God's presence. The morning ritual of brewing coffee is a simple yet profound practice that sets the tone for the day ahead. Similarly, as I pour my heart out to God in prayer, I'm extracting the deepest longings and desires, allowing Him to refine and purify them. In this way, my gratitude is not just a feeling, but a fundamental aspect of my relationship with Him, just as crema is an essential part of a well-crafted cup of coffee.\n\n## Prayer\n\nWe thank you for the simple joys in life, like freshly brewed coffee, that remind us of your presence and provision. We pray that our hearts may be grounded in gratitude, allowing us to experience your sweetness and richness in all aspects of our lives.\n\n## One-Line Application\n\nWe must roast our hearts with gratitude to bring out the full flavor of God's presence in our lives.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
