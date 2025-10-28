@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-28",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 222,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Faithfulness\n\n## Scripture\n\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" - Ephesians 2:10\n\n## Reflection\n\nAs the skilled barista carefully measures the coffee grounds for the perfect pour-over, so too does God carefully prepare us for the good works He has in store. Just as the aroma of freshly roasted coffee fills the air, wafting its rich scent into the morning, our lives should be fragrant with the scent of faithfulness. We are not merely vessels for God's purposes, but active participants in the extraction process, allowing His love and grace to flow through us. As we begin each day, we're invited to surrender to His roasting fire, to be transformed and refined, that our lives may be a rich and satisfying brew of faith, hope, and love. May our morning ritual be one of surrender, not just to the coffee maker, but to the One who is brewing faithfulness in us.\n\n## Prayer\n\nWe ask that You would carefully prepare us, Lord, for the good works You have in store. Refine our hearts and minds, that our lives may be a fragrant offering to Your glory.\n\n## One-Line Application\n\nMay our daily lives be a rich and satisfying brew of faith, hope, and love.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
