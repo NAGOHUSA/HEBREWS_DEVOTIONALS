@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 254,
+  "theme": "coffee",
+  "content_markdown": "# Brewing a Heart for God\n\n## Scripture\n\n\"For this reason we also thank God without ceasing, because, as you well know, the early church devoted themselves to prayer and the fellowship, and to sharing meals with glad and sincere hearts, praising God and enjoying favor with all the people. And the Lord added to the community day by day those who were being saved.\" - Acts 2:46-47\n\n## Reflection\n\nAs we brew our morning coffee, we often appreciate the process of extraction - the slow, deliberate movement of hot water through the grounds, bringing out the hidden flavors. In the same way, our hearts can become refined through prayer, as we immerse ourselves in God's presence, allowing His Word to penetrate and transform us. Just as a skilled barista must carefully balance water temperature and coffee-to-water ratio to achieve the perfect brew, our relationship with God requires attention, intention, and a willingness to surrender our lives to His will. As we pour over Scripture and share meals with fellow believers, we experience the joy of community and the favor that comes from living a life surrendered to God.\n\n## Prayer\n\nWe thank You, Lord, for the gift of community and the privilege of sharing meals together. Help us to devote ourselves to prayer and to living with sincere hearts, praising You in all things.\n\n## One-Line Application\n\nAs you brew your morning coffee, take a moment to reflect on how you can refine your heart through prayer and surrender to God's will today.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
