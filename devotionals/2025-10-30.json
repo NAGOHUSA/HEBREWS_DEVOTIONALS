@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-30",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 239,
+  "theme": "coffee",
+  "content_markdown": "# The Roast of Suffering: A Grounds for Hope\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3\n\n## Reflection\n\nAs I watch the coffee grounds swirl together in the brew, I'm reminded that suffering can be a catalyst for growth. Just as the roast of coffee is developed over time, our faith is refined in the fire of trials. The extraction process, where the flavors of the coffee beans are drawn out, is a parallel to the way our character is shaped by our experiences. And just as a pour-over requires patience and attention to detail, our walk with God demands a similar commitment to trust and obedience. In the morning ritual of sipping coffee, I'm invited to consider the joy that lies within the challenges of the day. As the crema forms on the surface of the drink, I'm reminded that our suffering can be a source of beauty and strength, a grounds for hope.\n\n## Prayer\n\nWe thank you for the roasting fire that refines our faith, and for the trials that shape us into perseverance. Help us to face each day with joy, knowing that our struggles are a source of growth and beauty.\n\n## One-Line Application\n\nAs we face trials, let's cultivate a hope-filled perspective, trusting that our suffering will produce perseverance.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
