@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-10-31",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 230,
+  "theme": "coffee",
+  "content_markdown": "# A Savoring Faith, Like a Perfect Pour-Over\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.\" Galatians 5:22-23 (ESV)\n\n## Reflection\n\nAs we pour over our lives, seeking the perfect balance and blend of virtues, we must remember that it's not just about the final product. The process itself is where the real transformation happens. Just as the finest coffee is extracted from the rich flavors of the bean, our faith is refined through the trials and struggles of life. As we face the bitter moments, we must trust that they are an essential part of the brew, allowing us to grow in patience, kindness, and self-control. Like a master roaster carefully coaxes the flavors from the bean, God gently shapes us through the fire of adversity. And just as a delicate crema forms on the surface of a perfectly brewed cup, the fruit of the Spirit emerges as we submit to the Spirit's work in us.\n\n## Prayer\n\nWe ask that You, like a skilled brewer, would carefully extract the virtues of love, joy, and peace from our lives, that we might be transformed into a fragrant and delicious offering to You.\n\n## One-Line Application\n\nLet us savor the bitter moments as essential parts of the brew, trusting they refine our faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
