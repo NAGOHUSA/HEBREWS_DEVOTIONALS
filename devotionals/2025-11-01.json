@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-01",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 211,
+  "theme": "coffee",
+  "content_markdown": "# The Roast of Trials\n\n## Psalm 119:71 - \"It was good for me to be afflicted so that I might learn your decrees.\" (NIV)\n\n## Reflection\nAs I pour over the Scriptures, I'm reminded of the process of roasting coffee beans. At first, they're raw and unrefined, but through the heat of affliction, they're transformed. Just as the roasting process brings out the unique flavors of the coffee, our trials can reveal the depth of God's wisdom and character. We must not shy away from the fire that refines us, for it's in those moments we discover the richness of His decrees. As we navigate life's difficulties, we must be willing to be \"brewed\" in the midst of them, trusting that it's in the extraction of our trials that we'll uncover the full flavor of God's love.\n\n## Prayer\nWe ask, Lord, that you would help us see the value in our trials, and that in the midst of affliction, we would learn more about your decrees and your wisdom. Help us to trust in your goodness and to be refined by the fire that refines us.\n\n## One-Line Application\nWe will face trials with hope, trusting that they refine us like the roasting process reveals the flavor of coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
