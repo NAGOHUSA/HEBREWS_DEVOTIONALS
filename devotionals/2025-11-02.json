@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-02",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 223,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in God's Presence\n\n## Scripture\n\n\"And let us consider how we may spur one another on toward love and good deeds.\" - Hebrews 10:24 (NIV)\n\n## Reflection\n\nAs I sit down with a freshly roasted cup of coffee, I'm reminded of the process that brings out its full flavor. The beans must be carefully selected, roasted to perfection, and then slowly brewed to extract the rich flavors within. In the same way, as Christians, we're called to be the catalysts that bring out the best in one another. We're called to be the \"roasting\" fire that transforms and seasons our brothers and sisters for deeper love and good deeds. It's not about forcing or coercing, but rather patiently and gently guiding one another toward Christ-likeness. As we gather around the \"brew,\" may our presence and interactions be an extraction of God's love, revealing the full flavor of His character in our lives and in the lives of those around us.\n\n## Prayer\n\nWe ask that You, God, would stir up Your presence in our lives and in our communities, that we might be agents of love and good deeds, spurring one another on toward a deeper walk with You.\n\n## One-Line Application\n\nLet us be the slow-brewing influence that brings out the rich flavors of God's love in those around us.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
