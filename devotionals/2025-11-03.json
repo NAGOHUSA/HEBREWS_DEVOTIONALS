@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-03",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 253,
+  "theme": "coffee",
+  "content_markdown": "# Filtering Faith\n\n## Scripture\n\n\"Test everything; hold fast what is good.\" - 1 Thessalonians 5:21 (ESV)\n\n## Reflection\n\nJust as a skilled barista carefully monitors the flow of water through a pour-over, filtering the brew to bring out the perfect balance of flavors, we must also be diligent in testing our faith. As we navigate the complexities of life, we're exposed to a multitude of influences that can either enrich or dilute our spiritual vitality. Just as the subtlest variation in water temperature or coffee-to-water ratio can drastically alter the flavor profile, so too can a single misstep in our spiritual journey have far-reaching consequences.\n\nIn our daily lives, we're constantly faced with choices that demand discernment. We must be intentional in assessing the spiritual implications of our decisions, just as a barista carefully considers the optimal extraction time for the perfect cup. This requires patience, attention to detail, and a willingness to be refined by God's Word. As we cultivate this discerning spirit, we'll be able to hold fast to what is good and shun the influences that seek to compromise our faith.\n\n## Prayer\n\nWe ask that you would grant us the wisdom to discern what is good and pure, and the courage to reject what is harmful or corrupting. Help us to be like skilled baristas, carefully crafting our lives to bring out the rich flavors of your presence.\n\n## One-Line Application\n\nAs we test everything, let us hold fast to the perfecting work of God in our lives.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
