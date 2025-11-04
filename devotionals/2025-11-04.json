@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 213,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Sustenance\n\n## Psalm 23:5 (NIV)\n\nYou prepare a table before me\nin the presence of my enemies.\nYou anoint my head with oil;\nmy cup overflows.\n\n## Reflection\n\nJust as a skilled barista carefully crafts each pour-over, we are called to carefully tend to our relationship with God. The rich aroma of prayer wafts through our lives as we draw near to Him in worship. Yet, the flavor of our faith can become stale if we fail to extract the depths of His presence. In the midst of the roast of trials, we mustn't forget that God's refining fire brings out the sweetness of His character. As we partake in the morning ritual of devotion, let us remember that He is not only our provider, but also our protector – anointing our hearts with oil, and overflowing our cups with His goodness.\n\n## Prayer\n\nWe ask, Lord, that you would prepare a table before us, filling our cups with the richness of Your presence. Help us to draw near to You, to extract the depths of Your character, and to experience the overflowing goodness of Your love.\n\n## One-Line Application\n\nJust as a pour-over requires patience, our relationship with God demands a steady and consistent pursuit of His presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
