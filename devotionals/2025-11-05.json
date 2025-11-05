@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-05",
+  "provider": "openai",
+  "model": "gpt-4o-mini",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 264,
+  "theme": "coffee",
+  "content_markdown": "# The Brew of Transformation\n\n## Scripture  \n\"Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.\" — 2 Corinthians 5:17\n\n## Reflection  \nJust as the process of brewing coffee transforms humble beans into a delightful cup, our journey with Christ is one of profound transformation. Initially, the raw coffee beans are hard and unyielding, much like our hearts before accepting Christ. The roasting process, often intense and unpredictable, mirrors the trials we face as God refines us. \n\nWhen we submit to His work, the heat of His love and grace begins to extract the bitterness of sin and the weight of our past. As the beans roast, they crack, releasing their rich aroma—similar to the way our lives begin to reflect Christ as we allow His Spirit to work within us. The pouring of hot water over the grounds symbolizes our need for God’s Word, which nourishes our souls and draws out the best in us. \n\nJust as a skilled barista knows the right balance of water and coffee for optimal flavor extraction, God knows how to pour into our lives for maximum growth. Each day, as we engage in prayer and Scripture, we are experiencing a divine brewing process, leading us to become the new creations He has called us to be.\n\n## Prayer  \nLord, we thank You for the transformation You bring to our lives. Help us to embrace the brewing process, trusting in Your perfect timing and purpose.\n\n## One-Line Application  \nEmbrace God’s brewing process for your life today.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
