@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-06",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 226,
+  "theme": "coffee",
+  "content_markdown": "# Daily Grind of Faithfulness\n\n## Scripture\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" James 1:2-3 (NIV)\n\n## Reflection\nJust like the art of roasting coffee, our faith is refined through the fires of trials. When beans are roasted, their outer layers are broken down, releasing their full flavor and aroma. In the same way, as we face various trials, our faith is tested, and our dependence on God grows stronger. The process of extraction, where hot water dissolves the flavors from the coffee grounds, represents how our faith is purified and strengthened by the challenges we face. As we pour over our lives, allowing God to work through us, we come to understand that the crema of our character is formed through the morning ritual of prayer, Bible study, and obedience. This journey of growth is not always easy, but it's through the grind of faithfulness that we become more like Christ.\n\n## Prayer\nWe ask that you would help us to see trials as opportunities for growth and maturity in our faith, and that we would trust in your sovereignty and goodness in all circumstances.\n\n## One-Line Application\nMay our daily grind of faithfulness be a reflection of our trust in God's goodness and sovereignty.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
