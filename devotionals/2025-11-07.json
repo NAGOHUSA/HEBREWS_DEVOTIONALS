@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-07",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 209,
+  "theme": "coffee",
+  "content_markdown": "# Rich Soil for Fruitful Growth\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.\" Galatians 5:22-23 (ESV)\n\n## Reflection\n\nJust as a skilled barista prepares the perfect pour-over, carefully balancing water and coffee, our lives require intentional cultivation to produce the fruit of the Spirit. We must create an environment where love, joy, and peace can flourish. This involves pruning away the bitter roots of bitterness, resentment, and anger, allowing the sweet aroma of kindness and goodness to fill our lives. As we surrender to the gentle art of being, we become a conduit for God's love to flow through us. In the same way, a rich crema forms on the surface of expertly brewed coffee, our lives become a rich tapestry of faithfulness, patience, and self-control when we remain rooted in God's presence.\n\n## Prayer\n\nWe pray for the rich soil of your presence, Lord, that we may bear the fruit of the Spirit in abundance. As we cultivate love, joy, and peace, may our lives become a sweet aroma to those around us.\n\n## One-Line Application\n\nLet love, joy, and peace be the deliberate choices that guide our daily decisions.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
