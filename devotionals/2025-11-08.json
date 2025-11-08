@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 244,
+  "theme": "coffee",
+  "content_markdown": "# The Roast of Suffering\n\n## 1 Peter 4:12-13\n\n\"Dear friends, do not be surprised at the fiery ordeal that has come on you to test you, as though something strange were happening to you. But rejoice inasmuch as you participate in the sufferings of Christ, so that you may be overjoyed when his glory is revealed.\" - 1 Peter 4:12-13 (NIV)\n\n## Reflection\n\nJust as a skilled roaster seeks to coax the perfect flavor from a bean, God is at work in our suffering, carefully extracting the depths of our faith. The morning ritual of the pour-over, where water slowly flows through the grounds, can be a reminder of the patient, relentless work of God in our lives. As we face trials, we might feel like our world is being shaken, just as the coffee grounds are disturbed by the water. Yet, in this process, we are given the opportunity to trust in God's goodness and sovereignty. As we wait in faith, the crema of our character is formed, and the true flavors of our hearts are revealed.\n\n## Prayer\n\nWe thank you, God, for the refining fire of suffering that tests our faith and shapes us into the image of Christ. Help us to rejoice in our participation in his sufferings, knowing that it leads to the revelation of his glory.\n\n## One-Line Application\nSuffering is a catalyst for the extraction of our faith, revealing the depths of our hearts to God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
