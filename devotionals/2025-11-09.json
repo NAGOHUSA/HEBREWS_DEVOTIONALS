@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-09",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 247,
+  "theme": "coffee",
+  "content_markdown": "# A Richer Brew for the Soul\n\n## Scripture\n\n\"Do not be conformed to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.\" - Romans 12:2\n\n## Reflection\n\nAs we carefully pour over coffee grounds, we seek to release the full flavor hidden within. It's a process that requires patience, attention to detail, and a willingness to let go of the old. In Romans 12:2, we're called to undergo a similar transformation. We must shed the conformity of the world's expectations and allow God's Spirit to reshape our minds, extracting the richness of His will from our lives. This process can be messy, but it's essential for discovering God's perfect plan. Just as a skilled barista carefully monitors the coffee's extraction time to avoid over-extraction, we must be mindful of our thoughts and actions, ensuring we're not overwhelmed by the world's influences. As we surrender to God's refining work, we'll begin to experience the full flavor of His presence in our lives.\n\n## Prayer\n\nWe thank you, Lord, for the gift of transformation. Help us be intentional about shedding the old and embracing the new. Renew our minds and extract the full richness of your will from our lives.\n\n## One-Line Application\n\nLet God's Spirit carefully extract the full flavor of His will from your life, transforming you through the renewing of your mind.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
