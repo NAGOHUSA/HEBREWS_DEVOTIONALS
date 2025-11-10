@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-10",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 239,
+  "theme": "coffee",
+  "content_markdown": "# \"Brewing Faith: A Daily Dose of Devotion\"\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3 (NIV)\n\n## Reflection\n\nJust as a skilled barista must carefully measure the right amount of coffee grounds, heat the water to the perfect temperature, and let the brew steep for just the right amount of time, our faith is developed through a process of testing and refinement. When life's trials come, we have a choice: to let them simmer like a weak, under-extracted brew, or to let them steep like a rich, full-bodied cup. As we face hardships, our faith is purified, and we become stronger, more resilient, and more like Christ. Like the crema that forms on a well-crafted pour-over, our character is developed through the gentle, consistent heat of trial and experience. We must not rush the process or try to extract our faith too quickly, but rather allow it to develop slowly, like a masterfully roasted cup.\n\n## Prayer\n\nWe pray that we would face life's trials with joy, trusting that they are refining our faith and making us more like Christ. Help us to be patient, to persevere, and to let our faith steep like a rich, full-bodied cup. \n\n## One-Line Application\n\nMay trials in life refine our faith, making us stronger and more like Christ.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
