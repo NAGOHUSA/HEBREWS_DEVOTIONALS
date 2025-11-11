@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 227,
+  "theme": "coffee",
+  "content_markdown": "# The Roast of Suffering\n\n## Scripture\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.\" James 1:2-4 (NIV)\n\n## Reflection\nAs we pour over the Bible, we find that trials can be bitter, just like unroasted coffee beans. But God's refining process can transform them into something rich and full-bodied. Just as a roasting process coaxes out deeper flavors from the beans, our struggles can help us grow in faith and character. The aroma of perseverance wafts through our lives, drawing others to the goodness of God. As we face challenging circumstances, we can trust that God is at work, extracting the precious elements from our experiences, making us more like Christ. Just as a skilled barista carefully crafts the perfect cup, God skillfully shapes us in the fire of adversity.\n\n## Prayer\nWe thank you, Lord, for the refining process that comes with trials. Help us to see the beauty in your work as we face challenges with joy and perseverance. Teach us to trust in your goodness, even in the darkest moments.\n\n## One-Line Application\nMay our trials produce perseverance, maturing us in faith like a rich, well-roasted cup of coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
