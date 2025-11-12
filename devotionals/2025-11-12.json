@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-12",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 214,
+  "theme": "coffee",
+  "content_markdown": "# A Morning Brew of Devotion\n\n## Scripture\n\"Come to me, all you who are weary and burdened, and I will give you rest.\" - Matthew 11:28 (NIV)\n\n## Reflection\nJust as a skilled barista prepares a pour-over, carefully pouring hot water over the grounds to extract the perfect flavor, we too can experience the richness of devotion. In the midst of life's chaos, we can pause and come to Jesus, allowing Him to extract the burdens and worries from our hearts. As we surrender our weights to Him, we begin to experience the rest and rejuvenation that only He can provide. The roasting process, where the coffee beans are transformed by heat, can be likened to the transformative power of Jesus, taking our brokenness and making us new. As we drink in the aroma of His presence, we are invigorated and refreshed, ready to face another day. The crema on a well-crafted cup of coffee represents the beauty and joy that we experience when we trust in His goodness.\n\n## Prayer\nWe come to You, Lord, weary and burdened, and ask that You pour Your peace and rest into our hearts.\n\n## One-Line Application\nAs you brew your morning coffee, take a moment to come to Jesus and let Him extract your worries.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
