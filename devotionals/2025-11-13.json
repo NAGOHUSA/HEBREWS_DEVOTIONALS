@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-13",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 250,
+  "theme": "coffee",
+  "content_markdown": "# Rich Ground for the Heart\n\n## Scripture\n\n\"So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness.\" - Colossians 2:6-7 (NIV)\n\n## Reflection\n\nJust as rich soil is necessary for a bountiful harvest, our hearts need the right foundation to bear fruit for God. The process of coffee roasting and brewing is a reminder of this principle. Just as raw coffee beans require heat and time to unlock their full flavor and aroma, our faith needs constant nourishment and growth to flourish. As we pour our hearts out to God in prayer, we allow the warmth of His love to transform and strengthen us. Just as a fine cup of coffee requires the perfect balance of extraction and brewing time, our lives need the right balance of faith, obedience, and thanksgiving to bring out the full richness of our relationship with God. As we continue to live our lives in Christ, may we be rooted and built up in Him, and may our hearts overflow with thankfulness.\n\n## Prayer\n\nWe thank You, Lord, for the rich soil of Your love that nourishes our hearts. Help us to remain rooted and built up in You, and to overflow with thankfulness in all that You do.\n\n## One-Line Application\n\nMay our lives be a bountiful harvest, overflowing with the richness of a deepening relationship with Christ.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
