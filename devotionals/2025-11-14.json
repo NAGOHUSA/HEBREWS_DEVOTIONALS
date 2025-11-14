@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 222,
+  "theme": "coffee",
+  "content_markdown": "# A Richer Brew through Suffering\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3\n\n## Reflection\n\nJust as a pour-over's rich flavor requires a delicate balance of water and coffee grounds, our faith is refined through trials. We might think of the brewing process as a series of harsh temperatures and prolonged extraction, but in reality, these elements create the perfect conditions for our faith to flourish. Like the crema that forms on the surface of expertly crafted espresso, our character is shaped and strengthened through the trials we face. We may not always understand why we're going through a difficult time, but we can trust that God is working to perfect us, just as a skilled roaster coaxes out the complex flavors of a high-quality bean. As we face the challenges of life, we must remember that our faith is not just about avoiding hardship, but about growing stronger through it.\n\n## Prayer\n\nWe thank you, Father, for the refining fire of trials that shapes us into your image. Help us to see suffering as an opportunity for growth and perseverance.\n\n## One-Line Application\n\nWe will face trials with joy, trusting that they refine our faith and character.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
