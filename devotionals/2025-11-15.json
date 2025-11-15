@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-15",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 227,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Depth in Our Relationship with God\n\n## Scripture\n\n\"Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God—\"  \nJohn 1:12 (NIV)\n\n## Reflection\n\nJust as a pour-over coffee requires precise control over water temperature, flow, and time to extract the perfect flavor from each delicate bean, so too does our relationship with God demand attention to the subtle nuances of faith. We must be willing to slow down, listen intently to the whispers of the Holy Spirit, and allow Him to carefully extract the richness of His love from our hearts. As we surrender to this process, we come to know the depths of God's character, and our faith becomes more refined, complex, and flavorful with each passing day. Just as a rich crema forms on a well-crafted cup of coffee, may our faith be crowned with the beauty and peace that comes from a deepening relationship with our heavenly Father.\n\n## Prayer\n\nWe ask that you help us navigate the intricacies of our walk with You, Lord, and grant us the patience and trust to allow You to carefully extract the richness of Your love from our hearts.\n\n## One-Line Application\n\nMay our faith be crowned with the beauty and peace that comes from a deepening relationship with our heavenly Father.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
