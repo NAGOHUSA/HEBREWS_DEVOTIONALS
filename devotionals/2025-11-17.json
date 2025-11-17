@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-17",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 228,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Love\n\n## Scripture\n\"As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.\"  \nGalatians 6:10 (KJV)\n\n## Reflection\nAs a pour-over coffee brewer, I've learned the importance of patience in the process. The slow drip of water through the grounds is not a rushed affair, but a deliberate extraction of flavors that come together in a rich, satisfying cup. In the same way, our love for others should be a slow, deliberate drip – a steady stream of kindness, compassion, and service that flows from the depths of our hearts. As we wait on God, He is brewing within us a love that overflows to all people, especially those in our spiritual family. It's easy to get caught up in the whirlwind of life, but let's slow down and let the aroma of love fill our homes and communities.\n\n## Prayer\nWe pray for a heart that overflows with love and service, especially to those within our spiritual family. Help us to be slow and deliberate in our love, just as a pour-over coffee brewer is slow and deliberate in its extraction of flavors. May our lives be a rich, satisfying cup to those around us.\n\n## One-Line Application\nLet love be the deliberate extraction that pours from our hearts to those around us.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
