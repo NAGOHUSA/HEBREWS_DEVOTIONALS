@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-18",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 237,
+  "theme": "coffee",
+  "content_markdown": "# A Perfect Cup: Nourishment for the Soul\n\n## Scripture\n\n\"We know that in all things God works for the good of those who love him, who have been called according to his purpose.\" Romans 8:28\n\n## Reflection\n\nAs we begin our day with a warm cup of coffee, we anticipate the flavors that will emerge as the grounds steep. But the true beauty of the coffee lies not in the initial brew, but in the process of extraction that releases its full richness. As believers, our lives are often like this perfect cup – we may not yet taste the fullness of God's goodness, but we trust that He is working everything out for our good. Just as the pour-over method allows for a more nuanced flavor, so too does God's sovereignty allow for the good to emerge from life's challenges. As we navigate the ups and downs, we must trust that He is the Roaster, extracting the deepest flavors of His love and purpose from our lives. And when we reach the bottom of our cup, we're not left with bitter residue, but the sweet crema of His presence.\n\n## Prayer\n\nWe thank you, Lord, for working in our lives for our good. Help us trust in your sovereignty and allow your love to infuse every moment. \n\n## One-Line Application\n\nMay our lives be like a perfectly extracted cup, showcasing God's goodness in every flavor.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
