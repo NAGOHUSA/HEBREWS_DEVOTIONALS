@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-19",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 339,
+  "theme": "coffee",
+  "content_markdown": "# Riches in the Roast\n\n## Scripture\n\n\"He gives the sun for light by day and the fixed order of the moon and the stars for light by night, and he stirs up the wind; and by his counsel all the beasts of the field come out, and the birds of the heavens that wing their way. And he gives rain on the earth and makes it bring forth the growth of its own kind, the fruit of the tree and the field, that the leafy green may be refreshed.\" - Psalm 104:19-24 (ESV)\n\n## Reflection\n\nJust as the roasting process transforms coffee beans into their full flavor potential, we, too, are transformed by God's presence in our lives. Like the slow, deliberate heat that brings out the crema in a perfectly roasted bean, God's love and guidance work in us, bringing out the full richness of our faith.\n\nIn the morning ritual of brewing coffee, we take time to carefully extract the flavors and oils that make each cup unique. In the same way, we must take time to reflect on God's presence in our lives, allowing His love to extract the full richness of our faith. This is not a one-time event, but an ongoing process of surrender, growth, and transformation.\n\nAs we pour over the scriptures, we are reminded that God's presence is not just a steady hum in the background, but a dynamic, moving force that stirs up the depths of our souls. We are encouraged to stir up our own hearts, to seek Him out in the midst of trials, and to trust in His goodness.\n\n## Prayer\n\nWe thank you for the richness you bring to our lives, for the slow, deliberate work of transforming us into the full flavor of your love. Help us to stir up our hearts, to seek you out in the midst of trials, and to trust in your goodness.\n\n## One-Line Application\n\nAllow God's presence to slowly transform and refine you, just as heat transforms coffee beans.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
