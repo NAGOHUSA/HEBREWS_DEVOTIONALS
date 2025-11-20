@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-20",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 247,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Love\n\n## Scripture\n\"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him.\" - John 3:16-17\n\n## Reflection\nThe morning ritual of brewing coffee is a meditative experience. We carefully measure the grounds, pour the water, and wait for the perfect extraction. Just as coffee beans need to be roasted to bring out their flavor, our hearts need to be refined by God's love to experience true joy. In the same way, a pour-over requires patience, allowing each drop to settle and combine for a rich flavor. Our faith journey is like this process – a slow, deliberate, and intentional process of refinement and growth. As we submit to God's will, we become vessels for His love to flow through us, touching the lives of those around us. Just as a well-crafted cup of coffee is a labor of love, our lives should be a reflection of God's love, poured out for the world.\n\n## Prayer\nWe ask that You continue to refine us, Lord, and pour Your love through us, so that we may be a source of hope and comfort to those around us.\n\n## One-Line Application\nMay our daily lives be a slow, intentional extraction of God's love, poured out for the world.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
