@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-21",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 225,
+  "theme": "coffee",
+  "content_markdown": "# \"Brewing Hope in the Morning\"\n\n## Psalm 119:47 - \"For I know that your commands are righteous and good, bringing joy to the heart.\" (NIV)\n\n## Reflection\n\nJust as a pour-over requires patience and attention to detail, our spiritual lives demand a consistent and deliberate pursuit of God's commands. Every day, we're faced with the choice to either extract the richness of God's word or let it go stale. The aroma of His presence fills the air, but it's up to us to pour ourselves into the ritual of prayer, Scripture reading, and obedience. As we roast our hearts with the fire of His love, the crema of joy and peace forms, filling us with a sense of purpose. It's in this morning ritual that we find the strength to face the day, knowing that His commands bring joy to our hearts and direction to our steps.\n\n## Prayer\n\nWe thank you, Lord, for the gift of Your word, which brings us life and joy. Help us to be intentional in our pursuit of You, to extract the richness of Your presence in our lives. May our morning rituals be a time of deep connection with You, and may Your commands guide us throughout the day.\n\n## One-Line Application\nWe will prioritize daily time with God, extracting the richness of His presence and joy.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
