@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-22",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 234,
+  "theme": "coffee",
+  "content_markdown": "# From the Roast to the Cup: God's Presence in Every Moment\n\n## Scripture\n\n\"But you will seek me, and find me, when you seek me with all your heart.\" - Jeremiah 29:13 (NIV)\n\n## Reflection\n\nAs I slowly pour the hot water over the grounds in my pour-over, I'm reminded of the beauty of waiting. Just as the water extracts the flavors and oils from the coffee beans, our hearts must be willing to surrender to God's presence in every moment. We must slow down, quiet our minds, and seek Him with all our hearts. It's in this stillness that we discover the richness of His love and the depths of His character. Just as a well-roasted coffee is more than just a drink, but an experience that warms the soul, God's presence is not just a feeling, but a reality that transforms us from the inside out. As we seek Him with all our heart, we'll find that He's always there, filling us with His presence and guiding us through the ups and downs of life.\n\n## Prayer\n\nWe seek you with all our hearts, Lord, and ask that you fill us with your presence as we navigate the complexities of life. Help us to slow down, quiet our minds, and surrender to your guidance.\n\n## One-Line Application\n\nSeeking God with all our heart is the key to experiencing His transformative presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
