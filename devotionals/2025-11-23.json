@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 275,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" - Ephesians 2:10 (NIV)\n\n## Reflection\n\nJust as the carefully roasted coffee beans require a deliberate process of roasting to bring out their full flavor, our lives are being refined through the fires of trials, testing, and obedience. The aroma of our existence is not just a byproduct but a result of being grounded in God's presence. The extraction of our purpose begins when we surrender to His plan, allowing the Holy Spirit to pour His wisdom and guidance into our lives. As we drink in His presence, we become increasingly aware of the good works He has prepared for us to do, and our morning ritual of devotion becomes a catalyst for a day of faithfulness.\n\nIn the same way, a pour-over requires patience, attention to detail, and a willingness to yield to the process. We are called to submit to the gentle guidance of God's Spirit, allowing Him to pour His love and wisdom into our lives, so we might become a rich and flavorful expression of His love to the world.\n\n## Prayer\n\nWe thank you, Father, for the refining fires that have shaped us and for the good works you have prepared for us to do. Help us to remain grounded in your presence and surrendered to your plan, that we might be a fragrance of life to those around us.\n\n## One-Line Application\n\nLet the gentle guidance of God's Spirit refine and prepare you for the good works He has planned.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
