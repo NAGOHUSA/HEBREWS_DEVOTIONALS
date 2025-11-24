@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 221,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Purpose\n\n## Scripture\n\"Do not be conformed to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is—his good, pleasing and perfect will.\" \n— Romans 12:2 (NIV)\n\n## Reflection\nJust as a skilled barista carefully roasts and grinds the perfect blend of coffee beans, we too must be intentional about the ingredients that shape our minds. The world around us can easily conform us to its patterns, but as followers of Christ, we're called to be transformed. As we begin our morning ritual, let's examine the \"coffee\" that fuels our thoughts and actions. What influences are we allowing to \"bloom\" in our hearts? Which ones are hindering the extraction of God's truth? Just as a pour-over requires patience and attention to detail, we must slow down and prioritize the renewal of our minds. By doing so, we'll discover God's perfect will and be empowered to live out our purpose.\n\n## Prayer\nWe ask that You would awaken our minds, Lord, and help us discern what is pleasing to You. Transform us by Your renewing power, that we may be set apart for Your purposes.\n\n## One-Line Application\nPrioritize the renewal of your mind through intentional time with God each morning.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
