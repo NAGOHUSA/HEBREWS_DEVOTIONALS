@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 230,
+  "theme": "coffee",
+  "content_markdown": "# \"Brewing Hope in the Morning\"\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.\" - James 1:2-4 (NIV)\n\n## Reflection\n\nAs I watch the coffee brew, I'm reminded of the process of perseverance. Just as the grounds release their flavors and oils as they're exposed to hot water, our faith is refined and strengthened as we face trials. It's not the easy times that reveal our character, but the challenging moments that test our resolve. As we navigate life's difficulties, we can trust that God is at work, using the heat of adversity to extract the beauty and goodness from our lives. Like the crema that forms on a well-crafted pour-over, our faith is transformed and perfected as we endure. In the morning ritual of coffee-making, I'm reminded to approach each day with hope and anticipation, knowing that God is brewing something beautiful in me.\n\n## Prayer\n\nWe thank you for the gift of perseverance, Lord. Help us to face trials with joy and trust that you're refining us for your glory.\n\n## One-Line Application\n\nAs we face life's challenges, may we see the beauty of perseverance and trust God's work in our lives.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
