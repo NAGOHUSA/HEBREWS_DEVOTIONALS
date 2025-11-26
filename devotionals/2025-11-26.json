@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-26",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 220,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Hope in the Darkest Hours\n\n## Scripture\n\n\"For God did not give us a spirit of fear, but of power and love and self-discipline.\" - 2 Timothy 1:7\n\n## Reflection\n\nAs we carefully pour the water over the grounds, the anticipation builds for that first sip. But what if the brew is too strong, overwhelming our senses? Or, conversely, too weak, failing to satisfy our longing? The perfect cup is found in the balance between the water and the coffee. Similarly, in our lives, we seek balance between fear and faith. Paul reminds us that God's presence is not one of fear, but of power, love, and self-discipline. As we navigate life's challenges, may we not be controlled by fear, but instead, empowered by the Holy Spirit to love and live with intentionality. The morning ritual of brewing coffee can be a reminder to seek balance in our spiritual lives, allowing the 'perfect cup' of faith to be poured into our hearts.\n\n## Prayer\n\nWe pray for the strength of the Holy Spirit to guide us through life's darkest hours, granting us power, love, and self-discipline to live out our faith with courage and intentionality.\n\n## One-Line Application\n\nMay we drink deeply from the cup of God's presence, finding balance and strength in the midst of life's challenges.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
