@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-27",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 251,
+  "theme": "coffee",
+  "content_markdown": "# A Richer Brew of Faith\n\n## Psalm 46:10, NIV (NKJV, NASB, ESV) \n\n\"Be still, and know that I am God;\nI will be exalted among the nations,\nI will be exalted in the earth!\"\n\n## Reflection\n\nAs we sip our morning coffee, we're reminded of the deliberate process that brings out its rich flavor. Just as a skilled brewer carefully selects the right coffee beans, roasts them to perfection, and slowly extracts their essence, so too does our God lovingly craft each day with purpose and precision. His plan unfolds like the layers of crema on a well-made latte – rich, smooth, and full of depth. As we begin our day, let's invite Him to \"brew\" in us a deeper understanding of His presence and power. Like the aroma of freshly roasted coffee, may the scent of His glory fill our lives, drawing us closer to Him. As we navigate life's challenges, may we trust that He is always working, always refining, and always extracting the very best from us, just as a skilled barista coaxes the perfect shot from a carefully roasted bean.\n\n## Prayer\n\nWe ask, Father, that you would fill us with the richness of your presence, that we might know your peace and trust in your perfect plan. Help us to be still and know that you are God, working all things for your glory.\n\n## One-Line Application\n\nMay our lives be a reflection of God's intentional care and craftsmanship, carefully refined and brewed in love.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
