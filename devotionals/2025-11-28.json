@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-28",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 241,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in the Morning Light\n\n## Scripture\n\n\"Wait for the Lord; be strong and take heart and wait for the Lord.\" Psalm 27:14 (NIV)\n\n## Reflection\n\nAs I sit with a freshly brewed cup of coffee, the aroma fills my senses and I'm reminded of the patience required in waiting for the perfect extraction. Just as a pour-over demands time and attention, our spiritual journey requires us to wait on the Lord. We must press through the uncertainty and allow Him to work, just as the coffee beans release their flavor and oils as they're roasted and ground.\n\nIn the morning ritual of brewing, we're reminded that the best is yet to come. The crema on top, the richness of flavor – it's all a result of the process. Similarly, our lives are not yet full, but in waiting on the Lord, we'll experience the fullness of His presence and the richness of His love. Let's not rush the process, but instead, be still and know that He is God.\n\n## Prayer\n\nWe wait for you, Lord, with hearts full of expectation and faith. Help us to be patient and strong in our journey, trusting that you're working all things for our good. In your presence, we find peace and joy, and we're grateful for the morning light that shines on us.\n\n## One-Line Application\n\nAs we wait on the Lord, let's be still and trust in His perfect timing.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
