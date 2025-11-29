@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 246,
+  "theme": "coffee",
+  "content_markdown": "# Steeping in the Morning Light\n\n## Psalm 119:130 - \"The unfolding of your words gives light; it gives understanding to the simple.\"\n\nAs I stand at the kitchen counter, carefully pouring the hot water over the freshly ground coffee, I'm reminded of the process of steeping in the Word of God. Just as the coffee grounds absorb the liquid, allowing the flavors to extract and the aroma to rise, our hearts must be open to receive the teachings of Scripture. The morning ritual of brewing coffee requires patience, attention to detail, and a commitment to the process. Similarly, as we seek to understand God's Word, we must be willing to slow down, reflect, and allow the truth to sink deep into our souls.\n\nAs I watch the coffee drip through the filter, I'm struck by the idea that the extraction of flavors is a gradual process. It's not a sudden splash of flavor, but rather a slow and intentional pouring of the liquid that brings out the full richness of the coffee. In the same way, our growth in faith is not a one-time event, but a gradual process of absorption and reflection on the Word of God.\n\n## Prayer\n\nLord, help us to slow down and steep in your Word, allowing the truth to extract and the aroma of your presence to fill our hearts.\n\n## One-Line Application\nSteeping in Scripture takes time, but yields a richer understanding of God's presence in our lives.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
