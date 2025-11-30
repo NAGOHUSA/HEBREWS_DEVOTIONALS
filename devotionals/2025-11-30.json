@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-11-30",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 238,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of God's Presence\n\n## Scripture\n\n\"You will show me the path of life; in your presence is fullness of joy; at your right hand are pleasures forevermore.\" - Psalm 16:11 (ESV)\n\n## Reflection\n\nJust as a skilled barista carefully roasts, grinds, and brews coffee to bring out its full flavor, God carefully crafts and refines us to make us more like Christ. As we begin our day, we often start with a morning ritual of coffee, but let us not forget the greater ritual of seeking God's presence. Just as a pour-over requires patience and attention to extract the perfect cup, our relationship with God demands dedication and focus. We must be willing to let go of the old, just as the coffee beans are transformed by the roasting process, to become vessels worthy of God's presence. In His presence, we find fullness of joy and pleasures that last a lifetime. May we cultivate this presence in our daily lives, just as we would savor the rich aroma of a perfectly brewed cup.\n\n## Prayer\n\nWe come to you today, Lord, seeking your presence and guidance. Help us to prioritize our relationship with you, just as we would make time for a morning cup. Fill us with your joy and let us be transformed by your love.\n\n## One-Line Application\n\nMay our daily rituals, including coffee, be a reminder to seek God's presence and guidance.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
