@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-02",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 228,
+  "theme": "coffee",
+  "content_markdown": "# Daily Dose of Hope\n\n## Scripture\n\n\"For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.\" – Jeremiah 29:11\n\n## Reflection\n\nJust as the perfect pour-over requires patience, allowing the coffee grounds to extract the flavors, our spiritual growth demands time and surrender. In the midst of life's chaos, it's easy to overlook the richness that's being brewed within us. But just as the roasting process transforms the raw coffee bean, God's refining work transforms us, bringing out the beauty and flavor of our character. As we navigate life's challenges, we must be willing to be poured out, like the crema on a perfectly crafted latte, allowing our faith to be extracted and shared with others. This morning ritual of devotion, a time to slow down and savor the aroma of God's presence, reminds us that our hope is not in the fleeting moments, but in the eternal plans of our loving Father.\n\n## Prayer\n\nWe ask, Lord, that you would help us to slow down and savor your presence in our lives. Help us to trust in your plans, even when we don't see the full picture.\n\n## One-Line Application\n\nAs you start your day, take a moment to slow down and savor the presence of God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
