@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-03",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 239,
+  "theme": "coffee",
+  "content_markdown": "# Savoring the Riches of Relationship\n\n## Scripture\n\n\"For where your treasure is, there your heart will be also.\" \nMatthew 6:21 (NIV)\n\n## Reflection\n\nJust as the perfect pour-over requires a delicate balance of water and coffee, so too do our relationships with others require a balance of our time, attention, and affection. If we prioritize our relationships with those around us, investing time and effort into nurturing them, our hearts will be drawn to those we care about. The aroma of a well-roasted coffee is enticing, but the true beauty lies in the flavors that unfold as we savor each sip. Similarly, the richness of our relationships is revealed not just in grand gestures, but in the everyday moments we share, the laughter we enjoy, and the tears we cry together. As we cultivate these moments, we invite the depths of connection to extract the richness from our lives. In this process, our hearts are filled with the joy, comfort, and peace that come from being fully immersed in the lives of those we love.\n\n## Prayer\n\nWe thank you, Lord, for the gift of relationships that bring richness to our lives. Help us to prioritize these connections and cultivate moments of joy, comfort, and peace. May our hearts be drawn to those around us, and may we savor the flavors of love and companionship.\n\n## One-Line Application\n\nNurture your relationships with intentional moments of connection and affection.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
