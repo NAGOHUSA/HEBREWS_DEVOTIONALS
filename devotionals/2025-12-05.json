@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-05",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 253,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Joy, Bitterly Sourced\n\n## Scripture\n\n\"For you have been my help, and in the shadow of your wings I will rejoice. The right hand of the Lord has done mighty things! The right hand of the Lord is exalted; the right hand of the Lord has done mighty things!\" Psalms 63:7-8 (ESV)\n\n## Reflection\n\nJust as a fine cup of coffee requires roasting, brewing, and a delicate balance of flavors, our joy is crafted through life's bitter trials. Like the careful extraction of flavors from the coffee grounds, God extracts our trust, faith, and love from the depths of our struggles. As we pour our hearts out to Him in prayer, the richness of His presence fills us, producing a joy that overflows and blesses those around us. The morning ritual of sipping coffee can be a sacred reminder to seek Him daily, allowing His joy to seep into every corner of our lives. Just as the crema on a well-crafted latte is a testament to the artistry of the brewer, our joy is a reflection of the craftsmanship of our loving Father.\n\n## Prayer\n\nWe thank You, Lord, for the bitter sweetness of life that brings us joy. Help us to extract every moment, every trial, and every pain to deepen our trust in You. Fill us with Your presence, and let our joy overflows as a blessing to those around us.\n\n## One-Line Application\n\nMay the bitter sweetness of life's trials deepen our trust in God's presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
