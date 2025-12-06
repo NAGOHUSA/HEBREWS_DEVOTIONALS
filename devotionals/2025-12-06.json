@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-06",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 215,
+  "theme": "coffee",
+  "content_markdown": "# A Brew of Faithfulness\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3 (NIV)\n\n## Reflection\n\nAs I watch the morning light stream through the windows, illuminating the pour-over process, I'm reminded of our own faith journeys. Just as the perfect balance of water and coffee grounds requires patience and attention, so too does our pursuit of faithfulness. We must be willing to sit in the stillness, allowing God to extract the rich flavors of His presence from our lives. The bitter notes of trials and tribulations can be overwhelming, but as we face them with perseverance, we discover a deeper, more nuanced faith – one that's rich with the crema of character. Just as a skilled barista coaxes the perfect blend from the roasted beans, God refines us through our trials, brewing a faith that's strong, yet gentle.\n\n## Prayer\n\nWe thank you, Lord, for the trials that test our faith and refine our character. Help us to face them with perseverance and to trust in your perfect extraction process.\n\n## One-Line Application\n\nAs we face life's trials, may we trust in God's refining process, cultivating a deeper, more nuanced faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
