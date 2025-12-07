@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-07",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 220,
+  "theme": "coffee",
+  "content_markdown": "# From the Grounds of Faith\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3 (NIV)\n\n## Reflection\n\nAs I watch the morning sun peek through the roasting room, I'm reminded of the process of faith development. Just as raw coffee beans must be carefully roasted to bring out their full flavor, our faith is refined through trials and testing. The bitter taste of adversity can be overwhelming, but as we face it head-on, our faith is purified, and our perseverance is strengthened. In the pour-over of life, we must be willing to let go of our preconceived notions and allow God to extract the truth from our circumstances. Just as the perfect crema forms on a well-brewed cup, our faith is transformed into a rich, satisfying experience when we surrender to God's refining process.\n\n## Prayer\n\nWe thank you, Lord, for the trials that test our faith and produce perseverance within us. Help us to see the refining process as a source of joy and strength, and to trust in your goodness even in the darkest of times. Amen.\n\n## One-Line Application\n\nAs I face trials, I will choose to see them as opportunities for faith refinement.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
