@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 242,
+  "theme": "coffee",
+  "content_markdown": "# \"Grounded in His Love\"\n\n## Scripture\n\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" \nEphesians 2:10 (NIV)\n\n## Reflection\n\nJust as a pour-over coffee requires careful planning and preparation, our lives are carefully crafted by God for a specific purpose. The art of roasting coffee brings out its unique flavors, and so our experiences, both joy and hardship, help refine our character and reveal the depths of God's love. The extraction process, where water brings out the flavors, is a reminder that it's in the midst of challenges that we discover our faith's strength. As we sip on a warm cup of coffee, we're reminded to savor each moment, to appreciate the intricate details of life, and to trust that our Creator is always at work in us. In the morning ritual of brewing coffee, we find a beautiful parallel to the daily discipline of surrendering to God's plans, allowing His love to guide every step of our journey.\n\n## Prayer\n\nWe thank you for crafting us with care, for preparing us for good works, and for guiding us in the midst of challenges. Help us to trust in Your plans and to savor each moment, that we may be the best version of ourselves for Your glory.\n\n## One-Line Application\n\nAs you start your day, surrender your plans to God, trusting in His goodness and purpose.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
