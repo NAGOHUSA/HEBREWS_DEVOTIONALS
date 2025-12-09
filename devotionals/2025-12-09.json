@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-09",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 205,
+  "theme": "coffee",
+  "content_markdown": "# Grounds for Humility\n\n## Scripture\n\n\"But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'\" - 2 Corinthians 12:9\n\n## Reflection\n\nAs the aroma of freshly roasted coffee fills the air, we're reminded of the importance of patience in the brewing process. Just as coffee beans must be carefully roasted to release their full flavor, our faith must be refined through trials to reveal its true strength. When we're tempted to rely on our own power, we must remember that true growth occurs in the midst of weakness. Just as a pour-over requires gentle pouring to coax out the perfect cup, our dependence on God's power is what makes us strong. We're called to let go of our need for control and instead, allow God's sufficiency to be our foundation. \n\n## Prayer\n\nWe confess our tendency to rely on our own strength, Lord. Help us to surrender to your power and trust in your sufficient grace. Pour your Spirit over us, that we may be refined in our weakness and experience your strength in our fragility.\n\n## One-Line Application\n\nLet go of your need for control, and trust in God's power to make you strong.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
