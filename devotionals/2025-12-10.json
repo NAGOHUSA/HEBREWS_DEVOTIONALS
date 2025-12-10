@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-10",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 265,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\nAs you therefore have received Christ Jesus the Lord, walk in him, rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving. Colossians 2:6-7\n\n## Reflection\n\nJust as a perfect cup of coffee requires patience, precision, and the right process, our walk with Christ demands dedication, discipline, and a deep understanding of our faith. As we prepare each day, we pour our hearts into the extraction process, allowing the flavors of scripture to permeate our lives. Like a pour-over, the Holy Spirit pours His presence into our vessels, cleansing and refining us, but it's up to us to allow the full extraction to take place. We must be careful not to rush this process, lest we sacrifice flavor and richness for the sake of speed. In the same way, we must slow down and immerse ourselves in the roast of scripture, allowing its warmth to penetrate our souls and transform us from the inside out. As we roast our hearts in His presence, we'll begin to reveal the crema of our true character, reflecting the beauty and goodness of Christ.\n\n## Prayer\n\nWe confess, Lord, that we often rush through our walk with You, sacrificing depth for speed. Help us to slow down, to immerse ourselves in Your word, and to allow the full extraction of Your presence in our lives.\n\n## One-Line Application\n\nAs you prepare for the day, take a moment to slow down, pour your heart into scripture, and allow the full extraction of God's presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
