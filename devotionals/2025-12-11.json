@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 241,
+  "theme": "coffee",
+  "content_markdown": "# Gracious Roast, Rich Life\n\n## Scripture\n\n\"So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal.\" \n2 Corinthians 4:18 (NIV)\n\n## Reflection\n\nAs a pour-over brew, our lives begin with a delicate balance of water and grounds, carefully measured and poured to reveal the flavors within. But just as the flavors unfold, so too do the struggles and challenges of life. It's easy to focus on the bitter notes, the imperfections, and the unseen difficulties. Yet, in God's presence, we find the richness that overflows and covers our imperfections. We must gaze past the temporary hardships and fix our eyes on the eternal, unseen, and unshakeable hope that He provides. Just as a good roast deepens and matures over time, our faith can be refined and strengthened as we trust in the One who is the source of all our true sustenance. As we surrender to His guidance, we discover that our lives are transformed into a full-bodied, life-giving experience.\n\n## Prayer\n\nWe ask, Lord, that You would help us fix our eyes on the eternal, unseen, and unshakeable hope that You provide. Give us a heart that gazes past the temporary hardships and trusts in Your guidance.\n\n## One-Line Application\n\nMay our faith be refined and strengthened as we trust in the One who is the source of all our true sustenance.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
