@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-12",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 244,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in His Presence\n\n## Scripture\n\n\"And the Lord will create over the whole site of Mount Zion and over her assemblies a cloud by day and smoke and the shining of a flaming fire by night, for over all the glory there will be a covering.\" - Isaiah 4:5 (ESV)\n\n## Reflection\n\nAs we begin our day, we often start with the simple yet profound act of brewing coffee. It's a process of extraction – carefully pouring hot water over finely ground beans to release their rich aroma and flavor. In a similar way, God wants to extract us from our daily routines and routines of sin, that He may be our covering and our glory. As we sit in His presence, we're reminded that we don't need to strive for our own glory, but instead, let God's glory shine through us. This is a daily process, just like brewing the perfect cup of coffee – requiring patience, attention to detail, and a willingness to surrender. Let's pour ourselves out before Him, and let His presence be our daily brew.\n\n## Prayer\n\nWe pray that you would be our covering and our glory, that we would be extracted from our own desires and be filled with Your presence, Lord. Help us to sit in Your presence each day, surrendering to Your refining fire and letting Your glory shine through us.\n\n## One-Line Application\n\nSurrender to God's refining fire in your daily life.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
