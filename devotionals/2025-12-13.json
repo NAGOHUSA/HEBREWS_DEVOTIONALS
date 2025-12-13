@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-13",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 268,
+  "theme": "coffee",
+  "content_markdown": "# \"Brewed in Hope\"\n\n## Scripture\n\n\"For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.\" - Jeremiah 29:11 (NIV)\n\n## Reflection\n\nJust as a skilled barista carefully crafts each pour-over, carefully extracting the perfect balance of flavors, our Father carefully crafts our lives, carefully extracting the good from the bad. The aroma of hope wafts through our days as He works all things together for our good. As the crema forms on a well-brewed cup, so too does the hope of our salvation emerge in the midst of life's chaos. And just as the morning ritual of sipping coffee helps us begin the day with intention and focus, our daily devotion to Him helps us begin each day with His purpose and peace.\n\nRoasting the bitter experiences of life can be a painful process, but it's through this refining fire that we're transformed into vessels that hold a deeper, richer faith. Just as the flavors of a well-balanced cup are more than the sum of its parts, so our lives are more than the sum of our struggles when we place our hope in the One who holds our future.\n\n## Prayer\n\nWe ask that You, our Barista God, would carefully craft our days, extracting the good from the bad, and forming in us a hope that overflows like the crema on a perfectly brewed cup. Help us begin each day with intention, focus, and peace.\n\n## One-Line Application\n\nMay the aroma of hope guide our daily steps.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
