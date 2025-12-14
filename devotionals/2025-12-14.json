@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 294,
+  "theme": "coffee",
+  "content_markdown": "# A Brewing Faith, A Flavorful Life\n\n## Scripture\n\n\"May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.\" \nRomans 15:13\n\n## Reflection\n\nJust as the art of roasting brings out the depth and richness of coffee, our trials can be seen as the roasting process of our faith. Like a well-roasted bean, the heat of adversity can bring out the sweetness and resilience of our trust in God. But just as a poorly roasted bean lacks the desired flavor, a faith that is not tempered by trials may lack the richness it needs to truly flourish. As we face the challenges of life, we must trust that the God of hope is working in us, brewing a deeper, sweeter faith that overflows with joy and peace.\n\nThe process of making coffee is a meditative ritual that requires patience and attention. We wait for the beans to bloom, pour the water over the grounds, and let the flavors meld together. In the same way, our faith is refined as we wait on God, surrendering our expectations and doubts, and letting the Holy Spirit work in us. The crema that forms on a well-crafted cup of coffee is a beautiful symbol of the peace and joy that result from a faith that has been carefully brewed.\n\n## Prayer\n\nWe pray that the God of hope would fill us with all joy and peace in believing, so that we may abound in hope, even in the midst of trials.\n\n## One-Line Application\n\nAs we face adversity, we trust that our faith will be refined, like a well-roasted coffee bean, to reveal a sweeter, more resilient trust in God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
