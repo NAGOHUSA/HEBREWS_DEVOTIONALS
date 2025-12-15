@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-15",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 234,
+  "theme": "coffee",
+  "content_markdown": "# Steeping in God's Presence\n\n## Scripture\n\n\"Now may the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.\" - Romans 15:13 (ESV)\n\n## Reflection\n\nAs the morning light creeps into the room, the aroma of freshly brewed coffee fills the air. It's a sensory experience that signals the start of a new day. Similarly, as we immerse ourselves in God's presence, we too can bask in the warmth of His hope and peace. Just as a pour-over requires patience and time for the right balance of water and coffee grounds to come together, our spiritual journey demands consistent time with God in prayer, scripture, and worship. It's in this 'steeping' process that we discover the true flavors of His character and the depth of His love. As we extract the richness of His presence into our lives, we're left with a taste that's both nourishing and life-giving. In this quiet time with God, may we find the hope that overflows into every aspect of our lives.\n\n## Prayer\n\nWe pour ourselves out before You, God, and ask that You fill us with Your hope and peace. May our time with You today be a reminder of Your presence and love.\n\n## One-Line Application\n\nMay regular time with God be the 'steeping' process that nourishes your soul.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
