@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-16",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 250,
+  "theme": "coffee",
+  "content_markdown": "# Savoring the Fragrance of Faithfulness\n\n## Scripture\n\n\"My son, be like the wise craftsman who builds his house on the rock. The rain came down, the floods rose, and the winds howled and pounded that house, but it did not collapse because its foundation was on the rock.\" - Matthew 7:24-25 (NLT)\n\n## Reflection\n\nAs I stand at the pour-over, watching the coffee slowly drip through the grounds, I'm reminded of the process of building a life of faith. Just as the pour-over requires patience and attention to detail, our faith requires us to be intentional about our foundation. The aroma of freshly brewed coffee fills the air, symbolizing the fragrance of faithfulness that comes from living out our values and principles. Just as a rich crema forms on top of a well-extracted cup, our lives are transformed when we anchor ourselves in the rock of God's Word. As we navigate life's challenges, may we be like the wise craftsman, building our lives on the solid foundation of faith, and may our lives exude the fragrance of faithfulness to those around us.\n\n## Prayer\n\nWe thank you, Lord, for the reminder to build our lives on the rock of your Word. Help us to be intentional about our foundation, to be patient and attentive to the process of growth, and to let our lives be a fragrant offering to you and those around us.\n\n## One-Line Application\n\nMay our lives be the fragrance of faithfulness, rooted in God's Word.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
