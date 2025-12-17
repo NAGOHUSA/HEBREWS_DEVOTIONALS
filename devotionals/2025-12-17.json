@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-17",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 260,
+  "theme": "coffee",
+  "content_markdown": "# The Daily Grind of Faithfulness\n\n## Scripture\n\n\"As for you, you were dead in your transgressions and sins, in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient. All of us also lived among them at one time, gratifying the cravings of our sinful nature and following its desires and thoughts. Like the rest, we were by nature objects of wrath.\"\n\n— Ephesians 2:1-3 (NIV)\n\n## Reflection\n\nJust as a pour-over brew requires patience and attention to detail, our faith journey demands a steady effort to extract the depths of God's love and truth from our lives. We must not rush through the process, lest we miss the rich flavors of His presence. As we grind through the daily routines, we may feel like we're just going through the motions, but it's in these moments that we can discover the crema of God's goodness rising above our trials. The roasting of our faith, though sometimes painful, can refine us into vessels fit for His use. Will we savor the aroma of His presence or let it fade like a cold cup of coffee?\n\n## Prayer\n\nWe pray that you would help us to slow down, to savor the aroma of your presence, and to allow your Spirit to roast us into vessels fit for your use.\n\n## One-Line Application\n\nLet patience and attention to detail be the daily grind of your faith journey.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
