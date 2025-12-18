@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-18",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 278,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"But you, O God, do see trouble and grief; you see that the helpless have no one to defend them. And justice cannot be delivered; God has blocked every way, so that justice is turned back; and the culprit has become a powerful man.\" - Psalm 109:31-32 (ESV)\n\n## Reflection\n\nAs a pour-over, our lives can appear fragile and fragile, subject to the whims of the world. Yet, just as the delicate balance of flavors in a rich cup of coffee relies on a precise brewing process, so too does our faith. In times of turmoil, it's easy to lose sight of God's presence. Just as the coffee roaster must carefully balance temperature and time to coax the perfect flavor, we must learn to trust in the Lord's sovereignty, even when circumstances seem to block our path. The aroma of God's presence wafts through the bitter brew of hardship, reminding us that He is always working, even when we can't see His hand. As we seek to be grounded in His presence, we must submit to His refining process, allowing Him to extract the impurities from our lives, that we might be transformed into a rich and satisfying reflection of His love.\n\n## Prayer\n\nWe ask that You, Lord, would help us to trust in Your presence, even in the midst of trouble and grief. Help us to see that You are always working, refining us through life's challenges, that we might be transformed into a sweet and satisfying reflection of Your love.\n\n## One-Line Application\n\nMay our lives be a rich and satisfying reflection of God's love in the world.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
