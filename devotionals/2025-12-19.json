@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-19",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 229,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Faithfulness\n\n## Scripture\n\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" - Ephesians 2:10 (NIV)\n\n## Reflection\n\nAs I sit here savoring the aroma of freshly roasted coffee, I'm reminded of the intricate process involved in brewing the perfect cup. It begins with carefully selected beans, roasted to bring out their unique flavor. Next, the beans are ground and subjected to hot water, allowing for the extraction of their essence. In this moment, the brew comes alive, a rich and complex mixture of flavors. Just as the coffee's flavors are coaxed from the beans, God has prepared good works for us to do, and it's in our surrender to Him that we find our purpose and meaning. As we walk with Him, we become a vessel, allowing His goodness to flow through us, transforming us and others. The brew of our lives, influenced by His presence, becomes a reflection of His love.\n\n## Prayer\n\nWe thank you, Lord, for preparing us for good works and for the gift of faithfulness that comes from You. Help us to submit to Your will and allow Your goodness to flow through us.\n\n## One-Line Application\n\nAs I pour my heart and life into Your service, Lord, help my efforts be a reflection of Your loving heart.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
