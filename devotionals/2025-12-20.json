@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-20",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 208,
+  "theme": "coffee",
+  "content_markdown": "# A Roast of Faithfulness\n\n## Scripture\n\n\"But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'\" - 2 Corinthians 12:9\n\n## Reflection\n\nJust as a skilled roaster carefully crafts the perfect roast, we must surrender our lives to the Master Roaster, entrusting our faithfulness to His sovereign guidance. Like the delicate balance between roasting and burning, we must walk the narrow path between confidence and complacency, trusting that His power is made perfect in our weakness. The morning ritual of savoring a perfectly brewed cup reminds us of the joy and satisfaction found in surrendering our lives to His will. As we pour over His Word, may we be refined by the fire of His presence, our hearts transformed by the extraction of His truth. May our faithfulness be a testament to the perfect roast of His love, poured out for us in the most unexpected way.\n\n## Prayer\n\nWe surrender our faithfulness to Your sovereign guidance, Master Roaster. Help us walk the narrow path between confidence and complacency, trusting that Your power is made perfect in our weakness.\n\n## One-Line Application\n\nSurrender your life to the Master Roaster, trusting His power is made perfect in your weakness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
