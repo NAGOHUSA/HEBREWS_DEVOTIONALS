@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-21",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 204,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in Love's Aroma\n\n## Scripture\n\"May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.\" - Romans 15:13\n\n## Reflection\nAs I prepare my morning coffee, I'm reminded of the intentional steps involved in extraction. The right balance of water and coffee, the precise temperature, and the gentle pour-over all come together to bring out the rich flavors. Similarly, our faith journey requires us to be intentional about cultivating a deep relationship with God. We must allow the Holy Spirit to guide us, just as the water guides the extraction process, and trust that He will help us 'abound in hope.' As we begin each day, let's not rush through our quiet time or Bible reading, but instead, take the time to simmer in His presence, allowing the aroma of His love to fill our hearts.\n\n## Prayer\nWe ask that the God of hope would fill us with all joy and peace in our faith, and that by the power of the Holy Spirit, we may abound in hope.\n\n## One-Line Application\nLet's intentionally slow down and simmer in God's presence each morning.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
