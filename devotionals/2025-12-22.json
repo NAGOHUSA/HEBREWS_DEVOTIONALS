@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-22",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 213,
+  "theme": "coffee",
+  "content_markdown": "# Roasted in the Fire\n\n## Scripture\n\n\"For God is not a God of disorder but of peace—as in all the congregations of the Lord's people.\" 1 Corinthians 14:33 (NIV)\n\n## Reflection\n\nAs I watch the barista expertly roast and brew our morning coffee, I'm reminded that our faith is refined in the fires of trial. Like the roasting process, our struggles can be intense and transformative. They strip away impurities, leaving us more refined and fragrant. In this way, God is not a God of disorder but of peace, working through our struggles to shape us into vessels that reflect His character. Just as the aroma of freshly roasted coffee fills the air, our trials can fill us with the sweet scent of Christ's presence, drawing others to Him. As we face challenges in our lives, we must trust that God is at work, refining us for His glory, and that He will bring peace from the ashes of our struggles.\n\n## Prayer\n\nWe thank you, Lord, for the fires of trial that refine us and bring us closer to your heart. Help us trust in your sovereign plan, even when the flames seem intense.\n\n## One-Line Application\nTrust God's refining fire to transform you, transforming your struggles into opportunities for growth.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
