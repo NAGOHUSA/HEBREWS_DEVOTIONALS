@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 241,
+  "theme": "coffee",
+  "content_markdown": "# A Roasted Heart: Savoring God's Presence\n\n## \"May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.\" - Romans 15:13\n\n## Reflection\nAs I sit here with a freshly brewed cup of coffee, the aroma fills the air, reminding me of the fragrant presence of God. Just as the roasting process brings out the depth of flavor in coffee beans, our trials and struggles can refine and deepen our faith. The extraction process, where the coffee grounds release their essence, parallels the way God's Spirit extracts our faith, allowing it to grow and mature. As we surrender to Him, He pours over us, filling us with joy, peace, and hope. In the morning ritual of devotion, we pause to appreciate the beauty of God's presence, just as we savor the taste and aroma of a well-made cup. May our hearts be roasted by His fire, that we might abound in hope, trusting in His goodness and sovereignty.\n\n## Prayer\nWe come before You, Lord, and ask that You fill our lives with joy and peace in believing. Help us to trust in Your power and presence, that we may abound in hope and be a source of encouragement to those around us.\n\n## One-Line Application\nMay our morning devotion be a time to intentionally savor God's presence and trust in His goodness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
