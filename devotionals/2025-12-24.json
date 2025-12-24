@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 255,
+  "theme": "coffee",
+  "content_markdown": "# Brewing a Life of Abundance\n\n## Scripture\n\n\"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.\" - John 3:16 (NIV)\n\n## Reflection\n\nJust as a skilled barista carefully roasts and brews the perfect cup of coffee, our heavenly Father expertly weaves our lives with purpose and love. As the aroma of freshly brewed coffee fills the air, our souls are lifted by the presence of God, inviting us to partake in the richness of His love. Just as extraction is the key to unlocking the full flavor of the coffee, our faith is the means by which we experience the fullness of God's life. In the quiet morning ritual of devotion, we pour out our hearts, allowing the Holy Spirit to extract the deep longing within us, yielding a rich crema of intimacy with our Creator. May we recognize the value of being rooted in Christ, just as a coffee plant is nourished by the rich soil of faith, that we may bear fruit in abundance, for His glory.\n\n## Prayer\n\nHelp us, Lord, to be rooted in Your love and to experience the depth of Your presence in our daily lives. We ask that You guide us to pour out our hearts to You, and that You extract the longing within us, yielding a rich intimacy with You.\n\n## One-Line Application\n\nMay our faith be the catalyst for experiencing the fullness of God's life in us.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
