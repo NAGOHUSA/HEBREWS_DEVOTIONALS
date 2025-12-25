@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 216,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Hope in the Darkest Nights\n\n## Scripture\n\n\"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.\" - John 3:16 (NIV)\n\n## Reflection\n\nAs I stand in my kitchen, the aroma of freshly roasted coffee fills the air, reminding me of the morning ritual that brings warmth to my day. Just as coffee beans need to be roasted to unlock their full flavor, we often need the refining fires of life to reveal our true character. As we navigate the darkness, God's love is the perfect roast, bringing depth and richness to our souls. Just as a pour-over requires patience and attention, our faith demands intentional investment, allowing us to extract the sweetness of God's presence. In the midst of winter's chill, let us remember that God's love is the crema that crowns our lives, making even the darkest nights a time for hope and renewal.\n\n## Prayer\n\nWe pray for the patience to invest in our faith, just as we invest time in the perfect cup, trusting that Your love will be the crema that crowns our lives.\n\n## One-Line Application\n\nMay we intentionally cultivate a deeper understanding of God's love in the midst of life's darkness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
