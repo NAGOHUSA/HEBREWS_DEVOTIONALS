@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-26",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 192,
+  "theme": "coffee",
+  "content_markdown": "# Roasted to Perfection in His Presence\n\n## Scripture\n\"But he knows the way that I take; when he has tested me, I shall come forth as gold.\"  \n– Job 23:10 (ESV)\n\n## Reflection\nJust as a roast master carefully monitors the roasting process to bring out the perfect balance of flavors and aromas in their coffee, God meticulously refines us in His presence. He gently extracts our impurities, allowing us to emerge stronger, richer, and more radiant, just like the deep, velvety crema that forms on a well-crafted cup of coffee. As we surrender to His refining fire, we come to understand that He is not interested in destroying us but in redeeming us, transforming our ashes into beauty. In the morning ritual of devotion, we can trust that His loving gaze is on us, carefully brewing a day of purpose and meaning.\n\n## Prayer\nWe come to You, Lord, willing to be roasted to perfection in Your presence. Refine us, test us, and shape us into vessels that honor You.\n\n## One-Line Application\nAs we submit to God's refining fire, we emerge stronger and more radiant, like perfectly roasted coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
