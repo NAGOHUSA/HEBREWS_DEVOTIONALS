@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-27",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 227,
+  "theme": "coffee",
+  "content_markdown": "# Grounding in God's Presence\n\n## Scripture\n\"May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.\" - Romans 15:13 (ESV)\n\n## Reflection\nAs I sit with a freshly brewed cup of coffee, I'm reminded of the importance of slowing down and savoring the moment. The pour-over process, where I carefully pour hot water over the grounds, is a slow and deliberate dance between extraction and creation. In a world that values speed and efficiency, it's easy to rush through our days without pausing to acknowledge God's presence. But just as the perfect crema forms on a well-crafted cup of coffee, our souls are nourished by the slow and steady work of the Holy Spirit. As we abide in God's presence, we become like the rich aroma of freshly roasted coffee, filling the air with hope and joy. We become the fragrance of Christ to those around us, a reminder of His love and presence in a world that often forgets.\n\n## Prayer\nWe pray for the slow and steady work of the Holy Spirit in our lives, that we may abound in hope and be the fragrance of Christ to those around us.\n\n## One-Line Application\nPause to slow down and savor God's presence in your daily life.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
