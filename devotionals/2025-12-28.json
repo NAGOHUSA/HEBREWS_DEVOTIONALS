@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-28",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 210,
+  "theme": "coffee",
+  "content_markdown": "# The Perfect Cup of Faith\n\n## Scripture\n\"May God be gracious to us and bless us and make his face shine upon us.\" - Psalm 67:1 (ESV)\n\n## Reflection\nAs I stand over the pour-over, watching the coffee flow, I'm reminded of the process of faith. Just as the coffee grounds need to be saturated with water to release their flavor, our souls need to be saturated with God's presence to release our full potential. The roasting process, where heat and time transform the raw bean into a rich flavor, is a picture of the transformation that takes place in our lives as we submit to God's refining work. As we drink in the aroma of God's presence, we're reminded that faith is not just about what we know, but about the depth of our relationship with Him. Just as the crema forms on a well-crafted cup, our faith is strengthened as we consistently practice our morning ritual with God - prayer, scripture, and surrender.\n\n## Prayer\nWe ask that you would bless us and make your face shine upon us, releasing the full flavor of your presence in our lives.\n\n## One-Line Application\nAs you begin your day, take a moment to saturate your soul with God's presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
