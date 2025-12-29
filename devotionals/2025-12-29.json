@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 217,
+  "theme": "coffee",
+  "content_markdown": "# Grounding in the Roast\n\n## Scripture\n\n\"Consider the ravens: They do not sow or reap, they have neither storehouse nor barn, yet God feeds them. And how much more valuable are you than birds!\" - Matthew 6:26 (NIV)\n\n## Reflection\n\nJust as a skilled roaster carefully selects, roasts, and extracts the perfect blend, our Father in heaven meticulously crafts our individual lives. The rich crema on a well-made pour-over reflects the divine beauty He pours into ours. Every morning, like the anticipation of a fresh cup, we begin anew, ready to face the day's challenges. Yet, it's the unassuming daily grind that fosters true depth. As we're grounded in His presence, the complexities of life become manageable, and we're reminded that His care is consistent and dependable. Just as the coffee bean's full potential is unlocked through a precise brewing process, we're called to trust the intricate, loving process of our Lord's guidance in our lives.\n\n## Prayer\n\nWe confess, Lord, that we often doubt Your care and wisdom in our daily struggles. Help us trust in Your goodness, even when life's brews are bitter.\n\n## One-Line Application\n\nAs you pour your heart out to God today, remember that His care for you is as constant as the aroma that lingers after a freshly roasted cup.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
