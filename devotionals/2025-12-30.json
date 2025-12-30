@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-30",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 254,
+  "theme": "coffee",
+  "content_markdown": "# \"A Brewing Relationship with God\"\n\n## Scripture\n\"Draw near to God and he will draw near to you.\" - James 4:8\n\n## Reflection\nAs I sit here savoring the rich aroma of freshly brewed coffee, I'm reminded of the importance of drawing near to God. Just as the pour-over method requires patience and attention to detail, our spiritual journey demands a similar commitment. We must be intentional about extracting the depths of God's character, His goodness, and His love. Like the roasting process that brings out the full flavor of the coffee bean, our trials and hardships can refine us, making us more dependent on God's presence in our lives. The crema that forms on the surface of a well-crafted cup is a testament to the perfect balance of flavors and textures – may we strive for a similar harmony in our relationship with God, where His presence is the rich, velvety center of our lives. As we begin each day, let us acknowledge God's presence, just as the morning ritual of brewing coffee is a sensory delight that signals the start of a new day.\n\n## Prayer\nWe draw near to you, Lord, and ask that you would draw near to us. Help us to be intentional in our pursuit of you, to extract the depths of your character and to refine us through trials and hardships. May our relationship with you be the rich, velvety center of our lives.\n\n## One-Line Application\nPrioritize intentional moments of connection with God each day.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
