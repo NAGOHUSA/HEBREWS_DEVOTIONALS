@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2025-12-31",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 256,
+  "theme": "coffee",
+  "content_markdown": "# Steaming Cups of Joy\n\n## Scripture\n\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" - Ephesians 2:10\n\n## Reflection\n\nAs I sit down with my morning cup of coffee, the aroma fills the air, reminding me of the warmth and love that God has prepared for me. Just as a perfect pour-over requires careful attention to detail and patience, our journey of faith demands a willingness to be refined and molded by God. The roasting process that transforms green coffee beans into a rich, full-bodied brew parallels the transformation that takes place in our lives as we surrender to God's will. Just as a skilled barista coaxes the perfect extraction from each bean, God patiently extracts the good works He has prepared for us to do, using our unique talents and gifts to bring glory to Himself. As I sip my coffee, I'm reminded that my purpose is not just to enjoy the flavor, but to be a vessel for the joy and love that God has prepared for me to share with others.\n\n## Prayer\n\nWe thank you, Lord, for the gifts and talents you've given us, and for the good works you've prepared for us to do. Help us to be willing to be refined and molded by you, that we might be used to bring joy and love to those around us.\n\n## One-Line Application\n\nMay our daily lives be a sweet extraction of God's love and purpose.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
