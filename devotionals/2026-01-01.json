@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-01",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 242,
+  "theme": "coffee",
+  "content_markdown": "# Savoring the Divine in Each Moment\n\n## Scripture\n\n\"But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us.\" \n2 Corinthians 4:7 (ESV)\n\n## Reflection\n\nAs I sit with my morning coffee, the aroma fills the air, a sweet reminder of the daily ritual that brings me joy. Just as a skilled barista carefully measures and mixes the coffee grounds, we must be intentional about how we mix the ingredients of our lives. We must allow God's power to be the dominant flavor, not our own strengths or weaknesses. Just as the pour-over method allows for a nuanced extraction of flavors, our time with God should be a slow and deliberate process, allowing His word to seep into the deepest parts of our hearts. As we roast our daily routines and struggles through the fire of God's word, we come out refined and transformed, with a rich crema of faith that brings joy to those around us.\n\n## Prayer\n\nWe ask that You would be the dominant flavor in our lives, that Your power and presence would be the driving force behind every decision and action. Help us to be intentional about our time with You, and to allow Your word to be the guiding principle in all that we do.\n\n## One-Line Application\n\nAllow God's power to be the dominant flavor in your life, guiding your decisions and actions.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
