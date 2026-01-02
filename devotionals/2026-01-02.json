@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-02",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 240,
+  "theme": "coffee",
+  "content_markdown": "# Grounding in the Roast of God's Presence\n\n## Scripture\n\n\"I will be their God; even though they are children born for my oppressors, they will be the ones to say of me, 'God, you are our Father,' and they will be the ones to say of you, 'They are my children.'\" - Isaiah 43:6 (NIV)\n\n## Reflection\n\nRoasting coffee transforms its flavor and aroma, revealing the depth within. In the same way, our faith is not just about a surface-level experience, but a deeper, richer relationship with God. Isaiah 43:6 reminds us that God's presence in our lives is a transformation, making us His children, and in turn, allowing us to call Him our Father. Just as a carefully roasted coffee bean reveals its unique flavor, our faith, rooted in God's presence, gives us a distinct identity in the world. This identity is not about who we were or what we've done, but about who we are in Christ – loved, redeemed, and transformed. Our morning ritual, like a pour-over, can be a reminder of this truth, as we slow down, savor, and seek God's presence in our lives.\n\n## Prayer\n\nWe thank you, Lord, for transforming us into your children, and for being our Father. Help us to savor your presence in our lives, and to reveal your love to a world in need.\n\n## One-Line Application\n\nSlow down, savor God's presence, and let it transform your faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
