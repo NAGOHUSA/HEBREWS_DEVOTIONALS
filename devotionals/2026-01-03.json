@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-03",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 229,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Faithfulness in the Morning\n\n## Scripture\n\n\"Yet he did not waver through unbelief regarding the promise of God, but was strengthened in his faith and gave glory to God, being fully convinced that God was able to do what he had promised.\" - Romans 4:20-21 (ESV)\n\n## Reflection\n\nJust as a skilled barista must carefully roast beans to bring out their full flavor, our faith is refined and strengthened through trials and testing. We are not simply poured into a cup, but rather, we are processed, roasted, and brewed to reveal the true depths of our relationship with God. The morning ritual of prayer and devotion is like the pour-over process, where our hearts are slowly saturated with the truth of God's Word, and our faith is extracted, clarified, and made rich. Just as a rich crema forms on a well-made cup of coffee, our faithfulness is a natural byproduct of a deepening relationship with God.\n\n## Prayer\n\nWe pray that our faith will be strengthened and refined like a perfectly roasted cup of coffee, revealing the true beauty and depth of our relationship with You, God. Help us to be fully convinced of Your promises and to give You the glory in all things.\n\n## One-Line Application\n\nLet the morning ritual of prayer and devotion be your pour-over process, slowly saturating your heart with God's Word.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
