@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 219,
+  "theme": "coffee",
+  "content_markdown": "# Bitter Roots, Rich Harvest\n\n## Scripture\n\"For you have been my help; do not leave me or forsake me, O God, my Savior.\" - Psalms 119:108\n\n## Reflection\nAs a pour-over brew, our hearts begin with bitter roots of doubt and uncertainty. But through the process of extraction, God's love and presence slowly rise to the surface, filling us with a richness that overflows. Like the crema on a well-crafted cup, our joy and peace are the culmination of a deeper, often unseen, process of refinement. As we sit each morning with our coffee, we are reminded that our relationship with God is also a daily ritual, one that requires patience, attention, and surrender. In the stillness, we can invite God to extract the bitter parts of our hearts, making room for the rich harvest of His presence.\n\n## Prayer\nAs we begin this new day, we ask that You would help us to trust in Your presence, even when the roots of doubt and fear arise. We pray that like the perfect pour-over, You would gently extract the bitterness from our hearts, filling us with Your love and peace.\n\n## One-Line Application\nAs we start our day, let us invite God to extract the bitter roots of our hearts and fill us with His rich, life-giving presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
