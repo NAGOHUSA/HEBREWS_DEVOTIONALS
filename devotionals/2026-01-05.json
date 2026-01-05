@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-05",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 255,
+  "theme": "coffee",
+  "content_markdown": "# A Richer Flavor Through Suffering\n\n## 1 Peter 5:10\n\n\"Do not be surprised at the fiery ordeal that has come on you to test you, as though something strange were happening to you. But rejoice inasmuch as you participate in the sufferings of Christ, so that you may be overjoyed when his glory is revealed.\" - 1 Peter 5:10 (NIV)\n\n## Reflection\n\nThe roasting process of coffee beans is a complex transformation, often involving intense heat and time. The resulting flavors may be bolder and more complex than before. In a similar way, our sufferings can be like the roasting process, refining and transforming us into something richer and more valuable. We may feel like we're being put through the wringer, but it's in the midst of these trials that we're being prepared for a deeper intimacy with Christ. As we're extracted from our comfort zones and poured over with the challenges of life, we're being refined, our faith strengthened, and our love for Christ deepened. The aroma of suffering may not be pleasant, but it's in these moments that we're being made to smell like Christ.\n\n## Prayer\n\nWe thank you for the refining fire that burns within us. Help us to rejoice in the midst of suffering, knowing that it's a process that makes us more like you. Give us the strength to endure and the joy to participate in the sufferings of Christ.\n\n## One-Line Application\nWe can trust that our sufferings are refining us for a deeper intimacy with Christ.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
