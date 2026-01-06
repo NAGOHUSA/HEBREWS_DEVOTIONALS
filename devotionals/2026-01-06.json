@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-06",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 219,
+  "theme": "coffee",
+  "content_markdown": "# Grounding Ourselves in the Morning Brew\n\n## Scripture\n\n\"But seek first the kingdom of God and his righteousness, and all these things will be added to you.\" - Matthew 6:33 (ESV)\n\n## Reflection\n\nAs I stand at the coffee machine, waiting for the perfect pour-over, I'm reminded that our walk with God requires patience and attention to detail. Just as a well-brewed cup of coffee requires a delicate balance of temperature, time, and pressure, our spiritual lives need a balance of seeking God's presence and trusting in His provision. The roasting process that brings out the rich flavor of coffee is like the trials and challenges we face in life – they refine us and help us extract the sweetness of God's presence. As we begin each day, let's slow down, like the gentle pour-over, and allow the aroma of God's presence to fill our lives, guiding us to seek first His kingdom.\n\n## Prayer\n\nWe ask you, Lord, to help us slow down and seek Your presence in our daily lives, just as we savor the flavor of a well-brewed cup of coffee. Help us trust in Your provision and provisionally seek Your kingdom in every moment.\n\n## One-Line Application\n\nMay our daily routines be infused with a deep longing to seek God's kingdom above all else.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
