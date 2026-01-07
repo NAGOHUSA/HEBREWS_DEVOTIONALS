@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-07",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 249,
+  "theme": "coffee",
+  "content_markdown": "# Roasted for the Morning\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds,  because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.\" - James 1:2-4 (NIV)\n\n## Reflection\n\nAs I sit here with a fresh cup of coffee, the aroma fills my senses, reminding me of the beauty of the brewing process. It begins with the roasting, where the beans are exposed to high heat, changing their flavor and color. In the same way, our faith is refined through trials and tests, producing perseverance that helps us mature and grow. Just as the coffee extract is carefully extracted from the grounds, our character is extracted from the fire, revealing the depth and richness of our faith. As we face the trials of life, we must trust that the process is working, even when it's hard to see. And just as a perfectly poured-over coffee requires patience and attention to detail, our faith requires us to be intentional and present in the midst of difficulty.\n\n## Prayer\n\nWe thank you for the refining process of trials and tests that shape our faith, Lord. Help us to trust in your goodness and to persevere through the difficulties of life, knowing that maturity and completeness are on the horizon.\n\n## One-Line Application\n\nLet perseverance be the process that refines your faith, producing maturity and completeness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
