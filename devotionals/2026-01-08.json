@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 236,
+  "theme": "coffee",
+  "content_markdown": "# From the Heart of the Roast\n\n## Scripture\n\n\"For God is not a God of disorder but of peace—as in all the congregations of the Lord's people.\" - 1 Corinthians 14:33 (NIV)\n\n## Reflection\n\nAs I watch the roasting process, I'm reminded of the importance of refining and purifying our lives as followers of Christ. Just as green coffee beans need to be exposed to heat to bring out their full flavor, our faith needs to be tested and refined through trials and hardships to become more like the Son of God. The crema that forms on a well-extracted cup of coffee is a result of the perfect balance of pressure, temperature, and time – a beautiful visual representation of the harmony and balance that Christ brings to our lives. Just as I carefully pour the steaming brew into my cup, we must carefully pour our hearts and lives into the world around us, allowing the love of Christ to overflow in every aspect of our being.\n\n## Prayer\n\nWe ask that you would refine our hearts, Lord, and help us to become more like Christ in every way. May our lives be a beautiful balance of faith and love, poured out to the world as a fragrant offering to you.\n\n## One-Line Application\n\nLet our lives be a fragrant offering, poured out to the world as a result of Christ's refining work in us.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
