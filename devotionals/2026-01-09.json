@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-09",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 283,
+  "theme": "coffee",
+  "content_markdown": "# A Richer Brew of Faith\n\n## Scripture\n\n\"So neither the one who plants nor the one who waters is anything, but only God who gives the growth. Now the one who plants and the one who waters are one, and each will receive his wages according to his labor. For we are God's fellow workers; you are God's field, God's building.\" - 1 Corinthians 3:7-9 (ESV)\n\n## Reflection\n\nAs I stand over my pour-over, I'm reminded that my role in the brewing process is not the primary one. The coffee beans have undergone a long journey of roasting, grinding, and storage before reaching my hands. As I slowly pour the water, I'm aware that the true growth and flavor come from the gentle heat and patient attention of the process.\n\nIn the same way, my role as a Christian is not the primary one in the growth of faith. I'm merely a fellow worker, alongside God, in the lives of those around me. As I reflect on my own faith journey, I see the many seasons of growth that have come from God's patient attention and care. Just as the crema forms on the surface of a well-crafted coffee, so too does God's presence and power form the surface of our lives when we trust in Him.\n\n## Prayer\n\nWe thank you, God, for your patience and care in our lives. Help us to recognize our roles as fellow workers, and to give you the glory for the growth and flavor that comes from your presence.\n\n## One-Line Application\n\nAs I brew my faith, I'll trust in God's gentle heat and patient attention to bring growth and flavor to those around me.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
