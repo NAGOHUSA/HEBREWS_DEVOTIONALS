@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-10",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 247,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"For you are a chosen people, a royal priesthood, a holy nation, God's special possession, that you may declare the praises of him who called you out of darkness into his wonderful light.\" - 1 Peter 2:9 (NIV)\n\n## Reflection\n\nAs I sit with a freshly brewed cup of coffee, I'm reminded of the process that brings out its rich flavor. The beans must be carefully selected, roasted to perfection, and then ground to unlock their full potential. Just as the pour-over method requires patience and attention to detail, so too does our walk with God. We must be intentional in selecting the right spiritual practices, roasting our hearts with prayer and scripture, and allowing the Holy Spirit to extract the sweetness of God's presence. As we savor the aroma of His goodness, we're called to declare His praises to a world still shrouded in darkness. May our morning ritual be a time of intentional devotion, where we're grounded in His presence and equipped to share His light with others.\n\n## Prayer\n\nWe thank you, Lord, for the gift of your presence in our lives. Help us to be intentional in our daily devotion, allowing your Spirit to extract the sweetness of your goodness in us. May our lives be a declaration of your praises.\n\n## One-Line Application\n\nAs I begin my day, I will intentionally prioritize a quiet time with God, allowing His presence to guide and equip me.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
