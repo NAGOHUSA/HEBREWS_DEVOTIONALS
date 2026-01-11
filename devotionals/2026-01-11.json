@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 231,
+  "theme": "coffee",
+  "content_markdown": "# From the Roast of Faithfulness\n\n## Scripture\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.\" - James 1:2-4\n\n## Reflection\nJust as a skilled roaster carefully chooses the right blend of beans to create a rich and complex flavor, we too must carefully select the trials that come our way. The heat of adversity can be intense, but it's in these moments that our faith is refined and our character is formed. Like the delicate process of pour-over, where the gentle flow of water extracts the perfect balance of flavors, we must allow God to extract the fullness of our potential in the midst of trials. And just as a well-crafted cup of coffee requires patience and attention to detail, we must be willing to slow down, be still, and trust in God's goodness.\n\n## Prayer\nWe thank you for the refining fire of trials, Lord. Help us to see the value in perseverance and to trust in your goodness, even when the road ahead seems uncertain. May our faith be mature and complete, lacking nothing.\n\n## One-Line Application\nTrust in God's goodness, even in the midst of adversity, and allow trials to refine your faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
