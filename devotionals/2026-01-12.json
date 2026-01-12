@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-12",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 246,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in Unity\n\n## Scripture\n\"Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, not looking to your own interests but each of you to the interests of the others.\" - Philippians 2:3-4 (NIV)\n\n## Reflection\nJust as the best coffee is brewed when individual elements come together in perfect harmony, our relationships and community thrive when we prioritize others' interests over our own. The roasting process, extraction, and pour-over are all essential steps in crafting a rich, full-bodied coffee experience, but they're meaningless without the careful balance of each component. Similarly, as followers of Christ, we're called to value humility and serve one another, rather than seeking our own interests. As we go about our day, let's consider how we can be the \"grounds\" that bring people together, the \"brew\" that nourishes and uplifts those around us. When we prioritize unity and service, we create a cup of community that's sweet and satisfying – a true delight to God and to those who taste it.\n\n## Prayer\nWe pray for a heart of humility and a spirit of unity. Help us to value others above ourselves, and to use our unique gifts and talents to serve the greater good. May our relationships be a reflection of Your love and a source of strength and joy to those around us.\n\n## One-Line Application\nAs I interact with others, I will prioritize their interests and serve them with humility.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
