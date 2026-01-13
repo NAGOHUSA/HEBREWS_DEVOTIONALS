@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-13",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 237,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Hope in the Dark Times\n\n## Scripture\n\n\"But they who wait for the Lord shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.\" - Isaiah 40:31 (ESV)\n\n## Reflection\n\nAs we prepare our morning coffee, we're reminded of the intentional steps involved in brewing a perfect cup. The process starts with selecting high-quality beans, which represents the importance of seeking wisdom from God's Word. Roasting brings out the unique flavor of each bean, symbolizing the transformative power of God's truth in our lives. The pour-over method requires patience, just as we must wait for God's timing in our journey. As the coffee drips, it allows the flavors to extract, illustrating the gradual work of sanctification in us. Finally, the crema on top represents the beauty and richness that comes from patiently waiting on God. Just as a well-brewed cup is a labor of love, our faith journey requires commitment, trust, and surrender.\n\n## Prayer\n\nWe confess that waiting on you can be difficult, Lord. Help us to trust in your goodness and timing. Grant us the strength to persevere in the dark times, knowing that you are working all things for our good.\n\n## One-Line Application\n\nAs we face life's uncertainties, let us commit to a steady pour of faith, trusting in God's perfect brew of strength and hope.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
