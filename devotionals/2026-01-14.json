@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 258,
+  "theme": "coffee",
+  "content_markdown": "# The Daily Grind of Faithfulness\n\n## Scripture\n\n\"But whoever drinks of the water that I shall give him will never be thirsty again. The water that I shall give him will become in him a spring of water welling up to eternal life.\" - Jesus (John 4:14)\n\n## Reflection\n\nAs we pour over the Bible, seeking to extract the precious truths of God's Word, we often find ourselves thirsty for more. But Jesus promises that the Living Water He gives will not only quench our spiritual thirst but also become a spring of life within us. The roasting process of trials and tribulations can be bitter, but it is through this process that we are refined and made more fragrant, like freshly roasted coffee beans. As we engage in our daily morning ritual of prayer and Bible study, we must be intentional about allowing the Word to penetrate our hearts and become a source of life-giving power. This is not a one-time event, but a continuous process of extraction, where we return to the Word, again and again, allowing it to transform us from the inside out.\n\n## Prayer\n\nWe thank you, Father, for the gift of your Living Water, which becomes a spring of life within us. Help us to be intentional in our daily grind of faithfulness, returning to your Word and allowing it to penetrate our hearts and transform us.\n\n## One-Line Application\n\nMay our daily Bible study be a continuous process of extraction, allowing God's Word to transform us from the inside out.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
