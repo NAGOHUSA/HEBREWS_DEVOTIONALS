@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-15",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 255,
+  "theme": "coffee",
+  "content_markdown": "# Daily Grind of Faithfulness\n\n## Scripture\n\n\"We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not put us to shame, because God's love has been poured out into our hearts through the Holy Spirit, who has been given to us.\" Romans 5:3-5 (NIV)\n\n## Reflection\n\nThe art of pour-over coffee brewing requires patience, attention to detail, and a willingness to let the coffee grounds steep in the water. In this process, the coffee's full flavor is extracted, but it's not forced. Similarly, our faith is not a forced endeavor, but one that requires us to sit in the midst of life's challenges, trusting that God is working to refine us. As we navigate the difficulties of life, we can find comfort in the knowledge that God is at work, creating perseverance, character, and hope within us. Just as the crema forms on top of a well-brewed cup of coffee, our hope in God will shine brightly, even in the midst of suffering.\n\n## Prayer\n\nWe pray that you would help us to sit in the midst of our struggles, trusting that you are working to refine us and create hope within us. Help us to be patient and persistent, just as the coffee grounds steep in the water, and to trust that your love has been poured out into our hearts.\n\n## One-Line Application\nAs you face life's challenges, trust that God is working to refine you and create hope within you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
