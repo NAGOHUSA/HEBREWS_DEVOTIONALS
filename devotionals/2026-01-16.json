@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-16",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 227,
+  "theme": "coffee",
+  "content_markdown": "# From the Roast to the Cup\n\n## Scripture\n\n\"But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'\" - 2 Corinthians 12:9 (ESV)\n\n## Reflection\n\nAs I sit with my coffee, I'm reminded of the process that brings it to life. The roasting process transforms the raw bean, bringing out its full flavor and aroma. But it's not just the roasting that makes a good cup - it's also the extraction, the pouring of hot water over the grounds, releasing the flavors and oils that make it rich and satisfying. In the same way, God's grace is sufficient for us, even in our weakness. It's not just a gift we receive, but a power that is made perfect in our frailty. As we face the challenges of daily life, we can trust that God's power is at work, transforming us and bringing out the full flavor of our lives. Like a pour-over, God's presence is poured into our lives, bringing richness and depth that we couldn't achieve on our own.\n\n## Prayer\n\nWe thank you for your sufficient grace that transforms our weakness into your strength. Help us to trust in your power, even in the most difficult moments.\n\n## One-Line Application\n\nMay God's power be the foundation of our lives, transforming our weaknesses into His strength.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
