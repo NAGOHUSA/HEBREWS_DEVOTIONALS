@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-17",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 226,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Gratitude\n\n## Scripture\n\n\"And let the peace of Christ rule in your hearts, to which indeed you were called in one body; and be thankful.\" Colossians 3:15 (ESV)\n\n## Reflection\n\nAs we begin our day, we often start by brewing a cup of coffee, savoring the rich aroma that fills the air. But what if we approached our daily lives with the same gratitude as we approach a perfectly brewed cup? Just as the roasting process brings out the unique flavors in each bean, the trials of life can refine us, bringing out our greatest strengths. As we navigate the complexities of the day, let us be like the ideal pour-over, where each droplet is carefully extracted, allowing us to appreciate the fullness of God's presence in our midst. May our crema of gratitude overflow, not just on our cups, but in our hearts, as we give thanks for the peace that Christ brings.\n\n## Prayer\n\nWe thank you for the gift of each new day, and for the opportunity to experience your presence in all things. Help us to approach life with the same gratitude as we approach a perfectly brewed cup of coffee.\n\n## One-Line Application\n\nMay our daily lives be infused with an attitude of gratitude, just as a well-brewed cup of coffee is filled with its rich aroma.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
