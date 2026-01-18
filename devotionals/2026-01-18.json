@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-18",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 210,
+  "theme": "coffee",
+  "content_markdown": "# Aromatic Faithfulness\n\n## Scripture\n\n\"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.\" - John 3:16 (NIV)\n\n## Reflection\n\nAs a skilled barista carefully roasts, grinds, and brews coffee, I'm reminded that faithfulness involves a deliberate and intentional process. Just as the coffee beans are transformed through heat, pressure, and time, our faith is refined through trials, hardships, and moments of stillness. The aroma of freshly brewed coffee fills the air, a sweet reminder of the joy that comes from trusting in God's goodness. Just as the crema forms on a well-crafted pour-over, our character is shaped when we surrender to God's purposes and allow ourselves to be extracted from self-centeredness. As we begin each day, we can pour our hearts out to Him, allowing the fragrance of His love to permeate our lives and draw others to Him.\n\n## Prayer\n\nWe pray for the patience to slow down, the intention to focus on Your ways, and the trust to allow ourselves to be transformed by Your goodness.\n\n## One-Line Application\nAs we drink in God's Word, let our faith be refined through the heat of trials and the pressure of obedience.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
