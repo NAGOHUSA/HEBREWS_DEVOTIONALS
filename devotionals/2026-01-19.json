@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-19",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 229,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Sustenance\n\n## Scripture\n\n\"Come to me, all who labor and are heavy laden, and I will give you rest.\" - Matthew 11:28, ESV\n\n## Reflection\n\nAs we begin our day, the aroma of freshly brewed coffee fills the air, signaling a new cycle of life. Just as the roasting process transforms green coffee beans into a rich, full-bodied brew, our faith transforms us, bringing rest and renewal to our weary souls. The pour-over method requires patience and precision, much like our daily surrender to God's will. As the hot water extracts the flavors and oils from the coffee grounds, our trials and struggles are filtered through the lens of faith, revealing the richness of God's presence in our lives. Just as the crema on a perfectly brewed cup is a sign of quality and care, our relationship with God is a reflection of the love and devotion we bring to our morning ritual of prayer and scripture. We're invited to come to Christ, to rest in Him, and to let our burdens be lifted.\n\n## Prayer\n\nWe thank you, Lord, for the gift of rest and renewal that we find in you. Help us to slow down and savor the beauty of your presence in our lives.\n\n## One-Line Application\nWe surrender our daily burdens to God, trusting in the rest and renewal He provides.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
