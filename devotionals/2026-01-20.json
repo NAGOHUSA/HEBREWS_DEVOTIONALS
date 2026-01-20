@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-20",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 236,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in the Presence of God\n\n## Scripture\n\n\"May God be gracious to us and bless us and make his face shine upon us.\" - Psalm 67:1 (ESV)\n\n## Reflection\n\nAs we prepare our morning coffee, we wait for the perfect brew to emerge. It requires patience, precision, and a gentle touch. Similarly, as we seek a deeper relationship with God, we must cultivate a similar attentiveness. Just as the pour-over method requires a delicate balance between water and coffee grounds, our faith requires a balance between trusting in God's sovereignty and actively engaging with Him. The aroma of freshly roasted coffee fills the air, reminding us of the fragrance of Christ that draws us near to God (2 Corinthians 2:14-16). As we drink in the presence of God, may we be grounded in His love and radiate His light to others. The crema that forms on top of a well-extracted espresso shot represents the rich, full life that awaits us as we surrender to God's presence. \n\n## Prayer\n\nWe ask for the patience to wait on God, the precision to tune our hearts to His voice, and the gentle touch to nurture our faith. Help us to trust in Your sovereignty, yet actively engage with You in a deep and meaningful way.\n\n## One-Line Application\n\nAs you prepare your morning coffee, take a moment to quiet your heart and listen for God's gentle voice.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
