@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-21",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 252,
+  "theme": "coffee",
+  "content_markdown": "# \"Grounded in His Presence\"\n\n## Scripture\n\n\"And we all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another. For this comes from the Lord who is the Spirit.\" - 2 Corinthians 3:18\n\n## Reflection\n\nAs I stand at the pour-over, the aroma of freshly ground coffee beans fills the air, drawing me in to the brewing process. It's a moment of anticipation, a time to pause and prepare for the day ahead. In a similar way, as we behold the glory of the Lord, we are transformed, our hearts and minds being refined and purified. The process is slow and deliberate, much like the extraction of flavors from the coffee grounds. It requires patience, attention to detail, and a willingness to surrender to the Master Brewer. As we sit in His presence, we are not the same, our hearts are being transformed, one degree of glory at a time. Just as the crema forms on the surface of a well-crafted cup, so too does the presence of God settle upon us, filling us with His peace and joy.\n\n## Prayer\n\nWe come before You, Lord, with open hearts and minds, ready to be transformed by Your presence. Pour out Your Spirit upon us, that we may be grounded in Your love and live out our days in Your glory.\n\n## One-Line Application\n\nAs we behold God's glory, we are transformed, one degree of glory at a time.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
