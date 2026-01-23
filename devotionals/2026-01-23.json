@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 249,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Life\n\n## Scripture\n\n\"He must become greater; I must become less.\" - John 3:30 (NIV)\n\n## Reflection\n\nJust as a perfect cup of coffee requires a delicate balance between water, coffee grounds, and heat, so too does our walk with God demand a balance between our own efforts and His divine work in us. We can't simply \"brew\" our own spirituality; instead, we must submit to the roasting fire of God's refining work in our hearts. As we surrender to His will, we begin to extract the rich flavors of His presence, and our lives become a cup of life that overflows with the sweetness of His love. Just as a skilled barista carefully pours the perfect crema, we must learn to pour our lives out in surrender to Him, allowing Him to fill us with His presence and guide us in His ways. In this morning ritual of surrender, we discover that we are not the ones brewing our own spirituality, but rather, we are the vessels through which God pours out His life-giving love.\n\n## Prayer\n\nWe surrender our lives to You, Lord, and ask that You would be the One pouring out Your life and love through us. Help us to become vessels of Your presence, that Your love might be extracted and poured out into a world that needs it.\n\n## One-Line Application\n\nAs we surrender to God's refining work, our lives become vessels of His presence, overflows with His love.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
