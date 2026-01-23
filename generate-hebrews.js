@@ -20,6 +20,17 @@ const MAX_ATTEMPTS_PER_PROVIDER = Number(process.env.DEVOTIONAL_MAX_ATTEMPTS || 
 const THEME = process.env.DEVO_THEME || "";
 
 // ===== Provider config =====
+const OA = {
+  apiKey: process.env.OPENAI_API_KEY,
+  model:  process.env.OPENAI_MODEL || "gpt-3.5-turbo",
+  url:    "https://api.openai.com/v1/chat/completions",
+};
+
+const GQ = {
+  apiKey: process.env.GROQ_API_KEY,
+  model:  process.env.GROQ_MODEL || "mixtral-8x7b-32768",
+  url:    "https://api.groq.com/openai/v1/chat/completions",
+};
 
 const DS = {
   apiKey: process.env.DEEPSEEK_API_KEY,
@@ -34,7 +45,7 @@ function messagesFor(dateISO) {
     {
       role: "system",
       content: [
-        "You are a pastoral devotional writer for an iOS app called “HeBrews.”",
+        "You are a pastoral devotional writer for an iOS app called \"HeBrews.\"",
         "Write a COFFEE-THEMED Christian devotional that is theologically sound, warm, and practical.",
         `Length: ${WORDS_MIN}-${WORDS_MAX} words total. Markdown only (no HTML).`,
         "Weave coffee imagery naturally (e.g., aroma, brew, pour-over, extraction, roasting, crema, morning ritual).",
@@ -43,7 +54,7 @@ function messagesFor(dateISO) {
         "1) Title — ≤8 words (may hint at coffee).",
         "2) Scripture — exactly ONE verse/passage, ≤50 words quoted, include reference.",
         "3) Reflection — 150–220 words: connect Scripture to everyday discipleship using coffee process as metaphor.",
-        "4) Prayer — 30–50 words, first-person plural (“we”).",
+        "4) Prayer — 30–50 words, first-person plural (\"we\").",
         "5) One-Line Application — one sentence, ≤12 words.",
         "No prefaces, no duplicate sections."
       ].join(" ")
