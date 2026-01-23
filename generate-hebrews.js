@@ -5,7 +5,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 
 // ===== Provider order (edit via env if desired) =====
-const PROVIDERS = (process.env.DEVOTIONAL_PROVIDERS || "openai,groq,deepseek")
+const PROVIDERS = (process.env.DEVOTIONAL_PROVIDERS || "deepseek")
   .split(",").map(s => s.trim().toLowerCase()).filter(Boolean);
 
 // ===== Common content controls =====
@@ -20,16 +20,7 @@ const MAX_ATTEMPTS_PER_PROVIDER = Number(process.env.DEVOTIONAL_MAX_ATTEMPTS || 
 const THEME = process.env.DEVO_THEME || "";
 
 // ===== Provider config =====
-const OA = {
-  apiKey: process.env.OPENAI_API_KEY,
-  model:  process.env.OPENAI_MODEL || "gpt-4o-mini",
-  url:    "https://api.openai.com/v1/chat/completions",
-};
-const GQ = {
-  apiKey: process.env.GROQ_API_KEY,
-  model:  process.env.GROQ_MODEL || "llama-3.1-8b-instant",
-  url:    "https://api.groq.com/openai/v1/chat/completions",
-};
+
 const DS = {
   apiKey: process.env.DEEPSEEK_API_KEY,
   model:  process.env.DEEPSEEK_MODEL || "deepseek-chat",
