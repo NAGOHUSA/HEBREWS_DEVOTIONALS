@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 206,
+  "theme": "coffee",
+  "content_markdown": "# Grounds for Growth\n\n## Scripture\n\n\"But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'\" - 2 Corinthians 12:9 (NIV)\n\n## Reflection\n\nAs I prepare my morning brew, I am reminded of the process of extraction. Just as the coffee grounds release their flavors and oils into the water, our weaknesses and struggles can become opportunities for the Lord's power to be made perfect in us. We often try to mask our imperfections or pretend like we have it all together, but in doing so, we hinder the very thing that could bring us life and beauty. Just as the crema forms on the surface of a well-crafted pour-over, our weaknesses, when surrendered to God, can become a beautiful manifestation of His power and presence in our lives. This morning, let us surrender to the Lord, allowing our weaknesses to be the grounds for His power to be made perfect in us.\n\n## Prayer\n\nWe surrender our weaknesses and struggles to You, Lord. Help us to see them as opportunities for Your power to be made perfect in us.\n\n## One-Line Application\n\nSurrender your weaknesses as grounds for God's power to be made perfect in you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
