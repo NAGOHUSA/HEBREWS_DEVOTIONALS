@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 194,
+  "theme": "coffee",
+  "content_markdown": "# Richly Grounded in God's Love\n\n## Scripture\n\n\"Let us think of ways to motivate one another to acts of love and good works.\" - Hebrews 10:24 (NIV)\n\n## Reflection\n\nAs I sit with my morning coffee, I'm reminded of the process that brings out its rich flavor. Like a pour-over, our lives are made richer when we allow God's love to flow through us. The extraction of our fears, doubts, and worries, allows us to be filled with compassion and kindness. Just as the roasting process transforms the bean into something warm and inviting, our trials and struggles can transform us into vessels of hope and love. As we savor the aroma of our morning coffee, may we also be aware of the aroma of Christ that we carry with us, motivating others to acts of love and good works.\n\n## Prayer\n\nWe pray that we would be vessels of God's love, poured out to others, and that our lives would be a rich and inviting aroma to those around us.\n\n## One-Line Application\n\nMay our lives be a warm and inviting presence to those around us, spreading the aroma of Christ's love.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
