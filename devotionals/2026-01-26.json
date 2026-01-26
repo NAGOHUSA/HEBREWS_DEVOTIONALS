@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-26",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 244,
+  "theme": "coffee",
+  "content_markdown": "# Grounds for Growth\n\n## Scripture\n\n\"But the one who looks into the perfect law of freedom and perseveres, being no hearer who forgets but a doer who acts, he will be blessed in his doing.\" - James 1:25 (ESV)\n\n## Reflection\n\nAs I watch the sun rise over the coffee shop, I'm reminded of the process that brings flavor to my morning brew. Roasting transforms the raw bean into something rich and full-bodied. It's a patient process, one that requires time and heat to coax out the complexities. As I reflect on James' words, I'm struck by the parallel between the roasting process and the maturation of faith. Just as the bean is refined through heat, our faith is refined through trials and obedience. We're not called to be hearers of the Word alone, but doers who put it into action. As we persevere in the perfect law of freedom, we'll be blessed in our doing. The aroma of faith is released when we act on what we've learned, and it's a fragrance that draws others to the Lord.\n\n## Prayer\n\nWe ask for patience and perseverance as we seek to apply the Word to our daily lives. Help us to be doers of the law, not just hearers who forget. May our faith be refined and fragrant, drawing others to the beauty of Christ.\n\n## One-Line Application\n\nMay our faith be refined like roasted coffee, rich and full-bodied through perseverance and obedience.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
