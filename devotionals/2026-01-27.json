@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-27",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 259,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Life in the Morning\n\n## Scripture\n\n\"Consider how the wildflowers grow. They do not labor or spin. Yet I tell you, not even Solomon in all his glory was adorned like one of these!\" Matthew 6:29 (ESV)\n\n## Reflection\n\nAs I sit here sipping my freshly brewed coffee, I'm reminded of the beauty of simplicity in the morning. The process of brewing is often overlooked, yet it requires patience and care. Just as the coffee beans must be roasted, ground, and then poured over to bring out their full flavor, our lives require a similar process of extraction. We must be willing to let go of our old selves, just as the coffee beans release their flavors when exposed to water. As we begin each day, we have the opportunity to be poured over, to be refined and purified, just as the coffee is refined through the brewing process. This is a daily reminder that our worth and beauty come not from our efforts, but from the simple trust that God is at work in us, even as we sleep.\n\n## Prayer\n\nWe thank you, God, for the simple joys of life, like the aroma of freshly brewed coffee. Help us to see our lives as a beautiful, unadorned gift, worthy of Your attention and care. As we begin each day, pour over us, refining and purifying us, that we may taste the full flavor of Your love.\n\n## One-Line Application\n\nMay our daily rhythms be a reminder of the simple beauty of trusting in God's work.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
