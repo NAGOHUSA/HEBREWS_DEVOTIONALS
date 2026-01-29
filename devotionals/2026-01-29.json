@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 247,
+  "theme": "coffee",
+  "content_markdown": "# A Daily Grind of Faith\n\n## Scripture\n\"For God is not a God of disorder but of peace—as in all the congregations of the Lord's people.\" \n1 Corinthians 14:33 (NIV)\n\n## Reflection\nAs the roasting process brings out the unique flavors in our coffee beans, so too does our faith reveal the character of God in our lives. Just as a perfectly balanced roast requires attention to detail, our walk with Christ demands careful attention to the Holy Spirit's guidance. When we prioritize order and harmony in our communities, we create space for the aroma of God's peace to waft through our relationships. The pour-over of God's love into our hearts allows us to extract the richness of His presence, and in doing so, we become vessels of peace that bring order to a chaotic world.\n\nAs we begin each day, we can choose to brew our faith with intentionality, extracting the sweetness of God's Word and allowing it to flow freely into our lives. In the stillness of morning, let us commit to roasting our hearts with the fire of devotion, that we might become a crema-topped expression of God's peace in a world that desperately needs it.\n\n## Prayer\nWe pray for the wisdom to prioritize order and harmony in our communities, that the aroma of God's peace may fill our relationships.\n\n## One-Line Application\nWe can cultivate a daily grind of faith by intentionally extracting the richness of God's presence in our lives.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
