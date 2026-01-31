@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-01-31",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 254,
+  "theme": "coffee",
+  "content_markdown": "# The Perfect Brew of Suffering and Joy\n\n## Scripture\n\n\"Oh, give thanks to the Lord, for he is good; for his steadfast love endures forever!\"  \nPsalm 107:1 (ESV)\n\n## Reflection\n\nAs we begin our day with the morning ritual of pouring over a fresh cup of coffee, we're reminded that the perfect brew requires patience, time, and a delicate balance of elements. In the same way, God's plan for our lives involves a blending of trials and joys. The bitter taste of suffering can be overpowering at times, but it's in those moments that we're drawn closer to the rich aroma of His steadfast love. Just as the crema on a well-crafted pour-over coffee is a testament to the artisan's skill and dedication, our ability to find joy in the midst of adversity speaks to the depth of our faith. The extraction of our heart's deepest concerns and fears can be a painful process, but it's through this refining that we're transformed into vessels that can hold more of God's goodness. May we learn to appreciate the intricate balance of our lives, and may our hearts be filled with the fragrance of gratitude.\n\n## Prayer\n\nWe thank you, Lord, for the perfect blend of trials and joys in our lives. Help us to extract the lessons of suffering and to find joy in your steadfast love.\n\n## One-Line Application\n\nAs you face life's challenges, may you learn to appreciate the delicate balance of trials and joys that makes your faith rich and robust.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
