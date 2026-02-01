@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-01",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 213,
+  "theme": "coffee",
+  "content_markdown": "# Aromatic Devotion: Grounded in Hope\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3\n\n## Reflection\n\nAs I stand over my pour-over, I'm reminded that good coffee requires patience and persistence. The process of brewing is not instantaneous; it takes time and effort to extract the perfect flavor from each bean. In the same way, trials and tribulations can seem overwhelming, but James reminds us that they are opportunities for growth and refinement. We must be willing to endure, to sit in the quiet, and to allow God to work in us, just as the coffee drips slowly through the filter. It's in these moments that our faith is tested, and we are shaped into stronger, more resilient followers of Christ. As the crema forms on the surface of the coffee, so too does our character form in the midst of adversity.\n\n## Prayer\n\nWe pray for the patience to sit in the midst of trials, and for the perseverance to trust in your goodness, even when the road ahead seems uncertain.\n\n## One-Line Application\n\nWe trust that God's refining process in our lives produces a stronger, more resilient faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
