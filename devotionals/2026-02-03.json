@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-03",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 211,
+  "theme": "coffee",
+  "content_markdown": "# The Daily Grind of Faithfulness\n\n## Scripture\n\n\"I can do all this through him who gives me strength.\" \nPhilippians 4:13\n\n## Reflection\n\nLike a perfectly balanced pour-over, our faith is a delicate process. It requires the right blend of scripture, prayer, and community to create a rich and flavorful walk with God. Just as a skilled barista must carefully measure and extract the flavors from each bean, we must carefully attend to the spiritual disciplines that nourish our souls. The roasting process of trials can be intense, but it's in these moments that the crema of character is formed. As we begin our morning, we must choose to pour out our hearts to God, trusting in His strength to carry us through the day. We must be willing to slow down, to savor the aroma of His presence, and to let His love seep into the cracks of our hearts.\n\n## Prayer\n\nWe thank you, Lord, for the strength you give us each day to face the grind of life. Help us to slow down, to savor your presence, and to trust in your power to carry us through.\n\n## One-Line Application\n\nMay our daily walks with God be a rich and flavorful expression of our trust in His strength.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
