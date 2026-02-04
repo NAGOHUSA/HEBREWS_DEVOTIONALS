@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 195,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in the Presence\n\n## Scripture\n\n\"Even the darkness is not dark to you; the night shines like the day, for darkness is as light to you.\" — Psalm 139:12 (ESV)\n\n## Reflection\n\nAs the skilled roaster coaxes out the perfect blend, so too must we invite God's presence into our lives. Just as a pour-over requires patience and attention to extract the full flavor, we must allow God to refine us through trials and hardships. The crema that forms on a well-crafted cup of coffee represents the richness and beauty that we can share with others when we're rooted in God's presence. As we begin each day with a quiet moment of devotion, we're reminded that even in the darkest times, God's light shines through. Will we slow down to allow the brew of God's presence to fill our lives, or will we rush past the richness He has to offer?\n\n## Prayer\n\nWe long to be vessels filled with the richness of Your presence, Lord, and to share that richness with others.\n\n## One-Line Application\n\nTake a moment each day to slow down and allow God's presence to brew in your life.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
