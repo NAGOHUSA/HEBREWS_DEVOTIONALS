@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-05",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 268,
+  "theme": "coffee",
+  "content_markdown": "# From the Grounds of Our Faith\n\n## Scripture\n\n\"So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness.\" - Colossians 2:6-7 (NIV)\n\n## Reflection\n\nAs we start our day with a fresh cup of coffee, we are reminded of the importance of roots. Just as our coffee plant needs nourishing soil to grow, our faith is rooted in the teachings of Christ. The extraction of flavors from the coffee bean is a slow and deliberate process, requiring patience and care. Similarly, our faith is strengthened by the slow and deliberate process of living in Christ, receiving his teachings, and allowing the Spirit to root us deep in his love. As we navigate the ups and downs of life, we must remain grounded in our faith, like the crema on a well-brewed cup of coffee, steadfast and unshakeable.\n\nAs we go about our day, may we be like a pour-over, filtering out the distractions and focusing on the one thing that truly matters: our relationship with Christ. May our lives be a testament to the transformative power of his love, overflowing like the rich aroma of freshly brewed coffee.\n\n## Prayer\n\nWe thank you, Lord, for the gift of faith that roots us in your love. Help us to stay grounded in your teachings and to live our lives in you, strengthened and overflowing with thankfulness.\n\n## One-Line Application\n\nMay our faith be as rich and unshakeable as a well-brewed cup of coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
