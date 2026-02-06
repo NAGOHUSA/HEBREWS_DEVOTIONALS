@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-06",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 266,
+  "theme": "coffee",
+  "content_markdown": "# A Brew of Gratitude\n\n## Scripture\n\n\"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.\" - John 3:16 (NIV)\n\n## Reflection\n\nAs I sit down to enjoy a freshly poured-over coffee, I'm reminded of the intricate process involved in getting the perfect cup. The coffee beans must be carefully selected, roasted to bring out their unique flavor, and then brewed to extract the perfect balance of flavors. It's a labor of love, and one that requires patience and attention to detail. In a similar way, our gratitude towards God must be nurtured and cultivated. We must take time to reflect on the blessings in our lives, to acknowledge the love that God has shown us, and to allow that love to overflow from our hearts. Just as a rich crema forms on a well-crafted cup of coffee, our gratitude must be a tangible expression of our love for God. By making gratitude a daily ritual, we can extract the sweetness from our experiences and offer it back to Him as an act of worship.\n\n## Prayer\n\nWe thank you for the gift of gratitude, and for the love that you have shown us through your Son, Jesus Christ. Help us to nurture this gratitude in our daily lives, that it may overflow from our hearts and be a blessing to those around us.\n\n## One-Line Application\n\nAs we start our day, let us begin with a heart of gratitude, poured out to God like a freshly brewed cup.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
