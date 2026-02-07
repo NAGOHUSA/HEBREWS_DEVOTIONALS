@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-07",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 204,
+  "theme": "coffee",
+  "content_markdown": "# Bitterness to Beautiful\n\n## Scripture\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3 (NIV)\n\n## Reflection\nAs a pour-over coffee brew, we must begin with coarse grounds, which may seem bitter to the taste. But as we let the water flow, the grounds are transformed, and the flavors emerge. Similarly, in the midst of trials, we must let the refining process of God's testing work in us. It's through the bitter moments that our faith is purified, and we become more resilient. Like the crema that forms on a well-brewed cup, our character is developed, and our witness is strengthened. As we surrender to the extraction process, we discover that the beauty of our faith is not in avoiding difficulties, but in being refined by them.\n\n## Prayer\nWe ask that you would help us to see trials as opportunities for growth, and to trust in the refining work of your testing. May our faith be strengthened, and our witness be beautiful, as we surrender to your process.\n\n## One-Line Application\nLet trials refine your faith, producing perseverance and a beautiful witness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
