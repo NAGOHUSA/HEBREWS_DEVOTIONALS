@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 225,
+  "theme": "coffee",
+  "content_markdown": "# The Daily Grind of Faithfulness\n\n## Scripture\n\"As for you, make sure to live out the days of your life for Him, for this is your duty.\" - Ecclesiastes 11:8 (CSB)\n\n## Reflection\nJust as the perfect pour-over requires patience and attention to detail, our faithfulness to God demands consistent effort. As we go about our daily routines, we must make sure to live out our faith in every action, thought, and decision. The process of extraction, where the coffee's essence is drawn out, reminds us that our relationship with God is about being conformed to His image, allowing His character to be extracted from us. Just as the aroma of freshly roasted coffee fills the air, our lives should radiate the fragrance of Christ, drawing others to Him. As we begin each day, let us commit to being the best \"brew\" we can be, reflecting God's goodness and love to a world in need.\n\n## Prayer\nWe pray that You would help us to live out our faith with intention and purpose, being the aroma of Christ to those around us. We ask that You would refine our character and make us more like You, allowing Your essence to be extracted from us.\n\n## One-Line Application\nAs we start each day, let our lives be the perfect \"brew\" of God's love and character.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
