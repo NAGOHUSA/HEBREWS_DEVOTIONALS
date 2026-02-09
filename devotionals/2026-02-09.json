@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-09",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 243,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Faithfulness in the Daily Grind\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.\" - James 1:2-4\n\n## Reflection\n\nAs I watch the pour-over process, I'm reminded that faithfulness is like the perfect extraction of flavors from a single coffee bean. It's a slow, deliberate process that requires patience and attention to detail. Just as the water must flow gently over the grounds to release the full potential of the coffee, our faith must be nurtured in the midst of trials. We can't rush the process or force it to happen. We must trust that the testing of our faith will produce perseverance, which in turn will lead to maturity and completeness. As we face the daily grind, we can choose to see it as a chance to refine our faith, to extract the rich flavors of God's presence in our lives.\n\n## Prayer\n\nWe ask that you would help us to be patient and faithful in the midst of trials, knowing that they are an opportunity for growth and maturity. Help us to trust in your goodness and sovereignty, even when the process is slow or difficult.\n\n## One-Line Application\n\nMay our trials be a catalyst for perseverance, refining our faith and producing spiritual maturity.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
