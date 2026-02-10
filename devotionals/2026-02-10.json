@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-10",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 208,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"As you come to him, the living Stone—rejected by humans but chosen by God and precious to him—\"\n1 Peter 2:4 (NIV)\n\n## Reflection\n\nJust as a skilled barista carefully selects the finest coffee beans, roasts them to perfection, and brews them to extract the rich flavors, we must seek to experience the richness of God's presence in our lives. Like the aroma of freshly brewed coffee, the presence of Christ should fill our hearts and homes, drawing others to His love. As we begin each day, we can pour our hearts out to Him in prayer, just as we carefully pour the coffee into our cups. In this quiet morning ritual, we can extract the sweetness of His Word, and allow it to fuel our day. May we be grounded in His presence, just as the coffee beans are transformed by the roasting process, becoming a fragrant and nourishing cup that brings life to all who partake.\n\n## Prayer\n\nWe come to you, Lord, seeking Your presence in our lives. Ground us in Your love, and fill our hearts with the richness of Your Word.\n\n## One-Line Application\n\nMay our daily lives be fueled by the nourishing presence of Christ.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
