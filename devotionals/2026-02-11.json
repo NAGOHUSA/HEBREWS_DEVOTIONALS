@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 182,
+  "theme": "coffee",
+  "content_markdown": "# Aroma of Obedience\n\n## Scripture\n\n\"But be doers of the word, and not hearers only, deceiving yourselves.\" \n- James 1:22 (NIV)\n\n## Reflection\n\nAs I stand over my pour-over, the aroma of freshly ground coffee fills the air. It's a sensory experience that beckons me to begin my morning ritual. Similarly, the Word of God, when applied to our lives, releases an aroma of obedience that draws us closer to God and compels us to action. Just as the brewing process requires patience and attention to detail, allowing the flavors to extract and mingle, so too must we allow the Scriptures to penetrate our hearts and minds, resulting in a rich, flavorful life of faith. We must not be hearers only, but doers, letting the words of God ignite a transformation within us.\n\n## Prayer\n\nWe ask, Lord, that as we immerse ourselves in Your Word, the aroma of obedience might fill our lives, driving us to be doers of the word, not just hearers. \n\n## One-Line Application\n\nLet Scripture penetrate your heart, releasing an aroma of obedience to ignite transformation.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
