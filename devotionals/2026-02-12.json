@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-12",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 240,
+  "theme": "coffee",
+  "content_markdown": "# Brewing a Heart for God\n\n## Scripture\n\n\"For God is not a God of disorder but of peace—as in all the congregations of the Lord's people.\" - 1 Corinthians 14:33 (NIV)\n\n## Reflection\n\nJust as a skilled barista carefully crafts each pour-over, pouring attention into every detail, so God seeks to refine us in His work of sanctification. As the aroma of freshly roasted coffee beans fills the air, symbolizing the promise of something rich and satisfying, our faith is to be a fragrance that delights God. The extraction process of roasting, where the essence of the bean is released, parallels the process of our lives being refined by trials and tribulations, that we may be vessels of honor, poured out for the sake of Christ. Just as the crema on a perfectly brewed cup signifies the beauty of the whole, our lives, when surrendered to God, become a work of art, reflecting the image of our Creator. In our morning ritual, we must deliberately slow down, savoring the moments of worship and devotion, allowing the presence of the Holy Spirit to permeate every aspect of our lives.\n\n## Prayer\n\nWe ask that You would be our Master Roaster, refining us in the fire of Your love, that our lives may be a fragrant offering to You. \n\n## One-Line Application\n\nAllow your morning quiet time to be a deliberate and savory ritual of worship, savoring the presence of God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
