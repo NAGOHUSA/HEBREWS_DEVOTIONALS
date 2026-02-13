@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-13",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 247,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Sustenance for the Soul\n\n## Scripture\n\n\"For God is our mighty fortress; He sets out his palace in the heavens and makes the earth secure.\" - Psalm 89:2 (NLT)\n\n## Reflection\n\nAs we prepare our morning coffee, the aroma fills the air and our senses come alive. The process of extraction is a beautiful metaphor for our Christian journey. Just as the coffee grounds release their flavor and essence into the brew, our hearts and lives are transformed by the presence of God in us. As we pour out our hearts to Him in prayer, we allow His Spirit to penetrate our depths, bringing forth the beauty and richness of His character. And just as a perfectly balanced cup requires a delicate balance of roast, water, and temperature, our faith requires a balance of trust, surrender, and obedience to be fully satisfying. As we sit down with our morning cup, may we remember that our relationship with God is a rich and flavorful one, filled with depth and nuance.\n\n## Prayer\n\nWe thank You, Lord, for the gift of Your presence in our lives. Help us to be vessels that pour out Your goodness to a world in need, just as our coffee cups pour out the aroma of our morning brew. May our hearts be rich in faith and overflowing with love.\n\n## One-Line Application\n\nMay our lives be vessels that pour out the fragrance of Christ to a world in need.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
