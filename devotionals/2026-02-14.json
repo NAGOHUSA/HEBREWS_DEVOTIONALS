@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 217,
+  "theme": "coffee",
+  "content_markdown": "# A Perfect Cup of Faithfulness\n\n## Scripture\n\"Test everything; hold fast what is good.\" - 1 Thessalonians 5:21 (ESV)\n\n## Reflection\nAs we prepare a perfect cup of coffee, we must carefully consider each step: selecting the finest beans, roasting them to perfection, and then brewing them with precision. Similarly, in our walk with God, we must be intentional about what we hold onto. Let us not mindlessly accept every idea or influence, but instead, test them against the truth of Scripture. As we sift through the noise, let us cling to what is good and true, just as a skilled barista carefully extracts the perfect balance of flavors from each bean. This process of discernment is an essential part of our morning ritual, setting us up for a day of faithful living. And just as a pour-over requires patience, letting the coffee slowly drip into the cup, so too must we be patient in our pursuit of truth, trusting that God will guide us in our extraction of His goodness.\n\n## Prayer\nWe pray for the wisdom to discern what is good and true, and the patience to trust in God's guidance as we navigate life's complexities.\n\n## One-Line Application\nAs we test everything, may we hold fast to the truth that sets us free.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
