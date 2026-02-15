@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-15",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 234,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"You will show me the path of life; in Your presence is fullness of joy; at Your right hand there are pleasures forevermore.\" - Psalm 16:11 (ESV)\n\n## Reflection\n\nJust as a pour-over requires precise temperature and flow to extract the perfect brew, so too does our relationship with God require intentional and deliberate attention. The aroma of His presence fills our lives when we make time for Him in the midst of chaos. As we sit in stillness, the rich flavors of Scripture and prayer begin to unfold, and the bitterness of trials is tempered. We're not just extracting a flavor; we're experiencing the fullness of joy and pleasures that come from being in His presence. Like the crema that forms on a perfectly brewed cup, our faith is nourished and strengthened as we surrender to His guidance. As we begin each day with Him, the roasting process of trials and hardships is transformed into a delicious and life-giving brew.\n\n## Prayer\n\nWe long to be grounded in Your presence, Lord, and to experience the fullness of joy that comes from being in Your right hand. Help us to make time for You each day, and to trust in Your guidance as we navigate life's challenges.\n\n## One-Line Application\n\nAs you start your day, make time to sit in stillness and experience the presence of God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
