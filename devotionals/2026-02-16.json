@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-16",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 255,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in Gratitude\n\n## Scripture\n\n\"Give thanks to the Lord, for he is good; his love endures forever!\" - Psalm 107:1 (NIV)\n\n## Reflection\n\nAs the morning light streams through the windows, we pour over the day ahead, seeking to brew moments of connection with God. Just as a skilled barista carefully selects the finest beans, we choose to focus on the good things in life, savoring each drop of joy. The roasting process transforms green coffee beans into a rich, full-bodied aroma, reminding us that trials and challenges can refine our faith, producing a deeper appreciation for God's goodness. Just as the crema forms on a perfectly extracted shot, our gratitude surfaces as we acknowledge the intricate details of God's love in our lives.\n\nIn the quiet moments of morning, we come to the table, ready to receive the nourishment of God's presence. As we breathe in the aroma of His goodness, our hearts are stirred to give thanks for the intricate web of relationships, the beauty of creation, and the promise of eternal life. Just as the first sip of a perfectly brewed cup satisfies our thirst, our gratitude quenches the parched soul, reminding us of the sufficiency of God's love.\n\n## Prayer\n\nWe thank you, Lord, for the richness of Your love, which transforms our lives and fuels our gratitude. Help us to savor each moment and pour out thanks to You, our loving Father.\n\n## One-Line Application\n\nMay our hearts be stirred to gratitude as we daily acknowledge God's goodness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
