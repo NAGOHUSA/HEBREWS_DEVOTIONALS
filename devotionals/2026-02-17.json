@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-17",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 191,
+  "theme": "coffee",
+  "content_markdown": "# A Richer Brew of Faith\n\n## Scripture\n\"And we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us.\" - 2 Corinthians 4:7\n\n## Reflection\nJust as the perfect cup of coffee requires patience and care in the roasting, brewing, and pouring process, our faith requires a steady and gentle cultivation. We must be willing to go through the process of extraction, where our imperfections and weaknesses are exposed, to reveal the richness of God's power within us. This is not about achieving perfection, but about allowing the true aroma of our faith to emerge. As we navigate the ups and downs of life, we can trust that God is at work in us, refining us like the subtle crema that forms on a well-crafted latte. Let us surrender to this process, trusting that our \"jars of clay\" will become vessels of light and life.\n\n## Prayer\nWe pray for the patience to trust in God's work within us, even when our imperfections are exposed.\n\n## One-Line Application\nMay our imperfections become the fertile ground for God's power to flourish.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
