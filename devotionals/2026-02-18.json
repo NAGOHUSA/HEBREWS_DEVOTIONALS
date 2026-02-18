@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-18",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 237,
+  "theme": "coffee",
+  "content_markdown": "# \"Brewing Faith in the Morning's Light\"\n\n## Scripture\n\n\"But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.\" - Isaiah 40:31 (NIV)\n\n## Reflection\n\nAs I sit with a cup of freshly brewed coffee, the aroma fills the air, a promise of energy and vitality to come. Just as the pour-over method requires time and patience to extract the perfect flavor, our faith requires consistent practice and trust in God's presence. The roasting process can sometimes be unpredictable, but the crema that forms on the surface is a testament to the quality of the beans. In the same way, our lives may face unexpected twists, but our faith can be refined and strengthened through the trials we endure. As we begin each day, we can trust that God is at work, brewing faith in our hearts, and empowering us to soar on wings like eagles.\n\n## Prayer\n\nWe thank you, Lord, for the gift of faith that renews our strength and gives us hope. Help us to trust in your presence and to face each day with confidence, just as the crema forms on the surface of a perfectly brewed cup of coffee.\n\n## One-Line Application\n\nMay our daily routines be infused with the presence of God, brewing faith and hope in our hearts.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
