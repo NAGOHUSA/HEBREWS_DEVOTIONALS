@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-19",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 232,
+  "theme": "coffee",
+  "content_markdown": "# \"Grounded in His Presence\"\n\n## Scripture\n\n\"In all things God works for the good of those who love him, who have been called according to his purpose.\" - Romans 8:28 (NIV)\n\n## Reflection\n\nJust as a skilled barista must carefully select and grind the finest coffee beans to release their full flavor, we must be intentional about seeking God's presence in our daily lives. When we invite Him into our midst, He begins the process of \"roasting\" our hearts, transforming us into vessels that reflect His glory. Like the rich aroma of freshly brewed coffee, the fragrance of Christ should fill our lives, drawing others to Him.\n\nAs we slow down to savor the morning ritual, we can experience the joy of extraction – the gentle removal of impurities, leaving only the pure, rich essence of God's love. And just as the crema on a well-crafted pour-over adds depth and complexity, our lives become more vibrant and meaningful as we surrender to His purposes.\n\n## Prayer\n\nWe confess that we often rush through our days without taking time to seek Your presence, Lord. Help us to slow down and invite You into our midst, that we might experience the transformation and joy that comes from being grounded in Your love.\n\n## One-Line Application\n\nAs we drink in His presence, may we become vessels of His glory, richly flavored by His love.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
