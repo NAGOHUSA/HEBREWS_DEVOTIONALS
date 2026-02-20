@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-20",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 260,
+  "theme": "coffee",
+  "content_markdown": "# The Perfect Brew of Surrender\n\n## Scripture\n\n\"For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast.\" - Ephesians 2:8-9 (NIV)\n\n## Reflection\n\nAs I stand at my pour-over, I'm reminded that even the perfect brew requires surrender. The water must be poured, the grounds must be exposed, and the extraction must be allowed to happen. In the same way, our lives are a delicate balance of submission and trust. We must surrender our will, our plans, and our pride to the One who has given us the gift of salvation. Just as the crema forms on a well-crafted cup of coffee, our faith is made tangible when we submit to His will.\n\nWhen I'm tempted to micromanage my day, to control every detail, I'm reminded that I'm not the roaster. God is the master brewer, and He knows exactly what's needed for the perfect blend of faith, obedience, and surrender. As I take my first sip, I'm thankful for the aroma of His presence in my life, and I'm reminded to trust in His plan, even when it's not my own.\n\n## Prayer\n\nWe surrender our wills to You, Lord, and ask for the gift of faith to trust in Your perfect plan. Help us to let go of our need to control and to trust in Your goodness.\n\n## One-Line Application\n\nAs we surrender to God's plan, we experience the richness of His presence in our lives.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
