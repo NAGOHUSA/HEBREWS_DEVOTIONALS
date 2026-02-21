@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-21",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 220,
+  "theme": "coffee",
+  "content_markdown": "# The Perfect Blend of Faith and Works\n\n## Scripture\n\n\"Faith without works is dead, being alone.\" - James 2:26, NASB\n\n## Reflection\n\nJust as a pour-over requires both the right coffee grounds and water to produce a perfect brew, our faith must be combined with action to be truly effective. Without the \"water\" of living out our faith through works, our \"coffee\" – the gift of salvation – remains stagnant. The roasting process of trials and hardships refines our character, while the crema of compassion and kindness is the natural result of a heart rooted in Christ. As we begin each day, we must remember that our morning ritual of prayer and devotion is not just a habit, but a necessary step in the extraction process of drawing closer to God. We must intentionally pour out our hearts to Him, seeking His guidance and strength to live out our faith in the world.\n\n## Prayer\n\nWe pray that our faith would not be stagnant, but would be transformed into action through the power of the Holy Spirit. Help us to live out our devotion to You in every aspect of our lives.\n\n## One-Line Application\n\nAs you begin your day, intentionally pour out your heart to God in prayer, seeking His guidance and strength to live out your faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
