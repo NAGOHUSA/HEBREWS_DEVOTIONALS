@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-22",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 226,
+  "theme": "coffee",
+  "content_markdown": "# The Roast of Our Faith\n\n## \"For it is in giving that we receive.\" - Acts 20:35 (NIV)\n\n## Reflection\n\nAs I carefully pour the coffee grounds into the filter, I'm reminded of the importance of filtering out distractions and focusing on what truly matters. The roasting process requires patience, as it brings out the rich flavors and aromas of the coffee beans. Similarly, our faith is refined through trials and tribulations, as we submit to God's sovereignty. Just as a perfectly roasted coffee requires a delicate balance of heat and time, our relationship with God demands a balance between surrender and trust. As we begin each day with a cup of coffee, let us also start with a heart of surrender, allowing the Holy Spirit to extract the deepest depths of our faith. In the morning ritual of brewing, we're reminded that our true strength lies not in our own efforts, but in the power of God's love poured into our hearts.\n\n## Prayer\n\nWe thank you, Father, for the gift of faith and the patience to refine it. Help us to surrender our hearts to you each morning, allowing your Holy Spirit to extract the richness of our relationship with you.\n\n## One-Line Application\nAs we begin each day, pour out your heart to God, and let His love be the perfect roast.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
