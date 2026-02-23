@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 226,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in the Roast of Redemption\n\n## Scripture\n\n\"Now faith is confidence in what we hope for and assurance about what we do not see.\" - Hebrews 11:1 (NIV)\n\n## Reflection\n\nAs we begin our day, the aromatic scent of freshly roasted coffee fills the air. But before we can savor the flavor, the beans must undergo a process of roasting. It's a transformation that takes the raw, green coffee cherry and turns it into a rich, bold brew. In a similar way, our faith is transformed through the heat of trials and the darkness of uncertainty. As we persevere, our hope is refined, and our confidence grows. The roasting process is not just about the coffee; it's about the patience and dedication required to produce something beautiful. As we trust in the goodness of God, even when we can't see the outcome, our faith is refined, and we become more like the rich, full-bodied coffee we long to be.\n\n## Prayer\n\nWe thank You for the process of refining our faith, just as a rich roast is refined. Help us trust in Your goodness, even when we can't see the outcome. May our hope and confidence in You be our guiding light.\n\n## One-Line Application\n\nMay our trials be the heat that refines our faith, transforming us into the rich, bold followers of Christ.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
