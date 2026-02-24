@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 206,
+  "theme": "coffee",
+  "content_markdown": "# A Richer Brew of Faith\n\n## Scripture\n\"So do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.\" - Matthew 6:34 (NIV)\n\n## Reflection\nAs I watch the crema form on the surface of a freshly brewed cup, I'm reminded of the promise of God's provision for today. Just as the coffee grounds have been extracted, yielding a rich flavor, our Lord is committed to extracting the good from every situation, even the bitter ones. If we focus on the roasting process of life's trials, we risk getting burned. But when we settle into the morning ritual of prayer and Scripture, we find the peace that passes understanding, allowing us to face each new day with hope. As we pour our hearts before Him, we experience the extraction of our worries and fears, making room for the rich flavor of His presence in our lives.\n\n## Prayer\nWe come to You, Lord, with hearts full of worry and uncertainty. Help us to focus on the present moment, trusting that You will provide for our needs as we seek You each morning.\n\n## One-Line Application\nTrusting God's provision for today eliminates the need to worry about tomorrow.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
