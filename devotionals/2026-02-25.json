@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 300,
+  "theme": "coffee",
+  "content_markdown": "# Rich Soil for Spiritual Growth\n\n## Scripture\n\n\"For you were once darkness, but now you are light in the Lord. Walk as children of light: (for the fruit of the Spirit is in all goodness, righteousness, and truth), finding out what pleases the Lord.\" Ephesians 5:8-10 (NKJV)\n\n## Reflection\n\nJust as rich soil and proper roasting are essential for a rich coffee, creating an environment for spiritual growth requires the right foundation and nourishment. As we walk as children of light, we're called to bear the fruit of the Spirit – goodness, righteousness, and truth. Just as a pour-over allows the perfect balance of water and coffee to extract the desired flavors, our lives should reflect the perfect balance of God's presence and influence. As we start our day, let's commit to creating an environment that fosters growth and extraction of the Spirit's fruit in our lives.\n\nIn this process, we recognize that our 'roasting' – life experiences and challenges – can either harden or refine us. It's our choice to allow the heat of trials to purify and strengthen our faith, just as a well-roasted coffee reveals its full depth of flavor. This morning, let's pour out our dependence on God, trusting Him to work in us and through us, and to extract the full richness of the Spirit's fruit in our lives.\n\n## Prayer\n\nWe ask, Lord, that you would create in us the right soil for spiritual growth, allowing the fruit of the Spirit to flourish in our lives. Help us to walk in the light, to be refined by our trials, and to bear the fruit that honors you.\n\n## One-Line Application\n\nAs you start your day, commit to creating an environment that fosters the growth and extraction of the Spirit's fruit in your life.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
