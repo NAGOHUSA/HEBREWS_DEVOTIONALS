@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-26",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 259,
+  "theme": "coffee",
+  "content_markdown": "# The Daily Grind of Faithfulness\n\n## Scripture\n\n\"For God did not give us a spirit of fear, but of power and of love and of a sound mind.\" 2 Timothy 1:7\n\n## Reflection\n\nJust as a well-brewed cup of coffee requires a delicate balance of water, temperature, and coffee grounds, our lives as followers of Jesus demand a similar balance of faith, love, and self-control. If we're pouring our hearts into our daily routines without the presence of God's power, we may end up with a bitter taste of anxiety and fear. But when we allow God's love to infuse our lives, we'll experience a rich and vibrant flavor of peace that calms our souls and steels our hearts. As we begin each day, we can ask God to guide us in the art of extraction, to reveal the hidden depths of His love and wisdom in our lives, and to help us pour out our hearts to others in the service of Christ. Just as the crema on a perfectly pulled shot speaks to the quality of the coffee, may our lives speak to the power and love of the living God.\n\n## Prayer\n\nWe ask that You guide us, Lord, in the delicate process of balancing faith, love, and self-control. Help us to pour out our hearts to others and to reveal Your power and love in all that we do.\n\n## One-Line Application\n\nMay our daily routines be infused with the power and love of God, leading to a life of vibrant faith and peace.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
