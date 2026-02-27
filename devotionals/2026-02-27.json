@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-27",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 257,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Gratitude\n\n## Scripture\n\"Give thanks to the Lord, for he is good; his love endures forever!\" \n-Psalm 107:1 (NIV)\n\n## Reflection\nJust as a rich, full-bodied coffee requires the right balance of water and grounds, so does our gratitude for God's goodness require a balance of acknowledgment and action. As we pour-over our hearts to God, we must extract the truth of His love and generosity. We must not just roast in our minds the blessings He has given us, but also extract the sweetness of His presence in our daily lives. Just as a perfectly crafted crema forms on a well-brewed cup of coffee, our gratitude must be a visible, tangible expression of our faith. As we begin each day with a morning ritual of prayer and reflection, we must not forget to breathe in the aroma of God's goodness and exhale the scent of our thanksgiving. In this way, our daily cup of coffee becomes a symbol of our dependence on God's provision and our gratitude for His love.\n\n## Prayer\nWe come before you today, Father, with hearts full of gratitude for your goodness and love. Help us to extract the sweetness of your presence in our daily lives and to express our thanksgiving in tangible ways. May our morning rituals be a time of pouring out our hearts to you in praise and thanksgiving.\n\n## One-Line Application\nAs we begin each day, let us extract the sweetness of God's presence by practicing gratitude and thanksgiving in our morning rituals.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
