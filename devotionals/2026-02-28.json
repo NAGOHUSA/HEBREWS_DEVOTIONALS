@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-02-28",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 231,
+  "theme": "coffee",
+  "content_markdown": "# The Daily Grind of Faithfulness\n\n## Scripture\n\"For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" - Ephesians 2:10 (NIV)\n\n## Reflection\nJust as a perfectly roasted coffee bean requires the right balance of heat, time, and air to release its full flavor and aroma, our faithfulness is cultivated through a careful blend of spiritual disciplines, prayer, and obedience. As we go through the daily grind, we must be intentional about extracting the best from our time with God, allowing His Word to steep in our hearts and minds. Just as the crema on a well-crafted pour-over is a result of the careful balance of water and coffee, our lives are a reflection of the careful balance we maintain between our faith and the world around us. As we pour ourselves out in service to others, we must make sure that our hearts remain full of the rich, life-giving aroma of God's love.\n\n## Prayer\nWe ask that You help us cultivate a heart that is rich in Your love and full of faithfulness. Help us to carefully balance the grind of life with the nourishment of Your Word and the warmth of Your presence.\n\n## One-Line Application\nAs we go through life's daily grind, may our faithfulness be the rich aroma that draws others to You.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
