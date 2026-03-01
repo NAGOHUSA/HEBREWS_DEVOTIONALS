@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-01",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 227,
+  "theme": "coffee",
+  "content_markdown": "# The Aroma of Abiding Prayer\n\n## Scripture\n\n\"He must remain in me, and I in him.\" - John 15:4 (NIV)\n\n## Reflection\n\nAs I prepare the coffee, I reflect on the process of abiding in Christ. Just as the coffee grounds require time to steep in the hot water, so too must I allow myself to steep in God's presence. The extraction of flavors and oils is a gradual process, one that requires patience and surrender. Like the rich crema that forms on the surface of a well-made espresso, the abiding relationship with Christ yields a depth of joy and peace that overflows from within. We must not rush the process, but rather allow ourselves to be poured over, that the fullness of God's love may be extracted and savored. In the stillness of morning, as I pour the coffee into my cup, I am reminded to pour myself into Christ, that I might be filled with the aroma of His presence.\n\n## Prayer\n\nWe ask for the patience to steep in your presence, Lord, and the courage to pour out our hearts to you. Help us to abide in you, that we may be transformed by the richness of your love.\n\n## One-Line Application\n\nAs you begin your day, take time to steep in God's presence, allowing yourself to be poured over by His love.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
