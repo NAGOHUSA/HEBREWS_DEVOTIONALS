@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-02",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 307,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Rich Devotion\n\n## Scripture\n\n\"So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal.\" \n2 Corinthians 4:18 (NIV)\n\n## Reflection\n\nAs I watch the morning light dance across the kitchen, I'm reminded of the brewing process that begins with a simple pour-over. Just as the coffee grounds require hot water to release their full flavor, our faith requires a consistent pouring of God's presence into our lives. Like the slow extraction of flavors through a dripping filter, our devotion to Christ is refined through the trials and tribulations of life.\n\nAs we roast in the fire of adversity, our faith is transformed, and the rich aroma of God's glory is released. The crema that forms on the surface of a perfectly brewed cup is a testament to the beauty of what's been extracted. So too, our lives can be a reflection of the beauty of Christ, as we fix our eyes on the eternal and unseen.\n\nIn this morning ritual, I'm reminded that my devotion to God is an ongoing process, much like the brewing of a perfect cup of coffee. I must be intentional in seeking Him, allowing His presence to seep into my heart, and trusting that the flavors of His love will be released for all to taste.\n\n## Prayer\n\nWe ask that You would pour Your presence into our lives, filling us with Your love and refining us in the fire of adversity. Help us to fix our eyes on the eternal and unseen, that our devotion to You might be a rich and fragrant reflection of Your glory.\n\n## One-Line Application\n\nAs we begin each day, we intentionally pour our hearts before God, seeking His presence to guide and refine us.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
