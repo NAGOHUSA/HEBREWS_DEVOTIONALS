@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-03",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 251,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Hope\n\n## Scripture\n\n\"For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" - Ephesians 2:10 (NIV)\n\n## Reflection\n\nJust as a skilled barista carefully roasts, grinds, and brews coffee beans to bring out their full flavor, God has been at work in our lives, preparing us for the good works He has planned. As we begin our day, we can take a moment to reflect on the \"roasting\" process that has taken place within us. What experiences, trials, and triumphs have helped shape us into the people we are today? Just as the perfect pour-over requires a delicate balance of water and coffee, our lives require a balance of faith and works. As we pour out our hearts to God, may we remember that our hope and purpose are found in the extraction of Jesus' love and redemption, which is the true flavor of our lives. And just as a rich crema forms on a well-crafted cup of coffee, may our lives be marked by the beauty and richness of God's goodness.\n\n## Prayer\n\nWe thank You, Lord, for the \"roasting\" process that has refined us and prepared us for Your good works. Help us to pour out our hearts to You, and to live out the love and purpose You have planned for us.\n\n## One-Line Application\n\nMay our lives be a rich cup, overflowing with the goodness of God's love and purpose.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
