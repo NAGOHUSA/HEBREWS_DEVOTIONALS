@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 257,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Hope in the Morning Light\n\n## Scripture\n\n\"I wait on the Lord; I wait and say, 'Hope in God. I will again praise him, my Savior and my God.'\" - Psalm 38:15 (ESV)\n\n## Reflection\n\nAs we begin our day, we often start with a warm cup of coffee, a carefully crafted brew that fills our senses with its rich aroma. In a similar way, our faith is nurtured through a process of waiting and hope. Just as the extraction of flavors from the coffee bean requires patience and time, our trust in God's goodness and sovereignty requires us to wait and hope in Him. As we pour over our lives, we must also pour our hearts out to God, trusting that He will bring forth the good from our struggles. This morning ritual of hope is not just a feeling, but a practice that requires discipline and faith. As we roast our coffee beans, we are reminded that our trials can be transformed into something beautiful if we offer them up to God. The crema that forms on top of a well-crafted latte is a reminder of the beauty that can emerge from our struggles, just as our faith is refined and strengthened through the fires of trial.\n\n## Prayer\n\nWe wait on you, Lord, and trust in your goodness. Help us to hope in you and praise you, our Savior and God.\n\n## One-Line Application\n\nAs you start your day, commit to waiting on the Lord and trusting in His goodness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
