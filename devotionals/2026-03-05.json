@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-05",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 246,
+  "theme": "coffee",
+  "content_markdown": "# Roasted in the Fire\n\n## Scripture\n\n\"Just as we have been approved by God to be entrusted with the message of the gospel, even so we speak, not as pleasing men but God who tests our hearts.\" - 1 Thessalonians 2:4 (ESV)\n\n## Reflection\n\nJust as the roasting process transforms green coffee beans into fragrant, rich coffee, so too does the fiery trials in life refine and purify us. In 1 Thessalonians 2:4, Paul reminds us that we've been entrusted with the message of the gospel, just as a skilled roaster entrusts delicate coffee beans to the heat. The fire of suffering tests our hearts, extracting the impurities and revealing our true character. Like the crema that forms on expertly pulled espresso, our faith is strengthened and clarified in the midst of trials. As we face challenges, we must not be swayed by human opinions, but instead, be guided by the heart of our Father who tests our devotion. Our morning ritual of prayer and scripture reading can be transformed into a daily extraction of faith, refining us to be a fragrant offering to God.\n\n## Prayer\n\nWe ask that You would roast us in the fire, transforming our hearts and making us fragrant for Your glory. Help us to speak the truth in love, not to please men but to please You who test our hearts.\n\n## One-Line Application\n\nMay the fire of trials refine your faith, making you a fragrant offering to God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
