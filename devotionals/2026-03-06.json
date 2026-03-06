@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-06",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 258,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in the Brokenness\n\n## Scripture\n\n\"And we know that in all things God works for the good of those who love him, who have been called according to his purpose.\" Romans 8:28\n\n## Reflection\n\nAs we begin our day with the rich aroma of freshly brewed coffee, we often overlook the process that goes into creating that perfect cup. The roast, the grind, the pour-over – each step is crucial to the final product. Similarly, our lives are not always smooth or straightforward. We may face seasons of brokenness, uncertainty, or pain. But in the midst of these challenges, we can trust that God is at work, refining us like a skilled roaster coaxes out the full flavor from a coffee bean. Just as the crema forms on a well-crafted latte, God's presence and purpose are emerging in our struggles, even when we can't see it. We are not alone in our brokenness; God is extracting the gold from the ashes, and we are being transformed into a beautiful, fragrant cup, fit for His purposes.\n\n## Prayer\n\nWe pray that you would help us trust in your good work, even in the midst of brokenness and uncertainty. Help us to see your presence and purpose emerging in our struggles, and to be transformed into a beautiful, fragrant cup, fit for your purposes. We trust in your goodness and faithfulness.\n\n## One-Line Application\n\nMay we trust God's goodness in the midst of brokenness, just as a skilled roaster trusts in their process to create the perfect cup.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
