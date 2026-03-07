@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-07",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 242,
+  "theme": "coffee",
+  "content_markdown": "# Riches in the Roast of God's Presence\n\n## Scripture\n\"Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.\" - Psalms 55:17 (KJV)\n\n## Reflection\nJust as a pour-over requires patience to allow the right balance of water and coffee to come together, forming rich and smooth flavors, so too do we need to patiently cultivate our relationship with God. As we pray and seek Him, He is present, like a warm and comforting crema that settles on the surface of our daily lives. His presence is not limited to just moments of crisis or urgency but is available to us morning, noon, and night. We can trust that as we cry aloud to Him, He will hear our voice and meet us in the midst of our extraction – the struggles and challenges that make up our lives. As we draw near to Him, we find that His presence becomes the rich flavor that gives our lives depth, richness, and purpose.\n\n## Prayer\nWe pray that you would be our daily pour-over, rich and smooth, that we might draw near to you and experience your presence in all aspects of our lives. Help us to cultivate patience and trust in your goodness, even when the grind of life gets tough.\n\n## One-Line Application\nAs we seek God's presence in our daily lives, we experience a richness that makes all our troubles worthwhile.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
