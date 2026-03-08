@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 198,
+  "theme": "coffee",
+  "content_markdown": "# Rich Grounds for Spiritual Growth\n\n## Scripture\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" James 1:2-3\n\n## Reflection\nJust as freshly roasted coffee beans require proper extraction to release their full flavor, our faith needs trials to grow and mature. When life's challenges come, we can view them as opportunities for spiritual growth, just as a skilled barista carefully pours hot water over the coffee grounds to coax out the perfect cup. This process can be uncomfortable, but it's essential for developing perseverance and a deeper understanding of God's goodness. As we face our own \"trials of many kinds,\" we can choose to see them as a chance to refine our faith, just as the roasting process transforms the raw coffee bean into a rich and flavorful brew.\n\n## Prayer\nWe pray for the courage to face our trials with perseverance, trusting that Your testing of our faith will lead us to greater maturity and a deeper love for You.\n\n## One-Line Application\nWe will face trials with joy, knowing they refine our faith and produce spiritual growth.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
