@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-09",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 215,
+  "theme": "coffee",
+  "content_markdown": "# Bitter Roots, Rich Brew\n\n## Scripture\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3 (NIV)\n\n## Reflection\nAs I watch the coffee brew, I'm reminded of the refining process it undergoes. From the bitter roots of the coffee plant to the rich flavors of the final brew, there's an intentional sequence of steps that transforms the raw material into something delightful. Similarly, when we face trials, our initial response may be bitter. Yet, with perseverance, our faith is refined and strengthened. The testing of our faith – like the roasting of coffee beans – reveals its true character. As we endure, we become more like the rich, bold coffee we've come to love. This morning ritual of perseverance is a discipline we cultivate, trusting that it will transform our bitter moments into something rich and life-giving.\n\n## Prayer\nWe ask that you refine our faith, Lord, like the rich brew that emerges from the bitter roots. Help us to persevere through trials, trusting that they bring growth and maturity to our spiritual lives.\n\n## One-Line Application\nAs we face trials, we can transform our bitter moments into rich experiences by persevering in faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
