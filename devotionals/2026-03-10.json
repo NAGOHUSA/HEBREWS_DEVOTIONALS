@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-10",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 230,
+  "theme": "coffee",
+  "content_markdown": "# \"Brewing a Richer Faith\"\n\n## Scripture\n\n\"May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.\" - Romans 15:13 ESV\n\n## Reflection\n\nAs we begin our day with a warm cup of coffee, we're reminded of the process involved in bringing out its rich flavors. Just as a skilled roaster carefully selects the right beans, a pour-over dripper expertly controls the water flow, and a steaming pitcher of milk adds a velvety texture, so too does God carefully craft our faith. He takes the ordinary moments of our lives - the struggles, the triumphs, and the quiet moments - and uses them to refine and deepen our relationship with Him. As we surrender to His power, we're filled with joy and peace, and our hope is made strong. In this way, our faith becomes a richer, more aromatic blend, one that attracts others to the fragrance of Christ.\n\n## Prayer\n\nWe ask that you, God, would fill us with the joy and peace that comes from trusting in you. Help us to abound in hope as we walk by the power of your Spirit.\n\n## One-Line Application\n\nAs we face life's challenges, may we surrender to God's refining process, trusting that He'll bring forth a rich and beautiful faith in us.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
