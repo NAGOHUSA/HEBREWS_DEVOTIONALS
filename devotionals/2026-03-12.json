@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-12",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 205,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Sustenance for the Soul\n\n## Scripture\n\n\"For God is not a God of disorder but of peace—as in all the congregations of the Lord's people.\" - 1 Corinthians 14:33 (NIV)\n\n## Reflection\n\nAs I sit with a pour-over, I'm reminded of the process of brewing. Each step requires patience, attention to detail, and a willingness to let go. I pour the grounds, allowing the hot water to extract the flavors and oils. In the same way, as followers of Christ, we must be willing to let go of our own desires, allowing the Holy Spirit to extract the good from our lives. Just as the crema forms on top, our faith is not just a dry, flavorless existence, but a rich, vibrant experience that overflows with the presence of God. As we gather with other believers, we become part of a larger, cohesive whole, united in our pursuit of peace and harmony.\n\n## Prayer\n\nWe ask for the patience to allow the Holy Spirit to extract the good from our lives, and for the courage to let go of our own desires.\n\n## One-Line Application\n\nAs I gather with fellow believers, I prioritize unity and harmony in our pursuit of peace.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
