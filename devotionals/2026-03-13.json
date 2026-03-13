@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-13",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 238,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"Be still before the Lord and wait patiently for him; do not fret when men are made to prosper, when greed is their way of life.\" - Psalm 37:7 (NIV)\n\n## Reflection\n\nJust as a skilled barista carefully pours steaming water over freshly ground coffee beans, releasing the rich aroma that fills the air, our lives are transformed as we surrender to God's presence. As we wait patiently, we allow the warmth of His love to penetrate our souls, just as the extraction process releases the full flavor of the coffee. In this quiet moment, we're reminded that our worth isn't tied to external successes or material possessions. We're grounded in His presence, not by our own efforts, but by His steadfast love. Just as a pour-over requires patience and attention to detail, our spiritual growth demands a willingness to slow down, listen, and savor the moments spent with our Creator. As we abide in Him, we become like the smooth, velvety crema that tops a perfectly brewed cup – a reflection of His beauty and character.\n\n## Prayer\n\nWe thank You, Lord, for the reminder to be still and wait patiently for You. Help us to slow down, listen, and savor the moments spent in Your presence.\n\n## One-Line Application\n\nAs you begin each day, take a moment to still your heart and wait for God's presence to fill you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
