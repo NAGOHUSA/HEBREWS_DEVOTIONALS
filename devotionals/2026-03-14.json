@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 241,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\"May God be gracious to us and bless us and make his face shine upon us.\" Psalms 67:1, NIV\n\n## Reflection\nAs I sit with my morning coffee, savoring the rich aroma that fills the air, I'm reminded of the presence of God in my life. Like the gentle pour-over's steady flow, God's steady presence pours into my soul, nourishing and revitalizing me. The roasting process that brings out the full flavor in my coffee is like the refining trials that shape me into a more mature follower of Christ. Just as the crema on top of a well-crafted cup signifies quality and care, God's presence in my life is a mark of His love and care for me. The morning ritual of brewing coffee is a sacred space for me to invite God into my daily life, to seek His guidance and strength for the day ahead. As I wait for the coffee to brew, I'm reminded to wait on God, trusting that He will fulfill His promise to be my source of joy and peace.\n\n## Prayer\nWe thank you, Lord, for your presence in our lives, for the steady flow of Your love and care that nourishes and revitalizes us. Help us to wait on You, to seek Your guidance and strength each day.\n\n## One-Line Application\nAs you begin your day, pause to invite God's presence into your morning routine.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
