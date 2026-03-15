@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-15",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 257,
+  "theme": "coffee",
+  "content_markdown": "# A Savoring Faith\n\n## Scripture\n\"Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me.\" - John 15:4 (ESV)\n\n## Reflection\nJust as a pour-over coffee brew requires patience, letting the coffee grounds steep in the water to fully extract its flavors, our faith requires us to abide in Christ. We must allow ourselves to be saturated in His presence, to immerse our lives in His truth and love. As we do, we become vessels for His fruitfulness, bearing witness to His goodness and sharing His love with a world in need. The crema that forms on a well-crafted cup of coffee is a testament to the care and attention that goes into its preparation; in the same way, our faith is refined and beautiful when we prioritize time with God. The morning ritual of sipping coffee is a reminder that some things are worth slowing down for; in our fast-paced lives, we must intentionally create space for spiritual nourishment, for it is in these moments that we are transformed, and our faith is strengthened.\n\n## Prayer\nWe ask, Lord, that you would be our steady presence, the source of life and nourishment that we so desperately need. Help us to abide in you, to be vessels for your fruitfulness, and to share your love with a world in need. \n\n## One-Line Application\nAbide in Christ, allowing His presence to fully extract the richness of your faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
