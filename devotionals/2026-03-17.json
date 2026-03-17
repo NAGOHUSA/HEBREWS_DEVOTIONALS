@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-17",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 224,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in Joy\n\n## Scripture\n\n\"I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.\" - Romans 8:18\n\n## Reflection\n\nJust as the perfect pour-over requires patience and attention to detail, our faith requires us to slow down and focus on the present moment. As we wait for the coffee to brew, we can reflect on the sufferings we face and compare them to the glory that awaits us. Just as the flavor of the coffee is extracted from the beans, our faith is strengthened by the trials we endure. The aroma of joy that fills our hearts is a result of the roasting process of our experiences, transformed by the love of Jesus. As we take our first sip, we're reminded that our morning ritual is not just about caffeine, but about drawing near to God and savoring His presence.\n\n## Prayer\n\nWe ask that You would help us to focus on the glory that awaits us, and to patiently endure the sufferings of this present time. May our hearts be filled with the aroma of joy and may our faith be strengthened by the trials we face.\n\n## One-Line Application\n\nAs I face trials, I will focus on the glory that awaits me and trust in God's goodness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
