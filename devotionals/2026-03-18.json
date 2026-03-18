@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-18",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 235,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in the Dark\n\n## Scripture\n\"Yet those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.\" - Isaiah 40:31 (NIV)\n\n## Reflection\nAs I sit here sipping my morning coffee, the rich aroma fills the air. It's a reminder that even in the darkest moments, hope can emerge. Just as the coffee beans must be roasted to their full potential, our sufferings can refine us, revealing the depth of God's strength within. The process of brewing coffee requires patience and dedication - much like our walk with God. As we pour our hearts out to Him, He extracts the bitterness, leaving behind a rich, life-giving drink. Just as a pour-over requires a slow and deliberate flow, our faith grows through the gentle, consistent flow of prayer and worship. And when the morning light breaks, the crema on our coffee reminds us of the beauty that emerges from the darkest depths.\n\n## Prayer\nWe ask, Lord, that you would roast our sufferings, refining us into vessels that bear Your strength and hope. Help us to patiently pour out our hearts to You, trusting that You will extract the bitterness, leaving behind a rich, life-giving faith.\n\n## One-Line Application\nWe must patiently endure the darkness to reveal the depth of God's strength within us.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
