@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-19",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 210,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in the Darkness\n\n## Scripture\n\n\"For you have delivered my soul from death, my eyes from tears, and my feet from stumbling.\" - Psalm 116:8 (ESV)\n\n## Reflection\n\nJust as a perfect cup of coffee requires the right balance of time, temperature, and pressure to extract its rich flavors, our faith journey often demands navigating through dark and uncertain times. We may feel like the coffee grounds, crushed and helpless, unable to produce the desired aroma or taste. But God, the skilled barista, is at work, coaxing out the hidden beauty within us. As we surrender to His process, He extracts the bitterness of our struggles and reveals the sweet fragrance of hope and redemption. Just as the crema forms on a well-brewed cup, our faith is refined and strengthened in the darkness, emerging transformed and radiant. May we trust in God's skilled hands, not just to brew a perfect cup, but to shape us into vessels of His love and light.\n\n## Prayer\n\nWe pray for the faith to trust You, God, in the darkest moments, and for the patience to wait for the perfect brew of Your redemption in our lives.\n\n## One-Line Application\n\nMay we trust God's skilled hands to transform us in the darkness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
