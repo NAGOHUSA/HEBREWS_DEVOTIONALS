@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-20",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 223,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in the Presence of God\n\n## Scripture\n\"And let the peace of Christ rule in your hearts, to which indeed you were called in one body. And be thankful.\" - Colossians 3:15\n\n## Reflection\nAs we begin our day, the aroma of freshly brewed coffee fills the air, carrying the promise of warmth and comfort. Just as the perfect pour-over requires patience and attention to detail, our lives as disciples of Christ demand a similar dedication. We must allow the peace of Christ to rule in our hearts, guiding every decision and interaction. The process of roasting, brewing, and extraction reminds us that our growth in faith is a gradual, intentional process. Just as the crema forms on the surface of the espresso, our faith is refined and strengthened as we trust in God's presence throughout the day. We pour our hearts out to Him, just as the coffee is poured into the cup, and in doing so, we find the richness and depth we've been seeking.\n\n## Prayer\nWe thank you, Lord, for the reminder that your peace rules in our hearts. Help us to pour out our lives to you each day, trusting in your presence and guidance.\n\n## One-Line Application\nAs you pour your heart out to God each day, allow His peace to rule in your heart.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
