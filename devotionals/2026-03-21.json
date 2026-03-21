@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-21",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 250,
+  "theme": "coffee",
+  "content_markdown": "# RISE AND BREW: A Morning of Surrender\n\n## Scripture\n\"And he was transfigured before them, and his face shone like the sun, and his garments became white, as light.\" - Matthew 17:2 (ESV)\n\n## Reflection\nAs I prepare my morning coffee, I'm reminded of the process of surrender that comes with it. Just as the beans must release their flavors and oils through the heat of the roast, and then again through the extraction of the brewing process, so too must I surrender my own desires and ambitions to the heat of God's will. The aroma of freshly brewed coffee fills the air, a sweet reminder of the joy that comes from letting go and trusting in God's plan. As I pour over the coffee grounds, I'm reminded of the importance of patience and slowing down to appreciate the process. The crema that forms on top of a well-crafted pour-over is a testament to the beauty that can emerge when we surrender to the process. Just as the flavors of the coffee are released and combined in a beautiful symphony, so too can our lives be transformed when we surrender to God's plan.\n\n## Prayer\nWe surrender our lives to you, Lord, and ask that you would transform us through your heat and your will. Help us to slow down and appreciate the process of growth and transformation that you are working in us.\n\n## One-Line Application\nAs you brew your morning coffee, surrender your desires to God's will.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
