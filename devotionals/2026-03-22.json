@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-22",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 208,
+  "theme": "coffee",
+  "content_markdown": "# A Fragrance that Awakens\n\n## Scripture\n\n\"Let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.\"  \nMatthew 5:16 (ESV)\n\n## Reflection\n\nJust as the perfect roast develops its distinctive aroma, so too should our faith radiate a fragrance that draws others to God. The brew of our lives – a blend of trials, mercies, and relationships – should be poured out in service to others. As we engage in the extraction process of our daily routines, let us not forget the essential ingredient: love. Just as a delicate pour-over requires attention to detail, so too does our witness demand intentional living. As we roast in the heat of adversity, may our crema of character be a manifestation of God's glory. The morning ritual of prayer and Scripture should be our daily grind, fueling us to shine His light in the world.\n\n## Prayer\n\nWe ask that You would awaken in us a fragrance that draws others to You, and that our lives, like a perfectly brewed cup, would bring Your glory to all who encounter us.\n\n## One-Line Application\n\nMay our faith be a fragrance that inspires others to give glory to God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
