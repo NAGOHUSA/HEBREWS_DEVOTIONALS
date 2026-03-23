@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 255,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in the Gospel\n\n## Scripture\n\"For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.\" Ephesians 2:8-9 (ESV)\n\n## Reflection\nJust as a skilled barista carefully roasts and brews each coffee bean to bring out its unique flavor, God's grace is carefully crafted to bring out the full richness of our lives in Christ. In the same way, the process of becoming the people God created us to be is not about our efforts, but about the gifts He pours into us through faith. As we begin each day, we can trust that the flavor of God's presence is already within us, awaiting the moment we surrender to His will and allow Him to pour us out for the world. The extraction of our truest selves is not a result of our own works, but a result of the love that pours through us from Him.\n\n## Prayer\nWe thank you, God, for the richness of your gift, and ask that you would pour us out as instruments of your love to those around us. Help us to trust in the flavor of your presence within us, and to surrender to your will, that we may be the vessels of your goodness to a world in need.\n\n## One-Line Application\nAs you sip your morning coffee, remember that the flavor of God's presence is already within you, awaiting your surrender.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
