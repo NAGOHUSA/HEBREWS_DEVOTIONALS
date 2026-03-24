@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 219,
+  "theme": "coffee",
+  "content_markdown": "# From the Grounds of Humility\n\n## Psalm 138:6 - You have exalted our horn like the horn of the wild ox; for all the earth will remember and turn to the Lord.\n\n## Reflection\n\nJust as a well-roasted coffee bean requires time and patience to extract its full flavor, a life of humility requires us to surrender to the refining process of God. The roasting process can be intense, stripping away the impurities and revealing the rich aroma within. Similarly, as we submit to God's work in us, He strips away our pride and self-reliance, allowing His perfect love and character to shine through. The crema that forms on a perfectly brewed cup of coffee is a testament to the union of flavors and textures. In the same way, as we blend our lives with God's, we become a union of His love and our surrendered hearts, producing a fragrance that attracts others to Him.\n\n## Prayer\n\nWe confess our tendency to be proud and self-sufficient. Help us to surrender to your refining work in our lives, that we may be vessels of your perfect love and character. Remind us to turn to you, the Lord, and remember your greatness.\n\n## One-Line Application\nSurrender to God's refining process to become a vessel of His perfect love and character.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
