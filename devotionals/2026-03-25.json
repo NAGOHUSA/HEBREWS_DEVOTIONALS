@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 213,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in the Presence of God\n\n## Scripture\n\n\"But you, God, are our Father; we are the clay, and you are the Potter; we are all the work of your hand.\" - Isaiah 64:8\n\n## Reflection\n\nJust as a skilled barista must carefully balance the water-to-coffee ratio to bring out the optimal flavors, God as the Potter carefully crafts and molds us to reveal His glory. The roasting process transforms the raw coffee bean into a rich, aromatic blend, much like God's refining work in our lives, stripping away impurities and revealing the beauty of His creation in us. As we surrender to God's presence, He works through the trials and challenges, much like the brewing process, extracting the sweetness and depth from our darkest moments. As we pour our hearts out before Him, He brings forth a crema of joy, a beautiful manifestation of His presence in our lives.\n\n## Prayer\n\nWe ask that you would be our Potter, shaping and molding us to reveal your glory. Help us to surrender to your presence in our lives, allowing the refining work to bring out the beauty in us.\n\n## One-Line Application\n\nAs God refines us, He transforms our darkest moments into a rich, aromatic blend of His glory in our lives.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
