@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-26",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 257,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in Faith, Brewed in Love\n\n## Scripture\n\n\"So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness.\" - Colossians 2:6-7 (NIV)\n\n## Reflection\n\nJust as a skilled barista carefully prepares a pour-over, pouring love into every step, so God pours his love into our lives, carefully crafting us into vessels that overflow with thankfulness. As we begin each day, we can start by acknowledging the rich aroma of God's presence that fills our lives, drawing us to the truth that we are rooted and built up in him. As we stir and mix our own lives with his, we find strength in the faith that we were taught, and our hearts fill with gratitude. The roasting process of trials and tests refines and matures us, but it's the extraction of God's love that truly brings out the depth of our flavor. Just as a skilled barista coaxes the perfect crema from a well-roasted bean, God brings out the best in us, revealing the beauty of his love as we become the very cup that overflows with thanks.\n\n## Prayer\n\nWe ask that you would help us to cultivate an awareness of your presence in our lives each morning, that we might be strengthened in our faith and overflow with thankfulness.\n\n## One-Line Application\n\nMay our daily lives be a deliberate expression of faith, poured from a heart overflowing with gratitude.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
