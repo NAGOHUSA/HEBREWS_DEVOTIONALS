@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-27",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 256,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Sustenance for the Journey\n\n## Scripture\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" - Ephesians 2:10\n\n## Reflection\nAs I sit down to brew a cup of coffee, I'm reminded of the process that brings out its full flavor. First, the beans must be roasted to bring out their rich aroma, then ground to release their flavors. Next, the pour-over requires patience as the hot water slowly extracts the oils and essence, finally topped with a rich crema that signifies the perfect balance of flavors. Similarly, as we journey through life, God is at work, preparing us for the good works He has in store for us. Like the extraction process of coffee, He is slowly refining us, removing impurities, and bringing out our true potential. As we commit to our morning ritual of prayer, Bible reading, and devotion, we allow God to extract the sweetness from our lives, preparing us to be a cup of sustenance for those around us.\n\n## Prayer\nWe ask that You would continue to refine us, removing the impurities of our hearts and minds, and bringing out our true potential. Help us to be the cup of sustenance You have prepared us to be, that we may do the good works You have in store for us.\n\n## One-Line Application\nMay our daily disciplines be a slow and intentional extraction process, allowing God to refine and prepare us for His purposes.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
