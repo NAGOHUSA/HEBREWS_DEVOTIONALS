@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-28",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 249,
+  "theme": "coffee",
+  "content_markdown": "# Rich Ground for the Spirit to Flourish\n\n## Scripture\n\n\"I am the true vine, and my Father is the vinedresser. Every branch in me that does not produce fruit he takes away.\" - John 15:2 (ESV)\n\n## Reflection\n\nAs a coffee aficionado, you know that the quality of the brew depends on the type of coffee beans, the roast level, and the brewing method. But what often gets overlooked is the importance of the soil and the conditions in which the coffee plants grow. Rich, well-draining soil and a stable climate allow the plants to thrive, producing the best flavor and aroma.\n\nIn the same way, our spiritual lives require rich \"soil\" - a deep connection with God, nourished by His Word and prayer. Without it, we may produce little fruit and be vulnerable to being pruned away. As we tend to our spiritual soil, we must also be mindful of the conditions that affect our growth. Are we receiving enough sunlight (God's presence and guidance), water (spiritual nourishment), and pruning (discipline and refinement)?\n\nAs we pour over our Bibles and pray, may we ask God to cultivate our hearts, making us fertile ground for His Spirit to flourish.\n\n## Prayer\n\nWe ask, Lord, that You would cultivate our hearts, making us rich ground for Your Spirit to flourish. Help us tend to our spiritual soil, that we may produce fruit for Your glory.\n\n## One-Line Application\n\nRegularly tend to your spiritual soil through Bible study and prayer.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
