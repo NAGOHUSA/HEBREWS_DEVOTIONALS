@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 217,
+  "theme": "coffee",
+  "content_markdown": "# A Brewing Heart, A Rich Faith\n\n## Scripture\n\n\"But the path of the righteous is like the morning sun, shining ever brighter till the full light of day.\" - Proverbs 4:18 (NIV)\n\n## Reflection\n\nJust as a skilled barista carefully roasts, grinds, and brews coffee to bring out its full flavor, our faith is refined and strengthened through the process of following Christ. Just as the pour-over method allows each drop to be extracted to its full potential, our time with God allows us to extract the richness of His love and character. As we begin each day with a morning ritual, we invite God to pour His presence into our lives, filling us with His light and love. In this slow and intentional process, we discover that our faith is not just a daily cup, but a constantly deepening wellspring that overflows into every area of our lives.\n\n## Prayer\n\nWe ask that You would help us to slow down and savor the rich aroma of Your presence in our lives, that we might be transformed from the inside out and filled with the full light of Your love.\n\n## One-Line Application\n\nAs we begin each day, may we intentionally invite God to brew a fresh cup of His presence and love in our lives.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
