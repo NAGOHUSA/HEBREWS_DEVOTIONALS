@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-30",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 235,
+  "theme": "coffee",
+  "content_markdown": "# \"Roasting in the Refiner's Fire\"\n\n## Scripture\n\n\"Come near to God and he will come near to you. Wash your hands, you sinners, and purify your hearts, you double-minded.\" - James 4:8\n\n## Reflection\n\nJust as high-quality coffee requires a precise roasting process to bring out its rich flavors, our lives often require the refining fire of God to extract our true character. We may feel like we're stuck in a state of underdevelopment, lacking the depth and complexity that only time and heat can bring. But James reminds us that God's presence is near to those who come to Him with a humble heart. As we surrender to the refining fire, our lives are purified, and our hearts are made pure, just like a perfectly roasted coffee bean. Just as the extraction process reveals the nuances of the coffee, God's presence reveals the nuances of our hearts. We can't rush the process, but we can trust that the Lord is working to perfect us, just as a skilled roaster perfects the roast.\n\n## Prayer\n\nWe come to You, Lord, in humility, asking for Your refining fire to purify our hearts and bring out the richness of our character. Purify us, Lord, and make us like You.\n\n## One-Line Application\n\nAs we submit to God's refining fire, our lives are purified, and our hearts are made pure, just like a perfectly roasted coffee bean.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
