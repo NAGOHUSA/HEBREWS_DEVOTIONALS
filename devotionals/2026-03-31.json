@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-03-31",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 264,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Divine Refinement\n\n## Scripture\n\n\"Test me in this,\" the Lord said to Abraham, \"that is, 'Offer your son Isaac as a sacrifice on one of the mountains I will tell you about.' Abraham said, 'We both have fire and wood; but where is the lamb for a burnt offering?' Abraham went early in the morning to the place of which God told him, and he built an altar there and laid the wood in order.\" - Genesis 22:1-9\n\n## Reflection\n\nJust as a skilled barista must carefully roast, grind, and brew coffee beans to bring out their full flavor, Abraham's faith was refined in the fire of his obedience to God's commands. Through his willingness to sacrifice his beloved son Isaac, Abraham demonstrated a deep trust in God's sovereignty and goodness. As we face our own seasons of refinement, we can learn from Abraham's example. Like the rich aroma of freshly brewed coffee, our faith is made richer as we surrender our desires and expectations to God's will. Just as a pour-over coffee requires patience and attention to detail, our walk with God demands dedication and surrender. In the process of extraction, our faith is purified and made more fragrant, releasing the full flavor of God's presence in our lives.\n\n## Prayer\n\nWe ask, Lord, that You refine us like fine coffee, removing the impurities of our hearts and revealing the full flavor of Your presence in our lives.\n\n## One-Line Application\n\nAs we yield to God's refining fire, our faith becomes more fragrant and our trust in Him deeper.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
