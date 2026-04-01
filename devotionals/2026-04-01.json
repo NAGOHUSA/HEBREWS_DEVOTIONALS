@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-01",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 253,
+  "theme": "coffee",
+  "content_markdown": "# A Rich Pour of God's Love\n\n## Scripture\n\n\"So we have come to know and to believe the love that God has for us. God is love, and those who abide in love abide in God, and God abides in them.\" - 1 John 4:16 (NIV)\n\n## Reflection\n\nJust like a pour-over coffee requires patience, precision, and the right balance of water and grounds, our relationship with God demands a similar harmony. As we \"abide in love,\" God's presence is the rich, flavorful extract that fills our lives. Just as the crema on a well-brewed coffee provides a smooth, creamy texture, God's love calms our spirits and brings peace in the midst of chaos. As we cultivate our morning ritual, whether it's a quiet moment of prayer or a slow savoring of a cup of coffee, we invite God's presence into our lives, allowing His love to seep into every aspect of our being. Just as the roasting process brings out the unique flavor of each coffee bean, God's refining work in our lives strips away the dross and reveals our true character, making us more like Him.\n\n## Prayer\n\nWe thank you, Lord, for the gift of your abiding presence in our lives. Help us to cultivate a rich pour of your love, that we may abide in you and you in us. Fill us with your peace and calm our spirits.\n\n## One-Line Application\n\nAs we abide in love, God's presence becomes the rich, flavorful extract that fills our lives.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
