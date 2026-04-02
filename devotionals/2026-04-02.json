@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-02",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 272,
+  "theme": "coffee",
+  "content_markdown": "# A Morning Brew of Faithfulness\n\n## Scripture\n\n\"So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness.\" - Colossians 2:6-7 (NIV)\n\n## Reflection\n\nJust as coffee beans can only produce their rich aroma and flavor when they're roasted to the right temperature, our faith can only flourish when it's seasoned with the heat of trials and challenges. As we navigate the ups and downs of life, we must not forget to be rooted in Christ, just like a well-brewed cup of coffee relies on its foundation of high-quality beans. When we're strengthened in our faith, we'll be able to face whatever comes our way with thankfulness and confidence. It's not about avoiding the bitterness of life, but about being able to extract the sweetness from every experience, knowing that God is at work in us. Just as the perfect pour-over requires patience and attention to detail, our walk with God demands dedication and a willingness to learn from every moment. As we cultivate our faith, we'll discover that the crema of Christ's presence is the perfect topping to our lives.\n\n## Prayer\n\nWe thank you, Lord, for the gift of faith that's being strengthened in us. Help us to remain rooted in you, even in the midst of challenges, and to overflow with thankfulness as we experience your presence in our lives.\n\n## One-Line Application\n\nLet our faith be seasoned by the heat of trials, that we may be strengthened in Christ and overflow with thankfulness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
