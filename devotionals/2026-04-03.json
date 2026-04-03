@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-03",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 259,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in the Process\n\n## Scripture\n\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" \nEphesians 2:10\n\n## Reflection\n\nAs I prepare for another day, I'm reminded of the process involved in crafting a perfect cup of coffee. From the roasting of the beans to the extraction of their flavors, each step plays a vital role in the final product. Similarly, God has prepared us for the good works He has in store, and the process of our faith is just as deliberate and intentional. Just as the pour-over method requires patience and attention to detail, our walk with God demands a willingness to be shaped and molded by Him. The crema that forms on top of a well-crafted cup is a testament to the care and precision that goes into its creation – a reminder that our lives, too, can be a masterpiece of God's craftsmanship. As we go about our daily routines, may we be mindful of the ways in which God is at work within us, refining and perfecting us for His purposes.\n\n## Prayer\n\nWe ask, Lord, that You would help us to see the process of our faith as an opportunity for growth and refinement, rather than a chore or duty. Pour Your Spirit into our lives, and help us to be fully engaged in the work You have prepared for us.\n\n## One-Line Application\n\nMay our lives be a testament to God's intentional craftsmanship, poured out for His purposes.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
