@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 231,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" \nEphesians 2:10\n\n## Reflection\n\nAs I sit here with my morning cup of coffee, I'm reminded of the deliberate and intricate process that brings it to life. From the precise roasting of the beans to the carefully controlled brew, every step is designed to release the full flavor and aroma of the coffee. In the same way, God has carefully crafted us to live out our purpose and bring glory to Him. Just as the coffee's flavors are extracted through the process of pouring over, we too are designed to release the goodness of God in the world around us. Our daily lives are a pouring over of God's presence, extracting the depths of His character and allowing His goodness to flow through us. May we be intentional about living out our purpose, just as the coffee maker is intentional about brewing the perfect cup.\n\n## Prayer\n\nWe thank You for creating us to do good works, and we ask that You would guide us in living out our purpose each day. Help us to be intentional about releasing Your goodness in the world around us.\n\n## One-Line Application\n\nMay our lives be a deliberate and intentional pouring over of God's presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
