@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-05",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 223,
+  "theme": "coffee",
+  "content_markdown": "# Roasted in the Refiner's Fire\n\n## Scripture\n\n\"But he knows the way that I take; when he has tested me, I shall come out as gold.\" - Job 23:10 ESV\n\n## Reflection\n\nAs I stand over the pour-over, waiting for the perfect extraction, I'm reminded of the refining process that God has us go through. Just as the water carefully drips through the grounds, slowly releasing the flavors and oils, our trials and tribulations can be a refining fire that extracts the gold within us. It's not a quick or easy process, but one that requires patience and trust in the One who is shaping us. As I watch the crema form on the surface of the coffee, I'm reminded of the promise that God is working everything out for our good, even when it's hard to see. He knows the way that we take, and when He has tested us, we shall come out as gold, refined and strengthened in our faith.\n\n## Prayer\n\nWe thank you, Lord, for the refining fire that is shaping us into the people you have called us to be. Help us to trust in your goodness and mercy, even when the process is hard and slow.\n\n## One-Line Application\n\nLet the refining fire of trials shape you into gold, refined and strengthened in your faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
