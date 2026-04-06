@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-06",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 225,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Faithfulness\n\n## Scripture\n\"And let us not grow weary of doing good, for in due season we will reap, if we do not give up.\" - Galatians 6:9 ESV\n\n## Reflection\nAs we savor the rich aroma of freshly brewed coffee, we're reminded that faithfulness is a slow-brewing process. It's not a quick shot of caffeine, but a gradual extraction of our deepest devotion. Just as a pour-over requires patience and attention, our walk with God demands consistent effort and trust. The roasting of coffee beans represents the refining process of our character, where imperfections are burned away, revealing a more beautiful, darker roast. When we commit to the morning ritual of prayer and scripture, we're investing in the crema of our faith – a rich, velvety layer that brings depth and beauty to our relationship with God. As we navigate life's challenges, we must not give up, but press on, trusting that our faithfulness will yield a bountiful harvest in due season.\n\n## Prayer\nWe thank you, Lord, for the slow-brewing process of faithfulness that refines us and yields a rich harvest. Help us to remain committed to our morning ritual and to press on in doing good, even when it's hard.\n\n## One-Line Application\nAs we invest in our faith, we're refining our character and yielding a rich harvest of devotion.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
