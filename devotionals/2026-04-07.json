@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-07",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 273,
+  "theme": "coffee",
+  "content_markdown": "# Savoring the Flavor of Faithfulness\n\n## 2 Corinthians 9:8 (NIV)\n\n\"And God is able to bless you abundantly, so that in all things at all times, having all that you need, you will abound in every good work.\"\n\n## Reflection\n\nAs we prepare our morning coffee, we often focus on the perfect roast, the right amount of grind, and the ideal brewing temperature. But the true beauty of coffee lies in its ability to extract the essence of each bean, revealing a rich and complex flavor. Similarly, our faith is not about external displays of religiosity, but about being refined and purified by God's love, allowing us to pour out our hearts and lives for Him. As we go about our day, may we be a vessel of God's goodness, extracting the best from each situation and pouring it out in love and service to others. Just as a pour-over requires patience and care, our walk with God demands a willingness to slow down, listen, and allow Him to work in us. May we be a people who savor the flavor of faithfulness, trusting that God is able to supply all our needs and enable us to abound in every good work.\n\n## Prayer\n\nWe thank you, Lord, for the gift of faithfulness, and for the opportunity to pour out our lives in service to others. Help us to be vessels of your goodness, extracting the best from each situation and pouring it out in love and service.\n\n## One-Line Application\n\nMay our faith be refined and purified by God's love, allowing us to pour out our hearts and lives for Him.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
