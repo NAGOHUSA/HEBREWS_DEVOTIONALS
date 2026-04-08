@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 238,
+  "theme": "coffee",
+  "content_markdown": "# Riches in Every Cup\n\n## Scripture\n\"Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us, to him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.\" - Ephesians 3:20-21\n\n## Reflection\nJust as a skilled barista carefully crafts every pour-over, coaxing out the perfect balance of flavors from each bean, God's power is at work within us, brewing a life of abundance and depth. As we surrender to His guidance, we allow Him to extract the full richness of our faith, transforming our lives into a fragrant offering that honors Him. Just as a master roaster selects the finest beans, God chooses us for His purposes, and just as a delicate crema forms on a perfectly brewed cup, our lives can be transformed by His gentle, loving power. In the morning ritual of devotion, we begin to tap into this boundless power, allowing it to infuse our daily lives with meaning and purpose.\n\n## Prayer\nFather, we come to You with empty cups, longing to be filled with Your presence. Pour Your power into us, that we might be transformed by Your love and reflect Your glory in all we do.\n\n## One-Line Application\nAs we surrender to God's power, we allow Him to brew a life of abundance and depth within us.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
