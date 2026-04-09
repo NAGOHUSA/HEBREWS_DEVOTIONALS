@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-09",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 275,
+  "theme": "coffee",
+  "content_markdown": "# From the Roast to the Cup, God's Love Fills\n\n## Scripture\n\n\"See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland.\" — Isaiah 43:19 (NIV)\n\n## Reflection\n\nJust as the perfect roast is not just about the beans, but about the process from seed to cup, our faith is not just about individual moments of surrender, but about the journey of trust in the midst of life's wilderness. The aroma of a well-brewed cup is a result of patience, attention to detail, and a willingness to let the coffee beans unfold their full potential. In the same way, God's love is not just about the big moments, but about the daily, often hidden, moments of growth and refinement. As we pour our hearts out to Him, we must be willing to surrender to the process, trusting that He is working out His plan, even when the journey feels dry and barren. And just as the crema on a well-made pour-over is a result of the right balance of pressure and time, our trust in God's goodness is refined as we learn to wait on Him, embracing the beauty of His unfolding plan.\n\n## Prayer\n\nWe thank you, God, for your patient love that works in us, even when we can't see it. Help us to trust in your goodness, to surrender to the process, and to wait on you with faith and hope.\n\n## One-Line Application\n\nMay our faith be refined by the daily, often hidden, moments of growth and trust in God's unfolding plan.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
