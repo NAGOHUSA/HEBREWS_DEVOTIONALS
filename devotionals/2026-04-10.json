@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-10",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 244,
+  "theme": "coffee",
+  "content_markdown": "# Morning's Rich Aroma\n\n## Scripture\n\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" Ephesians 2:10\n\n## Reflection\n\nAs the morning sun rises, I'm reminded of the ritual of brewing coffee. It's a deliberate process that requires patience and attention to detail – from selecting the finest beans to carefully pouring the steaming liquid into the cup. Just as the flavors of the coffee are extracted through the process, our lives are infused with purpose when we stay connected to God. Just as the aroma of freshly brewed coffee fills the air, our faith is meant to waft into the world, spreading hope and joy. We're not just passive recipients of God's love; we're actively engaged in the process of becoming the people He's created us to be – people who pour out their lives for the good of others. As we prepare for the day ahead, let's commit to being vessels of God's goodness, allowing our lives to be the rich aroma that fills the space around us.\n\n## Prayer\n\nWe pray that You would awaken our senses to the richness of Your presence and help us to be intentional in our daily lives, pouring out our love and service to those around us.\n\n## One-Line Application\n\nAs we go about our day, may our lives be the aroma of Christ, spreading hope and joy to those we meet.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
