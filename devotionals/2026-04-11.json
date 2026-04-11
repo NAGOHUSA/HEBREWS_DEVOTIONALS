@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 273,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Life\n\n## Scripture\n\n\"I am the true vine, and my Father is the gardener. He cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will bear even more fruit.\" - John 15:1-2\n\n## Reflection\n\nAs I sit here sipping my morning coffee, I'm reminded of the pruning process that occurs in a coffee plant. The farmer carefully removes dead or unproductive branches to make way for new growth and increased yield. In the same way, God prunes us - not to harm or destroy, but to refine and make us more productive in our faith. Just as the roasting process brings out the rich flavors in coffee, God's pruning process refines our character and reveals the depths of our spiritual maturity. As we submit to His gentle pruning, we become more fruitful and effective in our service to Him. Just as a skilled barista carefully adjusts the brewing parameters to extract the perfect balance of flavors, God is constantly adjusting our lives to help us produce the fruit that brings Him glory. In this season of pruning, we can trust that God is at work, shaping us into vessels that will pour out His love to a world that desperately needs it.\n\n## Prayer\n\nWe thank you for the pruning process that refines our character and increases our fruitfulness. Help us to submit to your gentle guidance and trust in your perfect plan for our lives.\n\n## One-Line Application\n\nAs God prunes us, we must trust in His perfect plan and submit to His gentle guidance.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
