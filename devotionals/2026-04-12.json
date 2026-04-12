@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-12",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 238,
+  "theme": "coffee",
+  "content_markdown": "# From Beans to Blessings\n\n## Scripture\n\n\"For you are a chosen people, a royal priesthood, a holy nation, God's special possession, that you may declare the praises of him who called you out of darkness into his wonderful light. Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy.\" - 1 Peter 2:9-10 (NIV)\n\n## Reflection\n\nJust as high-quality coffee requires precise temperature control, timing, and pressure during the brewing process, our transformation into the people of God demands a delicate balance of faith, surrender, and obedience. Just as the pour-over method extracts the perfect balance of flavors from the beans, God's refining process extracts our impurities, revealing the depth of His love and the richness of His character. As we surrender to His will, we become vessels for declaring His praises to a darkened world. Just as the crema on a well-made latte testifies to the quality of the brew, our transformed lives reflect the excellence of our Creator.\n\n## Prayer\n\nWe thank you, Lord, for the process of refinement that transforms us into vessels for Your glory. Help us surrender to Your will, that we may be a reflection of Your excellence in a world that needs Your light.\n\n## One-Line Application\n\nMay our lives be transformed into vessels reflecting God's excellence, one cup of obedience at a time.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
