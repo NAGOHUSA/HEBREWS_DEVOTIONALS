@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-13",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 238,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in the Roast of God's Love\n\n## Scripture\n\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" - Ephesians 2:10 (NIV)\n\n## Reflection\n\nAs we begin our day, the aroma of freshly roasted coffee fills the air, a promise of the rich flavors yet to come. Just as the roasting process brings out the full depth of a coffee bean's character, God's love transforms us, extracting the good works He has prepared for us. In the quiet moments of reflection, we're reminded that our morning rituals, like the gentle pour-over, can be a symbol of our surrender to God's refining work. As we're poured into, we become vessels for His purposes, yielding to His extraction of our true potential. The crema that forms on a well-crafted cup is a testament to the beauty of God's work in us – smooth, rich, and full of life. May we be grounded in the roast of God's love, trusting that His good works are already prepared for us to do.\n\n## Prayer\n\nWe thank you, Father, for the roast of your love that transforms us, extracting the good works you've prepared for us. Pour into us, that we may become vessels for your purposes.\n\n## One-Line Application\n\nMay our morning routines be a surrender to God's refining work, yielding to His extraction of our true potential.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
