@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 243,
+  "theme": "coffee",
+  "content_markdown": "# The Heart at Perfect Extraction\n\n## Scripture\n\"You will show me the path of life; in Your presence is fullness of joy; at Your right hand there are pleasures forevermore.\" — Psalm 16:11 (ESV)\n\n## Reflection\nAs we begin our day with a warm cup of coffee, we're reminded of the brewing process. Just as the ideal roast and water temperature come together to extract the perfect balance of flavors, our faith is refined through the interplay of God's presence and our surrendered hearts. In the morning ritual, we pour over the grounds, allowing the liquid to extract the essence of the beans. Similarly, as we immerse ourselves in God's Word and prayer, the truths of His presence seep into our souls, bringing fullness of joy and eternal pleasures. The crema that forms on the surface of a well-crafted espresso represents the depth of our relationship with God – rich, velvety, and unshakeable. As we seek to deepen our walk with Him, we must be willing to slow down, savor the moments, and allow His presence to fully extract the goodness from our lives.\n\n## Prayer\nWe ask, Lord, that You would be our perfect extraction, drawing out the depths of our hearts and filling us with Your presence. Help us to slow down and savor the moments with You.\n\n## One-Line Application\nAs we pour over God's Word, may we allow Him to extract the fullness of joy from our hearts.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
