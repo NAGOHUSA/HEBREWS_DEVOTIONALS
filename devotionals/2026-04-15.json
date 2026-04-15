@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-15",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 285,
+  "theme": "coffee",
+  "content_markdown": "# The Perfect Grind: A Life of Intimacy with God\n\n## Scripture\n\n\"But without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.\" - Hebrews 11:6 (ESV)\n\n## Reflection\n\nAs I sit here with my morning coffee, I'm reminded of the process of making the perfect cup. It begins with selecting high-quality beans, carefully roasted to bring out the optimal flavors. The next step is to grind the beans, not too fine, not too coarse, but just right. This is where the magic happens – the aroma wafts through the air, and the flavors start to unfold. As I pour the grounds into the pour-over, I'm reminded of our journey with God. We must begin with faith – believing that He exists and that He rewards those who seek Him. As we draw near to Him, we must be willing to let go of our old selves and be refined like the coffee beans, allowing our true flavors to emerge. Just as the right grind is essential for the perfect extraction, our faith is the foundation for a deep and intimate relationship with God. As we seek Him, He rewards us with an ever-deepening understanding of Himself and His love for us.\n\n## Prayer\n\nWe come before You, Lord, with hearts seeking to draw near to You. Help us to cultivate a deep faith, believing that You exist and that You reward those who seek You. May our lives be the perfect grind, refined and poured out for Your glory.\n\n## One-Line Application\n\nMay our faith be the foundation for a deep and intimate relationship with God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
