@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-16",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 217,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in the Roast of God's Presence\n\n## Scripture\n\n\"So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal.\" - 2 Corinthians 4:18 (NIV)\n\n## Reflection\n\nJust as the roasting process develops the rich flavors in coffee, our time in God's presence refines us. When we pause to savor His goodness and beauty, we're reminded that our earthly experiences are temporary, but our relationship with Him is eternal. Like a master roaster, God patiently extracts the essence of our souls, refining us to be more like Christ. In the quiet morning hours, we can pour our hearts out to Him, allowing the fragrance of His presence to fill us. As we settle into our morning ritual, we're invited to look beyond the fleeting moments and focus on the unseen realm where God's love and power dwell. This steady gaze cultivates within us a deeper trust and reliance on His sovereignty.\n\n## Prayer\n\nWe thank you, Father, for roasting us in the fire of Your presence. Help us fix our eyes on what's unseen, that our hearts may be anchored in Your eternal love.\n\n## One-Line Application\n\nSavor the presence of God in your daily life to refine your soul.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
