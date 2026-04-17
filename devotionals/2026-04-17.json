@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-17",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 248,
+  "theme": "coffee",
+  "content_markdown": "# The Refining Process\n\n## Scripture\n\n\"Though you have made me see troubles, many and bitter, you will restore my life again; from the depths of the earth you will again bring me up.\" - Psalm 71:20 (NIV)\n\n## Reflection\n\nJust as a skilled roaster carefully selects and refines the perfect blend of coffee beans, our heavenly Father carefully refines us, extracting the bitter, unwanted aspects of our lives and replacing them with the sweetness of redemption. In the same way a pour-over method carefully releases the flavors of the coffee grounds, God carefully pours out His presence in our lives, extracting the rich essence of His love and hope. This refining process is not a one-time event, but rather a daily ritual where we surrender our lives to God's refining touch. As we trust in His goodness and sovereignty, we experience the transformation of our lives, becoming more like Christ and reflecting the beauty of His character. Just as the crema on a perfectly brewed cup of coffee is a testament to its quality, our transformed lives are a testament to God's faithfulness and love.\n\n## Prayer\n\nWe thank you for your refining touch in our lives, Lord. Help us to trust in your goodness and sovereignty, and to surrender to your daily refining process. May our lives become a reflection of your character and a testament to your faithfulness.\n\n## One-Line Application\n\nAs you face life's challenges, trust God's refining touch to transform and redeem you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
