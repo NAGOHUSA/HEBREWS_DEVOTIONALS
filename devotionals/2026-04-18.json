@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-18",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 225,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Hope in the Morning\n\n## Scripture\n\n\"For God did not give us a spirit of fear, but of power and of love and of a sound mind.\" \n2 Timothy 1:7 (ESV)\n\n## Reflection\n\nJust as a pour-over coffee requires time, patience, and gentle pouring to extract the perfect brew, our faith journey demands a similar approach. We must be willing to let God's love and truth slowly seep into our lives, allowing it to transform and refine us. In the chaos of our mornings, we can easily get caught up in anxiety and worry, but the aroma of hope can fill our hearts when we commit to a consistent morning ritual of prayer, reflection, and scripture. Just as the crema on a well-crafted coffee forms a beautiful, velvety layer, our faith can develop a rich, creamy texture as we intentionally cultivate a deeper relationship with God. This is not a one-time extraction, but a continuous process of surrender, growth, and refinement.\n\n## Prayer\n\nWe ask for the patience and trust to let Your love and truth slowly seep into our lives, Lord. Help us to cultivate a consistent morning ritual of prayer, reflection, and scripture.\n\n## One-Line Application\n\nLet us commit to a daily pouring of our hearts unto God in prayer, just as we pour the perfect cup of coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
