@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-19",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 282,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in the Presence of God\n\n## Scripture\n\n\"May you be made strong with all the power that comes from his glorious power, so that you may be able to endure everything with patience, joyfully giving thanks to the Father, who has qualified you to share in the inheritance of the saints in light.\" - Colossians 1:11 (CSB)\n\n## Reflection\n\nAs I savor the rich aroma of freshly brewed coffee, I'm reminded that the process is not just about the final product, but about the journey. Just as a pour-over requires time, patience, and attention to detail, our Christian walk requires us to slow down, be still, and trust in God's presence. The extraction of flavors from the coffee grounds is a testament to the power of God's Word, which reveals the depths of His character and purposes. As we roast our faith in the fire of trials, we must not forget to nurture it with prayer, scripture, and community. Just as a skilled barista crafts a beautiful crema, so too can we cultivate a heart that reflects the beauty of God's character. In the morning ritual of our daily devotions, may we find the strength to endure life's challenges and give thanks to the Father who has qualified us to share in His inheritance.\n\n## Prayer\n\nWe thank you, Father, for the gift of your presence in our lives, and for the patience and strength you provide to navigate life's challenges. May we be still, trusting in your power and glory, and may our hearts be filled with joy and gratitude.\n\n## One-Line Application\n\nMay your daily devotions be a source of strength and patience in your journey with God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
