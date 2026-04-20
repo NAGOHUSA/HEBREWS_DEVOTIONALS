@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-20",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 215,
+  "theme": "coffee",
+  "content_markdown": "# From the Daily Grind to a Richer Faith\n\n## John 15:4\n\n\"I have called you friends, for everything that I learned from my Father I have made known to you.\"\n\n## Reflection\n\nJust as coffee is carefully extracted from the bean, our faith is nurtured as we absorb God's words. As we sit in stillness, the aroma of His presence fills the air. Through the brew of Scripture, we discover the richness of our relationship with Him. Like a pour-over, our prayers are refined as we pour out our hearts to Him. Just as the roasting process brings out the full flavor of the bean, trials and challenges can deepen our understanding of God's love. And just as a perfect crema forms on a well-crafted cup, our trust and reliance on Him are strengthened as we walk with Him in faith. May our morning ritual, like the morning light, illuminate the path ahead, guiding us to a more intimate connection with our Creator.\n\n## Prayer\n\nWe ask that You would help us to be still, like the water in a coffee brewing process, that we may absorb Your presence and learn from Your words.\n\n## One-Line Application\nAs we drink in God's words, may our faith be refined and strengthened for the day ahead.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
