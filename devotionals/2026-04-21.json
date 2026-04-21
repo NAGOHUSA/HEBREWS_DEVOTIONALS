@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-21",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 208,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Abundance\n\n## Scripture\n\n\"In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace.\" - Ephesians 1:7 (ESV)\n\n## Reflection\n\nAs I watch the coffee brew, I'm reminded of God's rich abundance in Christ. The roast is carefully selected, just as He chose us in Christ before the foundation of the world (Ephesians 1:4). As the water flows through the grounds, extracting the flavors, so too does Christ's redemption work in us, revealing the depths of His love. The crema that forms on a well-crafted pour-over represents the fruit of the Spirit that overflows from a life surrendered to Him (Galatians 5:22-23). Just as I savor the flavors of a rich coffee, we are called to immerse ourselves in the abundance of God's grace, allowing it to transform every aspect of our lives.\n\n## Prayer\n\nWe thank you, Father, for the abundance of your love in Christ, which flows through us like the rich flavors of a well-brewed cup. May our lives be a reflection of your redeeming work, overflowing with the fruit of the Spirit.\n\n## One-Line Application\n\nMay our daily lives be a testament to the rich abundance of God's love in Christ.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
