@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-22",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 220,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Faithfulness in the Daily Grind\n\n## Scripture\n\n\"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\" Galatians 6:9 (NIV)\n\n## Reflection\n\nAs I pour over the morning's coffee, I'm reminded of the patient process that goes into brewing it. Just as the coffee grounds require time and heat to release their full flavor, our faithfulness in serving others requires time and perseverance to yield spiritual fruit. We must be willing to invest ourselves in the daily grind, even when it feels like we're just going through the motions. It's in these moments of quiet dedication that we allow God to extract the richness of our character, revealing a deep and abiding faithfulness that brings joy to those around us. Just as the perfect crema forms on a well-crafted cup, our lives become a beautiful representation of God's work in us when we stay committed to the process, even when it's hard.\n\n## Prayer\n\nWe pray for the strength to stay committed to our daily routines, trusting that they are opportunities to sow seeds of faithfulness that will one day bear fruit.\n\n## One-Line Application\n\nMay our daily disciplines be infused with the patience and perseverance that yields a rich harvest of spiritual fruit.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
