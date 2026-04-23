@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 208,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in Faith, Like a Perfect Brew\n\n## Scripture\n\"Consider it pure joy, my brothers, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3\n\n## Reflection\nJust as a skilled brewer must carefully roast, grind, and pour the beans to extract the perfect flavor, our faith requires deliberate cultivation and perseverance to produce spiritual depth. When faced with trials, we must not be discouraged, but instead, see them as opportunities to deepen our roots in Christ. Like the rich crema that forms on a well-made latte, our faith can be clarified and strengthened through the process of testing. As we face difficulties, we must trust that God is at work, refining us and drawing out the good in us, like the purest coffee extract. This morning ritual of faith can become a habit, a reminder that we are not alone, and that our trials are not in vain.\n\n## Prayer\nWe thank you, Lord, for the trials that refine us and strengthen our faith. Help us to see them as opportunities for growth and deepen our roots in you.\n\n## One-Line Application\nMay the trials of life refine our faith, producing spiritual depth and perseverance.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
