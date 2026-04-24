@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 238,
+  "theme": "coffee",
+  "content_markdown": "# \"The Daily Grind of Faithfulness\"\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3\n\n## Reflection\n\nJust as a rich coffee requires the right balance of heat, water, and time for optimal extraction, our faith too requires refinement in the fires of trial. As we navigate the challenges of life, we're tempted to either rush through the process or abandon ship altogether. But James invites us to welcome these hardships as opportunities for growth, trusting that our faith will be strengthened through the process. Just as a pour-over requires time for the coffee grounds to steep, our faith needs space to mature. We must learn to slow down, savor the moments, and allow the trials to shape us into vessels that can hold the richness of God's love. As we undergo this refining process, we'll discover that our faith becomes more nuanced, our trust more secure, and our love more robust.\n\n## Prayer\n\nWe thank you, Lord, for the refining trials of life, and ask that you help us to receive them with joy and patience. May our faith be strengthened as we navigate each challenge, and may we emerge more mature, more loving, and more like you.\n\n## One-Line Application\n\nAs you face life's trials, welcome them as opportunities for your faith to mature.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
