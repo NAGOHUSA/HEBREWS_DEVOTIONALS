@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 202,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in the Dark\n\n## Scripture\n\n\"It is dark yet the Lord will shine on you.\" – Isaiah 58:10 (NIV)\n\n## Reflection\n\nAs I wait for the coffee to brew, I'm reminded of the season of waiting that many of us experience. It's the in-between time when the old has passed but the new hasn't yet emerged. The coffee beans, once dark and unyielding, undergo a transformative process of roasting, which unlocks their full flavor and aroma. Similarly, our struggles and challenges can be like the unroasted beans – unyielding and flavorless. But as we surrender to God's refining work, He can transform us, making us more flavorful and fragrant, even in the darkest of times. Just as a pour-over requires patience and attention to extract the full flavor, our journey with God demands trust and surrender to see the beauty and purpose emerge. \n\n## Prayer\n\nWe thank you, Lord, for your transforming work in our lives, making us more like You even in the dark times. Help us to be patient and attentive, trusting that Your refining process will unlock our full potential.\n\n## One-Line Application\n\nAs we wait for God's transformation, let patience and surrender be our primary ingredients.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
