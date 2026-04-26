@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-26",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 213,
+  "theme": "coffee",
+  "content_markdown": "# Bitter Roots, Refined Fruit\n\n## Scripture\n\"He who began a good work in you will bring it to completion at the day of Jesus Christ.\" - Philippians 1:6 (ESV)\n\n## Reflection\nJust as coffee beans must be roasted to bring out their full flavor, we must be refined by our faith. The bitter roots of trials and struggles serve as catalysts, transforming us into vessels that exude the rich aroma of Christ. Like the careful process of pour-over brewing, our lives are a gradual extraction of God's goodness, as His Spirit works to purify our hearts and reveal the crema of His character within us. In the morning ritual of prayer, we invite His presence to guide us, just as the first pour sets the tone for the entire brew. As we submit to His refining fire, we become more like Him, our fruit ripened for the harvest of eternity.\n\n## Prayer\nWe ask, Lord, that you would continue to refine us, removing bitterness and revealing the full flavor of Your character within us, that we might be vessels of Your goodness to a world in need.\n\n## One-Line Application\nAs God refines you through trials, submit to His process, trusting He will bring out the full flavor of Christ in you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
