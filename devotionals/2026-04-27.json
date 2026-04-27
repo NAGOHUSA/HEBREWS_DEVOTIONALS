@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-27",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 234,
+  "theme": "coffee",
+  "content_markdown": "# The Heart of the Roast\n\n## Scripture\n\"Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, not looking to your own interests but each of you to the interests of the others.\" - Philippians 2:3-4 (NIV)\n\n## Reflection\nAs I sit here with a freshly brewed cup of coffee, I'm reminded of the process that brings out its rich flavor. The roast, the grind, the pour-over – each step is essential to unlocking the full potential of the bean. So too, in our relationships with others, we must be willing to let go of our own interests and desires, to \"roast\" ourselves in humility, allowing the light of Christ to shine through us. As we pour our lives into others, we become the perfect blend of sacrifice and service. The crema of our character is formed when we value others above ourselves, when we're willing to extract the best from each person, and when we present ourselves as a fragrant offering to God.\n\n## Prayer\nWe ask that you would help us to value others above ourselves, to be the perfect blend of sacrifice and service. Grant us the humility to let go of our own interests and desires, and to extract the best from each person.\n\n## One-Line Application\nLet go of your own interests to uncover the rich flavor of humility in your relationships.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
