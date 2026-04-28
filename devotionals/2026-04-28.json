@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-28",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 224,
+  "theme": "coffee",
+  "content_markdown": "# \"Grounded in His Presence\"\n\n## Scripture\n\"Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me.\" - John 15:4 (ESV)\n\n## Reflection\nJust as a pour-over coffee requires careful attention to the ratio of water to grounds, our relationship with God demands a balance of dependence and abiding. We must allow ourselves to be immersed in His presence, to be saturated with His love, before we can bear fruit in our lives. It's a daily ritual, much like brewing a cup of coffee, where we take the time to reflect on His words, to ask for guidance, and to surrender our hearts to Him. The crema of our faith forms when we allow ourselves to be extracted from our own strength and poured into His. It's a delicate process, but one that yields a rich and satisfying life.\n\n## Prayer\nWe ask that You would help us to abide in Your presence, to settle into the richness of Your love, and to bear fruit in our lives. We pray that we would be grounded in You, and that our roots would run deep.\n\n## One-Line Application\nAllow yourself to be immersed in God's presence daily, just as you would brew a cup of coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
