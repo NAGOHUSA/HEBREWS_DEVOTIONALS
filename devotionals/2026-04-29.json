@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 214,
+  "theme": "coffee",
+  "content_markdown": "# Aromatic Faithfulness\n\n## Scripture\n\n\"May the aroma of Christ spread in every place.\" (2 Corinthians 2:14 NIV)\n\n## Reflection\n\nJust as a perfectly roasted coffee bean releases its rich aroma when ground, our faith is stirred to life when we're in the midst of God's presence. As we surrender to His refining process, our spiritual flavor deepens, filling the air with an unmistakable scent of hope and love. Just as a skilled barista carefully pours the perfect amount of water over the grounds, God gently pours His Spirit over us, extracting the fullness of His character. In this gentle, yet intentional process, we discover the beauty of our faithfulness, like the crema that crowns a well-brewed cup. As we engage in our daily morning rituals, may we remember that it's not the equipment or the technique that matters, but the One who's behind the brewing process – the Author of our lives, the Refiner of our hearts.\n\n## Prayer\n\nWe thank you, Lord, for the fragrance of Your presence in our lives. Help us to be surrendered to Your refining process, that Your aroma may spread far and wide.\n\n## One-Line Application\n\nMay our daily lives be a reflection of the rich aroma of Christ, spreading hope and love to those around us.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
