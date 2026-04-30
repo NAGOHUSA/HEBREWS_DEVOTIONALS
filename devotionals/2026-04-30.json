@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-04-30",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 257,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.\" - Romans 15:13 (NIV)\n\n## Reflection\n\nAs I stand at the kitchen counter, carefully pouring steaming water over the freshly ground coffee grounds, I'm reminded of the waiting process involved in extraction. It's not just a matter of adding hot water and waiting for the coffee to brew. The real work happens in the moments between – between the initial pour and the final cup – where the flavors and oils are slowly released from the grounds, infusing the liquid with their essence.\n\nIn the same way, our spiritual growth is not a passive process. We must trust in God's presence, trusting that He will fill us with joy, peace, and hope. As we surrender to His power and wait in stillness, we begin to overflow with His presence, affecting those around us. It's in these moments of quiet trust that we discover our true purpose and the depths of His love for us.\n\n## Prayer\n\nWe ask that you would fill us with joy and peace as we trust in you. May we overflow with hope by the power of the Holy Spirit. May our lives be a reflection of your presence in the world.\n\n## One-Line Application\n\nAs you wait in stillness, trust that God is working in you, releasing His presence and power into your life.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
