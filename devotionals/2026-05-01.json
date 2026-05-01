@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-01",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 227,
+  "theme": "coffee",
+  "content_markdown": "# A Richer Brew Through Trial\n\n## Scripture\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3 (NIV)\n\n## Reflection\nJust as the perfect cup of coffee requires the careful balance of water, heat, and time, our faith is refined and strengthened through the trials we face. The roasting process, which unlocks the deep flavors within the beans, is a metaphor for the way that God's refining fire shapes us into mature disciples. Like the rich crema that forms on the surface of expertly brewed coffee, our perseverance is a beautiful outcome of the extraction process, where our faith is tested and our character is refined. In the morning ritual of coffee-making, we carefully measure out the grounds, pour in the water, and wait for the brew to develop its full flavor. Similarly, we can trust that God is working in our lives, even in the midst of trial, to produce a richer, more satisfying faith.\n\n## Prayer\nWe pray for the patience and perseverance to face our trials with joy, trusting that your refining fire will produce a richer, more mature faith within us.\n\n## One-Line Application\nMay our trials be opportunities for God to refine and strengthen our faith, producing a richer, more satisfying life.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
