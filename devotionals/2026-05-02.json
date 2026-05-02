@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-02",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 199,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Hope in the Morning\n\n## Scripture\n\n\"Consider it all joy, my brothers, when you encounter various trials, knowing that the testing of your faith produces endurance.\" - James 1:2-3\n\n## Reflection\n\nAs I watch the morning sun rise over the coffee shop, the aroma of freshly roasted beans fills the air. Just as the brewing process requires patience and time, our faith is refined through trials and testing. The crema that forms on a well-poured pour-over represents the rich blessing that comes from enduring hardship. Just as the extraction process brings out the full flavor of the coffee, our faith is strengthened and purified through our struggles. In this moment, we can choose to see trials as a chance to deepen our relationship with God, rather than as a source of bitterness. By embracing the process, we can experience the joy that comes from a life fully surrendered to Him.\n\n## Prayer\n\nWe ask for the patience and endurance to see trials through to their refining end, and for the joy that comes from a deepened faith.\n\n## One-Line Application\n\nWe choose to see trials as opportunities for our faith to be refined and strengthened.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
