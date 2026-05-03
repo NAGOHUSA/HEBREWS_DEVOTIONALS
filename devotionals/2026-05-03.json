@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-03",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 214,
+  "theme": "coffee",
+  "content_markdown": "# A Rich Brew of Faithfulness\n\n## Scripture\n\n\"For it is by faith you stand firm.\" \n- Romans 11:20 (NIV)\n\n## Reflection\n\nAs I stand at the coffee counter, I'm reminded of the importance of faithfulness in my walk with God. Just as a perfectly roasted coffee bean requires the right amount of time and heat to bring out its rich flavor, our faithfulness is cultivated through consistent time spent in God's presence. The pour-over method, where each cup is carefully crafted to extract the perfect blend, illustrates the deliberate effort we must put into our spiritual lives. It's not a hasty or superficial extraction, but a thoughtful and intentional one, resulting in a deeper understanding of God's love and character. As we begin each day with a morning ritual, we must also commit to a daily practice of faithfulness, allowing the aroma of God's presence to fill our lives and guide us towards spiritual maturity.\n\n## Prayer\n\nWe thank you for the gift of faithfulness, Lord, and ask that you help us cultivate it in our daily lives. Grant us the discipline to prioritize our spiritual growth and the patience to trust in your perfect timing.\n\n## One-Line Application\n\nWe must intentionally prioritize our spiritual growth through consistent time spent in God's presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
