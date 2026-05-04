@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 234,
+  "theme": "coffee",
+  "content_markdown": "# Roasted and Ground for His Glory\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3 (NIV)\n\n## Reflection\n\nAs I sit in my quiet morning moment, surrounded by the rich aroma of freshly roasted coffee, I'm reminded of the process of transformation that takes place when we're faced with trials. Just as the beans are roasted to bring out their full flavor, our faith is refined in the fire of adversity, producing a deeper, sweeter perseverance. The brew of our lives is not yet complete, but as we endure through the extraction of our doubts and fears, we're poured out as a sweet, fragrant offering to our Father. The crema of our character is formed, revealing the beauty of Christ in us. In the midst of the morning ritual of our daily struggles, we're invited to trust that God is at work, roasting our trials into a fragrant offering of joy.\n\n## Prayer\n\nWe thank you, Father, for the refining fire of trials that produces perseverance in our lives. Help us trust in your goodness and timing as we face the struggles of each day.\n\n## One-Line Application\n\nAs we face trials, may we see our struggles as opportunities for our faith to be refined and our character to be formed.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
