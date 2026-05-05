@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-05",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 228,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"For you have been my rock and fortress, my deliverer; you are my God, my refuge in whom I put my trust.\" - Psalm 89:1 (NIV)\n\n## Reflection\n\nAs we begin our day, just as the morning light breaks through the darkness, God's presence shines in our lives. Just as the delicate crema forms on a pour-over coffee, reflecting the intricate care of the brewer, God's love and care are intricately woven into our daily lives. As we sit in stillness with Him, like the extraction process that slowly releases the flavors from the coffee beans, He gently reveals His truth and presence to us. And just as the aroma of freshly roasted coffee wafts through the air, inviting us to come and partake, God's presence invites us to rest, to trust, and to find refuge in Him. As we navigate life's ups and downs, we can be grounded in the truth that God is our rock, our deliverer, and our refuge – a constant, abiding presence in every season.\n\n## Prayer\n\nWe thank you, Lord, for being our rock and our refuge, our constant presence in every season. Ground us in Your love and care today, as we face whatever challenges come our way.\n\n## One-Line Application\n\nTrust in God's presence as your rock and refuge, even in turbulent seasons.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
