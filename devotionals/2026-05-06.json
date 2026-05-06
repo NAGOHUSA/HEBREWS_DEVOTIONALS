@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-06",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 194,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Faithfulness\n\n## Scripture\n\n\"Blessed is the one who trusts in the Lord, whose confidence is in him.\" \n- Jeremiah 17:7 (NIV)\n\n## Reflection\n\nAs a pour-over, our faith is refined one drop at a time. The coffee grounds are coarse, like the hardships we face, but with each passing moment, they're slowly extracted, revealing the richness within. We must trust in God's process, just as we trust in the slow and deliberate brewing of coffee. The bitterness of trials can be overwhelming, but it's in those moments that we're refined, and our trust in the Lord is strengthened. Just as the crema forms on top of a perfectly brewed cup, our faith is transformed, and we're given the strength to face another day. The aroma of our trust in God fills the air, drawing others to the fragrance of His Presence.\n\n## Prayer\n\nWe ask that you would refine us, Lord, and strengthen our trust in you. Help us to rely on your process, even when it's slow and difficult.\n\n## One-Line Application\n\nAs you face hardships, trust that God is refining you, just as coffee is refined in the brewing process.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
