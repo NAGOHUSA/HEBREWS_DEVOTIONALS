@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-07",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 254,
+  "theme": "coffee",
+  "content_markdown": "# Riches in Every Cup\n\n## Scripture\n\n\"For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.\" Ephesians 5:31 (NIV)\n\n## Reflection\n\nJust as the perfect pour-over requires patience and attention to detail, so too does our pursuit of unity with Christ. As water flows through the grounds of our lives, filtering out impurities and extracting the essence of our faith, we are transformed into vessels that reflect His character. The rich aroma of the Gospel wafts through our daily routines, inviting others to partake in the feast of God's love. As we roast the seeds of our past experiences, we learn to discern the flavors of His presence in our lives. The crema of Christ's presence crowns our endeavors, reminding us that our unity with Him is the greatest treasure we can pour into the world. Just as a skilled barista crafts a masterpiece with each delicate pour, so too can we skillfully steward our relationships, cultivating a culture of intimacy and mutual submission in our marriages, friendships, and communities.\n\n## Prayer\n\nWe thank you for the rich aroma of Your presence in our lives, and for the gift of unity that You bring to our relationships. Help us to pour Your love into the world, and to steward our relationships with the skill and care of a master barista.\n\n## One-Line Application\n\nPour the love of Christ into every relationship, transforming them into vessels of unity and intimacy.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
