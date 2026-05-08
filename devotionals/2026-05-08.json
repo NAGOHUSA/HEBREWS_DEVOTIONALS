@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 245,
+  "theme": "coffee",
+  "content_markdown": "# Aroma of Suffering, Beauty of Faith\n\n## Scripture\n\n\"For it has been granted to you that for the sake of Christ you should not only believe in him but also suffer for his sake, Philippians 1:29\"\n\n## Reflection\n\nJust as a perfect cup of coffee is impossible without the bitter notes of the unroasted bean, our faith is refined through the trials of suffering. Suffering can be a bitter taste that we'd rather avoid, but it's in embracing it that we discover the rich flavor of our faith. Like the careful roasting process that extracts the full flavor of the coffee bean, our suffering can be the catalyst for extracting the richness of our faith. When we submit to the suffering, we are able to pour out our hearts to God in a way that reveals His beauty and glory. Our morning ritual of prayer and devotion becomes a time to pour over the Scriptures, seeking guidance and comfort in the midst of adversity. As we face the bitter moments of life, we're reminded that suffering is not the end, but rather an opportunity to extract the full flavor of our faith.\n\n## Prayer\n\nWe thank you, Lord, for the refining power of suffering. Help us to submit to the trials and trust that You are working our faith for the sake of Christ.\n\n## One-Line Application\n\nWe must submit to the bitter notes of suffering to extract the rich flavor of our faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
