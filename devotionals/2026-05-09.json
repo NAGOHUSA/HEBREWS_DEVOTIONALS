@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-09",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 207,
+  "theme": "coffee",
+  "content_markdown": "# The Art of Brewing Faithful Relationships\n\n## Matthew 22:39 - \"Love your neighbor as yourself.\"\n\n## Reflection\n\nAs I sit with a freshly brewed cup of coffee, I'm reminded of the labor that goes into crafting a perfect pour-over. The roasting, the grinding, the careful measurement of water, and the gentle pouring over the grounds - it's a process that requires patience, attention to detail, and a willingness to invest time and care. Just as the coffee's flavors are extracted through this slow and deliberate process, our relationships with others can be deepened and refined through intentional love and service. We can't rush the extraction of a person's heart, nor can we hastily brew a relationship that will stand the test of time. By loving our neighbors as ourselves, we're not just pouring out our time and energy into their lives, but also allowing them to be fully formed and extracted, just as the perfect cup of coffee is.\n\n## Prayer\n\nWe pray for the patience and care to invest in the relationships around us, that they may be extracted and refined through our love and service.\n\n## One-Line Application\n\nPrioritize investing time and care in your relationships, allowing them to be refined and fully formed.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
