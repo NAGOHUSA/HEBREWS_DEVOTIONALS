@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-10",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 207,
+  "theme": "coffee",
+  "content_markdown": "# From the Grounds of Humility\n\n## Scripture\n\n\"So God created mankind in his own image, in the image of God he created them; male and female he created them.\" - Genesis 1:27\n\n## Reflection\n\nAs I prepare my morning coffee, I'm reminded of the process of extraction – the slow and intentional pulling of flavors from the grounds. It requires patience, attention, and a willingness to let go of my expectations. Just as the perfect cup is a result of allowing the coffee to steep in the right conditions, so too must I allow God to shape me in His image. The aroma of humility wafts through my life as I surrender to His will, trusting that He sees the best in me, even when I don't. The crema of His presence forms on the surface of my soul as I submit to His gentle refining. I'm not the master brewer, but the one who submits to the Master's touch.\n\n## Prayer\n\nWe pray for the patience to let go, the faith to trust, and the humility to be shaped by Your image, dear Lord.\n\n## One-Line Application\n\nAs we brew our lives, may we remember that true flavor comes from surrender to God's gentle refining.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
