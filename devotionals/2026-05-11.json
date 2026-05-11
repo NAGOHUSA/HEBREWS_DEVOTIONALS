@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 228,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"Abide in Me, and I in you. Just as the branch cannot bear fruit of itself unless it abides in the vine, neither can you unless you abide in Me.\" - John 15:4 (NASB)\n\n## Reflection\n\nAs I prepare my morning coffee, I'm reminded of the importance of abiding in God's presence. Just as a pour-over requires patience and careful pouring to extract the perfect flavor, our spiritual growth demands a deep and abiding connection with Christ. We must intentionally pour our hearts out to Him, allowing His love and truth to permeate every aspect of our lives. As we roast in the heat of trials, the aroma of God's presence can fill us, giving us strength and joy. We must not settle for a lukewarm, surface-level faith, but instead, seek the rich crema of a life fully surrendered to Him. In the midst of life's chaos, may we find peace and fruitfulness as we abide in His presence.\n\n## Prayer\n\nWe thank You, Lord, for the gift of Your presence in our lives. Help us to abide in You, yielding to Your Spirit and allowing Your love to fill us. May our lives be a reflection of Your fruitfulness and joy.\n\n## One-Line Application\n\nAbide in God's presence daily, allowing His love to extract the full flavor of your life.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
