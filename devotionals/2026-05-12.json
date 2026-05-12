@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-12",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 260,
+  "theme": "coffee",
+  "content_markdown": "# Bitter and Beautiful: The Pour of God's Presence\n\n## Scripture\n\n\"Yet the Lord longs to be gracious to you, therefore he will rise up to show you compassion. For the Lord is a God of justice. Blessed are all those who wait for him.\" - Isaiah 30:18 (NIV)\n\n## Reflection\n\nJust as a pour-over coffee requires patience and a willingness to wait, so too must we wait for God's presence in our lives. We must not rush through the process, but rather take the time to allow the bitterness of our struggles to mingle with the richness of His compassion. As the coffee drips slowly into the cup, so too does God's presence seep into our souls, transforming us from the inside out. It is in these moments of waiting that we are reminded of God's justice and His desire to be gracious to us. We are not alone in our struggles; He is always working, even when we cannot see it. And just as the crema forms on the surface of a well-made cup of coffee, so too does God's presence form a protective layer around us, shielding us from the world's harm.\n\n## Prayer\n\nWe thank you, Lord, for your patience and kindness towards us. Help us to wait on you, to slow down and allow your presence to seep into our lives. We pray for the ability to trust in your justice and to know your compassion.\n\n## One-Line Application\n\nAs I slow down and wait on God, I open myself to His presence and transformation.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
