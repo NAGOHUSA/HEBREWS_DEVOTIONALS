@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-13",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 271,
+  "theme": "coffee",
+  "content_markdown": "# The Perfect Pour: A Life Grounded in God\n\n## Scripture\n\n\"In every thing give thanks: for this is the will of God in Christ Jesus concerning you.\" - 1 Thessalonians 5:18 (KJV)\n\n## Reflection\n\nJust as the perfect pour-over requires a balance of temperature, water flow, and coffee grounds, our lives also require a balance of faith, trust, and surrender to God's will. When we're grounded in God, we can face life's challenges with gratitude and trust, just as the rich aroma of freshly brewed coffee fills the air, inviting us to slow down and appreciate the beauty of life. The extraction process of coffee, which requires patience and precision, reminds us that our spiritual growth is a slow and deliberate process, where we must allow God to work deeply within us, removing impurities and revealing our true potential. As we begin each day, just as we carefully prepare our coffee, we must also prepare our hearts, roasting our priorities and intentions in the fire of God's Word, so that we may pour out our lives as a sweet offering to Him.\n\n## Prayer\n\nWe thank you for the gift of life and the reminder to give thanks in all things. Help us to balance our lives with faith, trust, and surrender to your will, just as the perfect pour-over balances temperature and water flow. May our hearts be roasting in the fire of your Word, and may we pour out our lives as a sweet offering to you.\n\n## One-Line Application\n\nMay our lives be a rich and fragrant offering to God, brewed in the depths of His love.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
