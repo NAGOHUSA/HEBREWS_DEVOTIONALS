@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 215,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Life\n\n## Scripture\n\"...we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us.\" 2 Corinthians 4:7 (ESV)\n\n## Reflection\nAs we sit down to brew our morning coffee, we're reminded of the process that brings out its full flavor. Just as the pour-over method requires precision and patience, our lives are a delicate balance of holding onto God's power while navigating the messy realities of our \"jars of clay.\" We extract the best from the coffee beans, but it's the heat and pressure that transform them. Similarly, it's the trials and struggles that refine our faith, making us more dependent on God's strength. As we roast the beans to bring out their rich aroma, we're called to be transformed by the gospel, releasing its fragrance into the world.\n\n## Prayer\nWe thank you for the power that resides within us, and we ask that you would help us to hold onto it, even in the midst of our weaknesses. May our lives be a testament to your surpassing power, and may our \"jars of clay\" be vessels that bring glory to your name.\n\n## One-Line Application\nMay our lives be transformed by God's power, releasing its fragrance into the world.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
