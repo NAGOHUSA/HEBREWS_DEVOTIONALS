@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-15",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 228,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in the Quiet\n\n## Scripture\n\n\"Be still before the Lord and say, 'Save us, Lord; we are yours'.\" - Psalm 115:9 (NIV)\n\n## Reflection\n\nJust as a good cup of coffee requires patience and quiet, so too must we cultivate stillness in our relationship with God. In the midst of a chaotic world, we can easily get caught up in the rush of daily tasks and forget to slow down and savor the moment. But as Psalm 115:9 reminds us, stillness is a powerful catalyst for spiritual growth. It's in the quiet, peaceful moments that we can truly connect with God and hear His voice. This is where we allow ourselves to be poured over, like a cup of coffee in a pour-over, allowing God to extract the depths of our hearts and minds. As we sit in stillness, we can let go of the distractions and let God's presence be the richness that fills our lives.\n\n## Prayer\n\nWe come before you in stillness, Lord, asking you to save us and remind us that we are yours. Help us to slow down and sit with you in the quiet, that we might be poured over and extracted for your glory.\n\n## One-Line Application\n\nAs you begin your day, take a moment to sit in stillness and remember that you are God's, and He is yours.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
