@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-16",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 227,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Faithfulness in the Daily Grind\n\n## Scripture\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3\n\n## Reflection\nAs I sit with a freshly brewed cup of coffee, the aroma fills the air and I'm reminded of the daily grind that comes with following Jesus. Like the coffee beans that undergo a process of roasting to bring out their full flavor, our trials can be a refining fire that extracts the gold of perseverance from our faith. When we face the bitter taste of difficulties, we can choose to see them as opportunities for growth, just as the pour-over method slowly releases the flavors of the coffee grounds. As the crema forms on the surface of the coffee, so too can our faith be strengthened and beautified through the trials we face. In this morning ritual, we're reminded that faithfulness is not about avoiding the grind, but about trusting in the process that refines us and makes us more like Christ.\n\n## Prayer\nWe thank you for the refining fire of trials that strengthens our faith. Help us to see them as opportunities for growth and perseverance.\n\n## One-Line Application\nMay our trials be a source of joy and growth, producing perseverance in our faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
