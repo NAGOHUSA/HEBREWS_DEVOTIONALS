@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-18",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 237,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Hope in the Morning\n\n## Scripture\n\n\"For our light and momentary troubles are achieving for us an eternal glory that far outweighs them all.\" \n2 Corinthians 4:17 (NIV)\n\n## Reflection\n\nAs I watch the morning sun rise, I'm reminded of the coffee brewing process. Just as the aroma of fresh coffee fills the air, our struggles, though brief and fleeting, can be a sweet fragrance that points to the eternal glory that awaits us. The roasting process transforms ordinary beans into something rich and full-bodied, a reflection of how our hardships can refine and purify us. Just as a pour-over requires patience and attention to detail, our morning rituals should involve seeking time with God, allowing Him to extract the deepest truths from our hearts. As the crema forms, signaling a perfect cup, so too can our times of quiet reflection and prayer produce a sense of clarity and purpose, equipping us for the day ahead. Just as a masterfully brewed cup is a gift to be savored, our faith journey is a gift to be cherished and nurtured.\n\n## Prayer\n\nWe thank you, Lord, for the promise of eternal glory that far outweighs our troubles. Help us to brew hope in our morning rituals, seeking your presence and extracting the deepest truths from our hearts.\n\n## One-Line Application\nLet morning quiet time be your pour-over, extracting hope from your heart for the day ahead.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
