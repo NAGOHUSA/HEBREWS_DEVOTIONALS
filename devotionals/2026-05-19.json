@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-19",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 220,
+  "theme": "coffee",
+  "content_markdown": "# Gratitude Grounds the Heart\n\n## Scripture\n\"But thanks be to God, who gives us the victory through our Lord Jesus Christ.\" - 1 Corinthians 15:57 (NIV)\n\n## Reflection\nAs I stand at the coffee maker, observing the pour-over process, I'm reminded of the role gratitude plays in shaping our hearts. Just as the right amount of water and heat must come together for the perfect brew, gratitude is the essential ingredient that extracts the sweetness from our lives. The aroma of freshly brewed coffee fills the air, evoking a sense of warmth and comfort. Yet, if we fail to acknowledge the source of this gift – the one who provides the beans, the equipment, and the skill – we risk missing the true richness. When we start our day with gratitude, we create space for the Spirit to extract the depths of God's character, revealing His love, mercy, and faithfulness. This daily ritual of thanksgiving helps us taste the sweetness of His presence, even in the midst of challenges.\n\n## Prayer\nWe thank You, Lord, for the gift of gratitude that grounds us in Your love. Help us to pour out our hearts to You, acknowledging Your presence in every aspect of our lives.\n\n## One-Line Application\nWe cultivate gratitude as the essential ingredient for a rich spiritual brew.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
