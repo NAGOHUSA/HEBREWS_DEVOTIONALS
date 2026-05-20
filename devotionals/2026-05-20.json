@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-20",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 218,
+  "theme": "coffee",
+  "content_markdown": "# A Rich Brew of Faithfulness\n\n## Scripture\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" - Ephesians 2:10\n\n## Reflection\nJust as a pour-over requires patience, allowing each droplet to extract the full flavor, our faithfulness is a slow-brewed process. We are God's handiwork, created for good works, and He has prepared them in advance. As we begin each day, we must allow ourselves to be immersed in His presence, letting His wisdom and guidance extract the richness from our souls. Like a skilled barista carefully roasting beans to bring out their unique flavor, God carefully crafts our paths to reveal His glory. We must trust in His sovereign plan, even when the process is slow, for it is in His timing that we discover our true purpose. As we drink in His Word and walk in His ways, we will be transformed, becoming the rich brew of faithfulness that He desires us to be.\n\n## Prayer\nWe ask that You, Lord, would help us to be patient and trusting in Your slow-brewed process, allowing You to extract the richness of faithfulness from our lives.\n\n## One-Line Application\nMay our daily routines resemble a slow-brewed cup, steeped in prayer and guided by faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
