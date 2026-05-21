@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-21",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 214,
+  "theme": "coffee",
+  "content_markdown": "# Grounds for Growth\n\n## Scripture\n\n\"So then, just as you received Christ Jesus as Lord, continue to live in him, rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness.\" - Colossians 2:6-7 (NIV)\n\n## Reflection\n\nJust as a pour-over coffee requires patience and attention to detail, our spiritual growth demands a similar commitment. We must carefully nurture our roots in Christ, allowing His teachings to strengthen us and guide us. As we extract the richness of God's Word, we begin to experience an explosion of thankfulness - a fragrant aroma that overflows from our hearts. Just as a perfectly roasted coffee bean requires time and care, our faith is refined through trials and hardships. We must intentionally pour our lives into the process of growth, embracing each step with gratitude. This morning ritual of devotion and prayer is not just a routine, but a deliberate choice to deepen our roots in Christ, allowing us to flourish and bear fruit.\n\n## Prayer\n\nWe ask for patience and attention to detail in our spiritual growth, Lord. Help us to nurture our roots in you and extract the richness of your Word.\n\n## One-Line Application\n\nDeliberately prioritize daily devotion and prayer to deepen your roots in Christ.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
