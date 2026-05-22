@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-22",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 219,
+  "theme": "coffee",
+  "content_markdown": "# Riches in the Grounds of Humility\n\n## Scripture\n\n\"God opposes the proud but gives grace to the humble.\" - James 4:6\n\n## Reflection\n\nJust as the perfect cup of coffee requires patience and care in the roasting process, allowing the beans to reach their full flavor and aroma, our lives as followers of Christ demand a similar commitment to humility. The grounds of our pride must be laid bare, allowing the rich nutrients of God's grace to penetrate and nourish us. As we submit to God's refining fire, our rough edges are smoothed, and our hearts are made tender for His purposes. Just as the pour-over method requires gentle extraction to bring out the best in the coffee, so too does our humility allow for the gentle extraction of God's love and wisdom. In a world that celebrates strength and self-reliance, we must choose to cultivate the humble heart, where God's love can flow rich and free.\n\n## Prayer\n\nWe ask that You would help us let go of our pride and submit to Your refining fire. Help us to recognize the richness that lies in humility, and grant us the patience and care to cultivate it in our lives.\n\n## One-Line Application\n\nAs we humble ourselves, we become vessels for the rich love and wisdom of God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
