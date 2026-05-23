@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 228,
+  "theme": "coffee",
+  "content_markdown": "# The Coffeehouse of God's Presence\n\n## Scripture\n\n\"You will seek me and find me; when you seek me with all your heart.\" - Jeremiah 29:13 (NIV)\n\n## Reflection\n\nAs I stand at the coffee machine, waiting for the perfect pour-over, I'm reminded that intimacy with God is a process of seeking and finding. Just as the water flows through the grounds, extracting the flavors and oils, our hearts must be open to receive the richness of God's presence. We must be willing to be ground down, to let go of our preconceptions and doubts, and to allow the truth to seep deeply into our souls. Like the crema that forms on a well-crafted cup, our lives are transformed by the presence of Christ, and we become vessels of His glory. As we seek Him with all our hearts, we'll discover that He's always present, always seeking a deeper connection with us.\n\n## Prayer\n\nWe thank you, Father, for the gift of Your presence in our lives. Help us to seek You with all our hearts, to be open to Your truth and Your love. May our lives be transformed by Your glory, and may we become vessels of Your presence to a world in need.\n\n## One-Line Application\nAs you seek God with all your heart, be willing to be ground down and transformed by His presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
