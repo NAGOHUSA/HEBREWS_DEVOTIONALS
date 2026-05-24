@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 223,
+  "theme": "coffee",
+  "content_markdown": "# \"Grounding in Faith\"\n\n## Scripture\n\"Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me.\" - John 15:4 (ESV)\n\n## Reflection\nAs I prepare my morning coffee, I'm reminded of the process of extraction. Coffee grounds need to be submerged in hot water to release their flavor and aroma. Similarly, as believers, we need to be immersed in God's presence to experience the fullness of His life within us. Just as a pour-over requires patience and intentionality, our abiding in Christ demands a deliberate pursuit of Him. When we're grounded in faith, our roots run deep, and we're able to bear fruit in our relationships, work, and worship. The crema on a well-crafted cup of coffee is a beautiful symbol of the richness and beauty that's released when our lives are fully surrendered to Him.\n\n## Prayer\nWe thank You, Lord, for the reminder to abide in You, just as coffee grounds need to be submerged in hot water to release their flavor. Help us be intentional in our pursuit of You, that we may bear fruit in every area of our lives.\n\n## One-Line Application\nAs we abide in Christ, we release the fullness of His life and love into the world.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
