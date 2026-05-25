@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 253,
+  "theme": "coffee",
+  "content_markdown": "# Morning Brew of Life\n\n## Scripture\n\n\"Therefore, as the elect of God, holy and beloved, put on tender mercies, kindness, humility, meekness, longsuffering; bearing with one another, and forgiving one another, if anyone has a complaint against another; even as Christ forgave you, so you also must do.\" - Colossians 3:12-13 (NKJV)\n\n## Reflection\n\nAs I sit with my morning coffee, I'm reminded of the process of brewing. Just as coffee beans require roasting, grinding, and extraction to release their full flavor, our lives require refinement to release their full potential in Christ. The crema that forms on top of a well-crafted pour-over represents the beauty of our transformed lives, where kindness, humility, and longsuffering are the rich flavors that flow from our relationship with God. As we embody these virtues, we become the very aroma of Christ to those around us, drawing them to the life-giving cup of salvation. Just as a perfectly balanced brew requires patience and attention to detail, our journey as disciples demands intentional living, bearing with one another, and forgiving as Christ has forgiven us.\n\n## Prayer\n\nWe thank you, God, for the gift of your Spirit, who helps us to put on the virtues of Christ. Help us to embody kindness, humility, and longsuffering as we live out our faith, that we might be a source of life and hope to those around us.\n\n## One-Line Application\n\nAs we brew our lives with the flavors of Christ, we become a fragrant aroma to those around us.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
