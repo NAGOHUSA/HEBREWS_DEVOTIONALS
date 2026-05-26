@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-26",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 219,
+  "theme": "coffee",
+  "content_markdown": "# The Perfect Brew of Faith\n\n## Scripture\n\n\"Draw near to God and he will draw near to you.\" - James 4:8\n\n## Reflection\n\nJust as a pour-over coffee requires a delicate balance of water, coffee grounds, and time, our relationship with God demands a harmonious blend of faith, surrender, and patience. The aroma of faith is released as we intentionally draw near to God in prayer, Scripture, and worship. The bitter flavors of sin and doubt must be extracted from our lives as we yield to the refining power of the Holy Spirit. As we roast our faith in the fire of trials and tribulations, the crema of our character is formed, revealing the rich flavor of our commitment to Christ. Just as a morning ritual of brewing coffee sets our day in motion, establishing a daily habit of drawing near to God sets our hearts aflame with purpose and passion.\n\n## Prayer\n\nWe pray that You would stir our hearts to draw near to You, Lord, and that You would draw near to us in return. Fill us with the aroma of faith and the flavor of Your presence.\n\n## One-Line Application\nAs we begin each day, let us intentionally draw near to God in prayer and worship, just as we brew a fresh cup of coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
