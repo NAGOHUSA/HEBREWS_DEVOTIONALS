@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-27",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 251,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Unity in the Morning\n\n## Scripture\n1 Corinthians 12:12 (NIV) - For even as the body is one and yet has many members, and all the members of the body, though many, are one body, so also is Christ.\n\n## Reflection\nAs we begin our day, just as a pour-over requires gentle pouring to extract the perfect flavor, our lives require a delicate balance of diverse gifts and talents to create a harmonious whole. Just as crema forms on top of a well-crafted cup, the unity we experience in Christ is the result of a rich, yet subtle blend of individual contributions. In the midst of our busy lives, we must not rush the process, but rather take time to appreciate the unique role each member plays. A hastily brewed cup is a poor reflection of the care and attention that goes into crafting a truly great coffee. Similarly, we must prioritize building one another up, rather than striving for individual success. As we come together, our morning rituals become a testament to the beauty of unity in Christ.\n\n## Prayer\nWe thank you for the gift of unity in our lives, and for the diverse talents and gifts that make us whole. Help us to prioritize building each other up, and to pour our lives out for the greater good.\n\n## One-Line Application\nWe must prioritize building one another up in our daily lives, just as a skilled barista balances flavors and textures in a cup of coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
