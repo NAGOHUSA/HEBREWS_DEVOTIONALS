@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-28",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 237,
+  "theme": "coffee",
+  "content_markdown": "# Steeped in God's Presence\n\n## Scripture\n\n\"Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me.\" - John 15:4 (ESV)\n\n## Reflection\n\nJust as a perfectly roasted coffee bean is only fully realized when it's immersed in hot water, our full potential as followers of Christ is only achieved when we're deeply connected to Him. The process of making coffee is a beautiful metaphor for our relationship with God. Just as a pour-over requires patience, allowing the coffee grounds to steep in the water, so too must we pause in God's presence, allowing His love and truth to soak into our souls. We can't rush the extraction of a good cup of coffee, nor can we rush our growth in Christ. The crema that forms on a well-crafted latte is a result of the careful balance of flavors and textures; in the same way, our lives become rich and full when we balance obedience with surrender, faith with doubt, and action with rest in God's presence.\n\n## Prayer\n\nWe surrender to Your presence, Lord, allowing ourselves to steep in Your love and guidance. Help us to be patient and still, as we allow Your truth to soak into our souls.\n\n## One-Line Application\n\nAbide in God's presence, allowing your soul to steep in His love and guidance.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
