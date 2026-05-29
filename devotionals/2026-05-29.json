@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 234,
+  "theme": "coffee",
+  "content_markdown": "# A Brew of Faithfulness\n\n## Scripture\n\"Now faith is confidence in what we hope for and assurance about what we do not see.\" \nHebrews 11:1 (NIV)\n\n## Reflection\nAs we begin our day, we often start with a morning ritual, carefully measuring out the right amount of coffee grounds, pouring water, and waiting for the brew to extract the flavors. But have you ever stopped to think about the process of faithfulness? Just as the water needs time to extract the flavors from the coffee, our faith needs time to mature and grow. And just as the crema forms on top of a well-made pour-over, our trust in God can become a rich, creamy expression of our faith. In the midst of life's uncertainty, we may feel like the coffee grounds – coarse and unrefined. But with patience and trust in God, our faith can be refined and become a beautiful, fragrant expression of our devotion to Him. As we face the day ahead, we can ask ourselves: what will be the flavor of our faith today?\n\n## Prayer\nWe ask that you would refine our faith, Lord, making it a fragrant expression of our devotion to you. Help us to trust in you, even when the brew of life is uncertain.\n\n## One-Line Application\nAs you start your day, take time to reflect on your faith and ask God to refine it.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
