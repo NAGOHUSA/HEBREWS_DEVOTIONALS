@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-05-31",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 281,
+  "theme": "coffee",
+  "content_markdown": "# The Perfect Cup of Life\n\n## Scripture\n\n\"As for you, you were dead in your transgressions and sins, in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient. All of us also lived among them at one time, gratifying the cravings of our sinful nature and following its desires and thoughts. Like the rest, we were by nature deserving of wrath.\" - Ephesians 2:1-3 (NIV)\n\n## Reflection\n\nAs we begin our day with a freshly brewed cup of coffee, we're reminded of the process that brings it to life. Roasted beans are carefully selected, then ground to release their full flavor. The water flows through the grounds, extracting the essence of the coffee, creating a rich and full-bodied brew. Just as the coffee's flavors are revealed through this process, our lives are transformed through the extraction of God's loving presence in us. We were once dead in our sin, but through faith in Jesus, we've been awakened to a new life, full of purpose and meaning. As we go about our day, we're invited to live in the overflow of God's love, allowing it to saturate every area of our lives, just as the crema on a perfectly poured-over coffee.\n\n## Prayer\n\nWe thank you, Lord, for the life-giving process that transforms us from the inside out. Pour your love into us, that we may be a sweet, rich, and full-bodied reflection of your presence to the world around us.\n\n## One-Line Application\n\nMay God's loving presence be the \"roast\" that flavors our day.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
