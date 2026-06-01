@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-01",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 244,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"Be still before the Lord and say, 'Lord, God, we wait for you; your name and your renown are the desire of our souls.'\" - Isaiah 26:8\n\n## Reflection\n\nAs I sit here with my morning brew, I'm reminded of the importance of being still before the Lord. Just as coffee beans must be roasted to bring out their full flavor, our souls need to be roasted in the fire of God's presence. The heat of His love extracts the dross of our lives, revealing the rich aroma of our true selves. As we wait in stillness, we invite God to pour His spirit into our hearts, creating a crema of peace and joy that overflows into every aspect of our lives. Just as a perfectly extracted brew requires patience and attention to detail, so too does our spiritual journey. We must be willing to slow down and let God's presence seep into our souls, filling us with His life and love.\n\n## Prayer\n\nWe wait for you, Lord, to fill us with your presence and your spirit. Help us to slow down and be still before you, that we may be grounded in your love and live out our days in the richness of your presence.\n\n## One-Line Application\n\nAs we begin our day, let us take time to pause and be still before the Lord, inviting His presence to fill our hearts and guide us.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
