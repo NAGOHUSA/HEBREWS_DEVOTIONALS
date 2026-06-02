@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-02",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 222,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Life\n\n## Scripture\n\n\"May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.\" - Romans 15:13 (ESV)\n\n## Reflection\n\nAs we begin our morning ritual with a pour-over, the aroma fills the air, teasing our senses and building our anticipation. Just as the perfect roast requires a delicate balance of temperature and time, our faith also requires a balance of trust and action. We must trust in God's promise of hope, even as we actively seek to live out our faith. The extraction of flavors from the coffee grounds is a reminder that our faith is not just about receiving, but also about experiencing and expressing God's love in the world. Just as we carefully pour the coffee into a cup, we must carefully pour out our lives to others, allowing God's hope to overflow through us.\n\n## Prayer\n\nWe ask that you, God, would fill us with joy and peace as we trust in your promises, and may the power of the Holy Spirit enable us to abound in hope, pouring out your love to a world in need.\n\n## One-Line Application\n\nAs we trust in God's promises, may our lives be a perfect brew of faith and action.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
