@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-03",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 238,
+  "theme": "coffee",
+  "content_markdown": "# The Roast of Abiding Faith\n\n## Scripture\n\n\"So neither the one who plants nor the one who waters is anything, but only God who gives the growth.\" - 1 Corinthians 3:7 (ESV)\n\n## Reflection\n\nJust as a skilled roaster chooses the perfect blend of coffee beans to bring out the desired flavor, our faith grows as we surrender to God's loving care. Like the precise process of pour-over brewing, where each carefully measured step yields a rich and full-bodied cup, our walk with Christ requires deliberate attention to His Word, prayer, and community. As the crema forms on the surface of a well-crafted espresso, so too does our trust in God rise to the surface as we submit to His refining work. Just as the roasting process transforms the raw bean into a fragrant, flavorful experience, our faith is transformed by the fires of trials and tribulations. We are not the ones who extract the fullness of faith from our lives, but only God, who gives the growth and transformation as we abide in Him.\n\n## Prayer\n\nWe surrender to Your refining work, Lord, and trust that You will give the growth and transformation we need. Help us to abide in You, just as the coffee bean yields its full flavor to the roaster's skillful touch.\n\n## One-Line Application\n\nOur trust in God grows as we surrender to His loving care and abide in His presence daily.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
