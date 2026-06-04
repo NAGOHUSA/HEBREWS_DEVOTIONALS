@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 236,
+  "theme": "coffee",
+  "content_markdown": "# Morning Grounds for Faith\n\n## Scripture\n\n\"So neither the one who plants nor the one who waters is anything, but only God who gives the growth.\" - 1 Corinthians 3:7 (ESV)\n\n## Reflection\n\nAs we begin our day, we might start with a freshly roasted coffee bean, carefully selected for its rich flavor. But without the right environment, that bean remains dormant, unfulfilled potential. Similarly, as believers, we are called to be diligent in our faith, but it is God who gives growth. Our efforts to plant and water can be likened to the process of brewing coffee – we carefully measure out the right amount of grounds, heat, and water, but it is the combination of these elements that brings forth the desired result. Just as a pour-over requires just the right balance of pressure and flow to coax the perfect extraction, so too do we need to surrender to God's sovereignty, allowing Him to bring forth the growth in our lives. In this morning ritual, let us recognize that our role is not to force growth, but to create an environment where God can work, and trust that He will bring forth the fruit of our labor.\n\n## Prayer\n\nWe pray that you would help us cultivate a heart of surrender, recognizing that growth and fruitfulness come from You alone.\n\n## One-Line Application\n\nTrust in God's sovereignty, not just in your daily tasks.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
