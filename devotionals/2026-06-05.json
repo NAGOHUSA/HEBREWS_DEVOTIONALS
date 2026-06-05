@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-05",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 205,
+  "theme": "coffee",
+  "content_markdown": "# Bitter Roots, Rich Flavor\n\n## Scripture\n\n\"Now faith is the substance of things hoped for, the evidence of things not seen.\" - Hebrews 11:1 (ESV)\n\n## Reflection\n\nJust as a pour-over coffee brew requires carefully balanced temperatures, steeping times, and the right ratio of water to coffee grounds, our walk with God demands a delicate balance of faith and trust. Like the bitter roots of a coffee plant, our faith may seem unpalatable at first, but it yields a rich flavor of hope and assurance when nurtured through prayer, scripture, and obedience. Just as the crema forms on a perfectly extracted espresso, our trust in God's goodness and sovereignty is refined through trials and tribulations. As we begin each day with a morning ritual, so too should we start with a conscious decision to steep our hearts in the Word and allow our faith to be the substance of our every waking moment.\n\n## Prayer\n\nWe thank you, Lord, for the gift of faith that yields hope and assurance. Help us to nurture our trust in you, even when the road ahead is uncertain.\n\n## One-Line Application\nMay our daily disciplines cultivate a rich flavor of faith, yielding hope and assurance in every circumstance.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
