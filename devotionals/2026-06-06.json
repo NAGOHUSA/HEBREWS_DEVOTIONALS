@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-06",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 229,
+  "theme": "coffee",
+  "content_markdown": "# \"Grounded in Love, Brewed in Faith\"\n\n## Scripture\n\n\"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.\" - John 3:16\n\n## Reflection\n\nAs I stand at the pour-over, I'm reminded of the intentional process that brings forth a rich, full-bodied cup. It begins with carefully selected grounds, representing the deliberate choice to trust in God's love. The water's gentle flow represents the Spirit's gentle guidance, extracting the flavors and oils from the coffee, just as the Spirit gently guides us, revealing the depths of God's character. As the brew slowly fills the carafe, it's a picture of God's patience and faithfulness, waiting for us to drink in His goodness. We, too, can be a vessel for God's love, poured out into the world, rich with the aroma of His presence. Just as the crema forms on a well-crafted cup, our lives can be crowned with a beauty that reflects the beauty of Christ.\n\n## Prayer\n\nWe ask that You would cultivate in us a deep love for Your heart, that we might be poured out as vessels of Your love, reflecting the richness of Your character to a world in need.\n\n## One-Line Application\n\nMay our daily lives be a deliberate, Spirit-guided extraction of God's love, poured out into the world.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
