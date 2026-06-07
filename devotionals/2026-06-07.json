@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-07",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 204,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in Hope\n\n## Scripture\n\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" - Ephesians 2:10 (NIV)\n\n## Reflection\n\nJust as a perfectly extracted pour-over coffee reveals the nuances of its roasted beans, our lives are a reflection of the work God has done in us. As we move through the morning ritual of brewing, we're reminded that our daily tasks and relationships are an opportunity to exhibit the goodness God has prepared for us. Just as the crema forms on a well-crafted latte, our character and actions should be a testament to the Holy Spirit's presence in us. As we go about our day, let's be mindful of the good works God has prepared us to do, just as a skilled barista pours their heart into crafting each cup.\n\n## Prayer\n\nWe thank you, God, for the gift of life and the opportunities to serve you through our daily tasks. Help us to recognize and fulfill the good works you have prepared for us to do.\n\n## One-Line Application\n\nAs we go about our day, may our lives be a perfectly extracted reflection of God's character and goodness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
