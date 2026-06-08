@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 246,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in the Morning's Light\n\n## Scripture\n\n\"Arise, shine, for your light has come, and the glory of the Lord rises upon you.\" - Isaiah 60:1 (ESV)\n\n## Reflection\n\nJust as a well-brewed coffee requires patience and attention to each step – from carefully measuring the grounds to pouring the perfect crema – our spiritual journeys are a process of growth, refinement, and transformation. We must be willing to slow down and allow ourselves to be saturated by the presence of God, just as the coffee grounds steep in the hot water. As we rise with the morning light, we are called to shine, reflecting the glory of the Lord in every aspect of our lives. This is not a one-time event, but a daily ritual of surrender and surrendering to the Lord's work within us. Just as the pour-over method emphasizes gentle extraction, we must be gentle with ourselves as we navigate the twists and turns of our faith. And just as a good roast is a result of time and care, our spiritual maturity is the result of a lifetime of devotion and surrender to Christ.\n\n## Prayer\n\nWe pray for the patience and discipline to slow down and steep in your presence, Lord. Help us to rise with the morning light and shine with the glory of your name.\n\n## One-Line Application\n\nAs you begin your day, take a moment to steep in God's presence and ask for His guidance and strength.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
