@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-09",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 225,
+  "theme": "coffee",
+  "content_markdown": "# The Daily Grind of Faithfulness\n\n## Psalm 119:47 (NLT) - \"For I find happiness in obeying your instructions.\"\n\nAs I sit here with my pour-over, I'm reminded that faithfulness is not just a feeling but a process. It's the daily grind of obedience, one cup at a time. Just as the perfect brew requires the right combination of water, coffee, and time, our walk with God demands a steady commitment to His Word and ways. The aroma of Scripture wafts through our lives, guiding us toward the rich flavors of God's character. But like the crema that forms on a well-crafted cup, our faithfulness is not just about the initial excitement but about the ongoing extraction of God's truths into our daily routines. As we roast our hearts in prayer and meditation, we develop a deeper appreciation for the nuances of God's love. In this morning ritual, we're reminded that faithfulness is not just about our feelings but about the steady, consistent process of growing in our relationship with God.\n\n## Prayer\n\nWe ask for the patience and persistence to commit to the daily grind of faithfulness, to be shaped by Your Word and ways. Help us to extract the rich flavors of Your character into our lives.\n\n## One-Line Application\nMake daily obedience to God's Word a non-negotiable part of your morning routine.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
