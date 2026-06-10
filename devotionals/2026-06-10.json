@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-10",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 256,
+  "theme": "coffee",
+  "content_markdown": "# Aromatic Purity in the Morning\n\n## Scripture\n\"But without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.\" - Hebrews 11:6 (ESV)\n\n## Reflection\nAs I stand in front of the coffee maker, I'm reminded of the process of extraction. The grounds are poured into the filter, and hot water flows through, releasing the flavors and oils. In the same way, our faith is like the coffee grounds - it needs to be subjected to the heat and pressure of God's presence in order to release its full potential. If we're not regularly exposed to God's Word and prayer, our faith remains stagnant, like the grounds that haven't been brewed. But as we draw near to God, our faith is refined and strengthened, just like the crema that forms on a well-poured cup of coffee. We must commit to a morning ritual of seeking God, pouring over His Word, and praying, just as we commit to making a cup of coffee every morning. As we do, our hearts are purified and our faith is strengthened, ready to face the day ahead.\n\n## Prayer\nWe ask that you would help us to establish a consistent morning routine of seeking you, pouring over your Word, and praying. May our faith be refined and strengthened as we draw near to you.\n\n## One-Line Application\nRegularly pouring over God's Word and praying refines our faith and prepares us for the day.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
