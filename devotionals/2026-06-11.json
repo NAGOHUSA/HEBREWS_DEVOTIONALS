@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 237,
+  "theme": "coffee",
+  "content_markdown": "# Brewing a Heart for God\n\n## Scripture\n\n\"For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands, for God gave us a spirit not of fear but of power and love and self-control.\" - 2 Timothy 1:6-7\n\n## Reflection\n\nJust as a perfectly roasted coffee bean requires a gentle yet intentional process to bring out its full flavor, our faith can become stale if we don't intentionally nurture it. The Spirit of God within us is a gift that needs attention, care, and fanning into flame. We must be intentional about cultivating love, power, and self-control, just as a skilled barista must carefully extract the essence of the coffee bean. As we begin each day, let us take time to reflect on our spiritual growth, just as a pour-over requires patience and attention to detail. We can ask God to help us identify areas where our faith may have grown stagnant, and to give us the courage to make intentional choices that will fan the flame of our faith.\n\n## Prayer\n\nWe ask that you would help us fan the flame of our faith, Father, and give us the power, love, and self-control we need to live out our discipleship.\n\n## One-Line Application\n\nNurture your faith with intentional attention and care, just as a skilled barista extracts the essence of coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
