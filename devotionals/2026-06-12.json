@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-12",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 211,
+  "theme": "coffee",
+  "content_markdown": "# The Rich Flavor of Devotion\n\n## Scripture\n\n\"I have come that they may have life, and have it to the full.\" - Jesus (John 10:10)\n\n## Reflection\n\nJust as a pour-over coffee requires the right balance of water and coffee grounds to extract the perfect flavor, our lives require a balance of devotion and surrender to extract the richness of God's presence. As we begin our day, we must first surrender to the aroma of God's love and allow it to fill our hearts and minds. Just as the crema forms on a well-crafted cup of coffee, our devotion to God should create a sense of clarity and purpose in our lives. As we navigate the ups and downs of our daily routines, we must remain committed to the roasting process of our faith, allowing it to deepen and mature us. By doing so, we will experience the full flavor of devotion and live a life that is pleasing to God.\n\n## Prayer\n\nWe surrender our lives to your loving aroma, Lord, and ask that you help us extract the richness of your presence in our daily lives.\n\n## One-Line Application\n\nAs we begin each day, surrender to the aroma of God's love and allow it to guide our devotion.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
