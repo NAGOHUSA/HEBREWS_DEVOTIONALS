@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-13",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 249,
+  "theme": "coffee",
+  "content_markdown": "# A Perfect Cup of Life\n\n## Scripture\n\n\"For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast.\" - Ephesians 2:8-9\n\n## Reflection\n\nAs we brew our morning coffee, we anticipate the perfect cup - rich, smooth, and full of flavor. But how often do we forget that the true perfection lies not in the brew itself, but in the process that brings it to life? Just as the roasting process transforms raw beans into a savory delight, our faith is transformed by the gift of God's grace. We are not the ones who have 'worked' to achieve salvation, but rather, it is a gift that comes to us through faith. As we pour over the Scriptures and seek to deepen our relationship with God, we must remember that our efforts, no matter how diligent, are merely the roasting process - they prepare us for the true flavor of life. It is not our works that save us, but the gift of God's love that is extracted and poured into our hearts.\n\n## Prayer\n\nWe thank you, God, for the gift of your love and salvation. Help us to remember that our efforts are merely preparation for the true flavor of life - your perfect gift to us.\n\n## One-Line Application\n\nOur faith is not a result of our works, but the gift of God's love that transforms us.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
