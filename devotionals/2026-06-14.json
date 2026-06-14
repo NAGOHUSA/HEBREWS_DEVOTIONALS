@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 206,
+  "theme": "coffee",
+  "content_markdown": "# The Perfect Cup of Faith\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3 (NIV)\n\n## Reflection\n\nAs I sit here with my freshly brewed cup of coffee, I'm reminded of the process that brings out its full flavor. Like coffee beans, our faith is refined and strengthened through trials. The heat of adversity can be overwhelming, but just as a skilled roaster coaxes out the perfect balance of flavors, God uses our trials to extract the rich depths of our faith. The crema that forms on a well-poured-over cup is a testament to the harmony of flavors and textures. Similarly, when we endure trials with joy, our faith becomes strong and resilient, and we become a witness to the world of God's perfect work in our lives.\n\n## Prayer\n\nWe thank you, Lord, for the refining fire of trials that strengthen our faith. Help us to face adversity with joy, knowing that it produces perseverance and a deeper relationship with you.\n\n## One-Line Application\n\nAs you face trials, remember that your faith is being refined like a perfectly roasted cup of coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
