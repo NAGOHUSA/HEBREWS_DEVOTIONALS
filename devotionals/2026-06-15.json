@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-15",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 222,
+  "theme": "coffee",
+  "content_markdown": "# The Daily Grind of Faithfulness\n\n## Scripture\n\n\"The Lord is near to the brokenhearted and saves the crushed in spirit.\" - Psalm 34:18 (ESV)\n\n## Reflection\n\nJust as a pour-over coffee requires patience and consistent effort to extract the perfect flavor, our walk of faith demands persistence and trust in God's presence. As we begin our day like a freshly roasted bean, full of potential, we may feel like we're stuck in the grind of life. But just as the crema forms on a well-made cup, God's Spirit brings richness and depth to our spiritual lives, even in the midst of turmoil. We must allow Him to extract the sweetness from our struggles, not trying to force it or rush the process. As we surrender to His refining work, we'll find that our faith grows stronger and our hearts more tender. This morning ritual of prayer and Scripture reminds us that God is always near, even when we feel crushed or broken.\n\n## Prayer\n\nWe come to you, Lord, broken and in need of your presence. Help us to be patient and trusting, allowing you to extract the sweetness from our struggles and form us into vessels of your love.\n\n## One-Line Application\n\nAs you face the daily grind, remember that God's presence is near, even in the midst of brokenness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
