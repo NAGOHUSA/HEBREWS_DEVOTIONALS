@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-16",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 252,
+  "theme": "coffee",
+  "content_markdown": "# Brewing a Heart for God\n\n## Scripture\n\"Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me.\" - John 15:4 (ESV)\n\n## Reflection\nJust as a skilled barista must carefully select and roast high-quality coffee beans to unlock their full flavor potential, we too must be intentional about our spiritual \"roast\" - cultivating a heart that's rich in the Word, prayer, and fellowship with God. Like a delicate pour-over, our faith needs to be poured into us, and our connection to Christ is what sets our hearts ablaze with purpose. As we extract the sweetness of Scripture and the richness of prayer from our daily routine, we become like a masterfully brewed cup - full of life, flavor, and a fragrance that radiates to those around us. Our crema is formed not just by the crema on top of our coffee, but by the richness of our relationship with Christ - a union that's essential for our spiritual growth and fruitfulness.\n\n## Prayer\nWe ask that you would deepen our understanding of your love and our connection to you, just as we carefully craft each cup of coffee to bring out its unique flavor. May our hearts be rich in faith and our lives be filled with the fragrance of Christ.\n\n## One-Line Application\nPour your heart into God's presence daily, just as a barista pours coffee to unlock its full flavor.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
