@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-17",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 221,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in the Presence of God\n\n## Scripture\n\n\"So do not be anxious about tomorrow, for tomorrow will take care of itself. Each day has enough trouble of its own. Matt 6:34 (ESV)\n\n## Reflection\n\nAs I stand in front of my pour-over, I'm reminded of the beauty of the brewing process. It's a slow and deliberate process, where the water and coffee grounds come together in a harmonious dance. Just as the coffee's flavors are extracted through the careful pouring, our faith is refined in the midst of life's struggles. We can't rush the process or try to force it to happen faster, but by surrendering to God's presence in our daily routines, we'll find that He's refining us, extracting the impurities, and bringing out the richness of our character. Just as a perfectly brewed cup of coffee requires patience and attention to detail, our spiritual growth demands a willingness to slow down and be present with God.\n\n## Prayer\n\nWe thank you, Lord, for the reminder that our strength comes not from trying to control our lives, but from trusting in your presence with us each day. Help us to slow down and appreciate the beauty of your refining work in our lives.\n\n## One-Line Application\n\nSurrender to God's refining process, trusting in His presence in daily routines.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
