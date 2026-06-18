@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-18",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 183,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Hearts for the Harvest\n\n## Scripture\n\"For God is not a God of disorder but of peace—as in all the congregations of the Lord's people.\" - 1 Corinthians 14:33 (NIV)\n\n## Reflection\nAs I sit here with a cup of freshly brewed coffee, I'm reminded of the process of harvesting and preparing the perfect cup. It starts with carefully selecting and roasting the beans, allowing them to release their full flavor and aroma. This process requires patience and attention to detail, for the final product is only as good as the investment put into it. In the same way, God is calling us to be intentional and dedicated in our pursuit of Him, allowing our hearts to be shaped and refined, much like the beans being carefully roasted. As we seek to live in harmony with one another, we must be willing to slow down, listen, and allow the Spirit to guide us in our interactions with others. The result is a cup of community that is rich in love, compassion, and understanding, a true reflection of our Heavenly Father's heart.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
