@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-19",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 234,
+  "theme": "coffee",
+  "content_markdown": "# From Roast to Cup: A Journey of Faith\n\n## Scripture\n\n\"For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" Ephesians 2:10 (NIV)\n\n## Reflection\n\nAs I sit here with my morning pour-over, I'm reminded of the journey from raw coffee beans to the perfect cup. The roasting process transforms the beans, bringing out their full flavor and aroma. Similarly, our lives are being transformed as we walk with Christ. God takes the raw, imperfect us and refines us, preparing us for the good works He has in store. The extraction process in coffee brewing is similar to the way God's Word extracts the truth and wisdom from our hearts. Through prayer and scripture, we're able to let go of the chaff of our old selves, revealing the rich, full flavor of our faith. As we begin each day, may we surrender to God's refining process, trusting that He will bring out the best in us.\n\n## Prayer\n\nWe ask that You would continue to roast our hearts, transforming us into vessels of Your goodness and light. Help us to be open to Your refining process, that we may be conformed to Your image and bear fruit that honors You.\n\n## One-Line Application\n\nLet God's Word be the catalyst that refines your life, transforming you into a vessel of His goodness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
