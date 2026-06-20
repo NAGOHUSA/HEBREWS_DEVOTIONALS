@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-20",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 237,
+  "theme": "coffee",
+  "content_markdown": "# A Richer Brew of Faith\n\n## Scripture\n\n\"Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places.\" - Ephesians 1:3\n\n## Reflection\n\nJust as a pour-over coffee requires patience and attention to detail, our faith requires a willingness to slow down and allow God to work in us. When we're in a rush, we can miss the nuances of the spiritual blessings available to us. But as we take the time to reflect on our lives and the lives of those around us, we begin to appreciate the richness of our relationship with God. Just as the perfect extraction of coffee's flavors requires a specific balance of hot water and ground beans, our spiritual growth depends on a delicate balance of faith, prayer, and obedience. As we cultivate this balance, we will find that our lives are filled with the \"every spiritual blessing\" that we've been given in Christ.\n\n## Prayer\n\nWe thank you, Father, for the spiritual blessings you've given us in Christ. Help us to slow down and appreciate the richness of our relationship with you. Give us the patience and attention to detail to cultivate a deeper understanding of your love and presence in our lives.\n\n## One-Line Application\n\nAs we sip our morning coffee, may we pause to acknowledge the spiritual blessings we've been given in Christ.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
