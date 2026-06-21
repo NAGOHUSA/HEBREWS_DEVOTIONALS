@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-21",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 267,
+  "theme": "coffee",
+  "content_markdown": "# Riches in the Roast\n\n## Scripture\n\n\"Your love, O Lord, reaches to the heavens, your faithfulness reaches to the skies.\" - Psalm 36:5 (NIV)\n\n## Reflection\n\nAs I stand over my pour-over, the aroma of freshly roasted coffee fills the air. It's a reminder that the richness of a good brew is not just about the beans themselves, but about the process that brings them to life. The roasting process is crucial – too light and the flavors are dull, too dark and they're bitter. But when it's just right, the flavors are balanced and the crema is smooth. In the same way, our faith is not just about the initial spark, but about the ongoing process of growth and maturation. As we face the challenges of life, we must be careful not to over-roast our faith, but rather to allow it to deepen and become richer. The love and faithfulness of God are the foundation upon which our faith is built, and they are the source of our strength and guidance. As we navigate the complexities of life, we must return to this foundation, allowing God's love to shape and mold us into mature disciples.\n\n## Prayer\n\nWe thank you for the richness of your love and faithfulness, Lord. Help us to navigate the challenges of life with a faith that is balanced and mature, grounded in your love and guidance. Help us to be poured into you, and to pour out our lives in service to you.\n\n## One-Line Application\nLet God's love and faithfulness be the foundation upon which you build your life.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
