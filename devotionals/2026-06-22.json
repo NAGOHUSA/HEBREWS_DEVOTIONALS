@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-22",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 250,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Sustenance for the Soul\n\n## Scripture\n\n\"But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.\" - 2 Corinthians 12:9 (ESV)\n\n## Reflection\n\nAs I sit with a freshly brewed cup of coffee, I'm reminded of the process of extraction that takes place. The coffee grounds are carefully measured, the water is precisely heated, and the mixture is slowly dripped through the filter. It's a delicate balance, but the result is a rich and satisfying brew that nourishes my body. In a similar way, we need to allow God's power to be extracted from our weaknesses. When we're at our lowest, God's strength is most evident. It's in the midst of our struggles that we discover the sufficiency of His grace. As we face our own vulnerabilities, we must learn to trust that God's power is made perfect in our weaknesses, and that His strength is most visible when we're at our most fragile.\n\n## Prayer\n\nWe ask that You would help us to recognize the areas in our lives where Your power is most needed, and that we would learn to boast in our weaknesses, trusting that Your strength is made perfect in our fragility.\n\n## One-Line Application\n\nAs we face our weaknesses, we must learn to boast in God's power, not our own strength.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
