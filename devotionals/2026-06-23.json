@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 234,
+  "theme": "coffee",
+  "content_markdown": "# Morning's Richness in Christ\n\n## Scripture\n\n\"For you know the generous act of our Lord Jesus Christ, that though he was rich, yet for your sakes he became poor, so that by his poverty you might become rich.\" - 2 Corinthians 8:9\n\n## Reflection\n\nAs I stand at the pour-over, carefully pouring steaming hot water over the grounds, I'm reminded of the richness of our faith in Christ. Just as the delicate balance of water and coffee is crucial for extraction, our relationship with God requires a delicate balance between surrender and surrender-allowed growth. We must be willing to let go of our own richness, our own self-sufficiency, in order to be filled with the richness of His presence. As the coffee brews, it's not just the coffee that changes, but the entire atmosphere of the room – the aroma fills the air, inviting all to partake in its sweetness. In the same way, our poverty in Christ becomes our greatest wealth, as His presence transforms not just our lives, but the world around us.\n\n## Prayer\n\nWe thank you, Lord, for the gift of Christ, who became poor that we might become rich. Help us to let go of our own richness and trust in Your sovereignty, that we might be filled with the richness of Your presence.\n\n## One-Line Application\n\nLet go of your own sufficiency and trust in Christ's richness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
