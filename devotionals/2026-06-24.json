@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 234,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in Prayer, Roasted in Love\n\n## Hebrews 4:16\n\n\"Let us then approach God's throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.\" - Hebrews 4:16 (NIV)\n\n## Reflection\n\nAs I stand over the pour-over, awaiting the first drops of coffee to emerge, I'm reminded of our need to approach God's throne with confidence. The process of brewing coffee requires patience and trust in the equipment and the beans. Similarly, our relationship with God demands faith and trust in His goodness and character. As the coffee's flavors are extracted, so too are our prayers, rich with the aroma of our hearts. We must be willing to submit to the roasting process, allowing our fears, doubts, and insecurities to be burned away, that we may be transformed into vessels worthy of pouring out His love. In this morning ritual, we're reminded to be intentional about our time with God, seeking mercy and finding grace to help us face the day ahead.\n\n## Prayer\n\nWe come before You with confidence, seeking mercy and grace in our time of need. Help us to trust in Your goodness and character, and to submit to Your refining process, that we may be vessels of Your love.\n\n## One-Line Application\nMay we approach God's throne with confidence, trusting in His goodness to meet our every need.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
