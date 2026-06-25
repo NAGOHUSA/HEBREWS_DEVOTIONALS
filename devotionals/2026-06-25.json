@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 253,
+  "theme": "coffee",
+  "content_markdown": "# \"Rich in the Roast of His Presence\"\n\n## Scripture\n\n\"For we are the aroma of Christ to God among those who are being saved and among those who are perishing.\" - 2 Corinthians 2:15 (ESV)\n\n## Reflection\n\nAs I sit with a freshly brewed cup, I'm reminded of the slow process of roasting, where the raw bean is transformed into a rich, full-bodied flavor. It's in the darkness of the roasting chamber that the bean releases its full potential, surrendering to the heat and the skill of the roaster. In the same way, our lives as followers of Christ are a slow, intentional process of being transformed into the likeness of His image. We submit to His refining fire, surrendering our selfishness and pride, and allowing Him to bring out the full flavor of our faith. As we're poured out to others, our aroma wafts, a sweet reminder of the presence of God in our midst. Whether in the midst of a flourishing community or amidst the parched landscape of a lost world, our scent draws people to the Savior.\n\n## Prayer\n\nWe pray for the rich aroma of Christ to fill us, that our lives would be a sweet fragrance to those around us, and that we would be poured out to share the Gospel with all who need it.\n\n## One-Line Application\n\nAs you go about your day, be the aroma of Christ to those around you, surrendering to His refining fire and sharing His fragrance with all you meet.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
