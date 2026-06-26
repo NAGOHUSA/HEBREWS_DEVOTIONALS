@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-26",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 203,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Faithfulness in Everyday Moments\n\n## Scripture\n\"Trust in him at all times, O people; pour out your heart to him, for God is our refuge.\" - Psalm 62:8 (ESV)\n\n## Reflection\nAs we slow down to savor a cup of expertly brewed coffee, we're reminded that faithfulness is often cultivated in the mundane moments of life. Just as the perfect pour-over requires patience and attention to detail, our trust in God must be similarly nurtured. The aroma of freshly roasted coffee beans fills the air, a sweet reminder of the sweetness of God's presence in our lives. As the extraction process yields a rich, full-bodied flavor, may our dependence on God be similarly refined. Just as the delicate crema on a well-crafted latte is a testament to the art of the brewer, may our faithfulness be a reflection of the beauty of God's character.\n\n## Prayer\nWe pour out our hearts to you, Lord, trusting in your refuge and faithfulness. Help us to slow down and savor the moments of our lives, that we may deepen our trust in you.\n\n## One-Line Application\nMay our daily routines be infused with the sweetness of faithfulness, trusting in God's presence in every moment.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
