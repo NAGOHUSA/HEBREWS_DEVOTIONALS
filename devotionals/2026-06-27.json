@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-27",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 259,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Sustenance for the Soul\n\n## Scripture\n\"Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.\" - Matthew 11:28-30\n\n## Reflection\nJust as a pour-over coffee requires patience and attention to detail, our spiritual journey demands dedication and a willingness to learn from Jesus. As the coffee grounds are extracted, our souls are nourished by the gentle and humble teachings of our Lord. Just as the crema forms on the surface of a well-crafted cup, God's presence is revealed to us in the midst of our struggles, giving us rest and sustenance for the journey ahead. As we begin each day, we can pour ourselves into the morning ritual of prayer, just as we carefully pour the steaming hot water over the grounds. May we find the ease and lightness of Jesus' yoke, guiding us through the complexities of life.\n\n## Prayer\nGracious God, as we sip the cup of life, help us to slow down and appreciate the intricacies of your presence in our daily lives. May our souls be nourished by the richness of your teachings and may we find rest in your gentle and humble heart.\n\n## One-Line Application\nPour yourself into prayer each morning, just as you would a cup of coffee, seeking rest and sustenance for the day ahead.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
