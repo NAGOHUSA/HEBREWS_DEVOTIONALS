@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-28",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 222,
+  "theme": "coffee",
+  "content_markdown": "# A Fragrance That Fills the Air\n\n## Psalm 45:1 (NIV) - \"My heart overflows with a pleasing theme; I address my verses to the king; my tongue is like the pen of a skillful writer.\" \n\n## Reflection\nAs we prepare for the day, the aroma of freshly brewed coffee fills the air, inviting us to slow down and appreciate the beauty in the everyday. Just as the coffee's flavors and oils are extracted through the brewing process, our hearts are transformed through our relationship with God. Just as the roasting process brings out the richness of the coffee, our trials refine us, making us more like Christ. As we pour over Scripture, we're not just reading words on a page, but experiencing the life-giving truth that overflows from God's heart. Just as the crema on a well-crafted latte adds depth and texture, our faith becomes richer as we integrate God's word into our daily lives. In this morning ritual, we're not just drinking coffee; we're drinking in the presence of God.\n\n## Prayer\nWe ask that the fragrance of Your presence would fill our lives, that we might be transformed by Your truth and become vessels of Your love to a world in need.\n\n## One-Line Application\nAs you sip your coffee, remember that spiritual growth is a slow, deliberate process.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
