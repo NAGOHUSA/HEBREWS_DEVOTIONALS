@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 248,
+  "theme": "coffee",
+  "content_markdown": "# A Steeped Faith\n\n## Scripture\n\n\"For you know the generous act of our Lord Jesus Christ, that though he was rich, yet for your sakes he became poor, so that by his poverty you might become rich.\" - 2 Corinthians 8:9\n\n## Reflection\n\nAs I sit with my morning coffee, I'm reminded of the rich aroma that fills the air. But it's only when the coffee grounds are steeped in the right conditions - water, temperature, and time - that the full flavor is released. Similarly, our faith is steeped in the generosity of Jesus Christ. He, being rich in every way, chose to become poor for our sake. By his poverty, we are made rich in spirit, in love, and in relationship with Him. Just as the brew requires patience and attention, our faith requires us to steep in the goodness of God, allowing His love to extract itself deep within us. As we begin our day, let's pour our hearts out before Him, seeking to be steeped in His presence and overflowing with the riches of His love.\n\n## Prayer\n\nWe thank you, Lord, for the generosity of Jesus Christ, who became poor for our sake. Help us to steep in your presence, that we might be rich in spirit, love, and relationship with you. Fill us with your goodness, that we might overflow with the riches of your love.\n\n## One-Line Application\n\nLet God's love steep in your heart, and watch your faith flourish.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
