@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-06-30",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 232,
+  "theme": "coffee",
+  "content_markdown": "# Steeped in His Presence\n\n## Scripture\n\n\"But you are a chosen people, a royal priesthood, a holy nation, God's special possession, that you may declare the praises of him who called you out of darkness into his wonderful light.\" - 1 Peter 2:9\n\n## Reflection\n\nAs we begin our day, we often start with a morning ritual: pouring over coffee grounds, allowing the liquid to extract the flavors and oils within. In a similar way, our hearts are being transformed by the presence of God. We are chosen, set apart as His own, to declare the praises of Him who has called us out of darkness. As the crema forms on our coffee, so too do the joys and blessings of God's presence form on our lives. Just as the flavors of the coffee are released through the process of extraction, our true selves are being revealed through our devotion to Him. In this moment, we are not just drinking coffee, we are being steeped in His presence.\n\n## Prayer\n\nWe thank You, Lord, for the gift of Your presence in our lives. Help us to declare Your praises and share Your light with others. Steep us in Your love, that we may be a holy nation, reflecting Your glory to the world.\n\n## One-Line Application\n\nAs we drink in God's presence, may our lives be transformed to reflect His glory.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
