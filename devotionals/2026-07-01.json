@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-01",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 255,
+  "theme": "coffee",
+  "content_markdown": "# A Richer Brew of Faith\n\n## Scripture\n\n\"The Lord your God is with you, he is mighty to save. He will take great delight in you; in his love he will no longer rebuke you, but will rejoice over you with singing.\" - Zephaniah 3:17 (NIV)\n\n## Reflection\n\nJust as a pour-over coffee requires time and care to extract the perfect flavor, our faith is refined through the gentle process of God's presence in our lives. Like the aroma that fills the air as the coffee brews, the Holy Spirit's presence wafts through our hearts, drawing us closer to God. In the stillness of morning, we can invite the Spirit to work, just as we carefully prepare the coffee grounds for extraction. As the crema forms, a rich and velvety texture that seals the flavors, our faith is strengthened by the love and delight of our Heavenly Father. We are not just drinking coffee, but being poured over with God's presence, and it's in these moments that we experience the full richness of our faith. As we begin our day, let's invite the Lord to take great delight in us, just as He does in the roasting of a perfect coffee bean.\n\n## Prayer\n\nWe ask that You, Lord, would take great delight in us, filling our hearts with Your presence and love. Pour over us with Your Spirit, that we may be refined and strengthened in our faith.\n\n## One-Line Application\n\nMay our daily routines be infused with the richness of God's presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
