@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-02",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 231,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of God's Presence\n\n## Scripture\n\n\"May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.\" - Romans 15:13 (ESV)\n\n## Reflection\n\nAs I savor the aroma of freshly brewed coffee, I'm reminded of the presence of God in my life. Just as the coffee grounds release their flavors and oils during the extraction process, our lives are transformed as we surrender to God's refining work in us. The rich flavors of joy and peace that fill our hearts are the result of God's presence, which is made possible by the Holy Spirit's power. As we begin our day, let us pour out our hearts to God, inviting Him to fill us with His presence, just as the pour-over slowly releases the perfect balance of flavors from the coffee grounds. May we abide in His presence, allowing our hopes and dreams to be shaped by His wisdom and love.\n\n## Prayer\n\nWe thank you, God, for being the ultimate source of joy and peace in our lives. Fill us with Your presence today, and help us to abide in You as we face the challenges of the day.\n\n## One-Line Application\n\nAs we drink in God's presence, may our hearts be filled with the hope that comes from trusting in Him.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
