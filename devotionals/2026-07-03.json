@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-03",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 224,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Redemption: Morning's Fresh Brew\n\n## Scripture\n\n\"Arise, shine; for your light has come, and the glory of the Lord rises upon you.\" - Isaiah 60:1 (ESV)\n\n## Reflection\n\nAs I sit here, sipping my morning coffee, I'm reminded of the process that brings this rich brew to life. It begins with roasting, a stage where the beans are transformed by heat, releasing their full potential. Similarly, we've been roasting in the fires of adversity, our faith being refined and purified. The extract of our lives is being drawn out, and it's in this moment that our true character is revealed. Like the delicate crema that forms on top of a well-made pour-over, our faith is strengthened as we surrender to the Lord, and His glory is revealed in us. As the morning light breaks, we're called to arise, shine, and let the light of His redemption shine upon the world through us.\n\n## Prayer\n\nWe pray for the fire of the Spirit to refine us, that our faith may be strengthened and our light may shine brightly for all to see. Help us to surrender to Your will, that our true character may be revealed in the extract of our lives.\n\n## One-Line Application\n\nAs you start your day, surrender to the Lord, allowing His refining fire to transform you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
