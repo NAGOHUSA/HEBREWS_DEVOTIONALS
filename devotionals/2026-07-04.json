@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 220,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in the Morning Brew\n\n## Scripture\n\n\"Early will I seek you.\" - Psalm 63:1 (ESV)\n\n## Reflection\n\nAs I stand over my pour-over, the anticipation builds. The gentle trickle of water, the aroma of freshly ground beans, and the promise of a rich brew all converge to create a morning ritual that awakens my senses. In a similar way, we must be intentional in seeking God. The psalmist's words, \"Early will I seek you,\" remind us that a vibrant relationship with God begins with a deliberate and consistent pursuit of Him. As we begin each day, we must not let the distractions of the world dull our senses to the presence of our loving Creator. Just as the perfect roast requires a balance of extraction and brewing time, our walk with God demands a balance of quiet reflection and active obedience. We must learn to savor the moments of stillness and reverence, allowing the warmth of His love to penetrate our hearts and guide our steps.\n\n## Prayer\n\nWe ask that You would awaken our senses to Your presence, Lord, and that we would seek You with all our hearts, early and often.\n\n## One-Line Application\n\nAs we start each day, let us prioritize a quiet time of seeking God, just as we prioritize a rich morning brew.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
