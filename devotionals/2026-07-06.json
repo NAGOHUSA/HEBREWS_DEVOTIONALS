@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-06",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 259,
+  "theme": "coffee",
+  "content_markdown": "# From the Roast of Suffering Comes Sweetness\n\n## Scripture\n\n\"For it has been granted to you that for the sake of Christ you should not only believe in him but also suffer for his sake, - Philippians 1:29 (ESV)\n\n## Reflection\n\nAs I stand at the coffee roaster, watching the beans transform from green to golden brown, I'm reminded of the transformative power of suffering for the Christian. Just as the heat of the roaster extracts the flavors and oils from the beans, our trials and tribulations can refine our faith and make us more like Christ (Romans 5:3-4). The sweet aroma that fills the air is not just a byproduct of the roasting process, but also a taste of the sweetness that comes from trusting God in the midst of difficult circumstances. As we face our own 'roasting' experiences, we must surrender to the process, trusting that God is at work, even when we can't see it. Like the crema that forms on a well-pulled espresso shot, our faith is strengthened and beautified through the fire of suffering. We are not just coffee beans, but vessels being filled with the sweetness of Christ, ready to be poured out for the sake of others.\n\n## Prayer\n\nWe ask that you would help us to trust in your goodness, even in the midst of suffering, and to see the transformative power of our trials as opportunities to grow in faith and love.\n\n## One-Line Application\n\nLet the 'roasting' of our trials refine our faith, making us more like Christ.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
