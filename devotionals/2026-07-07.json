@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-07",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 217,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in the Presence\n\n## Scripture\n\n\"May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.\" - Romans 15:13\n\n## Reflection\n\nAs I sit with my morning coffee, I'm reminded of the importance of presence in the brewing process. The coarsely ground beans require time to slowly steep, releasing their full flavor. Similarly, our lives can become overwhelmed by the rush of everyday tasks, causing us to neglect the presence of God. Yet, just as the coffee's flavor deepens with each passing moment, our relationship with the Lord is strengthened by our consistent time with Him. We must slow down, savor the moment, and allow the Holy Spirit to extract the full richness of God's presence in our lives. As we trust in Him, we can overflow with hope and peace, just like a perfectly poured cup of coffee overflows with rich crema.\n\n## Prayer\n\nWe thank you, God, for your presence that fills our lives with joy and peace. Help us to slow down and trust in your power, that we may overflow with hope.\n\n## One-Line Application\n\nSavor the presence of God in your daily life, just as you savor your morning coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
