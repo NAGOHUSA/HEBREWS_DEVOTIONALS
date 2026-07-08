@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 219,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"And let the peace of Christ rule in your hearts, to which indeed you were called in one body. And be thankful.\" - Colossians 3:15 (ESV)\n\n## Reflection\n\nJust as a skilled barista carefully monitors the coffee's extraction time to bring out its full flavor, we must allow the peace of Christ to rule in our hearts, guiding us in our thoughts and actions. As we commit to this daily ritual, we can trust that His presence will permeate every aspect of our lives, just as the aroma of freshly brewed coffee fills the air. Just as a pour-over requires patience and attention, we must be still and listen for God's voice, allowing His peace to seep into our souls. Like the rich crema that forms on a well-crafted cup, the peace of Christ will bring depth and beauty to our lives. As we start our day with a quiet moment with Him, we're reminded that He's the One who gives us purpose and direction.\n\n## Prayer\n\nWe thank you, Lord, for your presence in our lives. Help us to let your peace rule in our hearts and to be thankful for all you bring us each day.\n\n## One-Line Application\n\nLet the peace of Christ guide your thoughts and actions today.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
