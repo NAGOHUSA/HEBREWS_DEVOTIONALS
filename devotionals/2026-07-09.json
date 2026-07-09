@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-09",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 232,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"But you, beloved, build yourselves up in your most holy faith; pray in the Holy Spirit; keep yourselves in the love of God, waiting for the mercy of our Lord Jesus Christ unto eternal life.\" - Jude 1:20-21\n\n## Reflection\n\nJust as a master barista carefully crafts each cup of coffee, God meticulously prepares us for moments of encounter with Him. We often overlook the roasting process, where the raw bean is transformed into a rich, aromatic blend. Similarly, God is at work in our lives, refining us through trials and tribulations, and infusing us with His presence. As we wait upon Him, we must also be intentional about cultivating a deeper love for Him, not just as a casual acquaintance, but as our Savior and Lord. Just as a pour-over requires patience and attention to detail, so too must we be still and allow God to work His extraction in our lives.\n\n## Prayer\n\nWe pray that You would refine us, Lord, and infuse us with Your presence. Help us to cultivate a deeper love for You, and to wait upon Your mercy, that we may be grounded in Your love forever.\n\n## One-Line Application\n\nAs you wait for God to work His extraction in your life, be still and patient, like a slow pour-over, allowing Him to transform you from the inside out.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
