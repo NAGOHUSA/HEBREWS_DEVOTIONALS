@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-10",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 261,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in the Morning\n\n## Scripture\n\n\"May the Lord bless you and keep you; the Lord make his face shine upon you and be gracious to you; the Lord lift up his countenance upon you and give you peace.\" Psalm 133:3-4 (ESV)\n\n## Reflection\n\nAs we begin our day, the aroma of freshly brewed coffee fills the air, inviting us to slow down and appreciate the simple joys in life. Similarly, as we seek to live out our faith, we can learn from the intentional process of brewing coffee. Just as the pour-over method requires patience and care, our relationship with God demands a deliberate and slow approach. We must extract the richness of His presence from our daily routines, allowing His Spirit to steep in our hearts. As the crema forms on top of a well-brewed cup, our trust and confidence in God grow, giving us a sense of peace that transcends the world's chaos. By making time for quiet reflection and meditation, we can experience the warmth and comfort of God's presence, just as the first sip of a perfectly roasted coffee warms our hands and soothes our souls.\n\n## Prayer\n\nWe ask that you would help us cultivate a deeper appreciation for the simple moments in life, where we can slow down and experience your presence. May our daily routines become opportunities for us to extract the richness of your love and live out our faith with intention and purpose.\n\n## One-Line Application\n\nSlow down and intentionally extract the richness of God's presence in your daily routines.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
