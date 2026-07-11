@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 220,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in the Roast\n\n## Scripture\n\"Consider how the wild flowers grow. They do not labor or spin. Yet I tell you, even Solomon in all his splendor was not dressed like one of these.\" - Matthew 6:29 (NIV)\n\n## Reflection\nJust as a skilled roaster carefully selects the finest coffee beans, God chooses us for His purposes. The process of roasting reveals the true nature of the bean - whether it's bitter or sweet. Similarly, as we surrender to God's refining fire, He extracts the impurities and reveals our true potential. In the stillness of the morning, as the aroma of freshly brewed coffee fills the air, we're reminded to let go of our desire for self-justification and self-promotion. Instead, we can trust that God's work in us will be a masterpiece of beauty and flavor. Just as a master barista skillfully pours the perfect shot, God's love and care pour into our lives, creating a rich and satisfying experience.\n\n## Prayer\nWe thank you, Lord, for choosing us for Your purposes. Help us to surrender to Your refining fire and trust in Your goodness. Pour Your love and care into our lives, creating a masterpiece of beauty and flavor.\n\n## One-Line Application\nAs you sip your morning coffee, remember to trust God's refining work in your life.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
