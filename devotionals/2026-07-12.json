@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-12",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 247,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Hope\n\n## Scripture\n\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" - Ephesians 2:10 (NIV)\n\n## Reflection\n\nAs I sit here with a freshly brewed cup of coffee, I'm reminded of the process that brings out its rich flavor. Just as the coffee grounds must be roasted, then ground, and finally extracted to release its full potential, our lives need to be refined by God's presence. We must be willing to surrender our raw, unpolished selves to Him, allowing Him to transform us into vessels of hope and good works. As we pour our hearts out to Him, just as the pour-over slowly drips the coffee into the cup, we allow Him to fill us with His love and wisdom. The crema that forms on top of a well-crafted cup of coffee is a testament to the beauty that arises from a perfect blend of ingredients and technique. In the same way, when we combine our surrendered lives with God's guidance, we become a beautiful reflection of His goodness, spreading hope to those around us.\n\n## Prayer\n\nWe confess our tendency to hide our true selves, Lord, and pray that You would help us surrender to Your refining process, allowing us to be transformed into vessels of hope and good works.\n\n## One-Line Application\n\nLet us surrender our lives to God, allowing Him to refine us and release our full potential.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
