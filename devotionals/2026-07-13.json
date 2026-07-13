@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-13",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 218,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Sustenance for the Soul\n\n## Scripture\n\n\"May your roots grow down into God's love and keep you strong. May you know exactly what God wants you to do, and so please God, bearing fruit that lasts.\" - Colossians 2:7 (NLT)\n\n## Reflection\n\nJust as a perfect cup of coffee requires a balance of rich flavors, a deep roast, and a velvety crema, our faith needs a balance of roots and fruit. As we grow in our relationship with God, our roots should dig deeper into His love, providing stability and nourishment for our spiritual journey. This stability allows us to produce fruit that lasts, fruit that reflects the character of Christ and brings glory to God. Just as a pour-over requires patience and attention to detail, our spiritual growth demands a steady and intentional commitment to prayer, Bible study, and service. By combining these elements, we can experience a rich and satisfying faith that brings joy and sustenance to a world in need.\n\n## Prayer\n\nWe ask that You help us deepen our roots in Your love, giving us stability and strength to bear fruit that lasts. Help us know Your will and follow it closely, bringing glory to Your name.\n\n## One-Line Application\n\nNurture your spiritual roots through consistent prayer and Bible study.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
