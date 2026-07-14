@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 286,
+  "theme": "coffee",
+  "content_markdown": "# The Art of Extraction\n\n## Scripture\n\n\"For my people will hear of my name and will know, at the same time, that I am he who spoke: 'Here I am.' And I will be gracious to whom I will be gracious, and will show compassion to whom I will show compassion.\" - Exodus 33:19 (NIV)\n\n## Reflection\n\nAs I sit with a freshly brewed cup of coffee, the aroma of the roasted beans fills my senses, reminding me of the rich flavors yet to be extracted. Just as a pour-over requires patience and time for the perfect brew, our faith journey demands trust in God's sovereignty and timing for the fullness of His character to be revealed. In Exodus 33:19, Moses requests to see God's glory, and the Lord responds by promising to be gracious and compassionate to whom He chooses. We, too, must learn to trust in God's extraction process, allowing Him to reveal His character and purposes in our lives. This requires a willingness to surrender control and let God's Spirit work in us, just as the water flows through the coffee grounds, extracting the essence of the beans. As we wait on the Lord, we must not lose faith in His goodness and ability to bring forth the full flavor of His love and redemption in us.\n\n## Prayer\n\nWe thank you, Lord, for your promise to be gracious and compassionate to us. Help us trust in your extraction process and wait patiently for your Spirit to work in our lives, that we may be transformed by your love and character.\n\n## One-Line Application\n\nTrust in God's sovereignty and timing for the fullness of His character to be revealed in your life.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
