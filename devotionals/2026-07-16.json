@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-16",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 213,
+  "theme": "coffee",
+  "content_markdown": "# From the Roast to the Cup: A Journey with God\n\n## Scripture\n\"But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us.\" - 2 Corinthians 4:7 (ESV)\n\n## Reflection\nJust as the perfect roast is hidden within the unassuming coffee bean, our life of faith often appears ordinary on the surface. Yet, as we surrender to God's refining process, the sweetness of His presence is extracted, transforming us into vessels that showcase His glory. The pour-over method of brewing coffee requires patience and attention to detail, just like our need to attentively listen to God's guidance as we navigate life's complexities. As we yield to His roasting flames, the crema of our character is formed, and we become more like Christ. By embracing this process, we come to understand that our lives, like a rich cup of coffee, are infused with the divine, and we become a fragrant offering to the world.\n\n## Prayer\nWe thank you, Lord, for the refining process that transforms us into vessels of Your glory. Help us to surrender to Your guidance and trust in Your surpassing power.\n\n## One-Line Application\nAs we yield to God's refining process, we become vessels that showcase His glory.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
