@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-17",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 246,
+  "theme": "coffee",
+  "content_markdown": "# Brewing Faithfulness\n\n## Scripture\n\n\"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\" - Galatians 6:9 (NIV)\n\n## Reflection\n\nAs I sit with a freshly brewed cup of coffee, I'm reminded of the process that brings out its rich flavors. It begins with selecting the right beans, roasting them to perfection, and then carefully brewing them to extract the oils and essences. In a similar way, our faithfulness is refined through the trials and challenges of life. As we persevere in doing good, we allow God to extract the gold from our experiences, shaping us into vessels of His love and mercy. Just as the crema forms on the surface of a well-made latte, our faithfulness can become a visible manifestation of God's work in our lives. This morning ritual of coffee-making becomes a metaphor for our daily devotion to God, where we commit to the process of growth, refinement, and service.\n\n## Prayer\n\nWe pray that You would help us to not grow weary in our pursuit of goodness, but rather to trust in Your promise to reap a harvest of faithfulness. We ask that You would guide us in the process of refining our hearts and lives, that we might become vessels of Your love and mercy.\n\n## One-Line Application\n\nLet us commit to the daily process of refining our faithfulness through perseverance and obedience to God's will.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
