@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-18",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 185,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of God's Presence\n\n## Scripture\n\n\"Be still before the Lord and say, 'I will confess my iniquity to the Lord.'\" - Psalm 51:4 (ESV)\n\n## Reflection\n\nJust as a skilled barista carefully prepares a pour-over, we must be intentional in creating space for God's presence in our lives. We must slow down and be still before Him, allowing the aroma of His word to fill our hearts. In this quiet moment, we can strip away the distractions of our daily routines and confess our deepest iniquities to the Lord. Just as a rich crema forms on the surface of a perfectly brewed cup, our hearts can be transformed as we surrender to God's refining work in us. As we practice this morning ritual, we invite God to extract the bitter places in our lives, revealing a deeper, richer relationship with Him.\n\n## Prayer\n\nWe ask for the courage to be still before You, Lord, and to confess our iniquities. Help us slow down and savor Your presence.\n\n## One-Line Application\n\nLet stillness and confession be the first steps in your morning devotion.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
