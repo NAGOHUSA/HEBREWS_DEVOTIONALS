@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-19",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 236,
+  "theme": "coffee",
+  "content_markdown": "# The Perfect Cup: A Reflection of Our Lives\n\n## Scripture\n\"He must become greater; I must become less.\"  \n— John 3:30 (NIV)\n\n## Reflection\nAs I stand at the pour-over, I'm reminded of the process of extracting the perfect cup. Just as the water flows through the grounds, our lives are meant to be poured out for Christ. We must not cling to our own efforts, but rather allow the living water of God's presence to flow through us. The crema that forms on the surface is a result of the careful balance of temperatures and pressures – a picture of the harmony that emerges when we surrender our plans to God's will. In the morning ritual of brewing, I'm reminded that my role is not to create the perfect cup, but to prepare the grounds, allowing God to work through me. As I drink in the flavors of the coffee, I'm reminded to drink deeply of God's presence, that I may be a vessel of His love and redemption.\n\n## Prayer\nWe ask, Father, that you would help us to become less in our lives, that your greatness might shine through us. Help us to surrender our plans and allow your presence to flow through us, that we might be instruments of your love.\n\n## One-Line Application\nAs we pour out our lives for Christ, we must become vessels for His love and redemption.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
