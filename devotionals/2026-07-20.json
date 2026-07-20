@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-20",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 237,
+  "theme": "coffee",
+  "content_markdown": "# Riches in the Roasting\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds,\" \nJames 1:2 (NIV)\n\n## Reflection\n\nAs the roasting process transforms raw coffee beans into a rich, flavorful blend, so too does the fire of trials refine and purify our faith. We often view hardships as obstacles, but James invites us to see them as opportunities for growth and joy. Just as the roasting process requires patience and heat, so too must we allow the trials of life to work their way into our lives, extracting the bitter and producing a stronger, sweeter faith. As we navigate the complexities of life, may we learn to pour our hearts out to God, allowing Him to extract the dross and leave us with a deep, abiding peace. In the morning ritual of our daily routines, may we find the courage to face each new day with the hope that comes from a heart that has been refined in the fire.\n\n## Prayer\n\nWe pray for the strength to face each trial with joy, knowing that it is an opportunity for growth and refinement. Help us to pour our hearts out to You, Lord, and to trust in Your goodness, even when the road ahead is uncertain.\n\n## One-Line Application\n\nMay our trials be the roasting process that refines our faith, producing a rich and flavorful dependence on God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
