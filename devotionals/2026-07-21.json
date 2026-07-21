@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-21",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 238,
+  "theme": "coffee",
+  "content_markdown": "# Aromatic Faithfulness\n\n## Scripture\n\n\"You were called to freedom, brothers; only do not use your freedom as an opportunity for the flesh, but through love serve one another.\" - Galatians 5:13 (ESV)\n\n## Reflection\n\nAs we begin each day, the rich aroma of freshly brewed coffee fills the air, a promise of warmth and comfort. Just as a skilled barista carefully measures and blends the perfect roast, so too must we carefully cultivate our faith, balancing the bitter and the sweet. Just as the pour-over method extracts the full flavor from the coffee grounds, so too must we allow God's Word to extract the full depth of our understanding and application. The crema that forms on the surface of a well-made espresso is a testament to the quality of the ingredients and the skill of the craftsman – similarly, our faith is refined and perfected as we submit to the refining work of God. As we go about our morning ritual, we must remember that our faith is not just a daily habit, but a living, breathing expression of our dependence on God.\n\n## Prayer\n\nAs we begin this day, we ask for the wisdom to balance freedom and humility, that our love for one another might be a fragrant aroma to the world.\n\n## One-Line Application\n\nMay our daily routines be infused with a deep dependence on God, allowing our faith to be refined and perfected.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
