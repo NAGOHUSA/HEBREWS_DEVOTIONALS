@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-22",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 215,
+  "theme": "coffee",
+  "content_markdown": "# Brewing a Daily Surrender\n\n## Scripture\n\n\"Come to me, all you who are weary and burdened, and I will give you rest.\"  \nMatthew 11:28 (NIV)\n\n## Reflection\n\nJust as a skilled barista carefully pours steaming water over the carefully selected coffee grounds, our lives are transformed as we surrender to the gentle touch of Christ. As we begin our day, we must be willing to let go of the weight that we carry, to allow the warmth of His presence to extract the bitterness from our hearts. In this quiet morning moment, we can choose to let our faith be the medium through which we are refined, our souls transformed by the rich aroma of His love. As we commit to this daily surrender, we find rest in the knowledge that He is the one who pours His life into us, brewing a heart that is full, rich, and free.\n\n## Prayer\n\nWe surrender our burdens to You, Lord, and ask that Your presence be our morning ritual. Pour Your love and light into our lives, that we may be transformed and refreshed by Your goodness.\n\n## One-Line Application\n\nAs we start our day, we surrender our burdens and hearts to Christ, allowing Him to brew a life of rest and refreshment in us.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
