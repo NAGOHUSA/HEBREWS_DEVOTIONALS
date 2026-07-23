@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 242,
+  "theme": "coffee",
+  "content_markdown": "# Riches in the Grounds\n\n## Scripture\n\n\"But the seed sown on good soil produces a crop yielding a hundred, sixty, or thirty times what was sown.\" - Matthew 13:8 (NKJV)\n\n## Reflection\n\nAs I watch the morning sun cast its golden light on the coffee beans, I'm reminded that our faith is like the process of roasting. It's not just about the end product, but the journey itself. Just as the beans are coaxed out of their raw state through the heat of the roaster, we are transformed by the trials and challenges of life. The aroma of growth wafts through the air, enticing us to dig deeper, to press into the richness that lies just beneath the surface. We must not be content with merely existing, but like the pour-over, let us pour our hearts out to the Lord, allowing the depths of our faith to be extracted and expressed. In this way, we become a vessel for the divine, yielding a crop that brings joy and abundance to those around us.\n\n## Prayer\n\nWe thank you, Lord, for the process of growth and transformation that refines us and makes us more like you. Help us to press into the richness that lies within, that we may be a vessel for your love and light to shine through us.\n\n## One-Line Application\n\nLet the trials of life be the roasting process that transforms you into a vessel for the divine.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
