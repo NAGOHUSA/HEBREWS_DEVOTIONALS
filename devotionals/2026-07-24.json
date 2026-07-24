@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 226,
+  "theme": "coffee",
+  "content_markdown": "# Aroma of Life\n\n## Scripture\n\n\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\" - Ephesians 2:10\n\n## Reflection\n\nJust as the aroma of freshly roasted coffee beans fills the air, signaling the start of a new brew, our lives should radiate the fragrance of Christ. As we undergo the process of sanctification, we are transformed into vessels that showcase God's masterful craftsmanship. Just as the perfect roast requires a balance of time, temperature, and technique, our lives require a delicate balance of faith, surrender, and obedience to God's will. As we pour ourselves out for others, just as a skilled barista pours steaming hot water over finely ground coffee, we become instruments of God's love, extracting the sweetness of life from the bitter realities of this world. In this way, our morning rituals become a form of worship, an offering to God that overflows with the aroma of life.\n\n## Prayer\n\nWe pray for the aroma of Christ to fill our lives, guiding us to do good works that bring glory to You, Father. Help us balance our time, energy, and resources to bring out the full flavor of Your love.\n\n## One-Line Application\n\nLet the aroma of Christ guide your daily actions, transforming you into a vessel of God's love.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
