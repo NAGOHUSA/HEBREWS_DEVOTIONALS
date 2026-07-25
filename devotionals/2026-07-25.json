@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 237,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Devotion\n\n## Scripture\n1 Thessalonians 5:18 (NIV) - \"Give thanks in all circumstances; for this is God’s will for you in Christ Jesus.\"\n\n## Reflection\nAs we begin our day, much like the roasting process, our lives are often shaped by the trials and tribulations we face. The aroma of suffering can either overwhelm us or fill our hearts with gratitude. Paul's words remind us that in the midst of extraction – when life's difficulties pull us apart – we must choose to give thanks. It's in these moments that we're forced to rely on God's presence, like the rich crema that tops a perfectly brewed cup of coffee. Our morning ritual, like the pour-over process, requires patience and trust. As we pour our hearts out to God, He meets us with His presence, filling our cups and giving us the strength to face another day. In the midst of chaos, our gratitude becomes the catalyst for a deeper connection with Christ, extracting the sweetness from the bitter.\n\n## Prayer\nWe give thanks in all circumstances, Lord, and trust that Your will is being done in us through Jesus. Help us to see the aroma of suffering as an opportunity to deepen our gratitude and trust in You.\n\n## One-Line Application\nAs we face life's difficulties, choose to give thanks in all circumstances, trusting God's will is being done in you through Jesus.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
