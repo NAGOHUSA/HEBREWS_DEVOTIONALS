@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-26",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 229,
+  "theme": "coffee",
+  "content_markdown": "# \"A Rich Brew of Faith\"\n\n## Scripture\n\n\"May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.\" Romans 15:13\n\n## Reflection\n\nAs I stand over my pour-over, watching the coffee grounds slowly release their flavors, I'm reminded of the way our faith is nurtured. Just as the coffee's extraction process requires patience and care, our relationship with God demands a steady commitment to trust and surrender. When we slow down and allow God's presence to permeate our lives, we're able to extract the richness of His love and wisdom. This morning ritual, like the gentle pouring of hot water over the grounds, is an act of worship – a declaration of our dependence on Him. As we savor the aroma and taste of our freshly brewed coffee, may we be filled with the hope that only comes from trusting in the God of all hope.\n\n## Prayer\n\nWe ask that You fill our lives with the richness of Your presence, that we might overflow with hope by Your power, and that our trust in You would be the foundation of our joy and peace.\n\n## One-Line Application\n\nLet us slow down and allow God's presence to permeate our lives, extracting the richness of His love and wisdom.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
