@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-27",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 228,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in Faith, Like a Perfect Brew\n\n## Scripture\n\n\"But if we walk in the light as he himself is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin.\" 1 John 1:7\n\n## Reflection\n\nJust as a great cup of coffee requires patience and attention to detail, so too does our relationship with God. We must be intentional about cultivating our faith, allowing the truth of Scripture to penetrate our hearts and minds. Like the slow extraction of flavors from coffee grounds, our walk with God requires time and effort. We can't rush it or force it, but rather, we must be willing to be refined and purified, just as the roasting process transforms raw beans into a rich, aromatic brew. As we begin each morning, we can pour ourselves into prayer, just as we pour the coffee, and trust that God will work in us to create a beautiful, rich relationship that brings joy to ourselves and those around us.\n\n## Prayer\n\nWe pray that you would ground us in your Word and in your presence, that our faith might be refined and rich, like a perfectly brewed cup of coffee.\n\n## One-Line Application\n\nAs I start my day, I will prioritize time with God, allowing his truth to permeate my heart and mind.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
