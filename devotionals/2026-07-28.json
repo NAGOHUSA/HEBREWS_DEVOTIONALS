@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-28",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 220,
+  "theme": "coffee",
+  "content_markdown": "# Steeped in His Presence\n\n## Scripture\n\n\"As water reflects a face, so the heart reflects the man.\" - Proverbs 27:19 (NIV)\n\n## Reflection\n\nJust as a pour-over coffee requires water to extract the rich flavors from the grounds, our lives need to be immersed in God's presence to develop the depth of character He desires. As the brew settles, the flavors become more distinct, so too do our hearts when we surrender to His guidance. The roasting process of trials and tribulations can bring out the best in us, just as it brings out the perfect roast in coffee beans. As the crema forms, we're reminded that a life of faith is not just about the surface level, but about the richness and depth that comes from our time with God. Our morning ritual of reading His Word and seeking Him in prayer is essential to extracting the flavor of His love and wisdom into our lives.\n\n## Prayer\n\nWe ask that You would steep our hearts in Your presence, Lord, extracting the richness of Your love and guidance, that we may become the person You've called us to be.\n\n## One-Line Application\n\nAs you start your day, take a moment to steep in God's presence through prayer, seeking to extract the richness of His character into your life.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
