@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 223,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Grace, Daily Brewed\n\n## Scripture\n\n\"But I will be with you; and when you search for me with all your heart, I will let you find me.\" - Jeremiah 29:13 (NIV)\n\n## Reflection\n\nJust as a pour-over brew requires patience, pouring out our hearts to God demands a willingness to slow down and seek Him. The process of coffee extraction is a reminder that true value lies not in the beans themselves, but in the liquid that's carefully drawn from them. Similarly, as we seek God's presence in our lives, we find that true value lies not in our own efforts, but in the rich, life-giving presence of the Spirit who dwells within us. Like the crema that tops a well-crafted cup, the presence of God crowns our lives with beauty, richness, and purpose. As we begin each day, we can trust that He is with us, guiding us, and helping us to find Him in the quiet moments of our morning ritual.\n\n## Prayer\n\nWe thank you for the gift of your presence, Lord. As we start each day, pour out your Spirit in us, that we may find you with all our hearts.\n\n## One-Line Application\n\nMay our daily pursuit of God be as intentional and deliberate as the process of crafting a perfect cup of coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
