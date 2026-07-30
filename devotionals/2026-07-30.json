@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-30",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 215,
+  "theme": "coffee",
+  "content_markdown": "# The Daily Grind of Faithfulness\n\n## Scripture\n\"So neither the one who plants nor the one who waters is anything, but only God who gives the growth.\" 1 Corinthians 3:7 (NIV)\n\n## Reflection\nAs I prepare my morning coffee, I'm reminded of the daily grind of faithfulness. Just as the coffee beans must be roasted to their full potential, we too must be refined through trials and experiences. The water must be poured over the grounds with precision and patience, allowing the flavors to emerge. In the same way, our lives are the result of God's pouring out His love, mercy, and guidance upon us. We may feel like we're just going through the motions, but it's in those moments of routine that we can trust God's work is being done, even if we can't see it. We're not the ones who give growth, but we're called to be faithful in our daily disciplines, trusting God to do the rest.\n\n## Prayer\nWe thank You for the daily grind of faithfulness, Lord, and for the growth that only You can give. Help us to trust in Your work, even when we don't see it.\n\n## One-Line Application\nFaithfulness is not about our productivity, but about trusting God's work in us amidst the daily grind.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
