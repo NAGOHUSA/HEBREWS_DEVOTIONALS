@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-07-31",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 223,
+  "theme": "coffee",
+  "content_markdown": "# Morning's Rich Aroma\n\n## Scripture\n\n\"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.\" — John 3:16 (NIV)\n\n## Reflection\n\nJust as a well-roasted coffee bean yields a rich aroma, our faith bears the scent of God's love. As we brew our morning ritual, we're reminded that our lives should be a fragrance that draws others to the Savior. Just as a pour-over method carefully extracts the flavors from each bean, our daily lives should extract the essence of God's presence in us, revealing His love to those around us. It's not the quantity of our efforts that matters, but the quality of our hearts, which should be filled with the aroma of God's love. As we go about our day, may we be mindful of the people we encounter and seek opportunities to share the fragrance of Christ with them.\n\n## Prayer\n\nWe ask that you would fill our lives with the rich aroma of your love, that we might be a fragrance that draws others to you, and that our daily lives would extract the essence of your presence in us.\n\n## One-Line Application\n\nMay our lives be a fragrance that draws others to the Savior, revealing God's love in all we do.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
