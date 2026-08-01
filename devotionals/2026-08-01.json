@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-01",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 234,
+  "theme": "coffee",
+  "content_markdown": "# Brewing a Deeper Relationship\n\n## Scripture\n\n\"Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me.\" - John 15:4 (ESV)\n\n## Reflection\n\nJust as a pour-over brewing process requires patience and attention to detail, our relationship with Christ demands a similar commitment. The slow extraction of flavors is like the gradual growth of our faith as we abide in Him. We must let go of our own efforts and allow His Spirit to work within us, just as the right temperature and pressure allow the perfect balance of flavors to emerge in a well-brewed cup. We must regularly \"roast\" our hearts in His Word, allowing the heat of truth to transform us, and then pour the resulting \"crema\" of love and compassion into the world around us.\n\n## Prayer\n\nWe pray, Lord, that we would be willing to take the time to slow down and truly abide in You, like a perfectly brewed cup of coffee that is savored and enjoyed. Help us to let go of our own efforts and allow Your Spirit to work within us, that we might be a reflection of Your love to a world that needs it.\n\n## One-Line Application\n\nLet patience and attention to detail guide your spiritual growth, just as they perfect a cup of coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
