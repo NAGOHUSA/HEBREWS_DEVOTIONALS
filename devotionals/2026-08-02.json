@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-02",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 224,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in Hope\n\n## Scripture\n\"The Lord will fulfill his purpose for me; your steadfast love, O God, endures forever. Do not forsake the work of your hands.\" – Psalm 138:8 (ESV)\n\n## Reflection\nJust as a pour-over coffee requires patience and attention to detail, our faith demands a steady heart and consistent effort. The process of brewing coffee reminds us that growth happens in the slow, deliberate moments of extraction – where the flavors are pulled out and come together in harmony. In the same way, our lives are refined and transformed as we surrender to God's purposes, allowing His love to permeate every aspect of our being. We are not just passive recipients of His care, but active participants in the ongoing work of His hands. As we embark on our day, let us remember to be grounded in hope, trusting that His love endures forever, even when our circumstances change.\n\n## Prayer\nWe ask, Lord, that you would ground us in the steadfast love that endures forever, and help us to be actively engaged in the work of your hands. May our lives be a reflection of your purpose and love, even in the midst of uncertainty.\n\n## One-Line Application\nAs you start your day, remember to prioritize your spiritual growth, trusting that God's purposes will be fulfilled in you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
