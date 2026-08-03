@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-03",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 241,
+  "theme": "coffee",
+  "content_markdown": "# A Cup Worth Savoring\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.\" - James 1:2-4 (NIV)\n\n## Reflection\n\nAs I watch the coffee grounds begin to release their essence into the brewing water, I'm reminded of the process of spiritual growth. Just as the grounds must be exposed to water to extract their flavor, we must face trials and difficulties to refine our faith. This process is not easy, but it's essential for developing perseverance and maturity. We can't rush the brew, and we can't skip the difficult moments. The crema that forms on a well-made pour-over is a result of careful extraction, and our character is shaped in a similar way. As we go through life's challenges, we must trust that the process is working, even when it's difficult to see. The aroma of our faith is not yet fully realized, but it's being crafted with each trial and triumph.\n\n## Prayer\n\nWe thank you for the refining process that shapes our faith, even when it's difficult. Help us to trust in your work and persevere through trials, knowing that they produce perseverance and maturity.\n\n## One-Line Application\n\nTrust the process, and let trials refine your faith, just like coffee grounds extract flavor.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
