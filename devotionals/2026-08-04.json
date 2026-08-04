@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 231,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.\" - Philippians 4:6 (NIV)\n\n## Reflection\nJust as a pour-over coffee brew requires patience and attention to detail, our relationship with God demands intentionality and presence. As we invite His presence into our daily lives, the aroma of gratitude and thanksgiving fills the air, influencing the flavor of our prayers. Just as the gentle pour of hot water extracts the essence from the coffee grounds, our willingness to surrender our anxieties and worries to God allows Him to extract the richness of His peace and joy within us. The roasting process of our trials and challenges can be transformed into a rich, smooth coffee, filling our hearts with an unshakeable hope. As we commit to this morning ritual of prayer and thanksgiving, we are reminded that our lives are a daily, slow-brewed extraction of His presence, and that in His presence, we are grounded and unshakeable.\n\n## Prayer\nWe pray that the aroma of gratitude and thanksgiving would fill our hearts, drawing us deeper into Your presence. May our prayers be an expression of surrender, allowing You to extract the richness of Your peace and joy within us.\n\n## One-Line Application\nPrioritize daily prayer and thanksgiving to anchor your heart in God's presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
