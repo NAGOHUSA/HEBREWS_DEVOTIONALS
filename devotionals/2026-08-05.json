@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-05",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 261,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\n\"May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.\" - Romans 15:13\n\n## Reflection\n\nJust as a skilled barista carefully roasts, grinds, and brews coffee to extract the perfect balance of flavors, our Heavenly Father is constantly working to refine and deepen our faith. As we trust in Him, we are filled with His presence, and like a rich, velvety crema, our joy and peace overflow. In the morning ritual of prayer, we pour out our hearts to Him, just as we pour water over the coffee grounds to release the aromas and flavors. As the liquid is extracted, we are transformed, becoming vessels filled with the power of the Holy Spirit. Just as a well-made pour-over requires patience and attention to detail, our walk with God demands commitment and surrender. May we be willing to be refined and transformed, that we may be the fragrance of Christ to a world in need.\n\n## Prayer\n\nWe pray that You would fill us with Your presence, that our hearts would be overflowing with joy and peace as we trust in You. Help us to be patient and attentive in our walk with You, that we may be transformed by Your power and be a sweet aroma to those around us.\n\n## One-Line Application\n\nMay our daily walk with God be a deliberate process of surrender and refinement, like a perfect cup of coffee.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
