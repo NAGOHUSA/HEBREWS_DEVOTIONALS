@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-06",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 234,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Living Water\n\n## Scripture\n\n\"Whoever drinks of this water will thirst again, but whoever drinks of the water that I shall give him will never thirst; but the water that I shall give him will become in him a well of water springing up to eternal life.\" - John 4:14 (ESV)\n\n## Reflection\n\nAs I sit here with a freshly poured-over cup of coffee, I'm reminded of the conversation Jesus had with the Samaritan woman. He spoke of a water that would satisfy our deepest longings, unlike the temporary relief from the world's offerings. This is what our faith is – a living water that quenches our souls and gives us a spring of life that overflows into the world. Just as a skilled barista carefully extracts the perfect balance of flavors from each bean, God skillfully weaves our lives together, bringing out the unique flavors of our character and revealing His glory through us. Our morning ritual of sipping coffee can become a prayer, a reminder to seek the living water that satisfies our hearts and gives us life.\n\n## Prayer\n\nWe ask for the living water to flow through us, satisfying our souls and revealing Your glory to the world. Help us to seek You first and drink deeply from Your presence.\n\n## One-Line Application\n\nMay our daily rhythms be infused with the living water of God's presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
