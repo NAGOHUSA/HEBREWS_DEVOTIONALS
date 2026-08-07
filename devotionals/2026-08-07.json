@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-07",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 217,
+  "theme": "coffee",
+  "content_markdown": "# A Perfect Pour: Finding God in the Daily Grind\n\n## Scripture\n\n\"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.\" - Philippians 4:6 (NIV)\n\n## Reflection\n\nAs we begin our day, like the perfect pour-over, we must first prepare our hearts for the extraction of God's presence. Just as the coffee grounds require time to release their flavor and aroma, our souls need time with God to release His peace and guidance. When we take the time to pray and present our requests to Him, we invite the Holy Spirit to filter out our worries and anxieties, leaving us with a clear heart and mind. As the crema forms on a well-crafted cup, our faith is strengthened and our trust in God is refined. In the morning ritual of prayer, we find the perfect balance of intimacy with God and clarity for our day.\n\n## Prayer\n\nWe come to you, Lord, with our hearts open and our requests ready. Filter out our worries and anxieties, and fill us with your peace and guidance. May our daily grind be a time of connection with you.\n\n## One-Line Application\n\nMay our morning prayers be a deliberate and intentional preparation for a day of trusting God's presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
