@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 265,
+  "theme": "coffee",
+  "content_markdown": "# Brewing a Life of Holiness\n\n## Scripture\n\"But just as we have been approved by God to be entrusted with the secret things of God... we also are to be approved, so that we who have been trusted with the mysteries of God may be found faithful\" (1 Corinthians 4:1-2).\n\n## Reflection\nAs we begin our day, the aroma of freshly brewed coffee fills the air, inviting us to slow down and savor the moment. In a similar way, God invites us to slow down, breathe in the \"aroma\" of His presence, and be still in His presence. Just as the coffee beans require careful roasting, grinding, and brewing to bring out their full flavor, our lives require a similar process of refinement, testing, and extraction to reveal the depth of our faith. As we immerse ourselves in God's Word and prayer, He extracts from us the impurities of our hearts, revealing a deeper level of devotion and commitment to Him. And just as the crema on a perfectly brewed cup of coffee is a beautiful manifestation of the skill and care that went into its preparation, our lives are a reflection of the love and care that God has poured into us.\n\n## Prayer\nWe ask that You would help us to be faithful stewards of the mysteries You have entrusted to us, and that our lives would be a reflection of the love and care that You have poured into us.\n\n## One-Line Application\nAs God extracts the impurities from our lives, we will reveal a deeper level of devotion to Him.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
