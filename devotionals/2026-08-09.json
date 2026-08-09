@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-09",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 243,
+  "theme": "coffee",
+  "content_markdown": "# The Perfect Roast of Faith\n\n## Scripture\n\n\"Come to me, all you who are weary and burdened, and I will give you rest.\" Matthew 11:28 (NIV)\n\n## Reflection\n\nAs we begin our day, we often reach for a freshly brewed cup of coffee to awaken our senses. But have you ever stopped to think about the process that brings that perfect roast to our cups? The roasting process can be a metaphor for our walk with God. Just as a skilled roaster carefully selects the right beans, carefully monitors the heat, and patiently waits for the perfect roast, we too must carefully cultivate our faith through prayer, scripture, and community. We must be willing to be broken down (like the raw coffee beans) in order to be transformed into something new and beautiful. And just as the perfect roast is only achieved through time and patience, our faith is a journey that requires us to be still, to trust, and to surrender to the One who is perfecting us.\n\n## Prayer\n\nWe thank you, Lord, for being our perfect Roast, our source of strength and comfort. Help us to trust in your process, even when it's painful or difficult, and to surrender to your will. We pray for patience and perseverance as we journey with you.\n\n## One-Line Application\n\nAs we cultivate our faith, may we be willing to be broken down in order to be transformed into something new and beautiful.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
