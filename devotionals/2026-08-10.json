@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-10",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 239,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Sustenance\n\n## Scripture\n\"So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness.\" - Colossians 2:6-7 (NIV)\n\n## Reflection\nJust as a pour-over brew requires patience and precision to extract the perfect flavor, our walk with God demands a steady commitment to the life-giving process. We must remain rooted in His presence, allowing the Word to nourish and strengthen us. As we are \"built up in him,\" we become vessels of thankfulness, overflowing with gratitude for the sustenance He provides. \n\nIn the roasting process, the raw beans are transformed into a rich, aromatic blend. Similarly, as we submit to God's refining fires, our character is transformed, and our hearts become fragrant with the aroma of Christ. The crema that forms on a well-crafted cup represents the joy and peace that accompanies a life poured out for Him. As we surrender to His plan, we become a cup that overflows with the sweet fragrance of gratitude.\n\n## Prayer\nWe pray for the patience and precision to allow Your presence to nourish and strengthen us, that we may overflow with thankfulness and become vessels of Your fragrance.\n\n## One-Line Application\nMay our lives be a daily expression of the rich aroma of Christ, filling those around us with the fragrance of gratitude.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
