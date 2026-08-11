@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 226,
+  "theme": "coffee",
+  "content_markdown": "# Roasted Faith, Freshly Ground\n\n## Scripture\n\n\"He must become greater; I must become less.\"  \n— John 3:30 (NIV)\n\n## Reflection\n\nAs we begin our day, the aroma of freshly roasted coffee fills the air, reminding us that something new and rich is about to emerge. Just as the roasting process transforms raw beans into a rich, full-bodied brew, Jesus transforms our lives as we surrender to His greater purpose. As we pour-over our hearts before Him, He extracts the deepest longings, desires, and fears, revealing areas where we must become less and He must become greater.\n\nJust as the crema forms on a well-crafted cup of coffee, our lives become more beautiful and meaningful as we submit to Jesus' refining process. The morning ritual of prayer and devotion is like the brewing process – it requires patience, attention to detail, and a willingness to let go of our need for control. As we yield to Jesus' greater plan, our lives become a rich, satisfying brew that overflows with love, joy, and peace.\n\n## Prayer\n\nWe surrender our need to control and become less, Lord, so You can become greater in our lives. Help us to trust in Your perfect work, even when it's hard or uncomfortable.\n\n## One-Line Application\n\nLet go of your need to control, and trust Jesus to become greater in your life.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
