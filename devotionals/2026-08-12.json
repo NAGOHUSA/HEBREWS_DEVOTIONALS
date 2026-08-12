@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-12",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 222,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Presence\n\n## Scripture\n\"For we live by faith, not by sight.\" - 2 Corinthians 5:7\n\n## Reflection\nAs we start our day with a freshly brewed cup, we're reminded of the process involved in creating that perfect blend. Roasting, brewing, and pouring - each step requires patience, attention to detail, and trust in the process. Our faith is similar. We can't see the end result, but we trust in God's plan, His presence, and His power to work everything out for our good. Just as a skilled barista carefully extracts the flavors from the coffee beans, God is at work in our lives, extracting the good from the hard, and bringing us closer to Himself. As we face the day ahead, let's not rely on what we can see, but on the One who is always with us, guiding us and sustaining us. By faith, we'll pour out our hearts to Him, trusting in His goodness and love.\n\n## Prayer\nWe thank you, Father, for the gift of faith that allows us to trust in your presence and plan. Help us to pour out our hearts to you, pouring out our fears, doubts, and worries, and receiving your peace, comfort, and love.\n\n## One-Line Application\nTrust God's presence and plan, even when you can't see the end result.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
