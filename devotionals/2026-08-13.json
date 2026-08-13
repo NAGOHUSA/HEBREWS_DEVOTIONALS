@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-13",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 210,
+  "theme": "coffee",
+  "content_markdown": "# From the Grounds of Humility\n\n## Scripture\n\n\"God opposes the proud but shows favor to the humble.\" - James 4:6 (NIV)\n\n## Reflection\n\nAs I sit with a freshly brewed cup, the aroma fills the air, reminding me that the best flavor comes from the ground up. The humble coffee bean, unassuming and often overlooked, yields a rich and complex taste when roasted and brewed correctly. Similarly, James reminds us that it's not our pride or accomplishments that bring us close to God, but our willingness to lay down our self-importance and walk in humility. Like the careful process of slow-drip brewing, it's the steady and consistent application of our faith that allows us to mature and bring forth the full richness of our spirit. As we begin each day, may we approach God with the same humility as the coffee bean, ready to yield our hearts to His refining work.\n\n## Prayer\n\nWe come to you today with open hearts and willing spirits, ready to lay down our pride and walk in humility. Help us to see our value not in our accomplishments, but in our relationship with you.\n\n## One-Line Application\n\nMay my heart be like a humble coffee bean, yielding to God's refining work each day.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
