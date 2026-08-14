@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 227,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in the Process\n\n## Scripture\n\"Consider it pure joy, my brothers, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" - James 1:2-3 (NIV)\n\n## Reflection\nJust as coffee requires a deliberate process to unlock its full flavor, our faith requires patience and perseverance to mature. The roasting phase, where beans are subjected to intense heat, represents the trials we face. If we rush through this phase, we risk burning our faith and losing its richness. Instead, we can choose to submit to the fire, trusting that it will refine us and bring out the depth of our character. The extraction process, where grounds are steeped in hot water, parallels the way our faith is purified and strengthened through trials. As we face each challenge, we can pour ourselves into God's presence, allowing Him to filter out our doubts and fears, and reveal His presence in the crema of our souls.\n\n## Prayer\nAs we face our own trials and testing, we ask that You would refine us, Lord, and help us to see the value in the process. May we submit to Your fire and trust in Your goodness, even when the road ahead seems uncertain.\n\n## One-Line Application\nAs we navigate life's trials, we must trust the process and submit to God's refining fire.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
