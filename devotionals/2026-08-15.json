@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-15",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 221,
+  "theme": "coffee",
+  "content_markdown": "# A Cup of Divine Presence\n\n## Scripture\n\n\"For where two or three are gathered in my name, I am there among them.\" \n- Matthew 18:20\n\n## Reflection\n\nJust as the crema on a well-brewed cup of coffee forms when the right balance of milk and espresso come together, our presence with one another can create a rich atmosphere where God's presence is palpable. In the midst of a busy morning ritual, we often rush past the moments that bring us together – a quick hello, a prayer of gratitude, a moment of silence. But it's in these moments, surrounded by the people we've gathered, that we experience the divine presence of God. Just as the extraction process brings out the distinct flavors of our coffee beans, our communal gatherings can reveal the unique flavors of God's presence among us. As we slow down and prioritize time with one another, we come to realize that God is not just a distant brew master but a present companion in our daily lives.\n\n## Prayer\n\nWe invite your presence in our midst, Lord, as we gather together today. May our time with one another be a rich and aromatic expression of your love.\n\n## One-Line Application\n\nAs you gather with others today, make space for God's presence to be extracted in your midst.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
