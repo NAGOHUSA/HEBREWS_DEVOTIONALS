@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-16",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 202,
+  "theme": "coffee",
+  "content_markdown": "# Brewing in the Dark\n\n## Scripture\n\"Even in darkness, I am not darkened, because you are with me.\" - Isaiah 58:10 (NIV)\n\n## Reflection\nAs I stand over the pour-over, waiting for the coffee to brew, I'm reminded of the darkness we often experience in life. But just as the coffee grounds begin to extract their rich flavors in the dark, so too do we find our strength in the darkness when we're grounded in God. It's in the darkest moments that we're forced to rely on His presence, to trust that He's still with us, even when we can't see. Just as the crema forms on the surface of the coffee, our hope and trust are formed in the midst of uncertainty, a tangible manifestation of God's presence in our lives.\n\n## Prayer\nWe pray for a deeper trust in You, even in the darkest moments, knowing that Your presence is always with us. Help us to rely on You, to trust in Your goodness and faithfulness, and to find our strength in Your love.\n\n## One-Line Application\nMay our trust in God be the crema that forms in our lives, a tangible manifestation of His presence in the dark.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
