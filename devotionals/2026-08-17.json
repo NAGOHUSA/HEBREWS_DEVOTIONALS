@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-17",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 214,
+  "theme": "coffee",
+  "content_markdown": "# Grounded in His Love\n\n## Scripture\n\"For we know that in all things God works for the good of those who love him, who have been called according to his purpose.\" – Romans 8:28\n\n## Reflection\nJust as a skilled roaster knows that patience and attention to detail are key to unlocking the full flavor of a perfectly roasted bean, we too must be intentional in our pursuit of God's goodness. As we prepare for each new day, we must be willing to slow down and wait on the Lord, trusting that His plan is unfolding even when we can't see it. Just as the perfect pour-over requires a balance of flavors, textures, and temperatures, our lives require a balance of faith, hope, and love. We must surrender our expectations and let God's goodness be the foundation upon which we build our days. As we savor the richness of His presence, we will discover that His love is the crema that brings depth and beauty to every moment.\n\n## Prayer\nWe thank you for the gift of patience and trust, Lord. Help us to slow down and wait on you, that we may discover your goodness in all things. \n\n## One-Line Application\nMay our devotion be a daily grind of seeking God's goodness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
