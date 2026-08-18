@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-18",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 286,
+  "theme": "coffee",
+  "content_markdown": "# Title\nThe Slow Pour of His Steadfast Love\n\n## Scripture\n\"Yet this I call to mind, and therefore I have hope: Because of the Lord’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.\" — Lamentations 3:21-23\n\n## Reflection\nA proper pour-over cannot be rushed. If you dump the water too fast, the grounds channel, the extraction turns bitter, and the cup disappoints. But when you pour slowly, in patient circles, the water saturates every particle, drawing out sweetness and depth. The bloom matters too—that first gentle wetting lets the coffee release its trapped gases, making room for what comes next.\n\nJeremiah wrote Lamentations from a city reduced to rubble. Yet in the middle of that grief, he remembers something essential: God's compassions are not a single dramatic flood—they are a slow, steady pour, fresh every morning. Not a stale pot reheated from yesterday's sorrow, but a new brewing of mercy each dawn.\n\nWe often want God to fix everything at once, like dumping a kettle and demanding instant espresso. But He works like a careful barista—patient, precise, unhurried. He lets the hot water of trials pass through the grounds of our character, extracting flavor we didn't know we had. The bitterness we fear becomes richness when we trust His timing.\n\nToday's mercy is enough for today's need. You don't need tomorrow's grace yet. Just receive this morning's fresh pour.\n\n## Prayer\nFather, thank You that Your mercies are brewed fresh each morning. Teach us to receive today's grace without grasping for tomorrow's. Slow our restless hearts to trust Your patient, faithful pouring. Amen.\n\n## One-Line Application\nReceive today's mercy; don't rehearse yesterday's bitterness.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
