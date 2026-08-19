@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-19",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 289,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Pour of Grace\n\n## Scripture\n\n\"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.\" — Philippians 1:6\n\n## Reflection\n\nWe don't rush a good pour-over. The water must find its way through the grounds at just the right pace—too fast, and the coffee tastes thin and bitter; too slow, and it over-extracts. There's a patience to the process, a trust that the brew will be ready when it's ready.\n\nOur spiritual formation works the same way. God is the patient barista of our souls, slowly pouring His grace through the grounds of our lives. Some days we feel the hot water of trials; other days, the steady drip of ordinary faithfulness. But every drop is intentional. He isn't in a hurry, and He isn't careless with the temperature or timing.\n\nWe often want instant transformation—a shot of espresso holiness. But God is brewing something deeper, richer, more complex. The bitter notes of struggle and the sweet undertones of joy are all being extracted together into a life that reflects Christ. The crema of His character rises to the surface as we submit to the process.\n\nSo when you're tempted to feel stagnant, remember: the cup isn't finished yet. The grounds are still saturated with His presence. He who began this beautiful, slow work in you will see it through. Trust the pour.\n\n## Prayer\n\nLord, teach us to trust Your timing. When we crave quick fixes, remind us that You are brewing something beautiful in us. Give us patience with the process and faith in the finished cup. Amen.\n\n## One-Line Application\n\nTrust the slow pour of God's grace today.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
