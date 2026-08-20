@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-20",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 282,
+  "theme": "coffee",
+  "content_markdown": "# The Pour That Waits\n\n## Scripture\n\n\"The Lord is good to those whose hope is in him, to the one who seeks him; it is good to wait quietly for the salvation of the Lord.\" — Lamentations 3:25-26\n\n## Reflection\n\nThere’s no rushing a good pour-over. The water must reach the right temperature, the grounds need time to bloom, and the slow spiral of the kettle draws out the sweetness locked in the beans. If you dump the water too fast, you get a bitter, thin cup. The waiting isn’t wasted—it’s extraction.\n\nWe often treat our prayers like instant coffee. We want the answer now, hot and strong, no steep time required. But Lamentations reminds us that hope is not passive; it is a posture of active waiting. It’s the pause between the first pour and the last drop, when the aroma fills the room and trust does its quiet work.\n\nGod’s timing isn’t delay for delay’s sake. It’s the slow percolation of His goodness into our souls. In that space, we learn to seek Him—not just His solutions. We discover that the waiting itself is a form of communion. Like a barista who knows the perfect brew time, the Father knows exactly when the cup of our hearts is ready to receive what He’s pouring.\n\nSo today, don’t rush the kettle. Lean into the quiet. Let hope steep.\n\n## Prayer\n\nFather, teach us to wait well. When we crave quick answers, slow our hearts. Let our hope rest in You, not in our timing. Brew patience into our spirits, that we may taste Your goodness in the waiting. Amen.\n\n## One-Line Application\n\nLet your hope steep in God’s timing today.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
