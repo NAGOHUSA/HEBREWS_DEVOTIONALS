@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-21",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 274,
+  "theme": "coffee",
+  "content_markdown": "# The Cup That Never Empties\n\n## Scripture\n\n\"Taste and see that the LORD is good; blessed is the one who takes refuge in him.\" — Psalm 34:8\n\n## Reflection\n\nEvery morning, we grind the beans, heat the water, and wait for that first rich pour. The ritual is sacred in its own way—a moment of anticipation before the day begins. But what if our faith worked the same way? Not as a one-time brew, but a daily extraction of something deeper.\n\nConsider the pour-over. The water doesn't rush through the grounds; it saturates, blooms, and slowly releases the flavor locked inside. Similarly, God's goodness isn't meant to be gulped down in a single Sunday sip. It's meant to be steeped into our ordinary moments—the commute, the laundry, the difficult conversation.\n\nSometimes we treat God like instant coffee: quick, convenient, and easily forgotten. But the psalmist invites us to *taste*—to linger, to savor, to let His goodness coat our tongues and warm our chests. When we take refuge in Him, we're not just passing through; we're dwelling. We're letting His presence percolate through every fiber of our being.\n\nThat first cup of the day is a reminder: His mercies are fresh every morning, roasted to perfection, and poured out without measure. We don't have to earn a refill. The pot is always full.\n\n## Prayer\n\nLord, we thank You for Your unending goodness. Slow us down to taste Your faithfulness in every ordinary moment. Let Your presence saturate our hearts like water through fresh grounds, until we overflow with gratitude. Amen.\n\n## One-Line Application\n\nSip slowly; God's goodness is meant to be savored daily.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
