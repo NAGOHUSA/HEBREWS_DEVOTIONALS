@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-22",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 295,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Pour of Grace\n\n## Scripture\n\n\"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.\" — Philippians 1:6\n\n## Reflection\n\nA morning pour-over teaches us patience. The water doesn't rush through the grounds—it blooms, steeps, and extracts slowly, layer by layer. If we force it, we get bitterness. If we rush it, we get weak, watery coffee. The brewer's only job is to keep pouring steadily and trust the process.\n\nPaul writes to the Philippians with the same confidence. He knows that the God who started brewing something beautiful in them isn't about to abandon the cup. Salvation isn't a quick espresso shot—it's a slow, deliberate extraction of Christ's character into our lives over decades. Some mornings we feel the heat of trial, like water too hot. Other seasons feel like a stall, the grounds barely responding. But the promise holds: He who began the work will finish it.\n\nWe often want instant results—a burst of holiness, a sudden fix. But God works like a careful barista, adjusting the temperature, the grind, the timing. He knows exactly what it takes to draw out the richness He placed within us. Our part is not to control the brew but to remain in the cup, surrendered to the pour.\n\nToday, trust the process. The cup isn't finished yet, but the One holding the kettle never loses focus.\n\n## Prayer\n\nLord, we thank You for Your patient hand upon our lives. When we feel rushed or bitter, remind us that You are still pouring. Complete the work You began in us, one slow, faithful drop at a time. Amen.\n\n## One-Line Application\n\nStay in the cup; God is still pouring.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
