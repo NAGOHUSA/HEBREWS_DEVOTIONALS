@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-23",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 281,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Pour of Grace\n\n## Scripture\n\n\"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.\" — Philippians 1:6\n\n## Reflection\n\nA perfect pour-over can't be rushed. The water must saturate the grounds gradually, coaxing out the oils and flavors that make a cup worth savoring. If you dump all the water at once, you get a bitter, over-extracted mess. Patience is the barista's quiet discipline.\n\nOur spiritual formation works the same way. God is the master brewer, and we are the grounds. He doesn't flood us with instant perfection—that would overwhelm and scorch us. Instead, He pours grace over us in slow, steady increments: a morning Scripture, a friend's gentle word, a trial that teaches endurance. Each drop of His presence extracts something new from us—faith, humility, compassion—that wasn't visible before.\n\nWhen we feel stagnant or unfinished, it's tempting to despair. But the good work isn't stalled; it's steeping. The aroma of Christ in us develops over time, not overnight. The bitterness we sometimes taste is the old self being filtered away, leaving behind a richer, more complex character.\n\nTrust the process. The One who started your brew knows exactly when you've reached full extraction. He's not impatient with your slow transformation—He's delighting in it. The cup He's preparing will be worth every waiting moment.\n\n## Prayer\n\nLord, teach us to trust Your timing. When we feel half-brewed and incomplete, remind us that You are still pouring. Let Your grace saturate every part of us until we fully reflect Your goodness. Amen.\n\n## One-Line Application\n\nLet God's slow work steep in you today.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
