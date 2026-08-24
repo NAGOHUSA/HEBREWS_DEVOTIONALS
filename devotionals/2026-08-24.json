@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-24",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 302,
+  "theme": "coffee",
+  "content_markdown": "# The Patience of a Slow Pour\n\n## Scripture\n\n\"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.\" — Philippians 1:6\n\n## Reflection\n\nA pour-over demands patience. You cannot rush the bloom, that first gentle saturation of the grounds where they swell and release their trapped gases. If you dump all the water at once, you get a bitter, over-extracted mess. The brewer must pause, wait, and let the coffee breathe before the slow, circular pour begins.\n\nOur spiritual formation works the same way. God begins a good work in us—a beautiful, intentional brew—but He doesn't rush the process. The \"bloom\" seasons of our lives, those times of waiting and settling, are not wasted. They are essential. They soften our hard edges and prepare us to receive what He wants to pour in next.\n\nWe often want the full cup instantly. We want the rich, full-bodied character of Christ without the slow drip of daily surrender. But the Father is a master roaster. He knows the exact temperature and timing needed to draw out our unique flavor. The heat of trials, the pressure of waiting, the quiet rest of Sabbath—each stage extracts something new: faith, endurance, compassion.\n\nSo when your brew feels slow, remember the promise. The One who started this work is not distracted or forgetful. He is carefully, lovingly, and deliberately bringing you to completion. Trust the process. Trust the Pourer.\n\n## Prayer\n\nFather, we confess our impatience with Your timing. Teach us to rest in the slow pour of Your Spirit, trusting that You are faithfully completing the good work You began in us. Give us peace in the waiting. Amen.\n\n## One-Line Application\n\nTrust the slow pour; God is brewing something beautiful.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
