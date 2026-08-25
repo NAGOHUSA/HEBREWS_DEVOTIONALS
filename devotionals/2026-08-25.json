@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-25",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 297,
+  "theme": "coffee",
+  "content_markdown": "# Title\nThe Slow Pour of Faith\n\n## Scripture\n\"Yet he did not waver through unbelief regarding the promise of God, but was strengthened in his faith and gave glory to God.\" — Romans 4:20\n\n## Reflection\nWhen we make a slow pour-over, we learn something about patience. The water doesn’t rush through the grounds; it trickles, saturating each particle, releasing oils and flavor in layers. We stand there, watching the bloom, waiting as the coffee extracts its richness drop by drop. It feels inefficient. It feels slow. But rushing it only yields a bitter, watery cup.\n\nAbraham knew this kind of slow pour. God promised him a son, and then the years stretched on—ten, twenty, past any natural window of possibility. He could have rushed ahead, forcing his own solution. Yet Scripture says he did not waver. Not because he had perfect clarity, but because he trusted the One who made the promise. His faith was not a single dramatic burst; it was the steady drip of daily trust, soaking into the grounds of his ordinary life.\n\nOur faith often feels like that slow pour. We bring our prayers, our waiting, our confusion—and God’s timing seems to trickle rather than flood. But the extraction is happening. Strength is being drawn out of us that we didn’t know we had. The aroma of His faithfulness fills the room, even before we taste the answer. Do not rush the brew. The cup He is preparing is worth the wait.\n\n## Prayer\nFather, teach us to trust Your timing when the pour feels slow. Strengthen our hearts as we wait, and let our patience become a fragrance of praise to You. We rest in Your faithful hands.\n\n## One-Line Application\nTrust the slow brew; His timing extracts lasting strength.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
