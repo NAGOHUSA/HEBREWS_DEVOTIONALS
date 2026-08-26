@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-26",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 298,
+  "theme": "coffee",
+  "content_markdown": "# The Fullness That Overfloweth\n\n## Scripture\n\n\"My cup overflows. Surely your goodness and love will follow me all the days of my life.\" — Psalm 23:5b-6a\n\n## Reflection\n\nThere’s a moment in every good pour-over when the water meets the grounds, and the coffee begins to bloom. The grounds swell, releasing trapped gases, and for a few seconds, the whole kitchen fills with aroma. That’s the moment of saturation—when the coffee is fully immersed, fully saturated, and ready to give everything it has.\n\nWe often live like a half-filled cup, rationing our love, our time, our grace. We measure out portions, afraid we’ll run dry. But the Shepherd doesn’t just fill our cup—He overflows it. The Hebrew word for \"overflows\" suggests abundance so great it cannot be contained. It’s not a polite fill to the brim; it’s a cup so full that it spills, splashes, and leaves a trail behind us.\n\nThat trail is what the psalmist calls goodness and mercy. They aren’t just following us like distant companions; they’re the evidence of the overflow. When we are saturated by God’s presence, we can’t help but spill grace onto the people around us. Our lives become like that blooming coffee—the aroma of Christ wafting into every room we enter.\n\nThe question isn’t whether God has enough to fill you. It’s whether you’re willing to stop rationing and let Him pour until you’re drenched. Stop measuring your worth by your capacity. Let His fullness become your overflow.\n\n## Prayer\n\nFather, we confess our tendency to live half-empty. Saturate us with Your love until we spill grace without thinking. Make our lives a fragrant offering, and let Your goodness trail behind us all our days. Amen.\n\n## One-Line Application\n\nLet God fill you until you can’t help but overflow.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
