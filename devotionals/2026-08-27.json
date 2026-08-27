@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-27",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 282,
+  "theme": "coffee",
+  "content_markdown": "# Title\nThe Slow Brew of Trust\n\n## Scripture\n\"Be still before the Lord and wait patiently for him; do not fret when people succeed in their ways, when they carry out their wicked schemes.\" — Psalm 37:7\n\n## Reflection\nA good pour-over cannot be rushed. The water must find its path through the grounds, slowly coaxing out the oils and flavors that make each cup distinctive. If you dump it all at once, you get a bitter, hollow brew—the potential is there, but the extraction fails. Trust works the same way.\n\nWe live in an age of instant gratification, where even our coffee comes pre-ground and single-serve. But the psalmist invites us into something different: a patient stillness before God. Waiting isn't passive resignation; it's the active, deliberate process of letting God's presence saturate our anxious hearts. Like water trickling through grounds, His Spirit seeps into our worries one drop at a time, drawing out the sweetness of faith that bitterness cannot reach.\n\nWhen we fret, we're essentially trying to speed up the brew—grabbing at control, forcing outcomes, demanding God follow our timeline. But He knows the perfect extraction rate for our souls. Some seasons require a longer steep. Some prayers need more time to develop their full aroma. The cup He's preparing is worth the wait.\n\nToday, resist the urge to rush. Let the slow brew of trust do its work in you.\n\n## Prayer\nFather, we confess our impatience. Teach us to rest in Your timing, trusting that You are brewing something beautiful in our waiting. Slow our hearts, deepen our faith, and help us savor Your presence. Amen.\n\n## One-Line Application\nLet your soul steep in stillness today.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
