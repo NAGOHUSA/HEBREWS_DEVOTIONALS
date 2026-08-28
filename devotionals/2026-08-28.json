@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-28",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 292,
+  "theme": "coffee",
+  "content_markdown": "# The Patience of a Slow Pour\n\n## Scripture\n\n\"Be still before the LORD and wait patiently for him; do not fret when people succeed in their ways, when they carry out their wicked schemes.\" — Psalm 37:7\n\n## Reflection\n\nA pour-over demands surrender. You cannot rush it. The water must meet the grounds at just the right temperature, then bloom—that first gentle saturation where the coffee releases its trapped gases and prepares to give everything it has. If you pour too fast, you get a thin, bitter cup. If you pull away too soon, you forfeit the richness hidden in the depths.\n\nWaiting on God feels like that slow, deliberate pour. Our instinct is to hurry the process—to demand immediate extraction, instant clarity, an answer that comes before the steam has even risen. But the psalmist invites us to be still, to let the waiting itself become the brewing ground. In the quiet minutes, the Spirit does His work: softening our impatience, drawing out the sweetness of trust, filtering our anxious thoughts through the steady rhythm of His presence.\n\nThe grounds don't resist the water; they surrender to it. Likewise, our waiting is not passive resignation but active trust—an openness to whatever God is extracting from our souls in the meantime. The cup He is preparing will be worth every slow minute. So let the kettle sing, and let your heart be still. The best coffee, like the deepest faith, is never rushed.\n\n## Prayer\n\nFather, teach us to wait as the grounds wait for water—open, trusting, unhurried. Slow our restless hearts until Your peace filters through. Let every quiet moment with You yield a richer faith. Amen.\n\n## One-Line Application\n\nToday, savor one slow moment with God before rushing onward.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
