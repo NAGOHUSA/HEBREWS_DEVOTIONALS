@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-29",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 295,
+  "theme": "coffee",
+  "content_markdown": "# The Aroma That Lingers\n\n## Scripture\n\n\"But thanks be to God, who always leads us as captives in Christ’s triumphal procession and uses us to spread the aroma of the knowledge of him everywhere.\" — 2 Corinthians 2:14\n\n## Reflection\n\nEvery coffee lover knows the moment: the first crack of the roast, the bloom of freshly ground beans, the steam rising from a pour-over. The aroma fills the room before a single sip is taken. It promises warmth, alertness, comfort. It draws people in.\n\nPaul says our lives are meant to be that kind of aroma—the scent of Christ Himself, spreading everywhere we go. But here's the truth about coffee: the aroma only comes after the beans endure the heat. They're roasted, ground, and steeped under pressure. The fragrance isn't produced in spite of the process; it's produced *through* it.\n\nYour trials, your waiting seasons, your days when you feel pressed and poured out—these aren't interruptions to your witness. They're the brewing. God is the roaster, the barista, the one who knows exactly how much heat and time will draw out the richness He placed in you. The knowledge of Him becomes most fragrant in you when you've been through the fire and still smell like grace.\n\nYou don't have to manufacture the aroma. Just stay close to the Source, let Him do the work, and trust that the scent of His love is reaching someone who needed to know He's near.\n\n## Prayer\n\nFather, thank You for the heat that draws out Your fragrance in us. Make our lives a pleasing aroma today—through our words, our silences, our kindness. Let someone catch a whiff of You in us and come closer. Amen.\n\n## One-Line Application\n\nLet today's pressure brew His fragrance through you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
