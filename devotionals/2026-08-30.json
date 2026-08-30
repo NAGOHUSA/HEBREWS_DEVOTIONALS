@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-08-30",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 289,
+  "theme": "coffee",
+  "content_markdown": "# The Pour That Never Runs Dry\n\n## Scripture\n\n\"Taste and see that the LORD is good; blessed is the one who takes refuge in him.\" — Psalm 34:8\n\n## Reflection\n\nEvery morning, we grind the beans, heat the water, and wait. The pour-over demands patience—a slow, deliberate circle that coaxes out the oils and aromas locked inside. If we rush, we get bitter extraction. If we neglect the grounds, we get weak, lifeless water.\n\nOur faith works the same way. We come to God's Word, not for a quick sip, but for a full immersion. The \"tasting\" David invites us into isn't a drive-thru cup; it's a lingering at the table. It's sitting with the Psalms, letting the Spirit saturate our thoughts until His goodness permeates every corner of our day.\n\nThe beauty is that this brew never exhausts its grounds. Unlike our favorite bag of beans, God's goodness doesn't diminish with each pour. We can return to the same passage, the same promise, and find new depth—a richer crema of grace we missed yesterday. The Lord invites us to keep tasting, keep taking refuge, knowing His supply is infinite.\n\nWhen life feels bitter, it's often because we've rushed the process. We've cranked up the heat of anxiety or diluted His truth with distraction. But when we slow down, when we let His presence drip through our hurried hearts, we discover He was always the source—steady, warm, and endlessly good.\n\n## Prayer\n\nLord, we come slowly to Your table. Saturate our restless hearts with Your goodness. Let us taste Your faithfulness in every sip of this day, and find our refuge in Your endless supply. Amen.\n\n## One-Line Application\n\nSavor God's goodness slowly today; don't rush the pour.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
