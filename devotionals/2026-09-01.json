@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-01",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 311,
+  "theme": "coffee",
+  "content_markdown": "# The Aroma of a Life Surrendered\n\n## Scripture\n\n\"But thanks be to God, who always leads us as captives in Christ’s triumphal procession and uses us to spread the aroma of the knowledge of him everywhere.\" — 2 Corinthians 2:14\n\n## Reflection\n\nA coffee bean, before it ever perfumes a room, must endure the fire. It is roasted—cracked, tumbled, and transformed under intense heat until its natural oils surface and its true character emerges. Only then does it release its signature aroma, drawing people in before they even take a sip.\n\nWe often pray for the fragrance of Christ to radiate from our lives, yet we resist the very process that produces it. The Roaster knows what we do not: gentle warmth may preserve us, but it cannot unlock our deepest flavor. The trials He permits—the cracks, the pressure, the turning—are not punishments. They are the sacred agitation that forces our hidden oils of grace to the surface, making the knowledge of Christ palpable to those around us.\n\nEvery believer is being brewed. Some days we feel ground too fine, other days steeped too long. But the Master Barista is never careless. He measures our temperature, our time, and our tension with perfect precision. The goal is not our comfort but our fragrance. When we walk through suffering with trust, we don't just speak of God's goodness—we smell like it.\n\nToday, pause and consider: what \"roasting\" are you enduring? Release the handle. Trust the process. Your aroma is being prepared for someone who needs to encounter Jesus through you.\n\n## Prayer\n\nFather, we surrender our heat and pressure to You. Make us fragrant with Christ's presence, even through the cracking. Use our refined character to draw others toward Your welcoming table. We trust Your perfect timing. Amen.\n\n## One-Line Application\n\nLet today's trial release the aroma of Christ in you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
