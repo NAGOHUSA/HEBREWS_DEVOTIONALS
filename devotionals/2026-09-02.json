@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-02",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 274,
+  "theme": "coffee",
+  "content_markdown": "# The Patience of a Slow Pour\n\n## Scripture\n\n\"Be still before the Lord and wait patiently for him; do not fret when people succeed in their ways, when they carry out their wicked schemes.\" — Psalm 37:7\n\n## Reflection\n\nA pour-over cannot be rushed. If you dump the water too quickly, the grounds overflow, the extraction turns bitter, and you lose the delicate notes hidden in the roast. The slow, spiral pour—pause, bloom, wait—is what coaxes out sweetness. Patience is not passive; it is an active trust in the process.\n\nWe live in an age of instant brew. Keurig prayers, microwave resolutions. We want God to fix things on our timeline, and when He doesn't, we fret. We watch others succeed by shortcuts and schemes, and the steam of our frustration rises. But the psalmist invites us to a different rhythm: be still. Wait. Not because God is slow, but because He is thorough. He is brewing something in you that cannot be rushed—character, faith, depth. The bloom phase feels like nothing is happening, but it is essential. The grounds are expanding, preparing to release their full flavor.\n\nYour current season of waiting is not wasted. It is the extraction process. God sees the cup He is filling, and He will not pull it early. Trust the pour. Trust the One holding the kettle.\n\n## Prayer\n\nLord, we confess our impatience. Teach us to trust Your timing as we wait for Your perfect brew. Still our restless hearts, and help us savor the aroma of Your presence in this season. Amen.\n\n## One-Line Application\n\nWait on God today; His slow pour never disappoints.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
