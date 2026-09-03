@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-03",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 311,
+  "theme": "coffee",
+  "content_markdown": "# The Cup That Waits for Us\n\n## Scripture\n\n\"Come, all you who are thirsty, come to the waters; and you who have no money, come, buy and eat! Come, buy wine and milk without money and without cost.\" — Isaiah 55:1\n\n## Reflection\n\nBefore the first sip, there is the aroma. It fills the room before the cup touches your lips—an invitation that arrives ahead of the drink itself. God's grace works the same way. Isaiah calls to the thirsty, but notice: the invitation comes before the satisfaction. The promise of water reaches us while we are still parched.\n\nWe treat our spiritual lives like a rushed pour-over—grabbing a quick cup on the way out the door, expecting fullness without the slow drip of patience. But God is not a vending machine. He is the roaster who knows the exact temperature and time for each bean. He lets the grounds steep in our questions, our waiting, our dry seasons. The extraction takes time because the flavor—the character of Christ in us—cannot be rushed.\n\nAnd here is the wonder: the table is already set. The water is already boiling. The cup is already waiting. We bring nothing but our thirst, and He supplies everything—freely, without cost. Not because we earned the brew, but because the Host delights in pouring it out.\n\nToday, you may feel like a half-empty mug, lukewarm and forgotten. But the Invitation still stands. Come. The water is ready. The price has been paid. All that's left is for you to lift the cup and drink.\n\n## Prayer\n\nLord, we confess we often rush past Your invitation, chasing our own bitter brews. Slow our hearts. Teach us to receive what You freely pour—grace that costs us nothing but Your everything. Let us drink deeply and be satisfied.\n\n## One-Line Application\n\nSip slowly today; God's grace is already poured.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
