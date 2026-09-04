@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-04",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 258,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Pour of Grace\n\n## Scripture\n\n\"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.\" — Philippians 1:6\n\n## Reflection\n\nA pour-over cannot be rushed. If you dump the water too fast, the grounds channel and the cup turns bitter. But when you wet the bed of coffee first—letting it bloom, releasing the trapped gases—then slowly circle outward, the extraction unfolds with sweetness and clarity. The patience of the pour is what makes the coffee worth drinking.\n\nOur sanctification works the same way. God is the barista, and we are the grounds. He doesn't microwave our transformation or force a quick brew. The good work He began in you—that slow saturation of His Spirit, the steady drip of His Word, the bitter moments that somehow release hidden sweetness—is still in process. You may feel under-extracted, weak, or even burnt. But the promise is this: He who began will carry it on to completion.\n\nToday, you don't need to manufacture your own growth. You need to rest under the steady pour of His grace. Let Him take His time with your heart. The cup He's making will be worth the wait.\n\n## Prayer\n\nFather, we confess our impatience with our own slow transformation. Teach us to trust Your timing, to stay still under Your pour, and to believe that what You've started in us will be finished beautifully. Amen.\n\n## One-Line Application\n\nLet God's grace drip slowly today—don't rush His work.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
