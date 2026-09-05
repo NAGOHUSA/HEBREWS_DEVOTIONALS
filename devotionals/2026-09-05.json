@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-05",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 308,
+  "theme": "coffee",
+  "content_markdown": "# The Perfect Pour Takes Time\n\n## Scripture\n\n\"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.\" — Philippians 1:6\n\n## Reflection\n\nSome mornings, I rush the pour-over. Water too fast, grounds uneven, and the result is a bitter, hollow cup. I wanted coffee *now*, but the brew needed patience. The water needed to saturate each ground slowly, extracting sweetness rather than forcing bitterness.\n\nPaul writes to the Philippians about a different kind of completion — the work God began in them. Like a skilled roaster who knows exactly when beans reach their peak, God doesn't rush our transformation. He doesn't crank the heat to hurry the process, because that would scorch rather than develop. He lets us steep in His grace, day after day, through ordinary faithfulness.\n\nWe often want the finished product — the rich crema of a mature faith, the full aroma of Christlike character. But sanctification is a slow extraction. Every trial, every quiet morning in the Word, every act of obedience when no one is watching — these are the hot water passing through our grounds. It feels slow. Sometimes it feels like nothing is happening.\n\nBut the Brewer knows what He's doing. The cup isn't ready yet, but every drop of His presence is working toward something beautiful. He who began this good work in you — that first fragrant bloom of new life — will not abandon it. He carries it to completion, one patient pour at a time.\n\n## Prayer\n\nFather, forgive our impatience with Your process. Help us trust Your timing, knowing You are faithfully brewing something beautiful in us. Give us rest in the slow work of becoming more like Jesus. Amen.\n\n## One-Line Application\n\nTrust the Brewer's timing; He's still pouring.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
