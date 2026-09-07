@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-07",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 288,
+  "theme": "coffee",
+  "content_markdown": "# The Pour That Takes Time\n\n## Scripture\n\n\"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.\" — Philippians 1:6\n\n## Reflection\n\nA good pour-over cannot be rushed. The water must saturate the grounds slowly, in controlled circles, allowing each layer to bloom and release its essence. If we dump the water all at once, we get a weak, bitter cup—the flavors never fully extracted, the potential wasted.\n\nOur sanctification works the same way. God is the master barista, and we are the grounds. He doesn't microwave our transformation or flash-brew our character. Instead, He pours His Spirit into us gradually—through seasons of waiting, through Scripture that soaks in slowly, through trials that press us just enough to release what's within.\n\nWhen we feel stagnant, like the water is just sitting there, we must remember: extraction takes time. The richest flavors come from patience. God began this good work in you—not as a suggestion, but as a promise. He is not halfway done, nor has He abandoned the cup. Every morning ritual of prayer, every small act of obedience, is another gentle pour.\n\nThe crema of Christlikeness forms not in an instant, but through the steady, faithful hand of the One who knows exactly the right temperature, the right pressure, the right timing. Trust the process. He is still pouring.\n\n## Prayer\n\nLord, we confess our impatience with our own growth. Help us trust Your timing, knowing You are faithful to complete what You began. Slow our rush, deepen our roots, and make us rich in Your love. Amen.\n\n## One-Line Application\n\nTrust God's slow brew; He's not done with you yet.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
