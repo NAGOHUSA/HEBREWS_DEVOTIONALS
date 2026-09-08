@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-08",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 314,
+  "theme": "coffee",
+  "content_markdown": "# The Pour That Waits for Us\n\n## Scripture\n\n\"Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us.\" — Hebrews 12:1 (NIV)\n\n## Reflection\n\nSome mornings, the coffee maker feels like it's taking forever. We hover, watching the slow drip, impatient for the first dark swirl to fill our mug. But that patient pour is what draws out the richness—the oils, the aroma, the depth that a quick splash could never release.\n\nOur faith often feels like that slow drip. We want the full cup instantly—clarity, breakthrough, the sense of God's presence flooding us all at once. Instead, there's the long extraction: the waiting, the ordinary Tuesday, the prayer that seems to evaporate before it lands. We forget that the heat and the time are not obstacles to the brew; they *are* the brew. The grounds must be saturated, pressed, and held before the crema appears.\n\nThe \"cloud of witnesses\" isn't just cheering from the stands—they're the proof that the slow pour works. They endured the grinding, the boiling water of trials, and what emerged was a life that still carries fragrance centuries later. Their perseverance wasn't heroic grit; it was trust in the One who controls the temperature and the timing.\n\nYour current season of waiting isn't a delay in God's plan. It's the extraction process. He's not rushing. He's brewing something in you that only patience can release. Stay under the pour.\n\n## Prayer\n\nLord, we confess our impatience with Your timing. Teach us to trust the slow work of Your hands, knowing that what You brew in us will be worth every waiting moment. Steady our restless hearts. Amen.\n\n## One-Line Application\n\nTrust the slow pour; God's timing creates the richest flavor.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
