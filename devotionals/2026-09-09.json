@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-09",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 302,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Pour of Grace\n\n## Scripture\n\n\"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.\" — Philippians 1:6\n\n## Reflection\n\nA good pour-over cannot be rushed. The water must saturate the grounds slowly, coaxing out the oils and flavors that a hasty pour would leave dormant. We want the cup now; the brewer knows the extraction takes time.\n\nPaul writes to the Philippians with the same patient confidence. He doesn't say God *might* finish, or that He *hopes* to. He says He *will* carry it on to completion. The good work in you is not a single drip—it's a full brew, a process of soaking, blooming, and releasing. Some days you feel like dry grounds, lifeless and flat. Other days you're under the hot water of trials, feeling pressed and extracted beyond your limits.\n\nBut here's the truth: the Master Roaster knows exactly what He's doing. He set the temperature, measured the dose, and determined the yield before you ever felt the heat. Your bitterness, your burnt edges, your unrefined sharpness—He's working through all of it. The crema that forms on top of a well-pulled shot isn't a mistake; it's the sign that pressure and heat produced something rich.\n\nYou are not a finished cup yet. That's okay. The brew is still in progress, and the One who started the pour won't walk away from the carafe. He's faithful to finish what He began—every last drop.\n\n## Prayer\n\nFather, we trust Your timing when we feel under-extracted or over-pressed. Remind us that You are still brewing, still working, still faithful. Give us patience to sit under Your process and hope in Your completion. Amen.\n\n## One-Line Application\n\nLet God's slow work finish brewing today.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
