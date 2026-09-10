@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-10",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 306,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Rich Faith\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.\" — Galatians 5:22–23\n\n## Reflection\n\nGood pour-over coffee cannot be rushed. Pour the water too fast and it channels straight through the grounds, leaving a thin, sour cup. The richest flavors come from a slow, steady pour—hot water patiently coaxing sweetness out of the roast, one bloom at a time.\n\nPaul describes the fruit of the Spirit the same way: not a single burst of effort, but a slow extraction of character under the steady heat of God's grace. We want instant results. We want to be patient by Tuesday. But love, joy, and self-control are not brewed in a moment; they steep over seasons of obedience, small faithfulness, and quiet surrender.\n\nNotice too that fruit is grown, not manufactured. A barista cannot add flavor that was never in the bean. In the same way, we cannot manufacture the Spirit's fruit by willpower—we can only stay in the water. Abide in Christ, remain in His Word, keep showing up in prayer, and the Spirit does the extracting. Your ordinary mornings—the commute, the dishes, the hard conversation—are the pour. God is not in a hurry with you. He is brewing something that will warm others, not just you.\n\nSo let today be slow. Let the water sit with the grounds a little longer. What feels like delay may be the very process making you rich.\n\n## Prayer\n\nFather, brew Your fruit in us slowly and deeply. Keep us abiding in Christ when growth feels invisible, and let patience do its quiet work. May our lives pour out Your goodness to everyone we meet. Amen.\n\n## One-Line Application\n\nStay in the water; let the Spirit do the extracting.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
