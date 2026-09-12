@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-12",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 265,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Strong Faith\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10\n\n## Reflection\n\nGood espresso cannot be rushed. When hot water is forced through coffee grounds too quickly, the result is thin, sour, and forgettable. But when the water moves slowly, patiently, it draws out the sweetness, the depth, the crema. The barista knows: pressure plus patience equals flavor.\n\nOur walk with God works the same way. We live in a culture that rewards speed — faster answers, quicker results, instant everything. But faith is not a drive-thru. It is a slow pour-over. God often does His deepest work in the waiting: in the quiet morning before the house wakes, in the unanswered prayer, in the season that feels like nothing is happening. Those are the moments when His character extracts something rich from ours.\n\nPsalm 46:10 doesn't say \"be busy and know.\" It says \"be still.\" Stillness is not passivity; it is trust with the heat on. It is believing that God is working even when we cannot see the drip. The coffee is not ready the moment water touches grounds — and neither are we. Growth takes time. Sanctification is a slow brew.\n\nSo tomorrow morning, when you wait for your cup, let the pause preach to you. God is not slow. He is thorough.\n\n## Prayer\n\nFather, teach us to be still before You. Slow our racing hearts and deepen our trust. Brew in us the character only patience can produce, for Your glory. Amen.\n\n## One-Line Application\n\nLet the wait become worship, not worry.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
