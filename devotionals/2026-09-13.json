@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-13",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 278,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Rich Grace\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.\" — Galatians 5:22–23\n\n## Reflection\n\nGood espresso is never rushed. Water pushed too quickly through the grounds leaves a thin, sour shot. But when hot water moves slowly, under steady pressure, it draws out the sweetness and depth the beans have carried all along. The grind, the temperature, the timing — every part matters. Extraction is a process, not an event.\n\nPaul describes the fruit of the Spirit the same way. Notice he says *fruit*, singular, not *fruits*. These nine qualities are one crop, grown slowly in a life surrendered to God. You cannot force patience to appear by sheer willpower any more than you can hurry a perfect pour-over. Both require the right conditions and time.\n\nThis is where many of us stumble. We want instant holiness — a quick fix, a microwave sanctification. But God is not a fast-food barista. He is a patient roaster, developing flavor through heat and waiting. The trials you're walking through right now may be the very pressure drawing Christ's character out of you.\n\nSo this morning, as your coffee brews, let the aroma remind you: God is at work in the slow things. He is not finished with you. The fruit is forming. Let it steep.\n\n## Prayer\n\nFather, thank You for Your patient work in us. Slow us down when we rush Your growth. Draw out the fruit of Your Spirit through every season, and make us more like Jesus today. Amen.\n\n## One-Line Application\n\nLet God brew His character in you slowly, not hastily.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
