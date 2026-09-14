@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-14",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 289,
+  "theme": "coffee",
+  "content_markdown": "# The Aroma of a Hidden Life\n\n## Scripture\n\n\"But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you.\" — Matthew 6:6\n\n## Reflection\n\nGood coffee begins long before the pour. Green beans are roasted slowly, rested, then ground and steeped—most of the work happens unseen. What reaches your cup is only the final, fragrant evidence of a long hidden process. Jesus frames prayer the same way: shut the door, meet the Father who sees in secret, and let the reward surface in its own time.\n\nWe tend to invert this. We want the aroma—visible fruit, wise words, a life that smells like Christ—without the roasting. But character isn't microwaved. It's extracted slowly, under heat and pressure, in a room no one else enters. That unseen hour with God is not wasted time; it's the very place where the flavor of your faith is being drawn out.\n\nSo when your prayers feel dry, remember that extraction takes time. The bean doesn't rush the water, and the water doesn't rush the bean. They simply stay together until something rich is released. Stay in the room. Let the Father do the slow work of roasting and steeping you. What He brews in secret, He will pour out in public—not for your applause, but for His glory and others' good.\n\n## Prayer\n\nFather, teach us to meet You in the hidden place. Slow us down, steep us in Your Word, and let our unseen time with You shape what others taste in us. In Jesus' name, amen.\n\n## One-Line Application\n\nGuard your secret time with God; it flavors everything else.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
