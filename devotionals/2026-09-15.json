@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-15",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 303,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Work of Extraction\n\n## Scripture\n\n\"And I am sure of this, that he who began a good work in you will bring it to completion at the day of Christ Jesus.\" — Philippians 1:6 (ESV)\n\n## Reflection\n\nGood coffee refuses to be rushed. A pour-over rewards patience: the bloom, the slow spiral of water, the steady drip through the grounds. Push it too fast and you get a bitter, hollow cup. Wait, and the water draws out what the bean has been holding all along — sweetness, depth, complexity that only extraction over time can release.\n\nPaul understood this. When he wrote to the Philippians, he wasn't celebrating a finished product. He was celebrating a process. God is not a barista in a hurry, pulling a shot and moving on. He is the patient roaster and brewer of your sanctification — applying heat, waiting through the bloom, drawing out what His Spirit has been cultivating in you. The hard seasons? That's the extraction. The waiting? That's the brew. Nothing is wasted; even the bitterness of trial is being transformed into something with depth.\n\nSo if today feels slow, unfinished, or underdeveloped, remember: you are not a failed batch. You are mid-brew. The One who began the work in you is not anxious about the timing. He knows exactly how long the extraction needs to take before the cup is ready. Your job isn't to rush the process. It's to stay in the dripper — yielded, present, and trusting the Brewer.\n\n## Prayer\n\nFather, thank You for Your patient work in us. When we grow impatient with the process, teach us to trust Your timing. Brew in us the character only slow extraction can produce. In Jesus' name, amen.\n\n## One-Line Application\n\nLet God finish the brew He started in you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
