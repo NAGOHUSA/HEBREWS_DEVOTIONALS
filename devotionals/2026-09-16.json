@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-16",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 281,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Rich Faith\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.\" — Galatians 5:22–23\n\n## Reflection\n\nGood espresso is not rushed. Water forced through grounds too quickly yields something thin and sour. The rich, sweet shot comes from patient extraction—heat and time working together to draw out what the bean has stored up.\n\nPaul describes the fruit of the Spirit the same way: not a list to manufacture but a harvest that emerges when we remain in Christ. You cannot force love or conjure joy by willpower any more than you can hurry a pour-over without ruining it. Fruit grows slowly, in season, under the steady warmth of the Spirit's work.\n\nConsider your morning ritual. You grind, you wait, you pour. The aroma rises before the first sip. So it is with a life hidden in Christ—what fills you eventually spills over. The patience you show a difficult coworker, the gentleness in your tone at home, the self-control you exercise when no one is watching: these are not random acts of niceness. They are evidence of something being extracted from a heart that has spent time with God.\n\nThe question is not whether you can produce more fruit today. It is whether you are staying in the presence of the One who grows it. Abide, and the cup fills.\n\n## Prayer\n\nFather, keep us rooted in You. Brew in us the fruit of Your Spirit—love, joy, peace, patience—so that what overflows from our lives tastes of Your goodness to everyone we meet. Amen.\n\n## One-Line Application\n\nStay in His presence; let the Spirit extract His fruit through you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
