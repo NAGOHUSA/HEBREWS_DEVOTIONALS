@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-17",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 290,
+  "theme": "coffee",
+  "content_markdown": "# Slow Brew, Deep Roots\n\n## Scripture\n\n“But blessed is the one who trusts in the LORD, whose confidence is in him. They will be like a tree planted by the water that sends out its roots by the stream.” — Jeremiah 17:7–8\n\n## Reflection\n\nGood coffee cannot be rushed. Green beans are roasted, rested, ground, and only then brewed—each stage shaping what finally reaches the cup. Pour-over especially rewards patience: the bloom, the slow spiral of water, the steady extraction. Hurry it and you get something thin and sour; wait well and you taste everything the bean was meant to give.\n\nJeremiah uses a slower image still: a tree by the stream, roots reaching toward water it cannot see. Its fruit isn’t forced. It grows from what’s absorbed underground, over seasons, in ordinary days.\n\nWe often want instant discipleship—a quick fix, a mountaintop moment, a feeling that confirms we’re okay. But spiritual depth forms like a good brew: through daily rhythms of prayer, Scripture, repentance, and trust. God is not in a hurry with us. He steeps us. He lets the truth extract slowly until it flavors how we speak, forgive, work, and love.\n\nMaybe your morning cup can become a small liturgy: pause, give thanks, ask the Lord to root you deeper today. Not every day will feel rich. Some days taste like plain obedience. But the One tending your roots is faithful, and He brings fruit in season—not on your schedule, but always on time.\n\n## Prayer\n\nLord, root us deep in You. Slow us down to trust Your timing, and let our lives be shaped by Your steady work, not our hurried striving. Amen.\n\n## One-Line Application\n\nBrew slowly today; trust God’s deeper work in you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
