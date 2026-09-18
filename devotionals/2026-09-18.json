@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-18",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 290,
+  "theme": "coffee",
+  "content_markdown": "# Slow Brew of Grace\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.\" — Galatians 5:22–23\n\n## Reflection\n\nGood coffee refuses to be rushed. A pour-over demands patience—blooming the grounds, waiting thirty seconds, then pouring in slow spirals. Push the water too fast and you get a thin, sour cup. The flavors need time to extract.\n\nThe fruit of the Spirit works the same way. We want instant transformation. We want to wake up loving our difficult neighbor, patient with our children, gentle under pressure. But God rarely brews us that quickly. He uses the slow drip of ordinary days—unanswered emails, spilled milk, the same recurring conflict—to extract His character from us.\n\nNotice that Paul calls it *fruit*, not *fruit juice*. Fruit grows on a branch over seasons. It ripens in sunlight and survives storms. You cannot force it, but you can stay connected to the Vine. Jesus said in John 15:5, \"Apart from me you can do nothing.\" The branch doesn't strain to produce—it simply remains, drawing sap.\n\nSo on the mornings you feel bitter, not gentle, don't despair. You may be mid-bloom. God is not finished with your roast. He's working in the dark, in the waiting, in the seemingly unproductive hours. Let Him steep you. The aroma of Christ (2 Corinthians 2:15) rises not from a perfect life but from a life slowly surrendered to His process.\n\n## Prayer\n\nFather, brew Your Spirit's fruit in us slowly and deeply. Give us patience in the waiting, trust in Your timing, and hearts that remain in You. Let our lives carry the aroma of Christ today. Amen.\n\n## One-Line Application\n\nLet God steep you today—don't rush the brew.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
