@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-19",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 285,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Work of Extraction\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.\" — Galatians 5:22–23\n\n## Reflection\n\nGood coffee cannot be rushed. Green beans must be roasted, rested, ground, and then—only then—water must pass slowly through the bed, drawing out what was hidden inside. Push the water too fast and you get a thin, sour cup. The flavor was always there. It simply needed time and the right conditions to be extracted.\n\nPaul describes the fruit of the Spirit the same way: not qualities we manufacture by force, but something grown, released, drawn out over time. Love and patience and self-control are not instant. They emerge when the Holy Spirit works through ordinary days—unhurried mornings, repeated faithfulness, small obediences no one applauds. We often want to skip the roast and jump to the pour. But God is not in a hurry. He is extracting something in you that He planted long ago.\n\nNotice also that fruit is not the same as effort. You cannot squeeze an orange into producing an apple. You simply abide, and the Spirit produces. Your part is to stay in the water—prayer, Scripture, community, obedience—and let the extraction happen at His pace. Some mornings you will only taste bitterness. Keep pouring. The sweetness comes as the Spirit continues His slow, patient work.\n\n## Prayer\n\nFather, we trust Your timing in us. Slow us down when we rush the work You are doing. Draw out Your fruit in our lives, and let others taste Your goodness through us. Amen.\n\n## One-Line Application\n\nAbide daily; let the Spirit extract His fruit in His time.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
