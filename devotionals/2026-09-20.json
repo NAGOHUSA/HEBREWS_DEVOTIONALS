@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-20",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 275,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10 (ESV)\n\n## Reflection\n\nGood coffee cannot be rushed. A pour-over rewards patience: hot water blooms the grounds, then falls in slow spirals, drawing out sweetness that force would only scorch. Push the water through too fast and you get a thin, bitter cup. Wait, and the flavor arrives on its own schedule.\n\nOur souls work the same way. We live in a culture of high-pressure extraction — instant answers, instant results, instant growth. But God rarely brews us that way. He is patient with the grounds of our hearts, pouring grace slowly, letting truth steep until it changes the taste of who we are. Psalm 46:10 is not a suggestion to sit idle; it is an invitation to stop forcing what only stillness can produce. \"Be still\" means release your grip on the timeline. \"Know that I am God\" means trust the One holding the kettle.\n\nConsider your morning ritual. The pause before the first sip is not wasted time — it is where flavor is born. Likewise, the quiet moments you spend with God may look unproductive, but they are where character is extracted. Hurry starves the soul. Stillness feeds it. Today, let God set the pace of your brewing. He knows exactly how long you need.\n\n## Prayer\n\nFather, slow us down. Teach us to wait on You the way we wait on a good pour — patiently, expectantly, without forcing. Extract from us what only stillness can produce. In Jesus' name, amen.\n\n## One-Line Application\n\nLet God set the pace; stillness brews what hurry never will.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
