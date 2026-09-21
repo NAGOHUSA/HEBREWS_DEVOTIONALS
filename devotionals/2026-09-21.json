@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-21",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 298,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ.\" — Philippians 1:6 (ESV)\n\n## Reflection\n\nGood coffee refuses to be rushed. A pour-over can't be hurried by pouring faster — the water must move slowly through the grounds, drawing out sweetness over minutes, not seconds. Push it too hard and you get a bitter, hollow cup. The best flavors come through patient extraction.\n\nPaul understood this rhythm. He didn't tell the Philippians to sprint toward perfection. He reminded them that God — the one who began the work — is the one who finishes it. Your sanctification is not a microwave; it's a slow brew. The Spirit works through ordinary mornings, quiet obedience, repeated repentance, and faithfulness that no one applauds. Growth often feels invisible, the way water disappears into grounds before a single drop falls.\n\nBut nothing is wasted. Every prayer, every small \"no\" to sin, every \"yes\" to love — God is extracting something rich from it. He is not frustrated by your pace. He set it. The same hands that formed you in secret are still working in secret, and they will not stop until the cup is full.\n\nSo today, don't despise the slow drip. Let the process be the place where you trust Him. You are not behind. You are being brewed.\n\n## Prayer\n\nFather, thank You for beginning what we could never start and for finishing what we cannot complete. Teach us to trust Your slow, steady work in us. Give us patience with the process and joy in the pouring. Amen.\n\n## One-Line Application\n\nLet God finish what He started — one slow morning at a time.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
