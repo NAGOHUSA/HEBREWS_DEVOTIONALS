@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-23",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 278,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Rich Grace\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10\n\n## Reflection\n\nA good pour-over cannot be rushed. Pour too fast, and the water races through the grounds without drawing out what matters. The result is thin, sour, forgettable. But a slow, patient pour lets heat and time do their quiet work, coaxing out sweetness and depth that only stillness can produce.\n\nPsalm 46:10 is God's invitation to the same unhurried posture. \"Be still, and know that I am God.\" Not be busy, not be impressive, not be productive. Be still. Our souls, like coffee grounds, release their truest flavor only when we stop forcing the pace.\n\nMost of us live like a rushed brew. We jam quiet time into the cracks of a full calendar, skim a verse, fire off a prayer, and move on. Then we wonder why our faith tastes thin. The problem isn't the beans. It's the extraction. We aren't giving God enough contact time with our hearts.\n\nStillness isn't passivity. It's trust. It's believing that God is working even when we aren't producing, that His presence steeps into us when we stop striving and simply sit. The roast of grace takes time. Let the morning slow you down. Let the silence do its work. What God extracts in those quiet minutes will carry you through the whole day.\n\n## Prayer\n\nFather, slow us down. Teach us to sit with You without hurry or agenda. Steep Your truth into our hearts until we taste and see that You are good. In Jesus' name, amen.\n\n## One-Line Application\n\nStart today with ten unhurried minutes in God's presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
