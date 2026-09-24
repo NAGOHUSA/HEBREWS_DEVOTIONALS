@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-24",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 323,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Strong Faith\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.\" — Galatians 5:22–23\n\n## Reflection\n\nGood espresso can't be rushed. Push water through the grounds too fast and you get a thin, sour shot—technically coffee, but nothing like what the roaster intended. The magic happens under pressure, over time, as hot water patiently draws out what the bean has been holding since it was roasted.\n\nPaul describes something similar in the believer's life. The fruit of the Spirit isn't produced by frantic effort or overnight transformation. It's extracted slowly, under the pressure of ordinary days—commutes, spilled milk, unanswered emails, a spouse who forgot to take out the trash. Patience isn't brewed in a moment of calm. It's pulled drop by drop through the grind of real life, when we'd rather rush and instead choose to wait.\n\nNotice that fruit is organic, not manufactured. You can't force a bean to release sweetness it doesn't have. You can only roast it well, grind it fresh, and trust the process. Likewise, we don't manufacture love or self-control by white-knuckling our way through the day. We abide in Christ—the true vine, the living water—and His Spirit does the extracting. Our part is showing up, staying in the press, and letting the heat do its work.\n\nSo if today feels slow and the pressure feels heavy, take heart. You're not being punished. You're being brewed. The Lord is patient with the process, and He's not in a hurry to serve something half-finished.\n\n## Prayer\n\nFather, thank You for Your patient work in us. When life presses hard, keep us rooted in Christ and yielded to Your Spirit. Brew in us love, joy, and peace that only You can produce. We trust Your timing. Amen.\n\n## One-Line Application\n\nLet the pressure of today become the flavor of your faith.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
