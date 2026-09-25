@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-25",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 282,
+  "theme": "coffee",
+  "content_markdown": "# Slow Pour, Deep Roots\n\n## Scripture\n\n\"But blessed is the one who trusts in the LORD, whose confidence is in him. They will be like a tree planted by the water that sends out its roots by the stream.\" — Jeremiah 17:7–8\n\n## Reflection\n\nA good pour-over cannot be rushed. Water too hot scorches the grounds; poured too fast, it channels straight through, leaving the coffee thin and sour. The bloom alone asks for patience—a thirty-second pause while carbon dioxide escapes and the grounds swell. Only then does the slow spiral of water draw out what is sweet.\n\nJeremiah paints a similar picture. The blessed life is not the hurried life. It is a tree planted by water, roots reaching quietly into the stream, drinking long before it bears fruit. The roots do the unseen work; the leaves simply testify to it. We often want the fruit without the rooting—the harvest without the hidden season of trust. But confidence in God grows the way good coffee does: slowly, deliberately, through ordinary mornings of faithfulness.\n\nThis is your invitation today. Before you check your phone, before the day's demands press in, let your roots drink. Sit with Scripture. Pray without rushing to the amen. Trust is not a feeling you manufacture; it is a root system you cultivate. And the God who sends the stream is faithful to meet you there—not in the frantic pour, but in the patient one.\n\n## Prayer\n\nFather, slow us down. Teach us to trust you in the quiet, unhurried places. Root us deep in your Word, that our lives might bear fruit in season. Amen.\n\n## One-Line Application\n\nLet your roots drink before your hands work.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
