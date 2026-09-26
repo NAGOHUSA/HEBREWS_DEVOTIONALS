@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-26",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 322,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Work of Extraction\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.\" — Galatians 5:22–23\n\n## Reflection\n\nGood coffee cannot be rushed. You grind the beans, heat the water, and then—this is the hard part—you wait. A pour-over rewards patience. Water moves slowly through the grounds, drawing out sweetness a little at a time. Push it too fast and you get a bitter, hollow cup. The flavor was always there; it simply needed time and the right conditions to emerge.\n\nPaul uses the same logic for the Spirit's work in us. Love, joy, peace, patience—these aren't qualities we manufacture by trying harder. They're fruit. Fruit grows. It ripens slowly, under the right conditions, over a season you don't control. When you're impatient with your own spiritual growth, you're asking the bean to become coffee before the water ever touches it.\n\nNotice, too, what the metaphor demands: heat. Extraction only happens under pressure and warmth. Your difficult coworker, the unanswered prayer, the season that won't end—these aren't interruptions to your formation. Often they are the very conditions God uses to draw out what He's already placed within you. The Spirit is not in a hurry, and He is not wasting your waiting.\n\nSo tomorrow morning, when the coffee drips slow, let it preach. Let the aroma remind you that something good is being released in you—not because you forced it, but because the Spirit is patient, and He finishes what He starts.\n\n## Prayer\n\nFather, thank You for the patient work of Your Spirit in us. When we grow impatient with our own slow growth, teach us to trust Your timing. Draw out Your fruit in us, even through the heat and pressure of this season. Amen.\n\n## One-Line Application\n\nLet today's slow brew remind you: God is patiently extracting His fruit in you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
