@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-27",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 316,
+  "theme": "coffee",
+  "content_markdown": "# Slow Brew, Steady Heart\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10 (ESV)\n\n## Reflection\n\nGood coffee refuses to be rushed. The beans are roasted slowly, ground precisely, and then—the hardest part—we wait. Hot water meets the grounds, and extraction happens quietly, invisibly, over minutes. Push it too fast and you get a bitter, hollow cup. Give it time, and you taste everything the bean was made to offer.\n\nOur walk with God works the same way. We live in a culture that rewards speed: instant answers, immediate results, next-day growth. But discipleship is a pour-over, not a drive-thru. God rarely transforms us in a single dramatic moment. He works through slow saturation—His Word seeping into our thinking, prayer steeping in our hearts, trials drawing out flavors of faith we didn't know were there.\n\nNotice that Psalm 46:10 doesn't say \"be productive, and know that I am God.\" It says *be still*. Stillness feels unproductive. It looks like nothing is happening. But stillness is where extraction occurs. When we stop striving and sit in His presence, God does His deepest work in us—not because we've earned it, but because we've finally stopped interfering with it.\n\nMaybe today your growth feels invisible. Maybe you're in the waiting phase, wondering if anything is brewing at all. Trust the process. The same God who spoke galaxies into being is patient enough to finish the good work He started in you (Philippians 1:6). He is not in a hurry. He is in a relationship.\n\nSo pour slowly. Sit longer. Let Him steep.\n\n## Prayer\n\nFather, slow us down. Quiet the noise that rushes us past Your presence. Teach us to be still and let Your truth soak deep into our hearts, trusting Your patient work in us. In Jesus' name, amen.\n\n## One-Line Application\n\nBe still today—let God brew His work in you slowly.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
