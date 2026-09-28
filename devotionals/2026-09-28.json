@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-28",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 304,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Rich Grace\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.\" — Galatians 5:22–23\n\n## Reflection\n\nGood coffee cannot be rushed. Pour-over brewing teaches this: water too hot scorches the grounds, a pour too fast leaves the cup thin and sour. The richest flavor comes from a slow, steady extraction—hot water meeting ground beans with patience, drawing out sweetness over minutes, not seconds.\n\nPaul describes the Spirit's work in us the same way. Love, joy, peace, forbearance—these are not instant. They are extracted slowly through ordinary mornings, small obediences, and quiet faithfulness. We often want character brewed in a microwave, but God works like a careful barista: grinding, blooming, pouring, waiting.\n\nNotice the process. Beans must first be crushed before they yield anything. So it is with us. Trials grind us, but they also release what God is growing inside. The aroma of Christ in us is not produced by comfortable circumstances alone; it rises from a life submitted to the Brewer's hand.\n\nThis means your slow season is not wasted. The waiting, the repeated small choices to forgive, to serve, to remain gentle—these are the drip, drip, drip of grace. You may not taste the fullness yet. But God is not impatient, and He is not wasteful. He is extracting something in you that will nourish others.\n\nSo pour slowly today. Let the Spirit work at His pace. The cup He is preparing is worth the wait.\n\n## Prayer\n\nFather, brew Your character in us slowly and deeply. When we grow impatient with the process, teach us to trust Your timing. Extract from our lives the sweet aroma of Christ, for Your glory and the good of others. Amen.\n\n## One-Line Application\n\nLet grace steep slowly; rushed faith tastes thin.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
