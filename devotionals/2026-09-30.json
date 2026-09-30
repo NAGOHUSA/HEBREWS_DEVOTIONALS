@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-09-30",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 266,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Rich Grace\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.\" — Galatians 5:22–23\n\n## Reflection\n\nGood pour-over coffee cannot be rushed. Pour too fast and the water races past the grounds, leaving a thin, sour cup. The richest flavor comes from a slow, steady pour that gives the grounds time to release what they hold. Extraction is patient work.\n\nPaul describes the fruit of the Spirit the same way—not a list to achieve by force, but a harvest that grows over time. Love, joy, peace, patience. None of these bloom overnight. They are extracted slowly, through ordinary mornings, small obediences, and quiet faithfulness when no one is watching. God is not in a hurry with us. He lets the water of His Word and His Spirit move through the grounds of our days, drawing out what only time and surrender can produce.\n\nWe often want instant results: instant maturity, instant peace, instant change. But the Lord brews slowly, and He brews well. What feels like delay is often His careful hand releasing something richer than we could force. So let the pour take its time. Let the aroma rise. The cup He is making in you is worth the wait.\n\n## Prayer\n\nFather, slow us down. Teach us to trust Your patient work in our lives, and let Your Spirit extract in us the fruit that only time with You can produce. Amen.\n\n## One-Line Application\n\nLet God brew His fruit in you slowly, not rushed.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
