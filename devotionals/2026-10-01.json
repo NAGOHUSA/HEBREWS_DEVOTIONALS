@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-01",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 268,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10\n\n## Reflection\n\nGreat espresso cannot be rushed. Push water through the grounds too fast and you get a thin, sour shot—liquid without depth. But a patient pour-over, a slow bloom, a steady extraction: that is where flavor truly lives. The coffee has to sit with the water. It has to steep.\n\nOur souls work the same way. We live in a culture that rewards speed—quick answers, instant results, hurried mornings. But God rarely speaks in the rush. He speaks in the stillness, in the long pour, in the quiet minutes before the day begins. Psalm 46:10 isn't a suggestion for a calmer schedule; it's an invitation to know God Himself. \"Be still\"—stop striving, stop extracting—\"and know that I am God.\"\n\nThink about your morning brew. You don't stand over the carafe demanding it hurry. You wait. You trust the process. What if we approached prayer the same way? Not as a vending machine, but as a slow pour—offering God our attention, letting His presence steep into us. Some days the brew is bitter; some days it's sweet. Either way, He is faithful to meet us in the waiting.\n\nThe richest cups come from unhurried grounds. The deepest faith comes from unhurried hearts.\n\n## Prayer\n\nFather, slow us down. Teach us to sit with You like a patient pour-over—quiet, present, expectant. Let Your presence steep into our hurried hearts, and help us know You more deeply. Amen.\n\n## One-Line Application\n\nTrade your rush for stillness; let God steep into your day.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
