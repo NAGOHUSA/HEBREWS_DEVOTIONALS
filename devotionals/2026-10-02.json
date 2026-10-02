@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-02",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 270,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10\n\n## Reflection\n\nGood coffee refuses to be rushed. Grind the beans too coarse and hot water races through, leaving a weak, sour cup. But grind fine and pour slowly, and the water lingers long enough to draw out sweetness, depth, and body. The flavor was always in the bean—patience is what releases it.\n\nOur souls work the same way. God's grace is not scarce; it is steeped. Yet we often live like a rushed pour-over, flooding our days with noise, notifications, and hurry, then wondering why our faith tastes thin. We skim the surface of Scripture, toss up quick prayers, and move on before anything has time to extract.\n\nPsalm 46:10 doesn't command us to try harder. It invites us to stop striving and let God be God. Stillness is not passivity—it is the slow bloom of trust, the deliberate pause that lets truth saturate the heart. Like a barista who knows the bloom matters, we can learn to linger: in prayer before the day starts, in a verse read twice instead of once, in silence that feels unproductive but is quietly doing its work.\n\nThe bean already holds the flavor. The grace is already given. Our part is to slow the pour and let it steep.\n\n## Prayer\n\nFather, slow us down. Quiet the rush that starves our souls, and teach us to linger in Your presence until Your grace saturates everything we are. In Jesus' name, amen.\n\n## One-Line Application\n\nSlow the pour today: linger ten unhurried minutes with God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
