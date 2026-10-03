@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-03",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 306,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Full Flavor\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.\" — Galatians 5:22–23\n\n## Reflection\n\nGood coffee cannot be rushed. A pour-over demands a slow, steady stream of water, coaxing flavor from the grounds over minutes, not seconds. Push the water through too fast, and you get a thin, sour cup. The best extraction happens under gentle, patient pressure.\n\nPaul describes the Spirit's work in us the same way. The fruit of the Spirit isn't produced by force or hurry. Love, joy, peace, patience—these are extracted slowly through ordinary days of obedience, prayer, and small faithfulness. We tend to want instant maturity: a quick fix, a spiritual shortcut, a microwave sanctification. But God brews us over a lifetime. He uses waiting rooms, difficult coworkers, unanswered prayers, and quiet mornings to draw out what only time and pressure can produce.\n\nNotice that fruit is organic, not manufactured. You cannot squeeze love out of yourself any more than you can squeeze flavor from unground beans. The Spirit does the extracting. Our part is to stay in the water—abiding in Christ, remaining in His Word, letting the heat and time do their work.\n\nIf your growth feels slow today, that may not be failure. It may be proper extraction. The cup that took longest to brew often carries the richest flavor. Trust the process God is using. He is not wasting a single minute.\n\n## Prayer\n\nFather, thank You for the patient work of Your Spirit in us. Teach us to abide in You, to trust Your timing, and to let Your fruit ripen slowly. We surrender our hurry to Your gentle, faithful hands. Amen.\n\n## One-Line Application\n\nAbide in Christ today; let the Spirit brew His fruit slowly.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
