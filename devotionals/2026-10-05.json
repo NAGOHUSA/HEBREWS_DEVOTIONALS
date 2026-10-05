@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-05",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 275,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.\" — Galatians 5:22–23\n\n## Reflection\n\nGood coffee cannot be rushed. A pour-over demands a slow, steady stream—water at the right temperature, poured in patient circles. Push too fast and the grounds flood, the flavor turns bitter, the cup disappoints. But when you wait, when the water moves gently through the bed of coffee, extraction happens the way it was meant to: rich, layered, sweet.\n\nPaul describes the Spirit's work in us the same way. Love, joy, peace, patience—these are not instant. They are extracted slowly, through ordinary mornings, small obediences, and seasons that feel like nothing is happening. The Spirit is not in a hurry. He is not flooding you with everything at once. He is pouring, steadily, over the grounds of your daily life, drawing out what only time and pressure can produce.\n\nWe often want the finished cup without the brewing. We want patience without waiting, gentleness without friction, self-control without temptation. But fruit grows. It ripens. It cannot be microwaved. If today feels slow, ordinary, even unnoticed—take heart. The Spirit is not idle. He is extracting something in you that could never be forced, only received. Let Him pour. Let Him work. The cup is coming.\n\n## Prayer\n\nFather, slow us down. Brew Your fruit in us through ordinary days and quiet obedience. We trust Your patient work, even when we cannot yet taste the result. In Jesus' name, amen.\n\n## One-Line Application\n\nLet the Spirit pour slowly—fruit takes time to extract.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
