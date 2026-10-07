@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-07",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 338,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Rich Grace\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10\n\n## Reflection\n\nGood coffee cannot be rushed. Push water through the grounds too fast and you get a thin, sour cup—all acidity, no sweetness. The flavors we love are drawn out slowly, over minutes, with patience and heat. Extraction is a quiet art.\n\nSo is knowing God.\n\nWe live in a world that treats hurry as a virtue. We measure our days by how much we produce, how quickly we respond, how many tasks we cross off. And then we wonder why our faith feels thin—why God seems distant, why our prayers taste like nothing. Could it be that we've been brewing on the wrong setting? Could it be that we've been pouring too fast?\n\nPsalm 46:10 doesn't say \"perform for Me\" or \"figure everything out.\" It says *be still*. The Hebrew word carries the sense of letting your hands drop—ceasing striving, releasing control. It's the posture of a pour-over: steady, unhurried, attentive. Stillness isn't passivity; it's trust made visible.\n\nGod is not withholding Himself from you. His grace is not a scarce resource that requires frantic effort to coax out. He is already present, already near, already speaking. But His voice often comes in the stillness, not the scramble. Like water blooming through fresh grounds, His truth saturates us when we slow down enough to receive it.\n\nTomorrow morning, when the kettle heats and the aroma rises, let the ritual preach to you. You don't have to rush the brew. You don't have to rush your Father either. He has all the time in the world—and He's inviting you into it.\n\n## Prayer\n\nFather, slow us down. Quiet the noise that drowns Your voice. Teach us to sit with You without agenda, trusting that Your presence is enough. Brew Your truth deeply into our hearts, and let us taste and see that You are good. Amen.\n\n## One-Line Application\n\nStart your day with five unhurried minutes in God's presence.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
