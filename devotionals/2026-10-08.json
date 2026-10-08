@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-08",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 290,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Rich Grace\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10\n\n## Reflection\n\nA good pour-over cannot be rushed. Water too hot scalds the grounds; poured too fast, it channels through and leaves the coffee thin and sour. The richest cup comes from a slow, steady pour—water meeting grounds, patience doing its quiet work. Extraction is not passive. It is attentive waiting.\n\nThat is the shape of Psalm 46:10. \"Be still, and know that I am God.\" The stillness is not emptiness; it is the slow pour of attention over a soul. In a world that rewards speed, we are trained to rush even our time with God—skim a verse, fire off a prayer, move on. But grace extracts slowly. It deepens when we linger, when we let the Word sit with us long enough to release its flavor.\n\nConsider your morning ritual. You grind, you bloom the grounds, you wait. You don't stand over the kettle demanding the coffee appear faster. You trust the process. Discipleship asks the same trust. God is not withholding Himself; He is extracting something richer than a quick fix. The stillness He invites us into is not inactivity—it is communion. It is the slow, deliberate pouring of our attention onto His presence, and His presence onto us.\n\nSo today, before the day's demands pull you away, sit with Him. Let the pour be slow. Let the cup be full.\n\n## Prayer\n\nFather, slow us down. Teach us to be still in Your presence, to trust Your timing over our urgency. Extract from our hurried hearts a deeper knowledge of You. In Jesus' name, amen.\n\n## One-Line Application\n\nBrew your time with God slowly—stillness is where grace extracts.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
