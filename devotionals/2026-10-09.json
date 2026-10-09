@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-09",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 264,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10 (ESV)\n\n## Reflection\n\nGood espresso cannot be rushed. When water is forced through the grounds too quickly, the result is thin and sour—flavor left trapped in the puck. But a slow, steady pour draws out the sweetness. The bean must first be roasted, then rested, then ground fine enough to give itself away.\n\nStillness works the same way in us. We live in a culture of high-pressure extraction—deadlines, notifications, endless output—and we wonder why our souls taste hollow. God does not shout over the noise; He waits beneath it, inviting us to slow the pour. \"Be still,\" He says, not as a punishment but as an invitation to be known.\n\nConsider the morning ritual. Before the first sip, there is the aroma—a quiet promise that something good is coming. Before the deep work of the day, there is the pause. God meets us in that pause. He is not impressed by our speed. He is glorified in our surrender.\n\nSo let the water run slow today. Let the grounds give up their hidden sweetness. Let stillness do its patient work, until what pours out of you tastes less like panic and more like peace. The deepest grace is always extracted slowly.\n\n## Prayer\n\nFather, slow us down. Teach us to sit in Your presence without rushing to the next thing. Extract from our hearts the quiet trust that only stillness grows. In Jesus' name, amen.\n\n## One-Line Application\n\nBrew stillness before you pour yourself out today.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
