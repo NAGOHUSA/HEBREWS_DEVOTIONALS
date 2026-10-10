@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-10",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 293,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Rich Aroma\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10a (ESV)\n\n## Reflection\n\nGood coffee refuses to be rushed. A pour-over rewards patience: water at the right temperature, a slow circular pour, a bloom that releases trapped gases before the real extraction begins. Skip the bloom, dump the water in fast, and you get a thin, sour cup. The flavors were there all along, but they needed time.\n\nPrayer often works the same way. We approach God like a drive-thru order — quick request, quick answer, back to the day. But the psalmist doesn't say \"hurry and know.\" He says *be still*. Stillness is the bloom: the unhurried moment where what's trapped inside us — worry, gratitude, confession — rises to the surface and releases. Only then does the deeper extraction happen. God's character steeps into ours.\n\nThis isn't passive mysticism. It's deliberate. You choose the grind, heat the water, set the timer. Likewise, stillness is a practiced discipline: a chair, a closed door, an open Bible, ten minutes without a screen. The point isn't the ritual; it's the Person the ritual positions us to receive. Some mornings your heart tastes bitter, distracted, weak. Bring that cup anyway. God isn't waiting for premium beans. He's waiting for a yielded vessel. The brew He makes of a stilled soul is always richer than the one we gulp on the run.\n\n## Prayer\n\nFather, slow us down. Quiet the noise that crowds out Your voice. As we sit still before You, extract from our hearts everything that isn't of You, and fill us with the rich knowledge of who You are. Amen.\n\n## One-Line Application\n\nBrew ten unhurried minutes with God before you pour out your day.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
