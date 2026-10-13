@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-13",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 323,
+  "theme": "coffee",
+  "content_markdown": "# The Grind Before the Glory\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" — James 1:2–3\n\n## Reflection\n\nNobody drinks green coffee beans. Before a single drop of rich, dark coffee reaches your mug, the bean must be roasted, ground, and subjected to hot water under pressure. Every stage is uncomfortable. The roast brings intense heat. The grind breaks the bean apart. The extraction pulls out what's inside. Yet none of it is wasted—each step releases the flavor that was always there, waiting.\n\nJames tells us to consider trials pure joy, not because pain feels good, but because of what it produces: perseverance. God is not absent in the heat. He is extracting something. The pressure you're under right now—the deadline, the diagnosis, the relational strain—is not meaningless. It's the pour-over of your faith. What's inside you comes out when the water gets hot.\n\nBut notice: coffee doesn't grind itself. The roaster holds the bean through every degree. God is not a distant observer of your hardship; He is the hand on the process, knowing exactly how much heat you can bear and for how long. He won't over-roast you. The same bean that endures the flame becomes the aroma that fills a room and warms the hands of others. Your perseverance isn't just for you—it becomes a comfort poured out for someone else who is still green.\n\nSo tomorrow morning, when you hear the grinder, let it preach. The breaking is not the end. It's the beginning of the brew.\n\n## Prayer\n\nFather, when the heat rises and the pressure presses, remind us that You hold us through every stage. Extract perseverance from our trials, and let our lives become an aroma that points others to You. Amen.\n\n## One-Line Application\n\nLet the grind remind you: God is brewing something good.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
