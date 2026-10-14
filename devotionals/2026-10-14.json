@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-14",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 304,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Rich Grace\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.\" — Galatians 5:22–23\n\n## Reflection\n\nGood espresso cannot be rushed. Push water through the grounds too fast and you get a thin, sour shot—all acid, no sweetness. The barista knows that flavor is drawn out slowly, under steady pressure and heat. Extraction is a patient work. So is sanctification.\n\nPaul lists the fruit of the Spirit, and notice how much of it grows only in time: patience, faithfulness, gentleness, self-control. These are not instant. They are not brewed by willpower alone. The Spirit applies steady pressure—circumstances, interruptions, unanswered prayers, the slow grind of ordinary days—and draws His character out of us. We would prefer a quick shot of virtue. God gives us a pour-over: hot water, steady hands, waiting.\n\nThis reframes our frustration. When a trial lingers, when a relationship takes years to heal, when you confess the same sin again—that is not evidence God has abandoned the process. It may be evidence He is extracting something deeper. The roast of your character is being developed, not burned.\n\nSo this morning, as the coffee drips, let it preach. You are not behind. You are being brewed. The Spirit is not in a hurry, and He does not waste a single drop of what He is making in you. Drink slowly. Taste and see.\n\n## Prayer\n\nFather, thank You for Your patient work in us. When we grow impatient with the process, remind us that You are extracting something good. Give us grace to wait on Your Spirit, and make us faithful in the slow brewing of our days. Amen.\n\n## One-Line Application\n\nLet the slow drip remind you: God is not finished brewing you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
