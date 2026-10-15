@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-15",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 306,
+  "theme": "coffee",
+  "content_markdown": "# Slow Roast, Deep Flavor\n\n## Scripture\n\n\"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.\" — Philippians 1:6\n\n## Reflection\n\nGreen coffee beans smell faintly of hay—nothing like the drink they'll become. Only after they're roasted slowly, through stages that look like burning, do they release the aroma we love. Rushed heat scorches the outside and leaves the inside raw. Good roasters know: transformation takes time and cannot be faked.\n\nPaul understood this. The work God begins in us is rarely instant. It unfolds through ordinary mornings, quiet obedience, and seasons that feel more like heat than progress. We want the finished cup now—the patience, the gentleness, the faith that doesn't wobble. But God is not in a hurry. He roasts us at the pace of His wisdom, drawing out flavors that only time and pressure can produce.\n\nThe same is true of a pour-over. Water must pass slowly through the grounds to extract what's sweet. Pour too fast and you get a thin, sour cup. So it is with prayer and Scripture: slow saturation yields deep flavor. Hurry starves the soul.\n\nIf today feels like the roaster's drum—hot, tumbling, unseen—take heart. God is not wasting the heat. He is completing what He started, one small degree at a time. Your job is not to rush the process but to stay in His hands, trusting the Roaster who knows exactly when you're done.\n\n## Prayer\n\nFather, we trust You with the slow work in us. When the heat feels heavy, remind us that You are faithful to finish what You began. Give us patience to steep in Your Word and prayer. In Jesus' name, amen.\n\n## One-Line Application\n\nLet God roast you slowly; He knows the flavor He's making.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
