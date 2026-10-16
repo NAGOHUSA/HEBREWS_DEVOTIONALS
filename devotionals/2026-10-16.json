@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-16",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 286,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control.\" — Galatians 5:22–23\n\n## Reflection\n\nGood espresso cannot be rushed. The grind must be even, the water hot but not boiling, the pressure steady. Push too hard and the shot turns bitter; pull too fast and it runs thin and sour. Baristas speak of extraction—the slow, patient work of drawing flavor from the grounds. It takes time, attention, and a willingness to wait.\n\nPaul describes the fruit of the Spirit in similar terms. Love, joy, peace, patience—these are not instant. They are extracted slowly, under the steady pressure of ordinary days. A kind word when you're tired. Gentleness when you'd rather snap back. Self-control when no one is watching. The Spirit works in us the way hot water works through coffee: not by force, but by faithful presence over time.\n\nWe often want godliness to be a quick pour, a single dramatic moment. But God is not in a hurry. He is roasting, resting, and brewing us into something that tastes of Christ. The delays you resent may be the very extraction He is using. The trial you'd skip may be the pressure that draws out patience you didn't know you had.\n\nSo let the process be slow today. Let the Spirit steep. What feels like waiting is often the making of fruit.\n\n## Prayer\n\nFather, brew Your fruit in us slowly and deeply. Give us patience in the process, and trust that You are at work even when we cannot taste it yet. In Jesus' name, amen.\n\n## One-Line Application\n\nLet the Spirit extract His fruit in you today—slowly, faithfully, without rushing.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
