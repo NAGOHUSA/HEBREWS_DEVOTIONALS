@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-18",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 302,
+  "theme": "coffee",
+  "content_markdown": "# Slow Brew, Deep Roots\n\n## Scripture\n\n“But blessed is the one who trusts in the LORD, whose confidence is in him. They will be like a tree planted by the water.” — Jeremiah 17:7–8\n\n## Reflection\n\nGood coffee refuses to be rushed. The beans are roasted slowly, the water heated with patience, the grounds given time to bloom and release what they hold. Pour too fast and you get a thin, bitter cup—water that passed through without ever really meeting the coffee.\n\nJeremiah paints a similar picture of the life that trusts God. The blessed person is like a tree planted by water—not a tree that sprints toward the sun, but one with roots that reach down slowly, quietly, into a steady supply. Its fruit isn't forced. It comes from what it's connected to.\n\nOur mornings often work against this. We want instant. We want the caffeine without the steep, the growth without the waiting. But discipleship is a pour-over kind of life: God works through the slow extraction of His Word, faithful prayer, and ordinary obedience over years. The aroma of a life rooted in Him isn't manufactured in a moment—it's released over time.\n\nMaybe today the invitation isn't to brew faster but to stay planted. To let the water of His presence move through you slowly, saturating places you'd rather skip. The heat of hard seasons isn't wasted; it's part of how God draws out something richer than you could rush into being. Let Him steep you today.\n\n## Prayer\n\nFather, teach us to slow down and stay rooted in You. Brew Your truth deeply into our hearts, and let the aroma of Your presence shape how we live and love today. Amen.\n\n## One-Line Application\n\nStay planted in God's presence today—let Him brew something deeper than hurry allows.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
