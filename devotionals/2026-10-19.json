@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-19",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 302,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Work of Extraction\n\n## Scripture\n\n“But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.” — Galatians 5:22–23\n\n## Reflection\n\nGood coffee is rarely rushed. The bean is roasted slowly, the water heated to just the right temperature, and the pour-over coaxed rather than forced. Push the water through too fast and you get a thin, sour cup—everything the bean had to offer left behind in the grounds.\n\nPaul describes the Spirit's work in us the same way: love, joy, peace, patience. These are not instant. They are extracted slowly, under the steady heat of ordinary days—the interrupted morning, the difficult conversation, the prayer we keep showing up for when nothing seems to change. Sanctification is less like a switch and more like a long, patient brew.\n\nNotice, too, that the fruit is singular. It is one work of one Spirit, not a checklist we manufacture. We do not grind harder to produce patience; we remain in the water and let Him draw it out. The aroma of a life steeped in Christ is not self-made—it is what naturally rises when we stay close to the Source.\n\nSo on the mornings you feel weak and slow, take heart. The Lord is not impatient with the process. He is the vintner and the brewer both—tending the growth, warming the water, and faithfully drawing forth what He Himself planted.\n\n## Prayer\n\nFather, thank You for Your patient work in us. Keep us close to You, warm our hearts by Your Spirit, and draw forth the fruit You have planted—even when it comes slowly. We trust Your timing. In Jesus' name, amen.\n\n## One-Line Application\n\nStay in the water; let the Spirit draw out His fruit in His time.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
