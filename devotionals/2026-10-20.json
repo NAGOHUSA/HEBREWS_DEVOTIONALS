@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-20",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 316,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Work of Extraction\n\n## Scripture\n\n“But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.” — Galatians 5:22–23\n\n## Reflection\n\nGood coffee is rarely rushed. The roast takes time, the bloom needs a moment, and a pour-over rewards the hand that waits. Push the water through too fast and you get a thin, sour cup—water that touched the grounds but never drew out what they held. The flavor lives in the patient extraction.\n\nThe fruit of the Spirit works something like that. Love, joy, peace, patience—these aren't instant. They're extracted slowly, under the steady, unhurried pouring of ordinary days. A quiet morning with an open Bible. A kind word when you're tired. A held tongue when you'd rather win. None of it feels dramatic. But faithfulness is cumulative, the way a slow pour builds a full cup.\n\nWe tend to want discipleship to be a pressure shot—fast, intense, immediate. God usually brews us slow. He lets the heat of circumstance and the water of His Word move through us over time, drawing out what He's already placed within. The grind can feel uncomfortable. The waiting can feel wasteful. But the Lord isn't stalling; He's extracting.\n\nSo on the mornings you feel spiritually thin, don't panic. Maybe you're not failing—maybe you're still brewing. Stay in the process. Keep showing up to the pour. The One who began a good work in you is patient with the roast, and He knows exactly when the cup is ready.\n\n## Prayer\n\nFather, thank You for Your patience with us. Keep pouring Your Word through our ordinary days, and draw out the fruit You've planted in us. Guard us from rushing what You are slowly brewing. In Jesus' name, amen.\n\n## One-Line Application\n\nStay in the slow pour—let God finish what He's extracting in you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
