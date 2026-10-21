@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-21",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 278,
+  "theme": "coffee",
+  "content_markdown": "# Slow Brew, Deep Roots\n\n## Scripture\n\n“But blessed is the one who trusts in the Lord, whose confidence is in him. They will be like a tree planted by the water that sends out its roots by the stream.” — Jeremiah 17:7–8\n\n## Reflection\n\nGood coffee cannot be rushed. The beans are roasted slowly, the water heats gradually, and a proper pour-over rewards patience—bloom, pause, then a steady spiral of water. Rush it and you get a thin, sour cup. Wait, and the extraction draws out sweetness and depth.\n\nJeremiah describes a life of trust the same way: roots sent down by the stream, drawing quietly from water that never runs dry. Notice what the verse doesn't promise. It doesn't promise the absence of heat or drought—the tree still faces scorching days. What it promises is that hidden roots, fed by an unseen stream, keep the leaves green.\n\nDiscipleship works like that slow extraction. Morning prayer, a verse read before the day starts, a habit of gratitude—these are small, unremarkable pours. None feels dramatic. But faithfulness repeated over months draws something deep out of us: confidence in God rather than in circumstances. When the pressure comes—the hard conversation, the unanswered prayer, the dry season—we discover the roots were growing all along.\n\nSo don't despise the slow ritual. The bloom before the brew is not wasted time. It's trust taking root.\n\n## Prayer\n\nFather, teach us to wait on you like a slow pour—patient, attentive, unhurried. Grow our roots deep in your faithfulness, that we may stay green in every season. In Jesus' name, amen.\n\n## One-Line Application\n\nStart today with one unhurried moment of trust in God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
