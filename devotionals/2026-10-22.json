@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-22",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 313,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10\n\n## Reflection\n\nGood pour-over coffee can't be rushed. Pour the water too fast and it runs straight through the grounds, leaving a thin, sour cup. But when the water is poured slowly—steady, patient, deliberate—it draws out the sweetness and depth the beans have carried all along. The waiting isn't wasted time. The waiting is the work.\n\nOur walk with God follows the same rhythm. We live in a culture that rewards speed—quick answers, instant results, spiritual growth on demand. Yet Psalm 46:10 doesn't say \"hurry up and know Me.\" It says, \"Be still.\" God often works most deeply in the slow, unhurried moments we're tempted to skip: the quiet morning before the day begins, the prayer we linger in instead of rushing through, the Scripture we sit with instead of skimming. Like water moving gently through the grounds, stillness lets truth steep down into places busyness never reaches.\n\nNotice, too, that the psalmist writes \"be still\" in the middle of chaos—nations raging, kingdoms falling. The stillness God invites us into isn't the absence of trouble; it's the presence of God within it. You don't need a perfect, quiet life to practice this. You need only to slow down long enough to remember who is holding you.\n\nSo tomorrow morning, as the coffee blooms and drips, let it preach. Let the slow pour remind your soul: God is not in a hurry with you, and He is not absent from you.\n\n## Prayer\n\nFather, slow us down. Teach us to be still in Your presence, to linger with You instead of rushing past. Draw out the deeper things You've planted in us, and let Your peace steep into every corner of our day. Amen.\n\n## One-Line Application\n\nPour slowly today—let stillness steep your soul in God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
