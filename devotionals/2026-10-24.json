@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-24",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 325,
+  "theme": "coffee",
+  "content_markdown": "# The Roast Before the Pour\n\n## Scripture\n\n\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\" — James 1:2–3\n\n## Reflection\n\nGreen coffee beans smell faintly of grass. Nobody brews them. Before a bean becomes the cup that wakes you, it passes through fire — roasted at four hundred degrees until sugars caramelize and the flavor we love is drawn out. The heat isn't punishment. It's preparation.\n\nJames writes to believers scattered by hardship and tells them to lean in, not run. Trials aren't a sign God has abandoned the process; they're the roast. What feels like destruction is actually development — the very thing that produces perseverance. Most of us would skip the heat if we could. We want the warm cup without the fire. But a bean that avoids the roaster stays green: safe, soft, and tasteless.\n\nNotice the daily parallel. Your morning ritual — grinding, pouring, waiting — is a small school of patience. You can't rush extraction without ruining the cup. So it is with faith. God rarely works on our preferred timeline. He lets the water sit with the grounds, drawing out what only time can release.\n\nWhere is the heat in your life right now? A strained relationship, a slow answer to prayer, a season that feels like loss. James doesn't ask you to pretend it's pleasant; he asks you to trust the Roaster. He knows the temperature, the timing, and the flavor He's making. Nothing in His fire is wasted.\n\n## Prayer\n\nFather, when the heat comes, keep us from running. Teach us to trust Your hand in the roasting, knowing You waste nothing. Draw out in us the perseverance You intend, and make us ready to be poured out for others. Amen.\n\n## One-Line Application\n\nLet the heat do its work today — trust the Roaster, not the fire.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
