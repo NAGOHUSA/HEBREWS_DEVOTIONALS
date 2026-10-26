@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-26",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 311,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Work of Extraction\n\n## Scripture\n\n“But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.” — Galatians 5:22–23\n\n## Reflection\n\nGood coffee rarely happens in a hurry. The beans are roasted slowly, rested, then ground and bloomed before the pour. Hot water meets the grounds a little at a time, coaxing out what's already there. Rush the pour and you get a sour, hollow cup; skip the bloom and the grounds stay sealed. Extraction is patient work—and it's mostly about what's already inside the bean being drawn out.\n\nThat's a picture of how the Spirit forms fruit in us. God isn't injecting something foreign into you under pressure. He's drawing out what He's already planted, often through the slow, unglamorous circumstances of an ordinary Tuesday—the interrupted morning, the difficult coworker, the unanswered prayer. Patience isn't brewed in a moment of calm; it's extracted through the waiting you didn't choose. Kindness surfaces when someone costs you something.\n\nWe tend to want discipleship instant—a quick fix, a dramatic breakthrough. But the Spirit works like a slow pour: consistent, unhurried, attentive. The bloom is the hidden prayer before the visible response. The roast is the trial that develops flavor you couldn't get any other way.\n\nSo don't despise the slow mornings. Don't resent the process. Let the water keep coming. What God is drawing out of you is worth the wait—and He is faithful to finish the cup He began.\n\n## Prayer\n\nFather, thank You for Your patient work in us. Slow us down to receive what You are forming, and draw out the fruit of Your Spirit through the ordinary moments of today. We trust Your timing. In Jesus' name, amen.\n\n## One-Line Application\n\nLet today's interruptions become the slow pour that draws out the Spirit's fruit.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
