@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-27",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 306,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Roots\n\n## Scripture\n\n“But blessed is the one who trusts in the LORD, whose confidence is in him. They will be like a tree planted by the water.” — Jeremiah 17:7–8\n\n## Reflection\n\nGood coffee cannot be rushed. Pour-over brewing rewards patience: water at the right temperature, poured slowly, giving the grounds time to release what they hold. Rush the pour and you get a thin, sour cup. Wait, and the flavors open up—sweetness, depth, a finish that lingers.\n\nJeremiah uses a different image for the same truth: a tree planted by water, roots reaching deep, unafraid when heat comes. Both pictures describe a life that trusts God enough to stay put and draw slowly from him. Our culture trains us to extract instantly—quick answers, fast growth, immediate results. But discipleship works more like a slow brew. Scripture read unhurriedly. Prayer that lingers past the first few minutes. Obedience practiced when no one notices. None of it feels dramatic in the moment. Yet over time, these small faithful pourings saturate us, and what comes out of us—under pressure, in drought, when life scalds—tastes of Christ rather than of panic.\n\nNotice where the blessing lies in Jeremiah's picture. Not in the tree's effort, but in its position: planted by the water. The root does the hidden work; the water does the sustaining. Your part today is not to manufacture fruit but to stay near the source, letting God's Word and presence extract from you what only he can grow.\n\n## Prayer\n\nFather, teach us to slow down and stay rooted in you. Keep us near your Word and your presence, drawing deeply rather than rushing past. Grow in us what only patient trust can produce. Amen.\n\n## One-Line Application\n\nBrew slowly with God today: linger in his Word before rushing into your day.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
