@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-30",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 322,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.\" — Galatians 5:22–23\n\n## Reflection\n\nGood pour-over coffee cannot be rushed. Pour the water too fast and it runs straight through the grounds, leaving a thin, sour cup. The flavor comes through patient extraction—hot water meeting the grounds slowly, drawing out what is already there.\n\nPaul describes the fruit of the Spirit the same way: not manufactured but drawn out. Love, joy, peace, patience. These are not qualities we produce by sheer willpower under pressure. They are the character of Christ within us, extracted over time through ordinary faithfulness—small obediences, quiet mornings, unremarkable acts of love repeated until they become who we are.\n\nWe often want instant results. We want to skip the slow pour and get straight to the finished cup. But God is not in a hurry. He is patient with the roasting, patient with the grinding, patient with the brew. The Spirit forms fruit in us through the steady drip of daily surrender—not through dramatic moments alone.\n\nConsider your morning ritual. The aroma filling your kitchen doesn't happen in an instant; it rises slowly as heat meets grounds. So too does the fragrance of Christ in your life. It rises from time spent with Him, from choosing kindness when it's inconvenient, from letting patience have its full work in you.\n\nWhat if today you trusted the slow work? What if you stopped rushing the process and simply stayed present to the One who is brewing something good in you?\n\n## Prayer\n\nFather, we confess our impatience with Your slow work in us. Teach us to trust Your timing, to remain in You as You form Your fruit in our lives. We ask this in Jesus' name. Amen.\n\n## One-Line Application\n\nTrust the slow work—stay in the process and let God extract His fruit in you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
