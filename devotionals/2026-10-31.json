@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-10-31",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 327,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Work of Extraction\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.\" — Galatians 5:22–23\n\n## Reflection\n\nGood coffee refuses to be rushed. A pour-over asks for a slow, steady stream of water, bloom and patience, and the flavors emerge only when we give the grounds time. Heat and pressure alone don't make something good—they make something fast. The best cup comes from gentle, unhurried extraction.\n\nThe fruit of the Spirit grows the same way. Paul doesn't tell us to manufacture love or force patience through sheer willpower. He describes fruit—something that ripens over time under the right conditions. We can't extract gentleness from ourselves by turning up the heat. We can only stay rooted in Christ, letting His Spirit do the slow work of drawing character out of us.\n\nThis is the quiet mercy of the gospel: God is not frantic about your growth. He is patient with the process, tending the soil, warming what is cold, and drawing out what He Himself has planted. Our part is not to speed the brew but to remain—in prayer, in Scripture, in community—so the water keeps flowing through us.\n\nWhere are you tempted to rush your own formation, or someone else's? Perhaps today the faithful thing is simply to stay in the process, trusting that the One who began a good work will bring it to completion. Some mornings the cup is bitter; some mornings it is sweet. But the Brewer is never impatient, and He never wastes a single pour.\n\n## Prayer\n\nFather, teach us to trust Your slow work in us and in those we love. Keep us rooted in Christ, patient with the process, and faithful in the small daily means of grace. Draw out Your fruit in Your timing. Amen.\n\n## One-Line Application\n\nStay in the process today; let God's Spirit do the slow work.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
