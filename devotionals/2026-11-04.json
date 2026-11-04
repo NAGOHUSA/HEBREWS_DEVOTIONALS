@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-04",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 286,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Work of Extraction\n\n## Scripture\n\n“But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.” — Galatians 5:22–23\n\n## Reflection\n\nGood coffee cannot be rushed. The beans are roasted slowly, the water heated with care, and the grounds given time to bloom before the pour. Push the process and you get a bitter, hollow cup. Wait, and the water draws out what the roast has been holding all along.\n\nThe fruit of the Spirit works the same way in us. Love, joy, peace, patience—none of these are manufactured on demand. They are extracted over time by the steady, patient work of God in ordinary days. A difficult coworker, an unanswered prayer, a morning that starts too early: these are the hot water. They don't create the fruit; they draw out what the Spirit has already been steeping into us.\n\nThis is why Jesus tells us to abide. A branch doesn't strain to produce grapes—it stays connected and lets the life flow. So it is with us. Our job is not to grind harder but to remain close, letting the Spirit do the slow work of extraction. Some mornings we feel the bloom of grace; other mornings we simply show up and pour. Both are faithful. The cup that tastes most like Christ is usually the one that took the longest to brew.\n\n## Prayer\n\nFather, we confess our impatience. Slow us down, keep us close to You, and let Your Spirit extract in us the fruit that only time and surrender can produce. In Jesus' name, amen.\n\n## One-Line Application\n\nStay connected today; let the Spirit do the slow work.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
