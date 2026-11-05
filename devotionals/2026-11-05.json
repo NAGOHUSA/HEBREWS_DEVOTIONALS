@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-05",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 289,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10\n\n## Reflection\n\nA good pour-over cannot be rushed. Water too hot scalds the grounds; poured too fast, it runs straight through, leaving the coffee thin and sour. The richest cup comes from patience—a slow, steady pour that lets the water dwell in the grounds and draw out what's hidden inside.\n\nThat's an uncomfortable picture of discipleship. We prefer the espresso shot: pressure, speed, immediate results. But God often works like the slow brew. He lets us sit in His presence long enough for truth to extract—layer by layer, until what we believe actually flavors how we live.\n\nNotice what the psalm doesn't say. It doesn't say \"hurry and know,\" or \"figure it out and know.\" It says *be still*. Stillness is the water temperature of knowing God. When we stop scrambling to fix everything, we create room for grace to steep into us. The morning ritual of coffee—grinding, blooming, waiting—can become a small liturgy of trust: I am not the one making this grow. I simply show up, pour, and wait.\n\nSome days your faith tastes weak because you've been pouring too fast, skimming the surface of Scripture and prayer without letting it dwell. The fix isn't more pressure. It's more presence. Slow down. Let the Word sit with you. The deeper notes come to those who wait.\n\n## Prayer\n\nLord, teach us to be still before You. Slow our hurried hearts, let Your Word dwell in us richly, and draw out the grace You've placed within. We trust Your patient work in us. Amen.\n\n## One-Line Application\n\nSlow your morning: let one verse steep before you rush into the day.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
