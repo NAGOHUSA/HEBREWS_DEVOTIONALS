@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-06",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 302,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10\n\n## Reflection\n\nGood pour-over coffee refuses to be rushed. Water too hot scalds the grounds; pouring too fast leaves the bed uneven and the cup thin. The best extraction comes from a slow, steady stream and a patient pause — the bloom, that quiet thirty seconds when the grounds swell and release their gas before the real brewing begins. Hurry it and you lose the sweetness.\n\nStillness with God works much the same way. We tend to treat prayer like a quick drip — a rushed request on the way out the door, a verse skimmed between notifications. But Psalm 46:10 doesn't command us to think about God in passing; it invites us to stop striving and *know* Him. Knowing takes time. It takes the unhurried pause where we let His Word settle into us and release what we've been holding — our anxiety, our self-reliance, our need to control the outcome.\n\nNotice that the verse comes in a psalm about roaring waters and shaking mountains. Stillness isn't the absence of chaos; it's choosing to be present with God in the middle of it. A slow morning cup can become a small liturgy: you wait, you watch, you receive. The patience you practice at the brewer can train your soul to wait on the Lord — trusting that even when the extraction feels slow, He is faithfully at work, and His grace is never watered down.\n\n## Prayer\n\nFather, teach us to be still before You. Slow our rushing hearts, steady our hands, and let Your presence settle deeply into us this day. We trust Your patient work in us. Amen.\n\n## One-Line Application\n\nBegin today with five unhurried minutes of stillness before God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
