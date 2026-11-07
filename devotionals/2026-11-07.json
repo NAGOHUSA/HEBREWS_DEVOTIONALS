@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-07",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 294,
+  "theme": "coffee",
+  "content_markdown": "# Slow Brew, Deep Roots\n\n## Scripture\n\n“But blessed is the one who trusts in the LORD, whose confidence is in him. They will be like a tree planted by the water that sends out its roots by the stream.” — Jeremiah 17:7–8\n\n## Reflection\n\nGood coffee cannot be rushed. The beans are roasted slowly, the water heats gradually, and a pour-over rewards patience as water seeps through the grounds, drawing out flavor little by little. Push the process and you get something thin and bitter. Wait, and the cup turns rich and full.\n\nJeremiah uses a different image but the same truth: the blessed life is rooted, not hurried. A tree by the stream doesn't panic when drought comes, because its roots have spent years reaching quietly toward water. That rootedness is built in ordinary, unhurried faithfulness—early mornings in Scripture, small obediences no one sees, prayers whispered before the day begins.\n\nWe often want instant spiritual maturity, a quick extraction of character. But God grows us the way good coffee is made: slowly, steadily, through heat and pressure and time. The morning ritual itself can teach us. As you grind, pour, and wait, let the patience of the process shape your soul. Let the aroma remind you that God is at work even when nothing seems to be happening. Roots deepen in the waiting. Trust the slow brew. The Lord who tends the tree by the stream is tending you.\n\n## Prayer\n\nFather, teach us to trust your timing. Slow us down when we rush what you are growing. Deepen our roots in you through ordinary, faithful days, and let our lives carry the rich aroma of your grace. Amen.\n\n## One-Line Application\n\nStart today slowly: one verse, one prayer, one small obedience.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
