@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-08",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 301,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n“But we all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory, just as by the Spirit of the Lord.” — 2 Corinthians 3:18\n\n## Reflection\n\nGood coffee refuses to be rushed. You grind the beans, bloom them with a little hot water, then pour slowly—and the flavor comes out over minutes, not seconds. Force it too fast and you get a bitter, hollow cup. The same water, the same grounds, given patience, yield something rich.\n\nPaul describes transformation the same way: “from glory to glory,” a gradual, unhurried work of the Spirit. We often want sanctification instant—one strong pour and every flaw gone. But God rarely works in bursts. He works in steeping: a quiet morning in the Word, a repeated act of forgiveness, a prayer whispered before the same old temptation. None of it feels dramatic. All of it extracts something.\n\nNotice the posture in the verse: “beholding.” We don’t manufacture the change; we sit before the Lord and let His glory do the work. Coffee doesn’t transform itself—it simply yields to the water. Our part is to stay in the pour, to keep showing up with unveiled faces, honest and unhurried. The bitterness of an impatient heart drains away when we let the Spirit steep us.\n\nSo maybe today’s small, unremarkable faithfulness is exactly the slow drip God is using. He isn’t finished brewing you.\n\n## Prayer\n\nFather, keep us patient in Your slow work. Steep us in Your Word and Spirit, and let the flavor of Christ come through us—not rushed, but rich. Transform us from glory to glory, we ask.\n\n## One-Line Application\n\nLet today’s small faithfulness steep; don’t rush what God is brewing.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
