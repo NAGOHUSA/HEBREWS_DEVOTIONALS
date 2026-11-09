@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-09",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 300,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'\" — 2 Corinthians 12:9\n\n## Reflection\n\nA good pour-over cannot be rushed. Pour the water too fast and it runs straight through the grounds, leaving a thin, sour cup. But a patient, steady pour lets the water linger, drawing out the sweetness that only time can release. The wait is not wasted; it is the work.\n\nPaul begged God three times to remove a \"thorn\" that pressed on him. Instead of removing it, God answered with presence: grace sufficient, power made perfect in weakness. Paul learned that the slow, uncomfortable pressing was where God's strength was extracted.\n\nWe tend to treat discipleship like instant coffee—quick, convenient, no waiting required. But God often works through the slow pour. A chronic illness, a difficult coworker, an unanswered prayer: these can feel like bitter grounds. Yet in God's hands, the pressure and patience of the process draw out something richer than we could manufacture on our own. His grace is not a thin trickle we must strain to catch; it is a steady, sufficient pour, filling the cup of our weakness with His strength.\n\nThe morning ritual can remind us: we do not force the flavor—we trust the process and receive what God extracts. Where you feel weak today, you are not disqualified. You are exactly where His power is made perfect.\n\n## Prayer\n\nFather, we come as cracked cups and weary hands. Thank You that Your grace is sufficient for us. Teach us to wait on Your slow, steady work, trusting that Your strength is made perfect in our weakness. Amen.\n\n## One-Line Application\n\nLet today's weakness become the place where you receive His sufficient grace.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
