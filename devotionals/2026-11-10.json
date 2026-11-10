@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-10",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 303,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'\" — 2 Corinthians 12:9\n\n## Reflection\n\nGood pour-over coffee refuses to be rushed. You bloom the grounds, wait, then pour in slow spirals—water meeting coffee a little at a time. Push too fast and you get a bitter, hollow cup. The flavor comes through patience, through letting the water sit and steep and draw out what's hidden.\n\nPaul learned something similar about grace. He begged God to remove a thorn, and God said no—not because Paul lacked faith, but because weakness was the very place where grace could extract its fullest flavor. We tend to treat weakness like a rushed brew: something to fix, speed past, or hide. But God works differently. His strength isn't poured over us in one overwhelming flood; it's extracted slowly, morning by morning, often through the very limitations we'd rather discard.\n\nThink about your day. Where are you tempted to force the pour—to demand instant results from your spiritual life, your relationships, your growth? Grace doesn't work on a schedule. It blooms, waits, and steeps. The tiredness you carry, the prayer you can barely form, the patience running thin—these aren't failures. They're the grounds God uses. When we stop rushing and let Him work at His pace, what comes through is richer than anything we could force. His grace is sufficient. Not efficient, not instant—sufficient. And sufficient is enough.\n\n## Prayer\n\nLord, we confess our impatience with our own weakness. Teach us to slow down and let Your grace steep in us. We trust that Your strength is made perfect—not in our striving, but in our surrender. Amen.\n\n## One-Line Application\n\nLet grace steep slowly today; don't rush what God is brewing.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
