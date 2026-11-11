@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-11",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 306,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n“But we all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory, just as by the Spirit of the Lord.” — 2 Corinthians 3:18\n\n## Reflection\n\nGood coffee cannot be rushed. Hot water poured too fast over fresh grounds simply runs through, leaving a thin, sour cup. But a patient pour-over—steady, unhurried, deliberate—coaxes out what the bean has been holding all along. The water doesn't create the flavor; it draws it forth. And the grind matters: too coarse and the water passes by without effect, too fine and the cup turns bitter and choked.\n\nPaul describes the Christian life in much the same way. We are being transformed “from glory to glory”—not in a single dramatic jolt, but through the steady, patient work of the Spirit. Transformation happens as we behold Christ, day after day, the way water meets grounds: slowly, repeatedly, until what was hidden is drawn out and the whole cup changes.\n\nThis is where our morning ritual can teach us. The few quiet minutes before the day floods in—Scripture open, heart still, coffee warming your hands—are not wasted time. They are extraction. You may not feel different after one cup. But the faithful, daily pouring of God's Word over an attentive heart shapes you. So don't rush the brew, and don't rush your soul. Let the Spirit work at His pace, trusting that the flavor He's drawing out is His own character in you.\n\n## Prayer\n\nLord, slow us down. Teach us to sit with You daily, letting Your Word steep into our hearts. Draw out Your character in us through patient, unhurried transformation—for Your glory and our good. Amen.\n\n## One-Line Application\n\nDon't rush the brew; don't rush your soul.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
