@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-12",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 306,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10\n\n## Reflection\n\nGood pour-over coffee can't be rushed. Water too hot scalds the grounds; pouring too fast leaves the bed uneven and the cup thin. The best extraction comes slowly—steady water, patient timing, the grounds giving up their flavor little by little. Hurry the process and you get something bitter and hollow.\n\nStillness with God works much the same way. We live in a culture that treats hurry as a virtue—more output, faster answers, spiritual growth squeezed into whatever margin is left. But Psalm 46:10 doesn't ask us to try harder; it asks us to stop. \"Be still.\" The Hebrew carries the sense of letting your hands drop, releasing your grip. It's the posture of grounds soaking under a slow stream rather than being blasted with pressure.\n\nNotice what stillness produces: knowledge of God. Not information about Him, but deep familiarity—the way you come to know the character of a cup through patient tasting. Hurry skims the surface. Stillness lets grace sink down and extract something real.\n\nThis doesn't mean passivity. A pour-over still requires intention: grinding, heating, pouring. But the work is unhurried and attentive. So it is with discipleship. Prayer, Scripture, silence—these are slow rituals. They rarely feel dramatic in the moment. But over weeks and years, they yield a cup that's rich rather than bitter, settled rather than anxious. The question isn't whether God is speaking. It's whether we've slowed down enough to taste it.\n\n## Prayer\n\nFather, we confess our hurry. Teach us to be still before You—to let Your presence extract what is bitter in us and leave what is true. Slow our hearts to Your pace today. Amen.\n\n## One-Line Application\n\nStart your day with five unhurried minutes of stillness before God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
