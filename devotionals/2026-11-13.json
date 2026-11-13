@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-13",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 306,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Work of Extraction\n\n## Scripture\n\n“But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.” — Galatians 5:22–23\n\n## Reflection\n\nGood coffee rarely happens in a hurry. The beans are roasted slowly, rested, then ground and bloomed—hot water poured in stages, giving the grounds time to release what's inside. Rush the pour-over and you get a thin, sour cup. Give it time, and the flavor comes through full and sweet.\n\nThe fruit of the Spirit grows the same way. Paul doesn't describe love, joy, and patience as things we manufacture by willpower. They're the natural extraction of a life rooted in Christ—what seeps out when we've been steeped in His presence. That means our morning ritual can become a small parable: as the water passes slowly through the grounds, we remember that God is patient with us, drawing out what He's already placed within.\n\nBut there's a catch. Bitterness in coffee comes from water that's too hot or beans left too long on the shelf. Likewise, a heart left unattended—unprayed, unconfessed, unthankful—can turn bitter even while going through the motions. The Spirit's fruit needs the daily soak of Scripture, honest prayer, and quiet trust. Not a frantic sprint through devotions, but a slow bloom.\n\nSo let your coffee teach you. Don't rush the pour. Don't rush your sanctification. God is extracting something good, and He is not in a hurry.\n\n## Prayer\n\nFather, thank You for Your patience with us. As we steep in Your Word this morning, draw out the fruit of Your Spirit in our lives—love, joy, peace, and self-control. Keep us from bitterness, and let what pours from us taste of You. Amen.\n\n## One-Line Application\n\nSlow down your brew and your soul—let God extract His fruit.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
