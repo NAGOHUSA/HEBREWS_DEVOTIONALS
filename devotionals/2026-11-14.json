@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-14",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 317,
+  "theme": "coffee",
+  "content_markdown": "# The Pour-Over of Grace\n\n## Scripture\n\n\"Let us draw near to God with a sincere heart and with the full assurance that faith brings, having our hearts sprinkled to cleanse us from a guilty conscience.\" — Hebrews 10:22\n\n## Reflection\n\nA good pour-over cannot be rushed. The water must be poured slowly, steadily, in small circles, giving the grounds time to release what they hold. Pour too fast and the water runs through without extracting the flavor. Wait patiently, and the cup becomes rich and full.\n\nOur walk with God follows the same rhythm. Hebrews 10:22 calls us to draw near \"with a sincere heart,\" not a hurried one. We often treat prayer like a quick k-cup—push a button, grab the result, move on. But God invites us into the slower work of extraction: sitting with Scripture, letting His truth steep into the places we'd rather keep dry, allowing conviction and comfort to release their flavor over time. Drawing near is not a single pour but a patient, repeated one.\n\nNotice also the assurance in that verse. We don't approach God hoping the brew turns out okay. Christ has already cleansed the cup. Our confidence rests not in the quality of our quiet time but in His finished work. Some mornings our hearts feel like stale grounds; even then, He pours living water through us and produces what we could not.\n\nSo this morning, before the rush, let your coffee teach you. Pour slowly. Wait. Draw near. The One who roasts and refines is patient with you, and He is making something worth savoring.\n\n## Prayer\n\nFather, slow us down to draw near with sincere hearts. Steep Your Word into our hurried lives, and let Your grace extract what is not of You. We trust Your patient work in us. Amen.\n\n## One-Line Application\n\nPour slowly this morning—let your coffee remind you to linger with God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
