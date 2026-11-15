@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-15",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 285,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Work of Extraction\n\n## Scripture\n\n\"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.\" — Galatians 5:22–23\n\n## Reflection\n\nGood coffee cannot be rushed. Hot water meets the grounds, and flavor releases slowly—bloom, then extraction, then the full cup. Push it too fast and you get something thin and bitter. Wait well, and sweetness arrives in its own time. The fruit of the Spirit grows the same way. Paul lists patience right in the middle, because love and joy and gentleness are not extracted under pressure. They come through the slow, steady soaking of a life held under God's Word and His Spirit, morning after morning. We live in a culture that wants instant everything—instant answers, instant growth, instant change. But discipleship is a pour-over, not a pod. God is not in a hurry with you. He is roasting, resting, and brewing something He intends to be savored. Some mornings you will feel like plain hot water, unseen and unremarkable. But the extraction is happening. Faithfulness is being formed in the waiting, not only in the result. So let today be unhurried. Let the Spirit steep in you through prayer, through Scripture, through ordinary obedience. The cup He is making is worth the wait—and He is patient enough to let it finish.\n\n## Prayer\n\nFather, slow us down. Keep us under Your Word and Spirit long enough for Your fruit to form in us. Guard us from rushing what You are patiently brewing, and make us faithful in the waiting. In Jesus' name, amen.\n\n## One-Line Application\n\nLet today be unhurried—God is still brewing His fruit in you.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
