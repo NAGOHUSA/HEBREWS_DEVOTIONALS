@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-17",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 289,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10\n\n## Reflection\n\nThere's a reason pour-over coffee rewards patience. When water moves too fast through the grounds, you get a thin, sour cup—all the acids and none of the sweetness. The good stuff, the caramel and chocolate notes, releases slowly. The grounds have to sit under the water and let it work.\n\nPsalm 46:10 is God's invitation to that same unhurried posture. \"Be still.\" Not \"be quick.\" Not \"be productive.\" The Hebrew carries the sense of letting your hands drop—releasing your grip on the outcome. In a world that treats hurry as a virtue, stillness is an act of trust. It says, \"God, You're the one holding this together, not me.\"\n\nThink about your morning. Do you rush the brew, or do you let it drip? Most of us rush everything—our prayers, our reading, our listening. We skim the surface and wonder why our faith tastes thin. But depth comes from saturation. The psalmist isn't suggesting a passive faith; he's describing a rooted one. Stillness before God isn't the absence of action—it's the source of it. We sit under His Word, let it extract what's bitter in us, and release what's sweet.\n\nSo tomorrow, before you pour, pause. Let the aroma rise. Let the silence do its work. God isn't in a hurry with your sanctification. He's brewing something worth savoring.\n\n## Prayer\n\nFather, teach us to be still before You. Slow our racing hearts. Let Your Word saturate us deeply, extracting what doesn't belong and releasing Your sweetness in us. We trust Your patient work. Amen.\n\n## One-Line Application\n\nLet stillness steep your soul before you rush into the day.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
