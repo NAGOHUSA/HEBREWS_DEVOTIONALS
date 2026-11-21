@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-21",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 300,
+  "theme": "coffee",
+  "content_markdown": "# Slow Brew, Steady Grace\n\n## Scripture\n\n\"Be still, and know that I am God.\" — Psalm 46:10\n\n## Reflection\n\nGood coffee refuses to be rushed. The beans are chosen, roasted slowly, ground fresh, and then the water is poured with patience—a steady, circular motion that coaxes out flavor over minutes, not seconds. Skip the waiting and you get a thin, bitter cup. Honor the process and something rich and fragrant emerges.\n\nOur walk with God follows the same rhythm. We live in a culture that treats stillness as wasted time, yet Scripture keeps calling us to wait, to listen, to let truth steep into the deeper places of the heart. Psalm 46:10 isn't a suggestion for a quiet hobby; it's an invitation to stop striving long enough to remember who holds everything together. The aroma of a life rooted in God isn't produced by frantic effort but by unhurried attention to His presence.\n\nThink of your morning ritual. The kettle, the grind, the pour—each small act of patience trains the soul to slow down. What if your coffee became a daily rehearsal of trust? Before the day's demands press in, let the first minutes belong to God. Not every prayer needs words; sometimes faithfulness looks like simply being still and letting His character extract something good from you. Discipleship is less about instant results and more about the long, steady brew of grace—roasted through ordinary days, poured out in quiet obedience, savored one cup at a time.\n\n## Prayer\n\nFather, teach us to slow down and be still before You. Brew in us a deeper trust, and let the patience of this daily ritual shape our hearts to wait on Your timing. Amen.\n\n## One-Line Application\n\nLet your first cup today be a moment of unhurried stillness with God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
