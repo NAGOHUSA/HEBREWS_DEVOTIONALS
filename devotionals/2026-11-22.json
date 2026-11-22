@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-22",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 329,
+  "theme": "coffee",
+  "content_markdown": "# Slow Extraction, Deep Grace\n\n## Scripture\n\n“But we all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory, just as by the Spirit of the Lord.” — 2 Corinthians 3:18\n\n## Reflection\n\nGood coffee refuses to be rushed. Roasters wait through first crack and second, listening for the moment the bean gives up what it holds. Baristas dial in the grind, bloom the bed, and pour in slow spirals—because flavor comes out over time, not in an instant. Force it, and you get a bitter, hollow cup.\n\nSanctification works the same way. Paul says we are being transformed “from glory to glory”—a gradual, patient process, not a single flash. The Spirit is not a microwave; He is a pour-over. He applies the hot water of the Word, the warmth of community, the pressure of ordinary obedience, and over months and years He draws out what the roast of grace has hidden in us.\n\nOur part is not to speed the brew but to stay under the pour. That means showing up to the means of grace when we feel nothing: opening Scripture on a dull Tuesday, confessing sin instead of hiding it, sitting with a brother who knows us. None of it feels dramatic. But extraction is never dramatic—it is faithful. The aroma you long to give off to a watching world is not manufactured in a moment of inspiration; it is released slowly by a life consistently yielded to the Spirit.\n\nSo let today be a slow pour. You are not behind. You are being brewed.\n\n## Prayer\n\nFather, keep us patient in Your process. Wean us from quick fixes and teach us to stay under Your Word and Your people. Draw out by Your Spirit what only time and grace can release, until we smell of Christ. Amen.\n\n## One-Line Application\n\nStay under the pour today—don’t rush what God is brewing.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
