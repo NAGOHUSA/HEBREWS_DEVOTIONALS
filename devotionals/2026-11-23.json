@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-23",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 284,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Work of Extraction\n\n## Scripture\n\n“But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.” — Galatians 5:22–23\n\n## Reflection\n\nGood coffee is never rushed. The beans are roasted slowly, the water is heated to just the right temperature, and the pour-over is done in gentle, patient circles. Too fast and the water channels straight through, leaving a thin, sour cup. Too hot and the grounds scorch, turning bitter. Extraction is a slow work, and it cannot be hurried without ruining the brew.\n\nThe fruit of the Spirit grows the same way. Paul doesn't describe love, joy, and self-control as items we check off a list or manufacture by willpower. They are what gets extracted from us over time as the Holy Spirit works patiently through ordinary days—small obediences, quiet faithfulness, repeated repentance. We often want the finished cup instantly: instant patience, immediate gentleness. But God is not in a hurry. He is roasting, resting, and pouring at the pace that draws out what is good.\n\nConsider your morning ritual. You don't stand over the brewer demanding it hurry. You wait, trusting the process. Perhaps today God is asking the same of you—to stop forcing fruit and instead stay close to the One who grows it. The aroma of a life shaped by the Spirit takes time. Let the slow work continue.\n\n## Prayer\n\nFather, we confess our impatience. Slow us down and let Your Spirit do His patient work in us. Grow Your fruit in our lives, even when we cannot see it yet. We trust Your timing. Amen.\n\n## One-Line Application\n\nLet the Spirit's slow work finish before you rush the cup.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
