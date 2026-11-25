@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-25",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 290,
+  "theme": "coffee",
+  "content_markdown": "# The Slow Work of Extraction\n\n## Scripture\n\n“But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.” — Galatians 5:22–23\n\n## Reflection\n\nGood coffee refuses to be rushed. The pour-over rewards patience—water poured too fast tunnels through the grounds and leaves the cup thin and sour. The flavor develops only when the water lingers, when heat and time draw out what the bean has been holding all along. Extraction is a slow, unhurried work.\n\nPaul describes the fruit of the Spirit the same way. Notice the grammar: fruit, singular, growing. Not a vending machine of virtues dispensed on demand, but a harvest that ripens over seasons. You cannot force patience by gritting your teeth any more than you can hurry a brew without spoiling it. The Spirit does the extracting. Our part is to stay under the water—to remain in prayer, in Scripture, in community—long enough for the flavor to come through.\n\nMost mornings we want the finished cup immediately: the gentleness, the self-control, the peace. But sanctification is a slow pour. The roast of a hard week, the grind of ordinary faithfulness, the steady drip of grace—God uses all of it. When you feel like nothing is happening, remember that extraction is invisible until it's done. The bean is not unchanged; it is simply still steeping.\n\n## Prayer\n\nFather, we confess our impatience with Your slow work in us. Keep us under the steady pour of Your Spirit, trusting that You are drawing out fruit we cannot yet taste. Form Christ in us, season by season, for Your glory. Amen.\n\n## One-Line Application\n\nStay steeped in the Spirit today; let patience do its slow work.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
