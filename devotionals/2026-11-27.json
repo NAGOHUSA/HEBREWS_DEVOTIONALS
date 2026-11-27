@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-27",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 301,
+  "theme": "coffee",
+  "content_markdown": "# Slow Brew, Steady Grace\n\n## Scripture\n\n“Be still, and know that I am God.” — Psalm 46:10 (ESV)\n\n## Reflection\n\nGood coffee refuses to be rushed. The beans are roasted slowly, the water heated patiently, the grounds given time to bloom and release what is already inside them. A pour-over rewards attention: a steady hand, a measured pace, the willingness to wait while the flavor extracts. Hurry the process and you get a thin, bitter cup.\n\nOur walk with God is often brewed the same way. We want instant answers, quick fixes, a spiritual espresso shot that solves everything before the commute ends. But Psalm 46:10 invites us into a slower rhythm—*be still*. Not passive stillness, but attentive stillness: the kind that lets God's presence steep into our anxious thoughts until they soften. The psalmist wrote those words in the middle of upheaval, nations raging and kingdoms tottering. Stillness wasn't an escape from the noise; it was a way of remembering who holds it all.\n\nDiscipleship is mostly unglamorous extraction. Prayer that feels dry some mornings. Scripture read before the day's demands pour in. Small obediences repeated until they become character. None of it looks dramatic in the moment, but over time the flavor deepens. God is not a vending machine for instant comfort; He is a patient roaster, working His character into us through ordinary, unhurried faithfulness. So tomorrow morning, let the kettle take its time. Let the stillness do its work. The cup He's brewing in you is worth the wait.\n\n## Prayer\n\nLord, slow us down. Teach us to be still in Your presence, to trust Your patient work in us, and to savor each ordinary morning as a gift from Your hand. Amen.\n\n## One-Line Application\n\nStart today with five unhurried minutes of stillness before God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
