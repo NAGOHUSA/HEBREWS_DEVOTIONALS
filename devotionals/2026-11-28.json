@@ -1,0 +1,22 @@
+{
+  "app": "HeBrews",
+  "date": "2026-11-28",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 317,
+  "theme": "coffee",
+  "content_markdown": "# Slow Brew, Deep Roots\n\n## Scripture\n\n“But blessed is the one who trusts in the LORD, whose confidence is in him. They will be like a tree planted by the water that sends out its roots by the stream.” — Jeremiah 17:7–8\n\n## Reflection\n\nGood coffee cannot be rushed. The beans are roasted slowly, the water heated to just the right temperature, and the grounds given time to bloom and release what is inside them. A pour-over rewards patience; a hurried brew tastes thin and sour. Extraction is a quiet act of trust—you prepare faithfully, then wait while something good is drawn out.\n\nJeremiah uses a similar picture for the life of faith. The blessed person is not the one who sprints ahead but the one whose roots run deep toward water, drawing steadily from a source beyond themselves. Discipleship is less like a microwave and more like a slow brew: daily Scripture, unhurried prayer, small obediences repeated until they shape us. We often want instant maturity—a quick fix, a dramatic breakthrough. But God usually works through the steady drip of ordinary faithfulness, extracting character from us over time.\n\nNotice where the tree’s confidence rests: not in favorable weather, but in the stream. When heat comes—and it will—the roots already have what they need. So it is with us. The morning ritual of coffee can become a small parable: as you wait for the brew, let it remind you to wait on the Lord. Prepare your heart, pour out your attention, and trust that He is drawing something good from the depths.\n\n## Prayer\n\nFather, teach us to slow down and trust Your timing. Deepen our roots in You through daily, unhurried time in Your presence, so that when heat comes, we remain steady and fruitful. In Jesus’ name, amen.\n\n## One-Line Application\n\nBrew slowly and abide deeply—let today’s patience with coffee become patience with God.",
+  "meta": {
+    "version": "hebrews-coffee-1",
+    "constraints": {
+      "scripture_quote_words_max": 50,
+      "total_words_target": [
+        250,
+        350
+      ],
+      "coffee_focus": true
+    }
+  }
+}
